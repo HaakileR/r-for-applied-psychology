@@ -4,7 +4,7 @@
 
 **Author:** Hakile Resulbegoviq  
 **Repository:** `r-for-applied-psychology`
-**Current archive DOI:** https://doi.org/10.5281/zenodo.20925887  
+**Current archive DOI:** 
 **Development version:** 2.0.0-dev  
 **License:** CC BY 4.0  
 **Status:** Expanded open educational resource for R, applied psychology, and reproducible data analysis.
