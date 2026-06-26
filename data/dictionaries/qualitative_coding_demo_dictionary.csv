@@ -1,0 +1,7 @@
+0,1,2
+id,string,Synthetic response identifier
+country,categorical,Country
+city,categorical,City
+open_response,text,Synthetic short open response for teaching qualitative coding
+primary_theme,categorical,Pre-coded primary theme
+sentiment_code,categorical,Simple sentiment code

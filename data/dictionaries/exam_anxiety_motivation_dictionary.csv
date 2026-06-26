@@ -1,0 +1,8 @@
+0,1,2
+id,string,Synthetic participant identifier
+country,categorical,Country
+city,categorical,City
+preparation_hours_week,numeric,Weekly preparation hours before exam
+test_anxiety,numeric,"Synthetic test anxiety score, 8-40"
+academic_self_efficacy,numeric,"Synthetic academic self-efficacy score, 8-40"
+exam_score,numeric,"Simulated exam score, 0-100"

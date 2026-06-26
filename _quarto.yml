@@ -1,0 +1,47 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "R for Applied Psychology Students"
+  subtitle: "Open Materials for Data Analysis in Psychological Research"
+  author: "Hakile Resulbegoviq"
+  date: "2026-06-26"
+  chapters:
+    - index.qmd
+    - chapters/01_orientation.qmd
+    - chapters/02_r_projects_reproducibility.qmd
+    - chapters/03_synthetic_data_ethics.qmd
+    - chapters/04_import_inspect_data.qmd
+    - chapters/05_cleaning_missing_values.qmd
+    - chapters/06_descriptive_statistics.qmd
+    - chapters/07_visualization_ggplot2.qmd
+    - chapters/08_scale_scoring_reliability.qmd
+    - chapters/09_correlation_analysis.qmd
+    - chapters/10_group_comparisons.qmd
+    - chapters/11_anova_effect_sizes.qmd
+    - chapters/12_linear_regression.qmd
+    - chapters/13_logistic_regression.qmd
+    - chapters/14_prepost_intervention.qmd
+    - chapters/15_factor_analysis_intro.qmd
+    - chapters/16_reporting_results.qmd
+    - chapters/17_quarto_reproducible_reports.qmd
+    - chapters/18_capstone_project.qmd
+    - chapters/19_instructor_guide.qmd
+    - chapters/20_next_steps_open_science.qmd
+
+bibliography: references/references.bib
+
+format:
+  html:
+    theme: cosmo
+    css: assets/styles.css
+    toc: true
+    number-sections: true
+    code-fold: false
+    code-tools: true
+
+execute:
+  warning: false
+  message: false
+  freeze: auto

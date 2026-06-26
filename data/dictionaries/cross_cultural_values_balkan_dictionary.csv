@@ -1,0 +1,9 @@
+0,1,2
+id,string,Synthetic participant identifier
+country,categorical,Country
+city,categorical,City
+individual_agency,ordinal,"Individual agency, 1-5"
+family_obligation,ordinal,"Family obligation, 1-5"
+community_orientation,ordinal,"Community orientation, 1-5"
+openness_to_change,ordinal,"Openness to change, 1-5"
+intercultural_contact,ordinal,"Intercultural contact, 1-5"

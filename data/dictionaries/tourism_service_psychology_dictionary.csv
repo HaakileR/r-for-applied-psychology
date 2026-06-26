@@ -1,0 +1,9 @@
+0,1,2
+id,string,Synthetic respondent identifier
+country,categorical,Country
+city,categorical,City
+service_quality,ordinal,"Perceived service quality, 1-5"
+language_comfort,ordinal,"Language comfort in service interaction, 1-5"
+perceived_warmth,ordinal,"Perceived warmth, 1-5"
+complaint_intention,ordinal,"Complaint intention, 1-5"
+visitor_satisfaction,ordinal,"Visitor satisfaction, 1-5"

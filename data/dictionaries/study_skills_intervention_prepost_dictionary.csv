@@ -1,0 +1,8 @@
+0,1,2
+id,string,Synthetic participant identifier
+country,categorical,Country
+city,categorical,City
+group,categorical,Control or workshop group
+study_skills_pre,numeric,"Pre-intervention study skills score, 8-40"
+study_skills_post,numeric,"Post-intervention study skills score, 8-40"
+workshop_attendance,numeric,Number of workshop sessions attended

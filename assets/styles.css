@@ -1,0 +1,10 @@
+/* Custom styles for the Quarto Book */
+.callout-note {
+  border-left: 4px solid #4e79a7;
+}
+.balkan-case {
+  padding: 1rem;
+  border-left: 4px solid #59a14f;
+  background: #f7fbf7;
+  margin: 1rem 0;
+}

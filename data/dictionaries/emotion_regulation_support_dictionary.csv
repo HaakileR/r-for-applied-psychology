@@ -1,0 +1,9 @@
+0,1,2
+id,string,Synthetic participant identifier
+country,categorical,Country
+city,categorical,City
+cognitive_reappraisal,ordinal,"Cognitive reappraisal, 1-5"
+expressive_suppression,ordinal,"Expressive suppression, 1-5"
+family_support,ordinal,"Family support, 1-5"
+friend_support,ordinal,"Friend support, 1-5"
+life_satisfaction,ordinal,"Life satisfaction, 1-5"

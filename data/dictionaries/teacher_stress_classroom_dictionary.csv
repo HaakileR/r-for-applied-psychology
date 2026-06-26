@@ -1,0 +1,9 @@
+0,1,2
+id,string,Synthetic teacher identifier
+country,categorical,Country
+city,categorical,City
+years_experience,numeric,Years of teaching experience
+class_size,numeric,Average class size
+administrative_load,ordinal,"Administrative load, 1-5"
+teacher_self_efficacy,ordinal,"Teacher self-efficacy, 1-5"
+teacher_stress,ordinal,"Teacher stress, 1-5"

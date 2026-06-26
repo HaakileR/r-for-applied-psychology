@@ -1,0 +1,30 @@
+# Welcome
+
+This Quarto Book is the expanded teaching version of **R for Applied Psychology Students**.
+
+The book is designed for students who are learning R for the first time and want examples that feel close to psychology, education, and social science research in the Balkans. All examples use synthetic data. Nothing in the datasets represents real individuals, institutions, cities, or countries.
+
+## What you will learn
+
+By the end of the book, students should be able to:
+
+1. organize an R project;
+2. import and inspect data;
+3. clean variables and handle missing values;
+4. calculate descriptive statistics;
+5. visualize psychological data;
+6. score simple scales;
+7. estimate reliability;
+8. conduct t-tests, ANOVA, correlations, and regression;
+9. interpret outputs in plain language;
+10. report results in a reproducible Quarto document.
+
+## Teaching philosophy
+
+The book follows a simple principle: students learn best when statistical ideas are connected to research questions they recognize.
+
+Instead of abstract examples, the chapters use applied psychology scenarios such as exam anxiety, digital learning, teacher stress, school climate, career adaptability, environmental attitudes, and work-family balance.
+
+## Data note
+
+All datasets are synthetic. They are created for teaching and practice only.

@@ -1,0 +1,8 @@
+0,1,2
+id,string,Synthetic participant identifier
+country,categorical,Country
+city,categorical,City
+nature_connectedness,ordinal,"Nature connectedness, 1-5"
+climate_concern,ordinal,"Environmental concern, 1-5"
+perceived_behavioral_control,ordinal,"Perceived behavioral control, 1-5"
+pro_environmental_behavior,ordinal,"Pro-environmental behavior, 1-5"

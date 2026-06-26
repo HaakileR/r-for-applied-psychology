@@ -1,0 +1,431 @@
+id,country,city,internet_quality,self_regulated_learning,online_fatigue,digital_literacy,online_learning_adaptation
+DLA0001,North Macedonia,Skopje,3,3,4,3,4
+DLA0002,Montenegro,Cetinje,3,2,5,5,3
+DLA0003,Kosovo,Prizren,4,2,3,3,4
+DLA0004,Montenegro,Cetinje,4,4,4,2,2
+DLA0005,North Macedonia,Ohrid,3,4,3,3,4
+DLA0006,Slovenia,Ljubljana,3,3,4,4,3
+DLA0007,Croatia,Split,3,3,4,3,3
+DLA0008,Slovenia,Koper,4,4,4,3,4
+DLA0009,Montenegro,Podgorica,3,4,5,4,5
+DLA0010,Kosovo,Peja,4,2,2,3,4
+DLA0011,Serbia,Belgrade,4,3,2,4,5
+DLA0012,Albania,Shkodër,3,3,2,4,4
+DLA0013,Montenegro,Cetinje,4,3,4,3,3
+DLA0014,Serbia,Niš,2,4,4,4,4
+DLA0015,Serbia,Niš,4,2,2,3,5
+DLA0016,Montenegro,Nikšić,3,4,5,3,3
+DLA0017,Albania,Shkodër,4,3,4,3,4
+DLA0018,North Macedonia,Ohrid,3,1,3,4,4
+DLA0019,Serbia,Belgrade,4,4,2,5,5
+DLA0020,Kosovo,Peja,4,3,3,4,4
+DLA0021,Croatia,Rijeka,3,3,2,4,4
+DLA0022,Montenegro,Nikšić,5,4,5,2,4
+DLA0023,Croatia,Split,3,3,2,3,4
+DLA0024,Serbia,Novi Sad,5,2,5,5,3
+DLA0025,Croatia,Split,4,3,3,3,4
+DLA0026,Slovenia,Koper,4,5,3,3,5
+DLA0027,Montenegro,Cetinje,2,3,4,4,4
+DLA0028,Serbia,Niš,5,3,2,4,5
+DLA0029,Croatia,Zagreb,2,3,2,3,3
+DLA0030,Slovenia,Ljubljana,5,3,4,5,5
+DLA0031,Bosnia and Herzegovina,Mostar,5,2,4,3,3
+DLA0032,Albania,Durrës,4,3,3,5,5
+DLA0033,Slovenia,Koper,3,3,3,5,5
+DLA0034,Bosnia and Herzegovina,Banja Luka,3,5,3,3,5
+DLA0035,Slovenia,Ljubljana,3,2,4,4,2
+DLA0036,Serbia,Belgrade,2,3,5,5,2
+DLA0037,Slovenia,Koper,4,4,2,4,5
+DLA0038,Kosovo,Pristina,3,4,4,3,4
+DLA0039,Bosnia and Herzegovina,Mostar,1,3,2,3,4
+DLA0040,Bosnia and Herzegovina,Banja Luka,5,3,4,4,5
+DLA0041,North Macedonia,Bitola,2,4,3,4,4
+DLA0042,North Macedonia,Bitola,5,3,1,3,5
+DLA0043,Montenegro,Podgorica,4,4,4,4,3
+DLA0044,North Macedonia,Bitola,3,3,4,4,4
+DLA0045,Slovenia,Koper,3,3,3,3,3
+DLA0046,North Macedonia,Ohrid,4,4,3,4,4
+DLA0047,Slovenia,Koper,4,3,3,5,5
+DLA0048,Slovenia,Maribor,4,3,2,4,5
+DLA0049,Croatia,Zagreb,4,3,3,5,5
+DLA0050,Bosnia and Herzegovina,Banja Luka,3,3,2,4,4
+DLA0051,Kosovo,Peja,4,4,3,2,4
+DLA0052,Montenegro,Cetinje,5,4,1,3,5
+DLA0053,Kosovo,Pristina,4,3,2,5,5
+DLA0054,Serbia,Niš,4,2,2,3,4
+DLA0055,North Macedonia,Skopje,2,3,3,4,3
+DLA0056,Montenegro,Cetinje,3,2,3,4,4
+DLA0057,Kosovo,Pristina,4,3,4,2,3
+DLA0058,Montenegro,Nikšić,3,3,4,3,3
+DLA0059,Serbia,Novi Sad,3,3,5,4,4
+DLA0060,Montenegro,Cetinje,4,5,4,2,5
+DLA0061,Slovenia,Koper,4,2,4,4,5
+DLA0062,Slovenia,Ljubljana,4,3,3,3,4
+DLA0063,Albania,Tirana,3,3,4,2,3
+DLA0064,Croatia,Rijeka,5,4,2,3,4
+DLA0065,Slovenia,Koper,2,3,3,4,3
+DLA0066,Kosovo,Prizren,3,4,3,3,5
+DLA0067,Slovenia,Ljubljana,4,4,4,4,5
+DLA0068,Croatia,Split,2,5,4,3,3
+DLA0069,Slovenia,Maribor,5,2,3,3,4
+DLA0070,Montenegro,Nikšić,3,4,3,4,4
+DLA0071,Bosnia and Herzegovina,Sarajevo,3,3,2,4,4
+DLA0072,Croatia,Zagreb,4,4,3,5,5
+DLA0073,Slovenia,Maribor,4,2,2,4,4
+DLA0074,Montenegro,Cetinje,4,2,4,3,4
+DLA0075,Bosnia and Herzegovina,Mostar,3,3,4,3,3
+DLA0076,Serbia,Niš,4,3,2,2,4
+DLA0077,Serbia,Niš,2,2,3,2,2
+DLA0078,Slovenia,Maribor,5,4,2,4,5
+DLA0079,Kosovo,Pristina,2,5,3,4,5
+DLA0080,Kosovo,Peja,3,3,3,4,5
+DLA0081,North Macedonia,Skopje,3,4,4,4,5
+DLA0082,Albania,Shkodër,4,4,2,4,5
+DLA0083,Montenegro,Nikšić,5,3,4,3,4
+DLA0084,Bosnia and Herzegovina,Banja Luka,3,4,3,4,4
+DLA0085,Albania,Tirana,4,3,4,2,4
+DLA0086,Serbia,Novi Sad,4,3,3,3,3
+DLA0087,Slovenia,Koper,4,3,4,3,3
+DLA0088,North Macedonia,Bitola,3,4,2,3,5
+DLA0089,North Macedonia,Skopje,5,3,1,5,5
+DLA0090,Bosnia and Herzegovina,Mostar,2,4,5,4,4
+DLA0091,Serbia,Belgrade,2,4,4,3,3
+DLA0092,Montenegro,Podgorica,2,2,3,2,2
+DLA0093,Montenegro,Podgorica,3,4,5,4,4
+DLA0094,Montenegro,Nikšić,4,3,3,3,4
+DLA0095,Serbia,Niš,4,3,2,4,5
+DLA0096,Kosovo,Peja,3,3,4,3,3
+DLA0097,Montenegro,Podgorica,4,3,4,3,4
+DLA0098,Croatia,Rijeka,2,3,3,4,4
+DLA0099,Montenegro,Podgorica,3,3,1,3,4
+DLA0100,Albania,Shkodër,3,3,3,3,4
+DLA0101,Bosnia and Herzegovina,Banja Luka,3,4,3,5,4
+DLA0102,Serbia,Belgrade,2,4,3,3,3
+DLA0103,Albania,Tirana,5,3,2,4,5
+DLA0104,Serbia,Belgrade,2,4,3,5,4
+DLA0105,Croatia,Split,4,2,4,4,4
+DLA0106,Serbia,Novi Sad,3,3,2,3,4
+DLA0107,Slovenia,Koper,3,5,3,4,4
+DLA0108,Montenegro,Nikšić,4,5,5,3,4
+DLA0109,Serbia,Niš,5,5,3,3,5
+DLA0110,Montenegro,Cetinje,4,3,3,5,5
+DLA0111,North Macedonia,Bitola,3,3,4,2,4
+DLA0112,Slovenia,Koper,5,4,4,3,4
+DLA0113,Bosnia and Herzegovina,Sarajevo,4,4,4,3,4
+DLA0114,Serbia,Niš,4,3,4,4,4
+DLA0115,Croatia,Zagreb,4,4,5,2,3
+DLA0116,Kosovo,Prizren,3,3,1,3,4
+DLA0117,Kosovo,Prizren,3,2,3,4,4
+DLA0118,Bosnia and Herzegovina,Banja Luka,4,2,3,3,3
+DLA0119,Serbia,Novi Sad,2,3,3,4,4
+DLA0120,Croatia,Split,2,5,2,3,4
+DLA0121,Kosovo,Pristina,5,3,5,4,5
+DLA0122,Albania,Durrës,2,4,4,4,5
+DLA0123,North Macedonia,Bitola,4,4,2,3,5
+DLA0124,Slovenia,Koper,5,4,3,4,5
+DLA0125,Serbia,Belgrade,2,3,3,4,4
+DLA0126,Montenegro,Podgorica,4,2,5,4,3
+DLA0127,Croatia,Rijeka,4,3,3,3,4
+DLA0128,North Macedonia,Bitola,4,3,4,3,3
+DLA0129,Kosovo,Peja,4,2,3,1,3
+DLA0130,Croatia,Zagreb,4,5,3,4,5
+DLA0131,Bosnia and Herzegovina,Sarajevo,4,3,3,2,4
+DLA0132,Albania,Shkodër,3,4,2,4,5
+DLA0133,Albania,Shkodër,4,3,3,3,4
+DLA0134,Montenegro,Podgorica,4,2,3,2,4
+DLA0135,Croatia,Split,2,3,4,4,4
+DLA0136,Slovenia,Maribor,5,4,5,4,4
+DLA0137,Serbia,Novi Sad,3,3,4,2,2
+DLA0138,Slovenia,Ljubljana,3,5,3,4,5
+DLA0139,Serbia,Novi Sad,4,4,5,4,5
+DLA0140,Croatia,Zagreb,3,5,4,3,4
+DLA0141,Bosnia and Herzegovina,Banja Luka,2,3,2,4,4
+DLA0142,Montenegro,Cetinje,3,3,2,3,4
+DLA0143,Albania,Tirana,4,3,3,3,4
+DLA0144,Montenegro,Cetinje,3,4,4,2,3
+DLA0145,Slovenia,Maribor,1,4,5,4,3
+DLA0146,North Macedonia,Ohrid,3,3,4,5,3
+DLA0147,Albania,Tirana,3,2,5,3,2
+DLA0148,Serbia,Novi Sad,5,2,3,4,5
+DLA0149,Bosnia and Herzegovina,Sarajevo,3,4,4,5,5
+DLA0150,Croatia,Split,1,2,3,4,4
+DLA0151,Slovenia,Maribor,3,3,2,5,5
+DLA0152,Kosovo,Peja,4,4,3,2,4
+DLA0153,Slovenia,Maribor,4,4,4,4,5
+DLA0154,Kosovo,Peja,5,3,3,3,5
+DLA0155,Albania,Durrës,4,4,3,2,4
+DLA0156,Slovenia,Maribor,3,2,1,3,5
+DLA0157,Albania,Durrës,3,3,3,3,3
+DLA0158,Bosnia and Herzegovina,Sarajevo,3,4,2,4,5
+DLA0159,Serbia,Novi Sad,3,1,4,4,3
+DLA0160,Bosnia and Herzegovina,Banja Luka,3,3,3,3,3
+DLA0161,Kosovo,Peja,4,4,3,4,5
+DLA0162,Albania,Tirana,3,3,3,4,4
+DLA0163,North Macedonia,Bitola,2,3,3,3,3
+DLA0164,Slovenia,Maribor,3,4,4,4,4
+DLA0165,Croatia,Split,4,5,4,4,5
+DLA0166,Slovenia,Ljubljana,3,3,3,5,3
+DLA0167,Bosnia and Herzegovina,Mostar,4,4,3,4,5
+DLA0168,Montenegro,Nikšić,4,3,5,5,4
+DLA0169,Kosovo,Pristina,3,4,3,4,5
+DLA0170,Albania,Durrës,4,3,3,4,4
+DLA0171,Montenegro,Nikšić,3,3,3,4,4
+DLA0172,North Macedonia,Skopje,3,2,3,3,3
+DLA0173,Albania,Durrës,3,3,4,2,3
+DLA0174,North Macedonia,Bitola,5,5,2,3,5
+DLA0175,Bosnia and Herzegovina,Sarajevo,4,3,2,4,5
+DLA0176,Montenegro,Nikšić,4,3,4,5,3
+DLA0177,Serbia,Novi Sad,2,2,5,4,3
+DLA0178,Serbia,Novi Sad,4,4,3,3,5
+DLA0179,Albania,Shkodër,5,3,5,4,4
+DLA0180,Slovenia,Maribor,4,1,5,4,3
+DLA0181,Albania,Shkodër,3,3,3,3,4
+DLA0182,North Macedonia,Skopje,3,4,4,4,4
+DLA0183,Croatia,Split,4,3,4,2,3
+DLA0184,North Macedonia,Ohrid,4,4,4,3,3
+DLA0185,Serbia,Belgrade,4,3,3,3,4
+DLA0186,Croatia,Rijeka,4,5,4,4,5
+DLA0187,Croatia,Zagreb,4,4,2,5,5
+DLA0188,Croatia,Split,2,4,3,4,4
+DLA0189,Montenegro,Podgorica,3,3,3,3,4
+DLA0190,Slovenia,Koper,2,3,4,4,4
+DLA0191,Slovenia,Ljubljana,4,3,2,3,4
+DLA0192,Montenegro,Nikšić,2,4,2,3,5
+DLA0193,Croatia,Zagreb,2,4,3,5,4
+DLA0194,North Macedonia,Ohrid,3,2,2,2,2
+DLA0195,North Macedonia,Bitola,3,2,2,4,4
+DLA0196,Slovenia,Maribor,3,3,1,3,5
+DLA0197,Serbia,Novi Sad,3,3,3,4,5
+DLA0198,Bosnia and Herzegovina,Sarajevo,2,3,1,4,5
+DLA0199,Montenegro,Podgorica,3,3,3,2,3
+DLA0200,North Macedonia,Bitola,4,5,3,3,5
+DLA0201,North Macedonia,Skopje,5,4,2,2,5
+DLA0202,Montenegro,Cetinje,3,4,4,4,4
+DLA0203,North Macedonia,Skopje,4,3,4,4,3
+DLA0204,Serbia,Niš,2,5,3,3,5
+DLA0205,Slovenia,Koper,4,2,3,2,3
+DLA0206,Albania,Durrës,2,2,2,2,3
+DLA0207,Croatia,Zagreb,4,4,2,3,5
+DLA0208,North Macedonia,Ohrid,3,2,2,3,3
+DLA0209,Albania,Shkodër,3,4,3,5,4
+DLA0210,Bosnia and Herzegovina,Mostar,4,3,3,3,4
+DLA0211,North Macedonia,Ohrid,2,4,3,4,4
+DLA0212,Slovenia,Maribor,5,4,4,2,4
+DLA0213,Bosnia and Herzegovina,Banja Luka,3,4,3,4,5
+DLA0214,Serbia,Niš,3,4,4,4,4
+DLA0215,Serbia,Belgrade,2,4,5,3,2
+DLA0216,Serbia,Belgrade,2,2,4,5,4
+DLA0217,North Macedonia,Bitola,3,2,2,5,4
+DLA0218,Serbia,Belgrade,4,5,3,5,5
+DLA0219,Slovenia,Ljubljana,4,5,3,3,4
+DLA0220,Bosnia and Herzegovina,Sarajevo,2,3,1,3,4
+DLA0221,Serbia,Belgrade,3,3,2,4,4
+DLA0222,Montenegro,Cetinje,4,4,3,5,5
+DLA0223,Croatia,Rijeka,2,3,4,5,5
+DLA0224,Serbia,Belgrade,4,3,5,3,3
+DLA0225,Serbia,Belgrade,2,3,4,5,4
+DLA0226,Montenegro,Podgorica,4,4,3,3,5
+DLA0227,Serbia,Belgrade,3,3,4,4,4
+DLA0228,Serbia,Novi Sad,3,4,3,3,4
+DLA0229,Serbia,Novi Sad,2,3,3,4,3
+DLA0230,Serbia,Belgrade,3,4,2,4,5
+DLA0231,Albania,Durrës,3,2,4,3,3
+DLA0232,Bosnia and Herzegovina,Banja Luka,4,2,3,4,3
+DLA0233,Bosnia and Herzegovina,Banja Luka,4,3,4,3,3
+DLA0234,North Macedonia,Bitola,3,3,4,2,2
+DLA0235,Montenegro,Nikšić,3,4,4,3,4
+DLA0236,Serbia,Novi Sad,3,2,2,5,5
+DLA0237,Slovenia,Koper,3,4,3,3,4
+DLA0238,Serbia,Novi Sad,5,1,3,3,3
+DLA0239,North Macedonia,Skopje,2,2,4,2,2
+DLA0240,Serbia,Belgrade,3,4,2,3,5
+DLA0241,Albania,Durrës,5,3,2,3,4
+DLA0242,Serbia,Novi Sad,3,3,4,3,2
+DLA0243,Serbia,Belgrade,4,4,3,3,3
+DLA0244,Albania,Shkodër,3,3,2,3,3
+DLA0245,Kosovo,Pristina,3,2,2,4,5
+DLA0246,Serbia,Novi Sad,3,4,1,3,5
+DLA0247,North Macedonia,Skopje,2,4,4,4,4
+DLA0248,North Macedonia,Skopje,5,3,2,5,5
+DLA0249,Bosnia and Herzegovina,Mostar,4,5,1,3,5
+DLA0250,Serbia,Belgrade,4,4,2,4,5
+DLA0251,Serbia,Belgrade,3,3,1,4,4
+DLA0252,Kosovo,Prizren,3,3,4,4,5
+DLA0253,Kosovo,Prizren,3,3,3,4,4
+DLA0254,North Macedonia,Bitola,5,3,4,3,3
+DLA0255,Croatia,Rijeka,5,3,3,3,4
+DLA0256,Bosnia and Herzegovina,Mostar,3,2,3,4,3
+DLA0257,Slovenia,Koper,5,3,1,5,5
+DLA0258,Bosnia and Herzegovina,Sarajevo,3,4,1,2,4
+DLA0259,Bosnia and Herzegovina,Mostar,3,4,4,3,3
+DLA0260,Bosnia and Herzegovina,Sarajevo,3,4,2,4,4
+DLA0261,North Macedonia,Bitola,3,3,3,4,5
+DLA0262,Bosnia and Herzegovina,Banja Luka,3,3,2,4,5
+DLA0263,North Macedonia,Bitola,3,2,2,3,3
+DLA0264,Montenegro,Nikšić,3,3,1,3,4
+DLA0265,Montenegro,Podgorica,5,3,4,4,4
+DLA0266,Bosnia and Herzegovina,Banja Luka,4,3,4,3,3
+DLA0267,North Macedonia,Bitola,4,3,1,4,5
+DLA0268,Montenegro,Cetinje,4,4,3,4,3
+DLA0269,Albania,Durrës,3,3,3,3,4
+DLA0270,Serbia,Novi Sad,3,3,3,4,4
+DLA0271,Serbia,Niš,4,3,4,3,4
+DLA0272,Albania,Durrës,5,4,4,3,4
+DLA0273,Bosnia and Herzegovina,Banja Luka,4,4,2,3,5
+DLA0274,Croatia,Split,2,3,5,3,2
+DLA0275,Croatia,Zagreb,4,4,4,2,5
+DLA0276,Bosnia and Herzegovina,Sarajevo,4,3,3,4,5
+DLA0277,Slovenia,Koper,5,4,4,2,4
+DLA0278,Bosnia and Herzegovina,Sarajevo,3,4,2,5,4
+DLA0279,Albania,Durrës,4,3,1,3,5
+DLA0280,Albania,Shkodër,2,5,5,3,3
+DLA0281,Croatia,Split,2,3,3,2,3
+DLA0282,Serbia,Novi Sad,3,5,3,4,4
+DLA0283,Kosovo,Pristina,3,3,1,5,5
+DLA0284,North Macedonia,Ohrid,3,2,5,3,3
+DLA0285,Croatia,Split,2,2,4,4,3
+DLA0286,Serbia,Novi Sad,3,3,2,4,4
+DLA0287,Croatia,Zagreb,4,3,5,5,4
+DLA0288,Albania,Durrës,3,2,4,3,2
+DLA0289,Montenegro,Cetinje,2,2,1,4,5
+DLA0290,Montenegro,Cetinje,1,3,3,4,4
+DLA0291,Bosnia and Herzegovina,Mostar,3,4,2,5,5
+DLA0292,Slovenia,Ljubljana,5,3,4,5,5
+DLA0293,Slovenia,Maribor,2,4,3,4,5
+DLA0294,Croatia,Split,3,3,5,4,4
+DLA0295,North Macedonia,Skopje,3,2,1,4,5
+DLA0296,Bosnia and Herzegovina,Mostar,3,3,2,4,4
+DLA0297,Croatia,Rijeka,3,3,3,3,3
+DLA0298,North Macedonia,Skopje,2,3,4,3,3
+DLA0299,Kosovo,Prizren,4,4,2,4,5
+DLA0300,Montenegro,Nikšić,2,4,3,4,5
+DLA0301,Slovenia,Ljubljana,3,3,3,3,4
+DLA0302,Bosnia and Herzegovina,Mostar,4,3,4,4,5
+DLA0303,Kosovo,Pristina,4,5,2,4,5
+DLA0304,Albania,Durrës,4,2,3,4,3
+DLA0305,Kosovo,Peja,2,2,3,3,4
+DLA0306,Kosovo,Prizren,4,3,3,4,4
+DLA0307,North Macedonia,Skopje,4,5,2,3,5
+DLA0308,Albania,Durrës,2,5,3,3,4
+DLA0309,Bosnia and Herzegovina,Sarajevo,5,4,2,5,5
+DLA0310,Albania,Tirana,4,3,3,2,4
+DLA0311,Slovenia,Maribor,4,3,2,4,5
+DLA0312,Bosnia and Herzegovina,Sarajevo,5,3,4,4,3
+DLA0313,Bosnia and Herzegovina,Banja Luka,3,4,3,4,4
+DLA0314,Montenegro,Podgorica,2,4,4,4,4
+DLA0315,Bosnia and Herzegovina,Banja Luka,4,5,5,4,5
+DLA0316,Serbia,Niš,4,4,3,3,5
+DLA0317,Serbia,Belgrade,5,4,5,3,4
+DLA0318,Montenegro,Nikšić,2,2,4,4,3
+DLA0319,North Macedonia,Bitola,3,4,2,3,4
+DLA0320,Slovenia,Koper,4,4,5,5,4
+DLA0321,Slovenia,Koper,4,4,3,2,5
+DLA0322,Kosovo,Pristina,4,4,3,4,5
+DLA0323,Kosovo,Prizren,4,4,3,3,4
+DLA0324,Bosnia and Herzegovina,Sarajevo,3,2,3,3,2
+DLA0325,Montenegro,Podgorica,5,3,3,4,4
+DLA0326,North Macedonia,Bitola,2,3,5,4,3
+DLA0327,Albania,Shkodër,3,5,1,4,5
+DLA0328,Serbia,Niš,1,5,4,4,4
+DLA0329,Albania,Durrës,2,4,4,5,5
+DLA0330,Kosovo,Peja,5,3,4,4,5
+DLA0331,Bosnia and Herzegovina,Mostar,3,4,2,2,3
+DLA0332,North Macedonia,Ohrid,4,3,4,4,4
+DLA0333,Croatia,Split,5,3,4,4,5
+DLA0334,North Macedonia,Bitola,4,4,4,5,5
+DLA0335,Kosovo,Peja,4,3,2,2,4
+DLA0336,Croatia,Zagreb,4,4,3,3,4
+DLA0337,Croatia,Split,5,2,4,3,3
+DLA0338,North Macedonia,Skopje,3,1,2,3,3
+DLA0339,Bosnia and Herzegovina,Sarajevo,4,3,3,3,4
+DLA0340,Slovenia,Koper,3,4,3,3,3
+DLA0341,Montenegro,Cetinje,3,3,3,2,3
+DLA0342,Serbia,Belgrade,5,3,2,4,5
+DLA0343,North Macedonia,Ohrid,4,3,3,3,3
+DLA0344,Serbia,Belgrade,4,4,3,4,5
+DLA0345,Montenegro,Cetinje,4,2,4,4,4
+DLA0346,Serbia,Belgrade,3,3,4,4,4
+DLA0347,Kosovo,Pristina,5,4,3,4,5
+DLA0348,Slovenia,Ljubljana,2,3,4,3,3
+DLA0349,Montenegro,Podgorica,3,3,1,3,4
+DLA0350,Kosovo,Pristina,2,3,3,3,4
+DLA0351,Bosnia and Herzegovina,Banja Luka,2,2,3,3,3
+DLA0352,North Macedonia,Bitola,3,2,2,4,3
+DLA0353,Serbia,Niš,4,3,5,4,2
+DLA0354,Slovenia,Koper,3,3,4,2,4
+DLA0355,North Macedonia,Ohrid,3,3,3,4,4
+DLA0356,Croatia,Split,3,2,3,2,3
+DLA0357,North Macedonia,Ohrid,3,3,3,2,3
+DLA0358,Albania,Tirana,4,3,5,4,4
+DLA0359,North Macedonia,Skopje,3,4,4,5,4
+DLA0360,North Macedonia,Skopje,3,5,4,4,4
+DLA0361,Albania,Shkodër,4,4,2,3,5
+DLA0362,Croatia,Zagreb,2,4,2,4,5
+DLA0363,Bosnia and Herzegovina,Mostar,2,3,4,3,3
+DLA0364,Albania,Shkodër,4,4,4,5,5
+DLA0365,Bosnia and Herzegovina,Banja Luka,4,3,4,4,4
+DLA0366,Kosovo,Pristina,3,3,2,3,4
+DLA0367,Croatia,Zagreb,4,3,3,4,5
+DLA0368,Montenegro,Cetinje,3,4,2,4,5
+DLA0369,Montenegro,Cetinje,3,3,5,5,3
+DLA0370,Slovenia,Ljubljana,3,4,2,4,5
+DLA0371,Kosovo,Pristina,4,3,3,4,4
+DLA0372,Bosnia and Herzegovina,Sarajevo,5,4,3,4,4
+DLA0373,Slovenia,Koper,4,3,4,5,4
+DLA0374,Serbia,Belgrade,4,2,4,4,3
+DLA0375,Croatia,Rijeka,4,4,2,2,3
+DLA0376,Albania,Durrës,3,3,3,4,4
+DLA0377,Kosovo,Peja,4,5,3,5,5
+DLA0378,North Macedonia,Ohrid,2,2,3,4,4
+DLA0379,Albania,Shkodër,4,2,3,5,5
+DLA0380,Serbia,Belgrade,4,3,4,4,4
+DLA0381,Croatia,Zagreb,4,3,4,4,5
+DLA0382,Montenegro,Cetinje,2,3,3,3,3
+DLA0383,Croatia,Rijeka,4,5,2,4,5
+DLA0384,Croatia,Rijeka,3,3,1,3,4
+DLA0385,Serbia,Novi Sad,4,2,3,3,3
+DLA0386,Bosnia and Herzegovina,Banja Luka,4,4,2,3,5
+DLA0387,Croatia,Split,3,3,3,5,3
+DLA0388,Serbia,Novi Sad,5,3,4,3,4
+DLA0389,Serbia,Novi Sad,3,3,5,4,4
+DLA0390,Serbia,Novi Sad,4,3,3,4,4
+DLA0391,Bosnia and Herzegovina,Sarajevo,2,2,2,5,4
+DLA0392,North Macedonia,Bitola,4,4,5,2,3
+DLA0393,North Macedonia,Bitola,4,4,3,4,5
+DLA0394,Kosovo,Prizren,3,3,3,4,3
+DLA0395,Serbia,Niš,3,3,3,4,3
+DLA0396,Bosnia and Herzegovina,Mostar,3,3,4,3,4
+DLA0397,Bosnia and Herzegovina,Sarajevo,4,4,3,4,5
+DLA0398,Croatia,Split,4,4,5,4,4
+DLA0399,Serbia,Niš,3,3,3,3,3
+DLA0400,Serbia,Novi Sad,3,2,2,4,4
+DLA0401,Montenegro,Podgorica,4,4,1,4,4
+DLA0402,Albania,Durrës,3,3,4,2,3
+DLA0403,Slovenia,Maribor,2,3,4,3,2
+DLA0404,Kosovo,Peja,3,4,1,4,5
+DLA0405,North Macedonia,Bitola,3,3,1,4,5
+DLA0406,Croatia,Zagreb,4,3,4,3,4
+DLA0407,Croatia,Split,4,2,2,4,4
+DLA0408,North Macedonia,Ohrid,3,3,2,4,5
+DLA0409,Montenegro,Nikšić,2,3,4,3,3
+DLA0410,Croatia,Zagreb,4,2,3,3,4
+DLA0411,Bosnia and Herzegovina,Banja Luka,4,3,3,4,5
+DLA0412,Montenegro,Nikšić,4,4,3,4,5
+DLA0413,Montenegro,Nikšić,2,5,4,5,5
+DLA0414,Albania,Tirana,3,4,1,3,5
+DLA0415,Serbia,Novi Sad,2,4,2,2,3
+DLA0416,Kosovo,Peja,3,4,3,4,5
+DLA0417,Serbia,Novi Sad,3,3,4,4,3
+DLA0418,North Macedonia,Ohrid,3,5,3,3,5
+DLA0419,Croatia,Rijeka,2,4,3,3,4
+DLA0420,Slovenia,Koper,3,3,2,4,4
+DLA0421,Bosnia and Herzegovina,Banja Luka,3,4,1,3,5
+DLA0422,Kosovo,Pristina,2,3,2,4,4
+DLA0423,Bosnia and Herzegovina,Mostar,3,4,4,3,4
+DLA0424,Bosnia and Herzegovina,Mostar,3,3,5,5,5
+DLA0425,Montenegro,Nikšić,3,1,3,4,3
+DLA0426,Serbia,Niš,3,4,2,3,3
+DLA0427,Slovenia,Ljubljana,5,3,2,2,3
+DLA0428,Croatia,Rijeka,4,3,1,5,5
+DLA0429,Albania,Durrës,3,3,5,5,3
+DLA0430,Slovenia,Ljubljana,4,3,3,4,4

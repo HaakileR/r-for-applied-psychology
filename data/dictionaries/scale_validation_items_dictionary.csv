@@ -1,0 +1,26 @@
+0,1,2
+id,string,Synthetic participant identifier
+country,categorical,Country
+city,categorical,City
+stress_item_01,ordinal,"Stress item, 1-5"
+stress_item_02,ordinal,"Stress item, 1-5"
+stress_item_03,ordinal,"Stress item, 1-5"
+stress_item_04,ordinal,"Stress item, 1-5"
+stress_item_05,ordinal,"Stress item, 1-5"
+stress_item_06,ordinal,"Stress item, 1-5"
+stress_item_07,ordinal,"Stress item, 1-5"
+stress_item_08,ordinal,"Stress item, 1-5"
+stress_item_09,ordinal,"Stress item, 1-5"
+stress_item_10,ordinal,"Stress item, 1-5"
+support_item_01,ordinal,"Support item, 1-5"
+support_item_02,ordinal,"Support item, 1-5"
+support_item_03,ordinal,"Support item, 1-5"
+support_item_04,ordinal,"Support item, 1-5"
+support_item_05,ordinal,"Support item, 1-5"
+support_item_06,ordinal,"Support item, 1-5"
+support_item_07,ordinal,"Support item, 1-5"
+support_item_08,ordinal,"Support item, 1-5"
+support_item_09,ordinal,"Support item, 1-5"
+support_item_10,ordinal,"Support item, 1-5"
+stress_total,numeric,Sum score for stress items
+support_total,numeric,Sum score for support items

@@ -1,0 +1,421 @@
+id,country,city,prior_statistics_experience,r_confidence,statistics_anxiety,help_seeking,course_engagement
+RMA0001,Albania,Shkodër,basic,2,5,1,1
+RMA0002,Serbia,Novi Sad,none,3,2,2,3
+RMA0003,Montenegro,Podgorica,none,3,4,3,2
+RMA0004,Croatia,Zagreb,basic,1,4,3,2
+RMA0005,Croatia,Split,basic,3,4,4,3
+RMA0006,Kosovo,Prizren,basic,1,3,3,1
+RMA0007,Croatia,Split,intermediate,3,4,2,3
+RMA0008,Serbia,Niš,basic,2,4,2,3
+RMA0009,Montenegro,Cetinje,intermediate,2,5,3,3
+RMA0010,Slovenia,Koper,basic,3,3,3,3
+RMA0011,Slovenia,Koper,none,3,3,1,1
+RMA0012,Serbia,Novi Sad,basic,3,3,3,2
+RMA0013,Slovenia,Ljubljana,none,4,1,2,3
+RMA0014,Kosovo,Pristina,none,3,3,3,3
+RMA0015,Serbia,Niš,none,2,4,3,2
+RMA0016,Montenegro,Cetinje,basic,2,3,3,2
+RMA0017,Serbia,Belgrade,basic,2,3,3,2
+RMA0018,Croatia,Rijeka,basic,2,5,3,1
+RMA0019,Slovenia,Ljubljana,none,2,4,2,1
+RMA0020,Kosovo,Prizren,none,2,5,2,1
+RMA0021,Bosnia and Herzegovina,Banja Luka,none,3,4,3,2
+RMA0022,Bosnia and Herzegovina,Sarajevo,basic,1,4,3,1
+RMA0023,Bosnia and Herzegovina,Mostar,basic,3,4,3,3
+RMA0024,Kosovo,Peja,none,2,3,3,3
+RMA0025,Slovenia,Ljubljana,none,4,2,2,4
+RMA0026,Kosovo,Prizren,basic,2,4,3,2
+RMA0027,Croatia,Zagreb,basic,4,2,3,3
+RMA0028,Croatia,Zagreb,basic,3,3,2,2
+RMA0029,Albania,Durrës,basic,3,2,4,3
+RMA0030,Slovenia,Maribor,none,1,3,3,2
+RMA0031,North Macedonia,Bitola,basic,2,3,5,2
+RMA0032,North Macedonia,Bitola,basic,3,4,4,3
+RMA0033,Montenegro,Podgorica,intermediate,3,3,2,1
+RMA0034,Bosnia and Herzegovina,Banja Luka,none,1,4,2,2
+RMA0035,Bosnia and Herzegovina,Mostar,intermediate,3,3,3,3
+RMA0036,Serbia,Niš,none,3,3,4,2
+RMA0037,Montenegro,Podgorica,none,2,3,4,2
+RMA0038,Montenegro,Cetinje,basic,3,2,5,3
+RMA0039,Croatia,Split,none,2,5,3,2
+RMA0040,Kosovo,Prizren,basic,3,3,3,2
+RMA0041,Bosnia and Herzegovina,Banja Luka,intermediate,1,4,3,1
+RMA0042,Serbia,Novi Sad,none,2,3,3,1
+RMA0043,Slovenia,Koper,basic,3,1,4,3
+RMA0044,Bosnia and Herzegovina,Mostar,basic,3,2,3,3
+RMA0045,Montenegro,Cetinje,basic,1,2,2,1
+RMA0046,Kosovo,Peja,basic,1,5,3,2
+RMA0047,Slovenia,Koper,none,4,3,3,2
+RMA0048,North Macedonia,Skopje,intermediate,2,3,5,2
+RMA0049,Slovenia,Koper,basic,2,4,4,2
+RMA0050,Slovenia,Koper,intermediate,3,2,1,2
+RMA0051,Slovenia,Maribor,basic,3,2,2,2
+RMA0052,Slovenia,Koper,intermediate,4,2,3,3
+RMA0053,Serbia,Novi Sad,basic,2,5,3,2
+RMA0054,Bosnia and Herzegovina,Mostar,intermediate,3,4,4,2
+RMA0055,Bosnia and Herzegovina,Sarajevo,basic,3,3,3,1
+RMA0056,Kosovo,Prizren,basic,4,3,3,2
+RMA0057,Serbia,Novi Sad,basic,2,4,4,2
+RMA0058,Montenegro,Nikšić,basic,3,4,4,2
+RMA0059,North Macedonia,Ohrid,basic,2,4,3,2
+RMA0060,North Macedonia,Skopje,intermediate,3,4,2,3
+RMA0061,Kosovo,Peja,none,3,2,3,3
+RMA0062,Croatia,Zagreb,none,3,4,2,2
+RMA0063,Croatia,Zagreb,none,3,3,1,2
+RMA0064,Kosovo,Pristina,basic,1,5,3,1
+RMA0065,Croatia,Rijeka,none,4,3,4,4
+RMA0066,Croatia,Split,none,3,4,2,3
+RMA0067,Croatia,Rijeka,intermediate,1,3,4,2
+RMA0068,Croatia,Rijeka,basic,3,4,3,3
+RMA0069,Bosnia and Herzegovina,Banja Luka,none,2,4,3,1
+RMA0070,Albania,Durrës,intermediate,2,5,4,2
+RMA0071,Albania,Tirana,none,1,5,3,2
+RMA0072,Kosovo,Prizren,none,2,4,2,1
+RMA0073,Slovenia,Maribor,basic,3,3,3,3
+RMA0074,Croatia,Split,basic,3,2,3,4
+RMA0075,Bosnia and Herzegovina,Banja Luka,intermediate,4,2,3,2
+RMA0076,Slovenia,Ljubljana,basic,2,4,3,2
+RMA0077,Kosovo,Peja,none,3,3,3,2
+RMA0078,Serbia,Novi Sad,intermediate,2,2,4,2
+RMA0079,Serbia,Novi Sad,basic,2,5,3,1
+RMA0080,Serbia,Belgrade,basic,2,4,2,2
+RMA0081,Serbia,Niš,intermediate,3,3,1,1
+RMA0082,Serbia,Belgrade,none,3,4,3,2
+RMA0083,Croatia,Split,none,3,2,3,2
+RMA0084,Bosnia and Herzegovina,Mostar,intermediate,2,5,2,1
+RMA0085,Albania,Tirana,basic,3,4,3,2
+RMA0086,Albania,Durrës,none,2,3,3,1
+RMA0087,Albania,Tirana,none,1,4,3,2
+RMA0088,Bosnia and Herzegovina,Sarajevo,intermediate,2,4,4,2
+RMA0089,Bosnia and Herzegovina,Banja Luka,none,2,4,5,3
+RMA0090,Montenegro,Podgorica,none,1,4,3,1
+RMA0091,North Macedonia,Bitola,none,2,4,3,1
+RMA0092,Albania,Durrës,none,2,3,2,3
+RMA0093,Croatia,Split,basic,2,4,2,1
+RMA0094,Serbia,Niš,basic,3,3,3,3
+RMA0095,North Macedonia,Ohrid,none,3,2,2,3
+RMA0096,Kosovo,Prizren,basic,3,4,4,2
+RMA0097,Croatia,Rijeka,none,3,3,3,2
+RMA0098,Serbia,Novi Sad,none,1,3,3,2
+RMA0099,Bosnia and Herzegovina,Banja Luka,basic,2,3,3,2
+RMA0100,Kosovo,Prizren,none,4,3,3,3
+RMA0101,Kosovo,Peja,intermediate,2,3,4,3
+RMA0102,Kosovo,Prizren,basic,3,4,3,2
+RMA0103,Serbia,Novi Sad,intermediate,1,4,4,1
+RMA0104,Slovenia,Ljubljana,basic,2,4,4,2
+RMA0105,Kosovo,Prizren,none,2,4,3,2
+RMA0106,Bosnia and Herzegovina,Banja Luka,none,1,4,4,1
+RMA0107,Bosnia and Herzegovina,Banja Luka,basic,1,5,2,1
+RMA0108,Bosnia and Herzegovina,Sarajevo,intermediate,2,3,3,3
+RMA0109,Serbia,Belgrade,none,3,4,4,1
+RMA0110,Albania,Durrës,intermediate,3,5,4,1
+RMA0111,Albania,Shkodër,none,4,3,3,2
+RMA0112,Kosovo,Peja,intermediate,2,3,2,3
+RMA0113,Serbia,Niš,basic,3,4,3,2
+RMA0114,Bosnia and Herzegovina,Banja Luka,none,2,2,2,2
+RMA0115,Slovenia,Koper,none,1,4,4,2
+RMA0116,Serbia,Belgrade,basic,2,5,4,2
+RMA0117,Bosnia and Herzegovina,Sarajevo,intermediate,4,3,4,3
+RMA0118,Montenegro,Cetinje,none,2,4,3,2
+RMA0119,Albania,Durrës,intermediate,2,4,4,3
+RMA0120,Serbia,Novi Sad,basic,4,3,4,3
+RMA0121,Kosovo,Pristina,basic,2,4,3,2
+RMA0122,Serbia,Belgrade,intermediate,3,2,5,3
+RMA0123,Serbia,Niš,basic,1,3,4,2
+RMA0124,Slovenia,Koper,none,2,2,2,2
+RMA0125,Kosovo,Peja,intermediate,1,4,2,1
+RMA0126,North Macedonia,Bitola,basic,2,4,4,2
+RMA0127,Serbia,Novi Sad,basic,1,3,2,1
+RMA0128,Serbia,Novi Sad,basic,1,3,3,2
+RMA0129,Albania,Tirana,basic,4,3,2,2
+RMA0130,Bosnia and Herzegovina,Mostar,basic,4,3,3,2
+RMA0131,Slovenia,Ljubljana,none,3,4,4,1
+RMA0132,Albania,Shkodër,basic,3,2,3,2
+RMA0133,Serbia,Belgrade,none,3,2,4,2
+RMA0134,Serbia,Belgrade,basic,3,3,3,3
+RMA0135,Kosovo,Prizren,intermediate,3,5,3,1
+RMA0136,Bosnia and Herzegovina,Sarajevo,basic,4,5,3,3
+RMA0137,Albania,Tirana,basic,5,3,2,3
+RMA0138,Kosovo,Pristina,basic,3,4,2,3
+RMA0139,Croatia,Zagreb,basic,3,3,2,3
+RMA0140,Slovenia,Maribor,basic,3,3,2,1
+RMA0141,Montenegro,Nikšić,basic,1,5,3,1
+RMA0142,Albania,Shkodër,none,3,2,3,2
+RMA0143,Croatia,Rijeka,basic,2,3,2,2
+RMA0144,Bosnia and Herzegovina,Mostar,none,4,2,1,2
+RMA0145,Croatia,Zagreb,basic,3,4,3,2
+RMA0146,Montenegro,Nikšić,intermediate,2,3,2,3
+RMA0147,Serbia,Novi Sad,basic,3,3,4,3
+RMA0148,Montenegro,Podgorica,none,3,2,4,2
+RMA0149,Bosnia and Herzegovina,Sarajevo,basic,3,1,2,2
+RMA0150,Serbia,Belgrade,basic,3,4,4,2
+RMA0151,Montenegro,Cetinje,basic,2,4,3,2
+RMA0152,Kosovo,Pristina,none,2,3,2,2
+RMA0153,Bosnia and Herzegovina,Mostar,basic,4,3,1,2
+RMA0154,Montenegro,Nikšić,basic,2,2,4,2
+RMA0155,Montenegro,Podgorica,basic,1,4,3,2
+RMA0156,Serbia,Belgrade,none,3,3,4,3
+RMA0157,Albania,Durrës,intermediate,3,4,3,3
+RMA0158,North Macedonia,Ohrid,basic,4,3,3,3
+RMA0159,Kosovo,Pristina,basic,2,5,3,2
+RMA0160,Bosnia and Herzegovina,Mostar,basic,1,4,3,2
+RMA0161,Croatia,Rijeka,none,3,5,3,2
+RMA0162,Albania,Shkodër,none,1,4,3,1
+RMA0163,Montenegro,Cetinje,basic,2,4,4,3
+RMA0164,Albania,Durrës,basic,1,4,4,2
+RMA0165,Montenegro,Nikšić,basic,2,3,2,1
+RMA0166,North Macedonia,Ohrid,basic,2,2,2,3
+RMA0167,Montenegro,Nikšić,basic,2,4,4,3
+RMA0168,North Macedonia,Skopje,basic,3,4,3,3
+RMA0169,Montenegro,Nikšić,basic,3,4,4,3
+RMA0170,Albania,Tirana,basic,3,3,2,2
+RMA0171,Croatia,Rijeka,basic,1,4,5,2
+RMA0172,Croatia,Split,basic,2,3,3,2
+RMA0173,Kosovo,Pristina,basic,2,4,4,2
+RMA0174,Albania,Tirana,none,2,3,3,2
+RMA0175,Slovenia,Maribor,basic,1,3,3,1
+RMA0176,Bosnia and Herzegovina,Banja Luka,intermediate,3,3,4,3
+RMA0177,Slovenia,Maribor,none,3,3,5,2
+RMA0178,Montenegro,Podgorica,none,2,3,3,3
+RMA0179,North Macedonia,Skopje,none,3,4,2,2
+RMA0180,Slovenia,Ljubljana,basic,3,2,2,2
+RMA0181,Slovenia,Koper,basic,2,3,4,2
+RMA0182,Croatia,Split,none,4,2,2,2
+RMA0183,Croatia,Zagreb,basic,2,5,2,2
+RMA0184,Albania,Tirana,basic,2,3,3,3
+RMA0185,Montenegro,Nikšić,none,3,5,3,2
+RMA0186,Croatia,Zagreb,none,3,4,3,2
+RMA0187,Bosnia and Herzegovina,Sarajevo,basic,4,3,2,3
+RMA0188,Croatia,Rijeka,basic,1,4,5,3
+RMA0189,Kosovo,Prizren,intermediate,3,4,3,2
+RMA0190,Serbia,Belgrade,intermediate,3,4,4,2
+RMA0191,North Macedonia,Skopje,basic,1,4,4,2
+RMA0192,Serbia,Belgrade,basic,3,3,1,3
+RMA0193,Croatia,Split,intermediate,4,3,2,2
+RMA0194,Serbia,Novi Sad,basic,2,4,3,3
+RMA0195,Croatia,Zagreb,none,4,2,4,3
+RMA0196,North Macedonia,Bitola,intermediate,3,3,4,4
+RMA0197,Croatia,Split,none,3,3,2,2
+RMA0198,Slovenia,Ljubljana,basic,2,2,3,2
+RMA0199,Bosnia and Herzegovina,Banja Luka,intermediate,2,3,4,2
+RMA0200,Montenegro,Podgorica,basic,3,3,4,4
+RMA0201,Montenegro,Nikšić,basic,3,2,4,3
+RMA0202,Slovenia,Koper,none,2,5,4,1
+RMA0203,Kosovo,Pristina,none,3,2,3,2
+RMA0204,Bosnia and Herzegovina,Sarajevo,basic,5,1,3,4
+RMA0205,Croatia,Rijeka,none,4,4,4,3
+RMA0206,Serbia,Novi Sad,basic,3,4,4,1
+RMA0207,Croatia,Zagreb,basic,3,2,2,2
+RMA0208,Kosovo,Pristina,intermediate,2,3,3,2
+RMA0209,Croatia,Split,none,3,2,2,3
+RMA0210,Bosnia and Herzegovina,Banja Luka,intermediate,3,3,3,3
+RMA0211,Croatia,Rijeka,basic,3,3,4,2
+RMA0212,Croatia,Split,intermediate,2,3,3,2
+RMA0213,North Macedonia,Skopje,basic,2,4,2,3
+RMA0214,Albania,Tirana,none,1,4,3,2
+RMA0215,Croatia,Rijeka,basic,3,4,3,2
+RMA0216,Serbia,Niš,none,2,4,2,1
+RMA0217,Serbia,Belgrade,none,4,3,3,3
+RMA0218,Croatia,Rijeka,intermediate,2,5,2,2
+RMA0219,Montenegro,Podgorica,none,4,3,3,4
+RMA0220,Albania,Durrës,none,2,3,2,2
+RMA0221,Kosovo,Pristina,none,1,4,2,1
+RMA0222,Croatia,Split,none,4,3,4,3
+RMA0223,Bosnia and Herzegovina,Mostar,basic,4,3,3,2
+RMA0224,Slovenia,Maribor,basic,3,5,3,1
+RMA0225,Albania,Shkodër,none,2,3,2,2
+RMA0226,Slovenia,Koper,basic,2,3,4,2
+RMA0227,Montenegro,Cetinje,basic,3,3,1,2
+RMA0228,Croatia,Rijeka,basic,2,4,3,2
+RMA0229,Slovenia,Ljubljana,basic,4,3,2,4
+RMA0230,Montenegro,Cetinje,none,3,4,3,2
+RMA0231,Bosnia and Herzegovina,Mostar,none,1,4,4,3
+RMA0232,Albania,Tirana,basic,1,4,4,3
+RMA0233,North Macedonia,Ohrid,none,1,3,4,1
+RMA0234,Croatia,Rijeka,none,1,2,4,3
+RMA0235,Serbia,Novi Sad,basic,3,4,3,2
+RMA0236,Kosovo,Prizren,intermediate,2,4,2,1
+RMA0237,Montenegro,Podgorica,none,2,2,5,3
+RMA0238,North Macedonia,Skopje,intermediate,2,4,3,2
+RMA0239,Montenegro,Cetinje,none,4,3,4,3
+RMA0240,Albania,Tirana,basic,4,2,2,2
+RMA0241,Montenegro,Podgorica,intermediate,4,5,1,2
+RMA0242,Bosnia and Herzegovina,Banja Luka,intermediate,3,2,4,3
+RMA0243,Croatia,Split,basic,2,4,4,3
+RMA0244,Albania,Shkodër,basic,3,4,2,2
+RMA0245,Kosovo,Prizren,basic,2,2,3,3
+RMA0246,Bosnia and Herzegovina,Banja Luka,basic,3,2,4,2
+RMA0247,Albania,Tirana,basic,3,4,3,2
+RMA0248,Bosnia and Herzegovina,Mostar,none,3,3,2,3
+RMA0249,Croatia,Zagreb,basic,3,2,3,2
+RMA0250,North Macedonia,Ohrid,none,2,4,3,1
+RMA0251,Montenegro,Cetinje,none,2,3,2,1
+RMA0252,Montenegro,Nikšić,none,3,3,5,3
+RMA0253,North Macedonia,Bitola,basic,1,3,3,2
+RMA0254,Albania,Durrës,intermediate,3,3,2,2
+RMA0255,Slovenia,Ljubljana,basic,3,3,4,4
+RMA0256,Serbia,Novi Sad,basic,2,4,3,2
+RMA0257,Slovenia,Ljubljana,basic,4,2,2,2
+RMA0258,Albania,Tirana,none,3,3,3,2
+RMA0259,Slovenia,Koper,none,3,2,3,2
+RMA0260,North Macedonia,Skopje,none,2,4,3,1
+RMA0261,Kosovo,Peja,intermediate,4,4,4,2
+RMA0262,Croatia,Rijeka,none,3,3,3,3
+RMA0263,Albania,Durrës,intermediate,1,4,2,2
+RMA0264,Montenegro,Podgorica,basic,3,2,2,2
+RMA0265,Bosnia and Herzegovina,Banja Luka,intermediate,3,3,1,2
+RMA0266,Serbia,Novi Sad,none,3,3,3,2
+RMA0267,Albania,Shkodër,none,2,3,4,3
+RMA0268,Croatia,Zagreb,none,2,3,3,2
+RMA0269,Serbia,Belgrade,basic,2,3,3,2
+RMA0270,Montenegro,Cetinje,intermediate,4,3,3,3
+RMA0271,Kosovo,Prizren,intermediate,4,4,5,3
+RMA0272,Kosovo,Pristina,intermediate,4,2,4,4
+RMA0273,Montenegro,Nikšić,basic,2,4,3,2
+RMA0274,Croatia,Rijeka,intermediate,3,3,3,3
+RMA0275,Slovenia,Maribor,basic,2,4,3,1
+RMA0276,Montenegro,Cetinje,basic,3,3,2,3
+RMA0277,Montenegro,Cetinje,basic,3,3,3,3
+RMA0278,Serbia,Novi Sad,basic,3,3,3,3
+RMA0279,North Macedonia,Bitola,basic,3,2,4,3
+RMA0280,Croatia,Split,basic,3,5,4,3
+RMA0281,Croatia,Zagreb,basic,1,4,3,2
+RMA0282,Croatia,Split,basic,1,4,4,1
+RMA0283,Albania,Shkodër,none,2,4,3,2
+RMA0284,Slovenia,Ljubljana,basic,2,5,3,2
+RMA0285,Slovenia,Maribor,none,3,4,5,3
+RMA0286,Kosovo,Peja,basic,4,2,3,2
+RMA0287,Montenegro,Nikšić,none,3,4,3,2
+RMA0288,North Macedonia,Ohrid,none,3,3,4,3
+RMA0289,Serbia,Belgrade,intermediate,3,3,5,2
+RMA0290,Serbia,Novi Sad,none,4,3,5,3
+RMA0291,Albania,Shkodër,none,3,4,3,3
+RMA0292,Croatia,Split,none,4,3,3,2
+RMA0293,Croatia,Rijeka,basic,3,3,4,2
+RMA0294,Slovenia,Maribor,none,3,2,4,3
+RMA0295,Albania,Tirana,none,2,4,3,1
+RMA0296,Serbia,Novi Sad,basic,3,3,3,2
+RMA0297,Montenegro,Podgorica,basic,3,3,4,4
+RMA0298,Albania,Durrës,none,2,3,2,3
+RMA0299,Croatia,Rijeka,basic,2,2,3,2
+RMA0300,Croatia,Split,basic,3,4,2,2
+RMA0301,Croatia,Rijeka,intermediate,2,2,2,2
+RMA0302,Serbia,Belgrade,none,2,3,5,3
+RMA0303,Slovenia,Maribor,basic,2,4,3,2
+RMA0304,North Macedonia,Ohrid,basic,3,3,3,2
+RMA0305,Croatia,Rijeka,basic,2,3,4,3
+RMA0306,Bosnia and Herzegovina,Sarajevo,basic,4,2,3,4
+RMA0307,Albania,Shkodër,intermediate,2,4,3,2
+RMA0308,Slovenia,Koper,none,2,4,2,2
+RMA0309,Croatia,Rijeka,none,2,3,2,2
+RMA0310,Bosnia and Herzegovina,Sarajevo,none,3,5,2,2
+RMA0311,Albania,Shkodër,intermediate,3,3,3,2
+RMA0312,Croatia,Zagreb,basic,1,5,3,1
+RMA0313,Slovenia,Maribor,basic,2,3,2,1
+RMA0314,Croatia,Split,basic,4,3,2,3
+RMA0315,Bosnia and Herzegovina,Sarajevo,basic,2,4,3,2
+RMA0316,Montenegro,Nikšić,intermediate,4,4,4,2
+RMA0317,North Macedonia,Skopje,basic,2,5,3,1
+RMA0318,Croatia,Rijeka,basic,3,1,3,2
+RMA0319,Croatia,Rijeka,intermediate,3,2,5,3
+RMA0320,Slovenia,Koper,intermediate,2,4,2,2
+RMA0321,Bosnia and Herzegovina,Sarajevo,none,3,2,4,3
+RMA0322,Albania,Tirana,basic,2,4,4,2
+RMA0323,North Macedonia,Bitola,none,5,2,4,4
+RMA0324,Bosnia and Herzegovina,Banja Luka,none,2,4,2,1
+RMA0325,Montenegro,Podgorica,none,3,2,3,3
+RMA0326,Kosovo,Pristina,none,2,3,3,2
+RMA0327,Kosovo,Pristina,basic,2,3,3,2
+RMA0328,Slovenia,Maribor,none,3,4,2,2
+RMA0329,Serbia,Novi Sad,none,1,5,4,2
+RMA0330,Kosovo,Pristina,none,3,5,4,2
+RMA0331,Slovenia,Maribor,basic,3,2,4,1
+RMA0332,Serbia,Belgrade,basic,4,3,2,3
+RMA0333,Serbia,Novi Sad,intermediate,2,3,3,1
+RMA0334,Montenegro,Podgorica,basic,1,5,3,1
+RMA0335,North Macedonia,Skopje,none,3,3,3,2
+RMA0336,Croatia,Zagreb,basic,4,3,2,2
+RMA0337,Croatia,Zagreb,basic,3,3,5,2
+RMA0338,Croatia,Split,none,4,2,3,4
+RMA0339,Serbia,Belgrade,none,2,5,4,1
+RMA0340,Montenegro,Cetinje,basic,2,2,4,2
+RMA0341,North Macedonia,Bitola,none,3,3,3,3
+RMA0342,Albania,Tirana,none,3,3,4,3
+RMA0343,Serbia,Belgrade,none,2,3,4,2
+RMA0344,Bosnia and Herzegovina,Mostar,basic,3,4,2,2
+RMA0345,Albania,Tirana,basic,2,4,1,2
+RMA0346,Slovenia,Ljubljana,none,3,3,5,2
+RMA0347,Kosovo,Peja,none,3,4,5,2
+RMA0348,Montenegro,Podgorica,basic,1,4,4,1
+RMA0349,Kosovo,Pristina,basic,4,4,3,2
+RMA0350,Serbia,Novi Sad,none,2,3,4,2
+RMA0351,Serbia,Niš,basic,2,4,2,2
+RMA0352,Croatia,Rijeka,none,2,5,4,1
+RMA0353,North Macedonia,Bitola,basic,1,3,3,1
+RMA0354,Serbia,Niš,none,4,3,3,2
+RMA0355,Serbia,Niš,basic,3,1,3,2
+RMA0356,Croatia,Rijeka,none,4,3,3,3
+RMA0357,Croatia,Rijeka,none,1,3,4,2
+RMA0358,Serbia,Niš,basic,2,3,3,2
+RMA0359,Croatia,Rijeka,none,2,3,3,3
+RMA0360,Kosovo,Prizren,intermediate,3,3,3,2
+RMA0361,Serbia,Belgrade,intermediate,1,3,4,2
+RMA0362,Montenegro,Podgorica,none,2,4,5,4
+RMA0363,Serbia,Niš,basic,1,4,2,1
+RMA0364,Montenegro,Podgorica,intermediate,2,2,5,3
+RMA0365,Montenegro,Cetinje,intermediate,3,3,3,4
+RMA0366,Serbia,Belgrade,basic,3,2,3,3
+RMA0367,Slovenia,Koper,intermediate,3,5,4,2
+RMA0368,Bosnia and Herzegovina,Mostar,basic,3,3,2,3
+RMA0369,Serbia,Belgrade,basic,2,3,3,2
+RMA0370,Serbia,Belgrade,intermediate,4,3,2,2
+RMA0371,Bosnia and Herzegovina,Sarajevo,none,3,2,3,2
+RMA0372,Montenegro,Nikšić,none,3,4,1,1
+RMA0373,North Macedonia,Bitola,basic,2,4,2,3
+RMA0374,Serbia,Novi Sad,intermediate,2,3,3,2
+RMA0375,Bosnia and Herzegovina,Banja Luka,none,4,4,3,3
+RMA0376,Serbia,Belgrade,none,2,4,3,1
+RMA0377,Slovenia,Maribor,none,2,2,4,3
+RMA0378,Bosnia and Herzegovina,Mostar,none,3,4,4,2
+RMA0379,Serbia,Niš,basic,3,4,3,2
+RMA0380,North Macedonia,Skopje,basic,3,2,4,2
+RMA0381,North Macedonia,Ohrid,intermediate,1,4,1,1
+RMA0382,Slovenia,Ljubljana,basic,2,5,4,1
+RMA0383,Croatia,Zagreb,none,4,3,3,3
+RMA0384,Slovenia,Ljubljana,basic,3,4,4,4
+RMA0385,Bosnia and Herzegovina,Mostar,none,4,2,2,2
+RMA0386,Slovenia,Koper,basic,4,1,4,3
+RMA0387,Bosnia and Herzegovina,Mostar,basic,2,4,4,3
+RMA0388,Slovenia,Maribor,basic,4,2,3,3
+RMA0389,Albania,Shkodër,basic,3,4,3,2
+RMA0390,Montenegro,Nikšić,none,4,2,4,4
+RMA0391,Bosnia and Herzegovina,Banja Luka,basic,1,4,4,1
+RMA0392,Montenegro,Cetinje,none,2,5,2,1
+RMA0393,Bosnia and Herzegovina,Sarajevo,none,2,1,2,2
+RMA0394,Kosovo,Peja,basic,2,4,4,3
+RMA0395,Albania,Tirana,none,4,2,4,3
+RMA0396,Albania,Shkodër,none,3,1,3,3
+RMA0397,Croatia,Split,intermediate,2,2,5,3
+RMA0398,Slovenia,Koper,basic,2,4,3,1
+RMA0399,Kosovo,Prizren,basic,4,2,3,3
+RMA0400,North Macedonia,Bitola,none,3,3,3,2
+RMA0401,Kosovo,Prizren,basic,1,3,2,1
+RMA0402,Albania,Durrës,basic,3,3,3,3
+RMA0403,Serbia,Belgrade,basic,2,4,4,2
+RMA0404,Serbia,Belgrade,intermediate,3,3,4,3
+RMA0405,Croatia,Rijeka,intermediate,2,4,3,2
+RMA0406,Croatia,Split,basic,2,4,4,2
+RMA0407,Kosovo,Peja,basic,3,1,4,4
+RMA0408,Slovenia,Koper,intermediate,2,5,2,1
+RMA0409,Croatia,Zagreb,none,3,4,2,2
+RMA0410,Slovenia,Maribor,basic,3,3,2,3
+RMA0411,Kosovo,Prizren,none,3,4,3,2
+RMA0412,Kosovo,Prizren,intermediate,2,4,3,3
+RMA0413,Croatia,Rijeka,basic,2,5,3,2
+RMA0414,Serbia,Niš,basic,2,4,3,1
+RMA0415,Croatia,Zagreb,basic,4,2,4,3
+RMA0416,Serbia,Novi Sad,none,2,4,3,2
+RMA0417,Montenegro,Nikšić,basic,3,3,3,2
+RMA0418,Bosnia and Herzegovina,Sarajevo,intermediate,2,4,5,2
+RMA0419,North Macedonia,Skopje,intermediate,3,4,3,3
+RMA0420,Montenegro,Podgorica,none,3,3,2,2

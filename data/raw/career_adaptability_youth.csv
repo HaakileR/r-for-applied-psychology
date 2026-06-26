@@ -1,0 +1,451 @@
+id,country,city,career_concern,career_control,career_curiosity,career_confidence,perceived_employability
+CAR0001,Montenegro,Nikšić,5,2,2,5,5
+CAR0002,Serbia,Niš,3,3,2,5,4
+CAR0003,Kosovo,Pristina,3,3,3,3,4
+CAR0004,North Macedonia,Bitola,2,2,1,2,3
+CAR0005,Kosovo,Prizren,4,4,3,3,5
+CAR0006,Slovenia,Maribor,2,3,4,3,4
+CAR0007,Albania,Shkodër,3,4,3,3,4
+CAR0008,Kosovo,Prizren,3,3,4,3,5
+CAR0009,Albania,Shkodër,3,2,3,2,4
+CAR0010,Slovenia,Koper,3,4,3,3,4
+CAR0011,Serbia,Novi Sad,3,2,3,5,5
+CAR0012,Kosovo,Peja,5,4,3,5,5
+CAR0013,North Macedonia,Ohrid,3,4,3,3,5
+CAR0014,Serbia,Belgrade,4,4,2,2,3
+CAR0015,Slovenia,Maribor,4,3,3,1,4
+CAR0016,Montenegro,Cetinje,3,3,5,3,5
+CAR0017,Bosnia and Herzegovina,Banja Luka,4,5,4,3,5
+CAR0018,Serbia,Niš,4,4,4,3,5
+CAR0019,Kosovo,Prizren,4,2,4,2,4
+CAR0020,Bosnia and Herzegovina,Banja Luka,4,3,4,4,5
+CAR0021,Serbia,Niš,3,3,3,3,3
+CAR0022,Albania,Durrës,3,3,3,3,4
+CAR0023,Bosnia and Herzegovina,Sarajevo,2,3,3,4,4
+CAR0024,Slovenia,Koper,2,4,4,3,4
+CAR0025,Albania,Shkodër,3,3,3,2,4
+CAR0026,North Macedonia,Ohrid,3,3,4,4,4
+CAR0027,Serbia,Belgrade,5,3,4,4,5
+CAR0028,Slovenia,Koper,3,3,4,4,5
+CAR0029,Albania,Shkodër,4,3,3,3,5
+CAR0030,Bosnia and Herzegovina,Banja Luka,3,4,4,3,5
+CAR0031,Bosnia and Herzegovina,Banja Luka,3,3,3,4,4
+CAR0032,Montenegro,Podgorica,4,3,2,3,4
+CAR0033,Montenegro,Podgorica,3,3,4,4,5
+CAR0034,Albania,Shkodër,3,4,5,3,5
+CAR0035,Bosnia and Herzegovina,Mostar,4,3,4,4,5
+CAR0036,Montenegro,Nikšić,3,2,3,4,4
+CAR0037,Serbia,Belgrade,3,4,3,4,5
+CAR0038,Albania,Shkodër,4,2,3,3,5
+CAR0039,Serbia,Belgrade,2,2,3,3,5
+CAR0040,Kosovo,Pristina,3,3,3,4,5
+CAR0041,North Macedonia,Bitola,3,3,2,3,3
+CAR0042,Slovenia,Koper,4,3,4,4,5
+CAR0043,Albania,Durrës,3,2,3,2,4
+CAR0044,Serbia,Belgrade,4,3,4,3,5
+CAR0045,Serbia,Novi Sad,2,1,3,4,4
+CAR0046,Kosovo,Peja,2,4,3,3,4
+CAR0047,Serbia,Niš,4,5,3,4,5
+CAR0048,Croatia,Rijeka,4,5,2,3,5
+CAR0049,North Macedonia,Skopje,3,4,4,4,5
+CAR0050,Albania,Tirana,4,3,4,3,5
+CAR0051,Slovenia,Koper,3,3,3,4,4
+CAR0052,Albania,Tirana,2,3,4,3,4
+CAR0053,Kosovo,Pristina,3,3,1,3,3
+CAR0054,Croatia,Rijeka,3,4,4,5,5
+CAR0055,Slovenia,Koper,2,3,3,3,4
+CAR0056,Albania,Tirana,4,4,4,3,5
+CAR0057,Croatia,Zagreb,4,3,2,4,5
+CAR0058,Albania,Tirana,4,2,3,4,5
+CAR0059,Croatia,Split,4,4,4,3,4
+CAR0060,Croatia,Rijeka,3,3,4,4,4
+CAR0061,Bosnia and Herzegovina,Sarajevo,3,4,4,2,5
+CAR0062,Montenegro,Cetinje,4,4,5,3,5
+CAR0063,Bosnia and Herzegovina,Mostar,3,2,3,2,4
+CAR0064,Kosovo,Pristina,3,4,2,4,5
+CAR0065,Bosnia and Herzegovina,Mostar,3,3,3,2,4
+CAR0066,North Macedonia,Ohrid,3,3,2,4,4
+CAR0067,Montenegro,Nikšić,3,4,3,2,4
+CAR0068,Montenegro,Nikšić,3,3,2,3,3
+CAR0069,Montenegro,Cetinje,2,3,3,3,4
+CAR0070,Kosovo,Prizren,4,2,3,3,5
+CAR0071,Bosnia and Herzegovina,Mostar,3,5,3,4,5
+CAR0072,North Macedonia,Bitola,2,2,4,2,4
+CAR0073,Kosovo,Prizren,4,5,5,4,5
+CAR0074,Bosnia and Herzegovina,Sarajevo,2,4,2,4,5
+CAR0075,Montenegro,Nikšić,3,4,3,3,5
+CAR0076,Serbia,Niš,4,3,3,3,3
+CAR0077,Serbia,Niš,3,3,3,3,4
+CAR0078,Bosnia and Herzegovina,Sarajevo,3,4,3,4,4
+CAR0079,North Macedonia,Bitola,3,4,4,4,5
+CAR0080,North Macedonia,Skopje,3,3,3,3,4
+CAR0081,Serbia,Novi Sad,3,3,3,3,4
+CAR0082,Albania,Durrës,3,3,5,3,5
+CAR0083,North Macedonia,Skopje,3,4,4,3,5
+CAR0084,North Macedonia,Skopje,3,5,5,3,5
+CAR0085,Slovenia,Koper,3,4,3,3,4
+CAR0086,Montenegro,Cetinje,4,3,4,3,5
+CAR0087,Kosovo,Prizren,3,3,3,3,4
+CAR0088,Kosovo,Pristina,4,4,3,2,4
+CAR0089,Slovenia,Maribor,3,4,4,3,5
+CAR0090,North Macedonia,Skopje,3,3,3,4,5
+CAR0091,Kosovo,Pristina,2,2,4,4,4
+CAR0092,Bosnia and Herzegovina,Banja Luka,3,4,4,3,5
+CAR0093,Serbia,Novi Sad,4,3,4,5,5
+CAR0094,Serbia,Niš,3,3,2,3,4
+CAR0095,Croatia,Split,1,3,4,3,4
+CAR0096,Serbia,Belgrade,4,2,4,2,4
+CAR0097,Serbia,Belgrade,3,4,4,3,5
+CAR0098,Kosovo,Prizren,2,3,3,3,4
+CAR0099,Bosnia and Herzegovina,Banja Luka,4,1,3,4,4
+CAR0100,Kosovo,Prizren,4,3,4,3,5
+CAR0101,Serbia,Belgrade,2,4,3,2,3
+CAR0102,Serbia,Niš,3,4,4,4,4
+CAR0103,Bosnia and Herzegovina,Banja Luka,4,3,2,3,4
+CAR0104,Serbia,Novi Sad,5,3,3,4,5
+CAR0105,North Macedonia,Skopje,3,3,4,3,5
+CAR0106,Serbia,Niš,4,3,3,5,5
+CAR0107,Albania,Durrës,4,2,4,3,4
+CAR0108,Montenegro,Nikšić,3,4,3,3,5
+CAR0109,Albania,Shkodër,3,4,2,4,4
+CAR0110,Serbia,Niš,2,4,4,4,5
+CAR0111,Slovenia,Maribor,2,2,3,3,5
+CAR0112,Croatia,Rijeka,3,2,2,3,4
+CAR0113,Albania,Shkodër,4,4,2,4,5
+CAR0114,Slovenia,Koper,2,3,3,1,4
+CAR0115,Bosnia and Herzegovina,Mostar,3,4,3,3,4
+CAR0116,North Macedonia,Skopje,3,3,4,5,5
+CAR0117,Montenegro,Cetinje,3,4,3,4,5
+CAR0118,Montenegro,Podgorica,3,5,4,4,5
+CAR0119,Slovenia,Maribor,3,3,3,4,4
+CAR0120,Bosnia and Herzegovina,Sarajevo,4,3,3,2,4
+CAR0121,North Macedonia,Ohrid,4,2,4,2,4
+CAR0122,Serbia,Novi Sad,3,2,2,4,4
+CAR0123,Bosnia and Herzegovina,Banja Luka,3,3,4,2,4
+CAR0124,Croatia,Split,4,2,3,2,3
+CAR0125,Bosnia and Herzegovina,Banja Luka,4,3,4,3,4
+CAR0126,Albania,Durrës,4,4,4,3,5
+CAR0127,Bosnia and Herzegovina,Sarajevo,4,2,4,2,4
+CAR0128,Bosnia and Herzegovina,Mostar,3,3,2,2,3
+CAR0129,Bosnia and Herzegovina,Sarajevo,3,4,3,3,5
+CAR0130,Serbia,Novi Sad,4,3,4,3,5
+CAR0131,North Macedonia,Ohrid,2,4,3,3,4
+CAR0132,Croatia,Rijeka,3,3,3,5,4
+CAR0133,Bosnia and Herzegovina,Mostar,4,4,4,3,4
+CAR0134,Bosnia and Herzegovina,Sarajevo,3,4,4,3,4
+CAR0135,North Macedonia,Ohrid,2,3,2,4,3
+CAR0136,Albania,Durrës,4,4,4,3,4
+CAR0137,North Macedonia,Bitola,5,3,3,4,5
+CAR0138,Albania,Tirana,4,2,2,3,4
+CAR0139,Slovenia,Maribor,3,3,3,3,4
+CAR0140,Serbia,Belgrade,4,4,2,2,4
+CAR0141,Slovenia,Maribor,4,2,3,3,4
+CAR0142,Montenegro,Cetinje,3,3,3,4,4
+CAR0143,Montenegro,Nikšić,2,2,3,3,3
+CAR0144,Bosnia and Herzegovina,Mostar,4,5,4,3,5
+CAR0145,Kosovo,Peja,3,4,3,3,3
+CAR0146,Albania,Shkodër,3,4,4,3,4
+CAR0147,Montenegro,Nikšić,4,3,2,4,4
+CAR0148,North Macedonia,Skopje,4,2,3,2,3
+CAR0149,Bosnia and Herzegovina,Banja Luka,3,3,3,5,5
+CAR0150,Montenegro,Cetinje,3,3,3,4,4
+CAR0151,Serbia,Niš,2,3,4,3,4
+CAR0152,North Macedonia,Skopje,3,3,3,3,4
+CAR0153,Kosovo,Peja,4,3,1,2,3
+CAR0154,North Macedonia,Skopje,3,3,4,3,5
+CAR0155,Slovenia,Maribor,3,2,5,3,5
+CAR0156,Serbia,Novi Sad,2,4,3,2,4
+CAR0157,Slovenia,Maribor,3,4,2,4,4
+CAR0158,Montenegro,Cetinje,3,3,4,4,4
+CAR0159,Bosnia and Herzegovina,Sarajevo,4,3,3,3,4
+CAR0160,Croatia,Rijeka,3,2,3,3,4
+CAR0161,Bosnia and Herzegovina,Sarajevo,5,3,4,2,4
+CAR0162,Serbia,Niš,4,4,3,4,4
+CAR0163,Bosnia and Herzegovina,Sarajevo,3,4,3,3,5
+CAR0164,Albania,Durrës,3,3,4,4,4
+CAR0165,Albania,Durrës,3,2,3,3,4
+CAR0166,Bosnia and Herzegovina,Sarajevo,4,3,3,3,5
+CAR0167,Bosnia and Herzegovina,Banja Luka,3,4,4,4,4
+CAR0168,Serbia,Belgrade,3,4,4,2,4
+CAR0169,Kosovo,Prizren,4,2,2,3,4
+CAR0170,Bosnia and Herzegovina,Banja Luka,3,3,3,3,4
+CAR0171,Montenegro,Podgorica,4,4,3,3,4
+CAR0172,Croatia,Split,3,4,3,3,5
+CAR0173,Bosnia and Herzegovina,Banja Luka,3,4,4,2,4
+CAR0174,Croatia,Zagreb,5,4,3,3,5
+CAR0175,Kosovo,Prizren,3,3,2,3,4
+CAR0176,Bosnia and Herzegovina,Sarajevo,3,2,3,4,4
+CAR0177,Albania,Durrës,2,3,4,2,3
+CAR0178,Croatia,Rijeka,3,3,3,3,5
+CAR0179,Albania,Tirana,2,2,4,3,4
+CAR0180,Croatia,Split,2,2,5,2,3
+CAR0181,Montenegro,Nikšić,3,3,5,3,4
+CAR0182,Bosnia and Herzegovina,Mostar,2,2,3,4,3
+CAR0183,Serbia,Novi Sad,4,3,4,4,5
+CAR0184,Croatia,Split,4,3,4,3,5
+CAR0185,Slovenia,Maribor,2,4,3,2,4
+CAR0186,Croatia,Zagreb,4,3,4,4,5
+CAR0187,Bosnia and Herzegovina,Banja Luka,3,2,3,3,4
+CAR0188,Bosnia and Herzegovina,Sarajevo,3,5,3,3,5
+CAR0189,North Macedonia,Ohrid,3,4,4,4,5
+CAR0190,Serbia,Novi Sad,2,4,4,5,5
+CAR0191,Croatia,Zagreb,4,3,4,3,4
+CAR0192,Kosovo,Peja,2,3,4,4,5
+CAR0193,Albania,Tirana,4,3,5,3,5
+CAR0194,Croatia,Split,3,3,3,3,4
+CAR0195,Albania,Durrës,3,3,3,5,4
+CAR0196,Croatia,Zagreb,3,3,3,3,5
+CAR0197,Albania,Durrës,3,4,3,3,4
+CAR0198,Slovenia,Koper,5,3,3,3,5
+CAR0199,Albania,Tirana,2,3,3,3,4
+CAR0200,Montenegro,Podgorica,3,2,3,4,4
+CAR0201,Slovenia,Ljubljana,3,3,3,2,4
+CAR0202,Serbia,Novi Sad,4,1,3,4,5
+CAR0203,Serbia,Belgrade,4,2,4,3,4
+CAR0204,Slovenia,Maribor,3,4,3,1,4
+CAR0205,Montenegro,Cetinje,4,3,4,3,5
+CAR0206,Serbia,Novi Sad,3,3,4,4,5
+CAR0207,Montenegro,Nikšić,4,3,4,4,5
+CAR0208,Slovenia,Koper,3,2,4,2,4
+CAR0209,Albania,Shkodër,3,2,5,2,5
+CAR0210,Albania,Durrës,3,3,4,2,3
+CAR0211,Serbia,Novi Sad,2,2,5,5,5
+CAR0212,Albania,Durrës,3,4,2,4,4
+CAR0213,Serbia,Belgrade,2,1,4,4,5
+CAR0214,Montenegro,Nikšić,4,4,3,2,5
+CAR0215,North Macedonia,Skopje,3,2,4,3,3
+CAR0216,Montenegro,Cetinje,4,2,4,3,4
+CAR0217,Slovenia,Maribor,3,3,4,3,4
+CAR0218,North Macedonia,Skopje,3,5,3,4,5
+CAR0219,Montenegro,Podgorica,3,3,3,3,5
+CAR0220,North Macedonia,Ohrid,3,4,3,4,5
+CAR0221,Bosnia and Herzegovina,Sarajevo,1,4,3,3,3
+CAR0222,Croatia,Rijeka,4,2,3,2,3
+CAR0223,North Macedonia,Skopje,2,4,3,4,5
+CAR0224,Croatia,Split,4,2,3,4,4
+CAR0225,Albania,Shkodër,2,4,4,3,4
+CAR0226,North Macedonia,Bitola,5,3,2,2,4
+CAR0227,Croatia,Zagreb,3,4,3,3,4
+CAR0228,Kosovo,Pristina,4,2,4,3,4
+CAR0229,Serbia,Belgrade,3,2,3,3,4
+CAR0230,Albania,Tirana,4,2,2,4,4
+CAR0231,Serbia,Belgrade,4,3,4,2,4
+CAR0232,Bosnia and Herzegovina,Sarajevo,2,3,4,4,4
+CAR0233,Serbia,Novi Sad,5,3,3,2,4
+CAR0234,Bosnia and Herzegovina,Sarajevo,2,4,4,3,4
+CAR0235,Croatia,Split,3,2,3,2,4
+CAR0236,Serbia,Belgrade,4,3,2,3,4
+CAR0237,Slovenia,Koper,4,5,2,3,5
+CAR0238,Croatia,Split,5,4,3,3,5
+CAR0239,Slovenia,Ljubljana,4,3,5,3,5
+CAR0240,Croatia,Split,3,3,5,4,5
+CAR0241,Croatia,Split,4,3,4,3,4
+CAR0242,Bosnia and Herzegovina,Banja Luka,2,3,4,4,4
+CAR0243,North Macedonia,Ohrid,3,3,4,2,4
+CAR0244,Kosovo,Peja,4,3,4,3,5
+CAR0245,North Macedonia,Skopje,3,3,4,3,4
+CAR0246,Albania,Shkodër,5,1,5,4,4
+CAR0247,Albania,Tirana,3,4,3,3,4
+CAR0248,North Macedonia,Skopje,4,2,2,2,4
+CAR0249,Albania,Tirana,3,3,3,4,4
+CAR0250,Serbia,Niš,4,4,2,4,5
+CAR0251,Croatia,Zagreb,3,3,4,4,4
+CAR0252,Kosovo,Pristina,3,2,4,5,4
+CAR0253,North Macedonia,Bitola,3,3,2,2,3
+CAR0254,Slovenia,Maribor,5,3,4,3,5
+CAR0255,Serbia,Niš,4,4,4,2,4
+CAR0256,North Macedonia,Ohrid,3,3,4,3,3
+CAR0257,Serbia,Belgrade,4,3,3,3,4
+CAR0258,North Macedonia,Ohrid,4,4,3,3,5
+CAR0259,Serbia,Belgrade,3,4,5,3,4
+CAR0260,Bosnia and Herzegovina,Sarajevo,2,2,3,3,3
+CAR0261,Kosovo,Peja,3,5,3,3,4
+CAR0262,Croatia,Split,2,3,5,3,4
+CAR0263,Croatia,Zagreb,3,2,4,2,4
+CAR0264,Montenegro,Podgorica,2,2,2,3,3
+CAR0265,Albania,Shkodër,4,3,4,3,4
+CAR0266,North Macedonia,Skopje,4,5,3,2,4
+CAR0267,Kosovo,Peja,4,3,4,3,4
+CAR0268,Albania,Durrës,4,3,3,2,4
+CAR0269,Bosnia and Herzegovina,Banja Luka,3,3,4,2,4
+CAR0270,Croatia,Split,4,3,4,3,4
+CAR0271,Bosnia and Herzegovina,Mostar,4,3,3,3,4
+CAR0272,Croatia,Split,2,2,2,3,4
+CAR0273,Albania,Durrës,3,3,4,4,5
+CAR0274,Slovenia,Koper,4,3,5,4,5
+CAR0275,Bosnia and Herzegovina,Sarajevo,3,3,4,3,4
+CAR0276,Kosovo,Pristina,4,3,3,5,5
+CAR0277,Kosovo,Prizren,4,3,3,3,4
+CAR0278,Kosovo,Pristina,3,3,3,3,4
+CAR0279,Serbia,Novi Sad,2,3,3,3,4
+CAR0280,North Macedonia,Skopje,2,4,2,3,4
+CAR0281,Montenegro,Cetinje,2,2,4,3,4
+CAR0282,Croatia,Zagreb,3,3,3,4,4
+CAR0283,Croatia,Split,4,2,4,4,4
+CAR0284,North Macedonia,Bitola,2,3,3,1,2
+CAR0285,Montenegro,Cetinje,4,4,3,3,5
+CAR0286,Bosnia and Herzegovina,Sarajevo,3,3,3,3,5
+CAR0287,Croatia,Split,4,5,4,2,5
+CAR0288,Montenegro,Podgorica,3,3,4,2,3
+CAR0289,Slovenia,Ljubljana,4,4,3,3,5
+CAR0290,Kosovo,Peja,4,3,3,4,5
+CAR0291,Serbia,Novi Sad,4,3,4,3,5
+CAR0292,Montenegro,Cetinje,2,2,3,2,4
+CAR0293,Montenegro,Nikšić,4,3,4,2,4
+CAR0294,Serbia,Belgrade,2,4,5,4,4
+CAR0295,Slovenia,Koper,3,4,4,3,5
+CAR0296,Bosnia and Herzegovina,Sarajevo,3,3,3,3,4
+CAR0297,Slovenia,Koper,3,2,3,3,3
+CAR0298,Serbia,Belgrade,3,4,3,2,4
+CAR0299,North Macedonia,Ohrid,4,3,4,5,5
+CAR0300,North Macedonia,Skopje,5,4,4,4,5
+CAR0301,Albania,Durrës,5,3,3,3,4
+CAR0302,North Macedonia,Bitola,3,3,4,3,4
+CAR0303,Serbia,Belgrade,4,2,4,2,4
+CAR0304,Slovenia,Maribor,4,4,5,4,5
+CAR0305,North Macedonia,Skopje,3,4,4,2,5
+CAR0306,Slovenia,Maribor,5,3,2,4,4
+CAR0307,Croatia,Zagreb,2,4,3,3,3
+CAR0308,Montenegro,Nikšić,3,3,4,2,4
+CAR0309,Bosnia and Herzegovina,Sarajevo,4,4,4,5,5
+CAR0310,Slovenia,Koper,4,5,4,3,5
+CAR0311,Albania,Tirana,4,4,2,5,5
+CAR0312,Bosnia and Herzegovina,Mostar,3,3,3,3,4
+CAR0313,Bosnia and Herzegovina,Sarajevo,2,2,3,2,4
+CAR0314,North Macedonia,Bitola,3,3,3,2,4
+CAR0315,North Macedonia,Bitola,3,3,4,3,4
+CAR0316,Bosnia and Herzegovina,Sarajevo,3,3,4,4,5
+CAR0317,Bosnia and Herzegovina,Mostar,4,2,4,3,3
+CAR0318,Bosnia and Herzegovina,Banja Luka,2,4,4,2,4
+CAR0319,North Macedonia,Skopje,3,2,3,2,3
+CAR0320,North Macedonia,Bitola,4,3,2,3,4
+CAR0321,Slovenia,Koper,1,2,4,4,4
+CAR0322,Bosnia and Herzegovina,Mostar,3,4,3,3,4
+CAR0323,Albania,Tirana,2,3,2,3,3
+CAR0324,Serbia,Niš,5,4,4,3,5
+CAR0325,Slovenia,Koper,4,2,2,3,3
+CAR0326,Serbia,Belgrade,2,4,4,4,5
+CAR0327,Croatia,Zagreb,4,4,4,4,5
+CAR0328,Serbia,Novi Sad,3,4,2,3,3
+CAR0329,North Macedonia,Bitola,3,2,4,5,5
+CAR0330,Slovenia,Maribor,3,3,4,3,4
+CAR0331,North Macedonia,Skopje,2,3,3,3,3
+CAR0332,Kosovo,Peja,3,3,4,4,4
+CAR0333,Albania,Durrës,3,4,2,3,5
+CAR0334,Bosnia and Herzegovina,Sarajevo,3,4,4,4,5
+CAR0335,Bosnia and Herzegovina,Banja Luka,3,5,3,3,4
+CAR0336,Serbia,Novi Sad,4,3,4,3,4
+CAR0337,Kosovo,Prizren,3,3,3,3,3
+CAR0338,Bosnia and Herzegovina,Mostar,4,2,4,2,3
+CAR0339,Serbia,Belgrade,4,4,2,3,3
+CAR0340,North Macedonia,Bitola,3,3,4,3,5
+CAR0341,Slovenia,Ljubljana,3,4,4,3,4
+CAR0342,North Macedonia,Ohrid,2,3,3,4,4
+CAR0343,Croatia,Split,4,4,2,4,5
+CAR0344,North Macedonia,Bitola,3,4,4,4,4
+CAR0345,Slovenia,Ljubljana,4,1,4,4,5
+CAR0346,Kosovo,Peja,3,4,3,3,4
+CAR0347,Bosnia and Herzegovina,Sarajevo,3,3,4,2,4
+CAR0348,Bosnia and Herzegovina,Sarajevo,2,4,3,3,4
+CAR0349,Albania,Durrës,2,5,3,3,5
+CAR0350,Montenegro,Cetinje,3,3,3,3,3
+CAR0351,Slovenia,Koper,2,2,1,3,3
+CAR0352,Kosovo,Peja,4,3,4,4,5
+CAR0353,Montenegro,Nikšić,5,2,4,4,5
+CAR0354,Albania,Tirana,3,3,4,3,4
+CAR0355,Serbia,Novi Sad,3,2,4,4,4
+CAR0356,Croatia,Rijeka,3,4,3,4,5
+CAR0357,Croatia,Split,2,4,3,4,5
+CAR0358,Bosnia and Herzegovina,Banja Luka,2,2,5,3,5
+CAR0359,Montenegro,Cetinje,2,3,3,3,4
+CAR0360,North Macedonia,Ohrid,3,4,3,3,4
+CAR0361,Bosnia and Herzegovina,Sarajevo,3,2,3,2,3
+CAR0362,Kosovo,Prizren,2,4,3,4,4
+CAR0363,Croatia,Zagreb,3,5,3,4,5
+CAR0364,Serbia,Niš,5,4,4,4,5
+CAR0365,Croatia,Zagreb,3,3,4,4,5
+CAR0366,Bosnia and Herzegovina,Mostar,2,4,4,4,4
+CAR0367,Bosnia and Herzegovina,Sarajevo,4,4,1,5,5
+CAR0368,Slovenia,Maribor,3,3,3,3,5
+CAR0369,Montenegro,Nikšić,3,2,3,4,3
+CAR0370,Bosnia and Herzegovina,Sarajevo,3,3,4,4,5
+CAR0371,North Macedonia,Bitola,3,4,2,3,4
+CAR0372,Bosnia and Herzegovina,Mostar,2,4,4,4,4
+CAR0373,North Macedonia,Bitola,3,2,2,2,3
+CAR0374,Kosovo,Peja,3,2,3,4,4
+CAR0375,North Macedonia,Ohrid,2,4,2,2,4
+CAR0376,Montenegro,Nikšić,3,3,4,3,4
+CAR0377,Kosovo,Pristina,1,4,4,3,3
+CAR0378,Slovenia,Maribor,4,3,5,4,5
+CAR0379,Bosnia and Herzegovina,Mostar,3,4,3,4,4
+CAR0380,Bosnia and Herzegovina,Sarajevo,3,2,4,3,4
+CAR0381,Montenegro,Podgorica,4,4,3,4,5
+CAR0382,Serbia,Belgrade,2,4,2,3,4
+CAR0383,Croatia,Rijeka,2,3,2,3,3
+CAR0384,Croatia,Split,4,5,2,2,5
+CAR0385,Slovenia,Maribor,3,2,5,3,4
+CAR0386,Montenegro,Nikšić,2,4,3,4,4
+CAR0387,Serbia,Niš,3,3,4,4,4
+CAR0388,Serbia,Belgrade,4,3,3,4,5
+CAR0389,Serbia,Niš,3,4,3,1,4
+CAR0390,Bosnia and Herzegovina,Sarajevo,2,4,4,3,4
+CAR0391,Albania,Tirana,2,4,4,4,5
+CAR0392,Serbia,Novi Sad,4,3,3,3,4
+CAR0393,North Macedonia,Bitola,3,4,3,2,4
+CAR0394,Albania,Durrës,4,3,4,3,3
+CAR0395,Croatia,Split,3,3,3,5,5
+CAR0396,Serbia,Belgrade,4,4,4,2,5
+CAR0397,Montenegro,Cetinje,3,3,4,1,4
+CAR0398,North Macedonia,Bitola,4,3,3,4,5
+CAR0399,Montenegro,Nikšić,3,2,3,3,4
+CAR0400,Bosnia and Herzegovina,Sarajevo,4,3,4,2,4
+CAR0401,Croatia,Zagreb,3,1,3,3,4
+CAR0402,Croatia,Rijeka,3,3,5,4,5
+CAR0403,Bosnia and Herzegovina,Sarajevo,3,4,3,3,5
+CAR0404,Serbia,Niš,3,3,4,3,5
+CAR0405,Slovenia,Koper,3,4,5,3,5
+CAR0406,Kosovo,Prizren,3,2,3,3,5
+CAR0407,Kosovo,Pristina,3,4,2,4,5
+CAR0408,Croatia,Split,2,2,3,4,5
+CAR0409,Slovenia,Maribor,3,4,4,2,4
+CAR0410,Serbia,Belgrade,2,2,4,2,4
+CAR0411,Croatia,Split,4,3,2,4,4
+CAR0412,Croatia,Zagreb,3,3,4,5,5
+CAR0413,Slovenia,Koper,3,4,4,4,4
+CAR0414,North Macedonia,Ohrid,4,3,3,3,5
+CAR0415,Montenegro,Podgorica,2,3,3,5,5
+CAR0416,Albania,Shkodër,4,3,5,3,5
+CAR0417,Bosnia and Herzegovina,Sarajevo,3,3,2,3,3
+CAR0418,Serbia,Niš,4,3,4,4,5
+CAR0419,Kosovo,Prizren,5,2,4,3,5
+CAR0420,Serbia,Belgrade,2,2,4,3,4
+CAR0421,Bosnia and Herzegovina,Banja Luka,3,3,3,3,4
+CAR0422,Croatia,Rijeka,3,3,3,2,4
+CAR0423,Bosnia and Herzegovina,Sarajevo,2,4,4,5,5
+CAR0424,Montenegro,Nikšić,3,3,4,3,4
+CAR0425,North Macedonia,Skopje,4,3,3,2,4
+CAR0426,Croatia,Split,2,5,3,4,4
+CAR0427,North Macedonia,Bitola,3,2,2,3,3
+CAR0428,Montenegro,Nikšić,3,3,5,3,4
+CAR0429,Serbia,Niš,3,2,2,2,3
+CAR0430,Montenegro,Cetinje,3,4,2,3,4
+CAR0431,Slovenia,Ljubljana,3,4,2,3,4
+CAR0432,Montenegro,Podgorica,3,3,4,3,5
+CAR0433,Albania,Durrës,4,4,4,4,5
+CAR0434,Serbia,Belgrade,4,5,3,4,5
+CAR0435,North Macedonia,Bitola,2,3,3,4,4
+CAR0436,Bosnia and Herzegovina,Mostar,3,3,3,3,3
+CAR0437,Serbia,Belgrade,4,3,3,4,5
+CAR0438,Bosnia and Herzegovina,Mostar,3,3,5,3,4
+CAR0439,Slovenia,Maribor,3,2,4,2,4
+CAR0440,Albania,Shkodër,2,2,5,4,4
+CAR0441,Serbia,Belgrade,3,2,2,3,4
+CAR0442,North Macedonia,Bitola,4,3,3,4,4
+CAR0443,Montenegro,Cetinje,5,4,3,3,5
+CAR0444,Montenegro,Cetinje,5,3,3,4,5
+CAR0445,Slovenia,Maribor,2,3,3,3,4
+CAR0446,Albania,Durrës,3,3,3,5,5
+CAR0447,Albania,Shkodër,2,3,3,3,4
+CAR0448,Slovenia,Ljubljana,3,1,2,2,3
+CAR0449,Serbia,Belgrade,3,3,4,4,4
+CAR0450,Bosnia and Herzegovina,Sarajevo,3,4,2,2,4

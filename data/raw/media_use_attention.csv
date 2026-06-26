@@ -1,0 +1,561 @@
+id,country,city,daily_screen_hours,notification_pressure,mindful_media_use,study_focus,academic_distraction
+MED0001,Bosnia and Herzegovina,Banja Luka,4.3,2,2,5,3
+MED0002,Croatia,Zagreb,4.8,3,3,2,4
+MED0003,North Macedonia,Bitola,1.6,4,3,5,2
+MED0004,Croatia,Rijeka,7.6,3,5,3,3
+MED0005,Slovenia,Maribor,4.8,2,3,5,1
+MED0006,Bosnia and Herzegovina,Sarajevo,3.6,4,4,4,3
+MED0007,Albania,Durrës,7.3,3,4,4,5
+MED0008,Serbia,Novi Sad,6.1,4,3,4,3
+MED0009,Kosovo,Pristina,2.0,2,3,5,1
+MED0010,Bosnia and Herzegovina,Mostar,5.1,4,3,5,4
+MED0011,Slovenia,Maribor,7.9,3,1,3,4
+MED0012,Slovenia,Maribor,1.9,5,4,5,2
+MED0013,Albania,Shkodër,3.6,4,3,4,4
+MED0014,Bosnia and Herzegovina,Sarajevo,2.5,2,4,5,3
+MED0015,Croatia,Rijeka,5.4,3,4,3,3
+MED0016,Albania,Shkodër,4.0,4,3,3,3
+MED0017,Serbia,Belgrade,5.7,3,2,5,3
+MED0018,Kosovo,Peja,4.8,3,4,4,2
+MED0019,Montenegro,Podgorica,5.1,2,3,4,2
+MED0020,Kosovo,Pristina,2.9,3,1,5,2
+MED0021,Croatia,Rijeka,5.0,2,2,4,4
+MED0022,Serbia,Novi Sad,5.1,3,3,5,4
+MED0023,Croatia,Split,3.1,3,4,5,4
+MED0024,Bosnia and Herzegovina,Banja Luka,5.5,2,2,2,3
+MED0025,Kosovo,Peja,4.6,4,1,3,4
+MED0026,Slovenia,Koper,7.1,3,2,2,4
+MED0027,Montenegro,Nikšić,1.9,3,2,4,3
+MED0028,Slovenia,Maribor,5.2,3,4,4,3
+MED0029,Slovenia,Maribor,1.5,4,2,4,1
+MED0030,Serbia,Novi Sad,10.3,4,4,2,4
+MED0031,Albania,Tirana,2.1,2,3,5,2
+MED0032,Bosnia and Herzegovina,Mostar,6.3,3,3,3,4
+MED0033,Kosovo,Prizren,6.8,4,3,4,3
+MED0034,Kosovo,Peja,5.2,3,3,4,4
+MED0035,Serbia,Niš,3.8,4,2,3,4
+MED0036,Albania,Durrës,3.1,5,2,5,4
+MED0037,Slovenia,Koper,7.3,4,3,5,3
+MED0038,Bosnia and Herzegovina,Sarajevo,5.5,3,4,4,3
+MED0039,Montenegro,Nikšić,5.0,4,4,4,2
+MED0040,North Macedonia,Skopje,8.8,5,2,4,5
+MED0041,North Macedonia,Skopje,2.8,4,2,5,3
+MED0042,Croatia,Rijeka,3.5,5,5,5,2
+MED0043,Slovenia,Ljubljana,5.6,3,2,5,4
+MED0044,Albania,Tirana,5.8,2,2,5,2
+MED0045,Croatia,Rijeka,3.5,3,2,5,1
+MED0046,Kosovo,Peja,2.7,3,1,4,2
+MED0047,Croatia,Split,8.6,4,3,3,4
+MED0048,Croatia,Rijeka,6.2,3,2,3,4
+MED0049,Croatia,Split,6.0,2,4,3,2
+MED0050,North Macedonia,Skopje,7.1,4,3,4,5
+MED0051,Kosovo,Prizren,7.7,4,4,3,5
+MED0052,Bosnia and Herzegovina,Banja Luka,8.4,4,3,3,5
+MED0053,Slovenia,Ljubljana,8.2,1,3,3,3
+MED0054,Serbia,Belgrade,3.6,3,3,4,4
+MED0055,Albania,Durrës,0.5,3,4,5,1
+MED0056,Bosnia and Herzegovina,Banja Luka,2.2,2,2,5,3
+MED0057,Bosnia and Herzegovina,Sarajevo,5.9,3,1,5,4
+MED0058,Kosovo,Pristina,4.5,4,3,5,4
+MED0059,Kosovo,Prizren,4.6,4,4,3,2
+MED0060,Slovenia,Maribor,2.5,3,2,5,4
+MED0061,North Macedonia,Bitola,5.6,4,4,5,2
+MED0062,North Macedonia,Bitola,5.2,2,3,5,4
+MED0063,Slovenia,Koper,3.3,3,2,5,2
+MED0064,Montenegro,Cetinje,3.7,3,2,3,3
+MED0065,Serbia,Niš,1.7,4,3,5,2
+MED0066,Montenegro,Podgorica,4.3,3,4,5,4
+MED0067,North Macedonia,Bitola,6.0,2,1,4,4
+MED0068,Serbia,Niš,3.1,3,4,5,3
+MED0069,Croatia,Rijeka,2.1,2,2,4,1
+MED0070,Bosnia and Herzegovina,Banja Luka,4.1,3,3,5,1
+MED0071,Slovenia,Maribor,1.8,3,2,4,3
+MED0072,Albania,Tirana,5.0,4,2,3,4
+MED0073,Albania,Durrës,4.5,2,3,3,2
+MED0074,Croatia,Split,4.7,4,3,5,4
+MED0075,Kosovo,Peja,2.9,4,4,4,3
+MED0076,Slovenia,Maribor,7.5,3,3,4,5
+MED0077,Croatia,Rijeka,6.9,3,4,4,3
+MED0078,Serbia,Belgrade,2.2,4,3,5,4
+MED0079,Albania,Durrës,5.0,1,3,4,4
+MED0080,North Macedonia,Skopje,3.7,3,4,4,2
+MED0081,Croatia,Rijeka,4.6,3,4,4,2
+MED0082,Croatia,Zagreb,5.8,2,4,4,3
+MED0083,Serbia,Niš,4.0,5,2,4,4
+MED0084,Croatia,Zagreb,3.8,5,2,4,4
+MED0085,Albania,Shkodër,3.3,4,2,5,4
+MED0086,Kosovo,Prizren,6.1,3,2,4,5
+MED0087,Albania,Tirana,2.4,3,2,4,4
+MED0088,Croatia,Rijeka,6.6,2,3,4,4
+MED0089,Croatia,Zagreb,5.7,4,3,3,4
+MED0090,Bosnia and Herzegovina,Banja Luka,2.3,4,3,5,2
+MED0091,Bosnia and Herzegovina,Mostar,3.7,4,2,4,4
+MED0092,Croatia,Split,0.7,2,2,5,2
+MED0093,North Macedonia,Skopje,4.9,4,2,1,4
+MED0094,North Macedonia,Ohrid,2.9,2,4,5,2
+MED0095,Bosnia and Herzegovina,Banja Luka,3.1,4,3,5,5
+MED0096,Croatia,Split,2.2,3,4,5,3
+MED0097,North Macedonia,Ohrid,3.4,2,3,5,4
+MED0098,North Macedonia,Skopje,2.9,3,4,5,2
+MED0099,Slovenia,Koper,3.5,3,1,5,4
+MED0100,Kosovo,Pristina,6.2,5,3,5,5
+MED0101,Croatia,Zagreb,4.8,4,3,5,5
+MED0102,Montenegro,Cetinje,5.3,2,3,4,3
+MED0103,North Macedonia,Skopje,4.0,2,4,5,2
+MED0104,North Macedonia,Ohrid,4.4,3,4,4,3
+MED0105,Kosovo,Prizren,2.5,1,5,5,3
+MED0106,Croatia,Zagreb,4.5,2,2,4,3
+MED0107,North Macedonia,Bitola,7.6,3,1,4,5
+MED0108,Kosovo,Pristina,5.2,3,3,4,4
+MED0109,Serbia,Belgrade,7.9,2,2,5,4
+MED0110,Kosovo,Prizren,1.7,3,5,3,1
+MED0111,Serbia,Niš,3.7,4,2,5,4
+MED0112,Serbia,Belgrade,2.7,2,2,3,3
+MED0113,Albania,Shkodër,5.3,4,4,3,3
+MED0114,Serbia,Belgrade,2.0,2,2,5,1
+MED0115,Montenegro,Nikšić,5.6,4,4,4,3
+MED0116,Croatia,Rijeka,3.4,2,3,3,2
+MED0117,Bosnia and Herzegovina,Sarajevo,4.8,1,3,4,1
+MED0118,Slovenia,Koper,4.9,4,4,5,2
+MED0119,Montenegro,Cetinje,7.6,3,3,4,4
+MED0120,Bosnia and Herzegovina,Mostar,2.5,3,2,3,4
+MED0121,Kosovo,Peja,6.5,3,5,4,3
+MED0122,North Macedonia,Ohrid,4.0,3,3,3,3
+MED0123,North Macedonia,Ohrid,5.6,3,3,4,3
+MED0124,Albania,Tirana,7.2,4,1,5,5
+MED0125,North Macedonia,Skopje,2.8,2,4,4,1
+MED0126,Albania,Shkodër,5.0,3,2,4,5
+MED0127,Montenegro,Podgorica,5.3,2,3,5,4
+MED0128,Croatia,Zagreb,4.2,3,3,5,4
+MED0129,Montenegro,Nikšić,5.7,2,2,5,3
+MED0130,Slovenia,Maribor,2.0,3,1,5,3
+MED0131,Montenegro,Nikšić,7.3,3,3,3,4
+MED0132,Bosnia and Herzegovina,Sarajevo,1.7,4,3,5,2
+MED0133,Bosnia and Herzegovina,Mostar,1.7,4,2,5,3
+MED0134,Croatia,Split,6.8,2,2,4,5
+MED0135,Montenegro,Nikšić,6.3,4,4,3,5
+MED0136,Slovenia,Koper,7.2,5,4,5,5
+MED0137,Albania,Shkodër,6.7,1,3,2,2
+MED0138,Croatia,Split,4.8,1,2,3,2
+MED0139,North Macedonia,Ohrid,4.3,3,4,4,3
+MED0140,Kosovo,Prizren,3.0,4,2,5,3
+MED0141,Kosovo,Peja,10.7,4,3,3,5
+MED0142,Slovenia,Koper,5.4,2,3,5,3
+MED0143,Bosnia and Herzegovina,Sarajevo,5.0,2,3,5,3
+MED0144,Slovenia,Koper,3.8,4,2,5,4
+MED0145,Bosnia and Herzegovina,Mostar,4.3,4,3,5,5
+MED0146,Kosovo,Peja,3.1,4,3,5,2
+MED0147,Albania,Shkodër,3.8,1,2,2,4
+MED0148,North Macedonia,Skopje,3.4,3,3,5,4
+MED0149,Montenegro,Podgorica,6.0,3,4,2,3
+MED0150,Slovenia,Koper,5.2,3,1,5,3
+MED0151,North Macedonia,Ohrid,5.9,3,3,4,2
+MED0152,Slovenia,Ljubljana,6.4,2,2,3,5
+MED0153,Serbia,Novi Sad,5.6,2,2,5,3
+MED0154,Montenegro,Nikšić,6.1,1,3,1,3
+MED0155,North Macedonia,Bitola,4.5,2,1,5,2
+MED0156,North Macedonia,Ohrid,5.4,3,2,5,4
+MED0157,Croatia,Zagreb,4.8,5,3,2,4
+MED0158,Serbia,Niš,2.0,3,3,5,2
+MED0159,Slovenia,Koper,2.4,3,4,4,3
+MED0160,North Macedonia,Ohrid,5.8,4,3,4,3
+MED0161,Bosnia and Herzegovina,Mostar,7.4,3,3,3,4
+MED0162,Slovenia,Maribor,7.0,3,2,3,4
+MED0163,Slovenia,Ljubljana,6.3,2,3,3,3
+MED0164,Croatia,Rijeka,5.4,2,1,5,2
+MED0165,North Macedonia,Ohrid,7.2,3,3,5,4
+MED0166,Croatia,Split,2.9,3,3,3,3
+MED0167,Kosovo,Peja,2.3,3,2,4,2
+MED0168,Kosovo,Prizren,6.4,2,2,4,4
+MED0169,Serbia,Novi Sad,2.5,4,3,5,2
+MED0170,Albania,Shkodër,2.7,3,2,4,2
+MED0171,Serbia,Novi Sad,4.1,2,2,3,2
+MED0172,Bosnia and Herzegovina,Banja Luka,6.3,3,4,3,3
+MED0173,Croatia,Rijeka,7.4,4,4,5,4
+MED0174,Slovenia,Ljubljana,8.9,2,1,4,4
+MED0175,Albania,Shkodër,8.3,2,4,3,4
+MED0176,Montenegro,Nikšić,4.6,3,3,4,3
+MED0177,Croatia,Rijeka,4.9,4,3,5,3
+MED0178,Slovenia,Koper,4.7,3,2,2,2
+MED0179,Montenegro,Nikšić,5.2,1,3,3,4
+MED0180,Serbia,Novi Sad,3.4,3,3,4,2
+MED0181,Croatia,Zagreb,7.4,3,2,4,5
+MED0182,Bosnia and Herzegovina,Mostar,5.4,3,3,5,5
+MED0183,Serbia,Novi Sad,3.6,3,2,4,3
+MED0184,Montenegro,Podgorica,7.4,1,4,3,4
+MED0185,Montenegro,Nikšić,5.9,3,4,4,3
+MED0186,Albania,Shkodër,2.8,3,2,4,4
+MED0187,Montenegro,Cetinje,3.3,5,3,5,3
+MED0188,Kosovo,Pristina,4.5,1,2,3,1
+MED0189,Bosnia and Herzegovina,Sarajevo,4.8,4,2,3,2
+MED0190,Montenegro,Cetinje,2.7,4,2,5,3
+MED0191,Serbia,Niš,6.1,4,4,4,4
+MED0192,North Macedonia,Ohrid,3.9,3,3,4,4
+MED0193,Albania,Durrës,4.2,2,3,3,3
+MED0194,Albania,Tirana,0.5,3,3,5,3
+MED0195,Croatia,Zagreb,3.9,5,2,5,4
+MED0196,Slovenia,Ljubljana,6.1,4,3,5,3
+MED0197,Slovenia,Koper,7.4,3,3,5,3
+MED0198,Croatia,Rijeka,5.1,2,4,4,2
+MED0199,Montenegro,Nikšić,3.7,3,4,4,2
+MED0200,Slovenia,Ljubljana,3.9,3,5,5,1
+MED0201,Serbia,Niš,7.0,3,2,4,4
+MED0202,Serbia,Novi Sad,3.1,2,3,4,2
+MED0203,Albania,Tirana,4.5,2,2,4,3
+MED0204,Kosovo,Peja,5.4,2,3,4,4
+MED0205,Albania,Durrës,5.9,2,2,4,2
+MED0206,Serbia,Niš,5.4,3,3,3,3
+MED0207,Bosnia and Herzegovina,Mostar,0.6,2,3,5,1
+MED0208,Slovenia,Ljubljana,3.8,3,3,5,3
+MED0209,Slovenia,Maribor,2.5,4,1,5,3
+MED0210,North Macedonia,Skopje,1.7,2,3,5,3
+MED0211,Montenegro,Nikšić,2.2,4,3,5,2
+MED0212,Montenegro,Cetinje,4.3,3,3,4,2
+MED0213,Croatia,Split,4.8,4,4,3,4
+MED0214,Serbia,Niš,6.2,4,3,4,4
+MED0215,Croatia,Rijeka,4.5,4,5,4,3
+MED0216,Montenegro,Nikšić,0.5,4,3,5,2
+MED0217,Slovenia,Maribor,5.0,5,2,4,2
+MED0218,North Macedonia,Skopje,7.4,3,3,4,4
+MED0219,Montenegro,Cetinje,4.0,4,2,5,2
+MED0220,North Macedonia,Bitola,3.3,3,4,4,3
+MED0221,Albania,Tirana,5.9,3,4,5,1
+MED0222,North Macedonia,Ohrid,4.4,3,4,5,2
+MED0223,Kosovo,Peja,4.8,5,2,4,4
+MED0224,Bosnia and Herzegovina,Mostar,4.0,4,4,5,3
+MED0225,Serbia,Belgrade,2.9,4,3,3,3
+MED0226,North Macedonia,Skopje,7.4,2,4,2,2
+MED0227,Slovenia,Koper,4.1,4,4,5,3
+MED0228,Bosnia and Herzegovina,Mostar,0.8,3,3,4,3
+MED0229,Albania,Shkodër,3.7,2,3,4,1
+MED0230,Albania,Durrës,6.4,4,2,5,5
+MED0231,North Macedonia,Bitola,6.1,4,5,5,5
+MED0232,Kosovo,Prizren,8.8,3,2,1,4
+MED0233,Bosnia and Herzegovina,Mostar,6.2,4,3,3,5
+MED0234,North Macedonia,Skopje,6.0,2,3,4,5
+MED0235,Croatia,Split,4.8,3,3,3,3
+MED0236,North Macedonia,Ohrid,8.0,3,2,5,5
+MED0237,North Macedonia,Bitola,6.8,4,3,5,3
+MED0238,Serbia,Belgrade,3.0,1,2,3,2
+MED0239,Slovenia,Koper,3.5,3,2,4,3
+MED0240,Serbia,Belgrade,2.8,1,1,5,3
+MED0241,Croatia,Split,5.1,3,3,4,5
+MED0242,Bosnia and Herzegovina,Mostar,0.5,2,2,5,3
+MED0243,Slovenia,Ljubljana,5.6,4,1,5,3
+MED0244,North Macedonia,Skopje,5.0,5,2,4,4
+MED0245,Montenegro,Podgorica,6.5,2,3,5,3
+MED0246,Kosovo,Pristina,5.2,3,3,5,3
+MED0247,Montenegro,Cetinje,7.6,5,2,5,5
+MED0248,Serbia,Niš,5.5,4,3,4,4
+MED0249,Albania,Durrës,7.5,5,3,4,4
+MED0250,Slovenia,Koper,5.3,4,3,5,5
+MED0251,Kosovo,Prizren,3.0,3,2,4,3
+MED0252,Croatia,Zagreb,8.5,3,4,4,3
+MED0253,Montenegro,Podgorica,6.6,3,2,3,4
+MED0254,North Macedonia,Ohrid,3.1,4,2,5,3
+MED0255,Serbia,Belgrade,4.7,2,2,5,2
+MED0256,Montenegro,Podgorica,3.4,4,3,5,4
+MED0257,Croatia,Split,5.9,4,3,3,4
+MED0258,Montenegro,Cetinje,5.4,3,3,5,3
+MED0259,Bosnia and Herzegovina,Banja Luka,5.1,3,3,4,4
+MED0260,Serbia,Novi Sad,4.8,3,4,5,3
+MED0261,Slovenia,Koper,2.9,3,3,5,2
+MED0262,Slovenia,Koper,4.0,2,2,4,4
+MED0263,Slovenia,Koper,4.2,2,5,4,3
+MED0264,Albania,Tirana,4.0,3,4,4,4
+MED0265,Croatia,Rijeka,4.0,3,3,5,4
+MED0266,Bosnia and Herzegovina,Banja Luka,4.1,3,2,4,3
+MED0267,Bosnia and Herzegovina,Sarajevo,7.8,2,2,3,4
+MED0268,Bosnia and Herzegovina,Sarajevo,6.2,3,4,3,4
+MED0269,North Macedonia,Skopje,1.4,3,3,4,2
+MED0270,North Macedonia,Ohrid,6.6,2,3,2,3
+MED0271,North Macedonia,Skopje,3.2,4,3,5,3
+MED0272,Croatia,Rijeka,2.4,4,1,5,4
+MED0273,Albania,Shkodër,4.3,3,1,3,5
+MED0274,Serbia,Novi Sad,6.9,3,2,3,5
+MED0275,North Macedonia,Ohrid,4.2,3,3,4,3
+MED0276,Slovenia,Ljubljana,7.3,3,4,5,4
+MED0277,Albania,Durrës,6.4,5,3,5,5
+MED0278,Serbia,Niš,5.9,3,3,5,3
+MED0279,Croatia,Rijeka,5.3,3,3,3,3
+MED0280,Albania,Durrës,7.4,3,3,4,3
+MED0281,Slovenia,Maribor,4.7,3,3,5,3
+MED0282,Kosovo,Peja,2.8,4,3,5,4
+MED0283,Kosovo,Prizren,2.1,3,2,5,4
+MED0284,Serbia,Belgrade,6.3,3,2,5,3
+MED0285,North Macedonia,Skopje,6.0,1,3,3,2
+MED0286,Albania,Shkodër,5.5,5,4,5,2
+MED0287,Bosnia and Herzegovina,Banja Luka,6.6,3,2,4,5
+MED0288,Slovenia,Ljubljana,2.4,3,4,5,2
+MED0289,Serbia,Niš,7.9,4,2,3,5
+MED0290,Kosovo,Peja,6.9,5,2,4,5
+MED0291,Serbia,Niš,4.2,2,2,5,3
+MED0292,Serbia,Novi Sad,8.1,1,3,4,5
+MED0293,Slovenia,Maribor,6.2,3,4,4,4
+MED0294,Croatia,Rijeka,3.3,3,3,5,3
+MED0295,Croatia,Rijeka,4.9,3,3,5,3
+MED0296,Croatia,Rijeka,4.8,2,3,5,2
+MED0297,Kosovo,Peja,5.6,3,2,5,3
+MED0298,Serbia,Niš,3.8,4,3,4,3
+MED0299,Albania,Tirana,6.1,2,3,3,3
+MED0300,Kosovo,Prizren,7.7,3,3,4,4
+MED0301,North Macedonia,Skopje,2.4,3,2,5,3
+MED0302,North Macedonia,Skopje,7.2,4,3,4,4
+MED0303,Serbia,Niš,5.7,1,2,5,2
+MED0304,Serbia,Belgrade,4.5,4,4,5,4
+MED0305,Albania,Tirana,7.6,5,4,3,5
+MED0306,Slovenia,Maribor,4.1,2,3,2,3
+MED0307,Montenegro,Cetinje,4.6,4,1,3,4
+MED0308,Albania,Shkodër,4.1,1,4,5,1
+MED0309,Croatia,Rijeka,2.4,3,4,5,2
+MED0310,Kosovo,Prizren,4.5,3,3,5,3
+MED0311,Slovenia,Maribor,3.6,5,2,3,4
+MED0312,Bosnia and Herzegovina,Mostar,3.7,3,5,4,2
+MED0313,North Macedonia,Skopje,5.0,4,2,4,5
+MED0314,Montenegro,Cetinje,0.5,3,2,5,2
+MED0315,Bosnia and Herzegovina,Sarajevo,4.6,2,2,5,4
+MED0316,Bosnia and Herzegovina,Banja Luka,5.9,2,3,3,4
+MED0317,Bosnia and Herzegovina,Banja Luka,6.6,3,4,3,5
+MED0318,North Macedonia,Bitola,5.2,5,3,4,2
+MED0319,Slovenia,Maribor,1.2,2,3,4,3
+MED0320,Croatia,Zagreb,6.0,2,4,4,2
+MED0321,Bosnia and Herzegovina,Mostar,8.1,2,2,4,5
+MED0322,Montenegro,Nikšić,5.0,3,3,5,3
+MED0323,Croatia,Zagreb,5.9,3,2,3,4
+MED0324,Montenegro,Podgorica,5.3,5,3,5,4
+MED0325,Bosnia and Herzegovina,Sarajevo,6.8,3,3,5,4
+MED0326,Serbia,Niš,4.4,2,4,4,2
+MED0327,Bosnia and Herzegovina,Banja Luka,2.1,5,3,4,4
+MED0328,Croatia,Zagreb,4.4,2,3,4,2
+MED0329,Serbia,Novi Sad,6.9,3,1,2,5
+MED0330,Slovenia,Koper,4.4,3,2,5,2
+MED0331,Serbia,Belgrade,3.7,2,3,4,2
+MED0332,Slovenia,Ljubljana,6.6,5,3,4,4
+MED0333,Kosovo,Peja,4.5,3,3,5,3
+MED0334,Serbia,Belgrade,4.1,3,3,5,3
+MED0335,Slovenia,Ljubljana,0.7,4,3,5,2
+MED0336,Bosnia and Herzegovina,Mostar,7.8,4,4,3,5
+MED0337,North Macedonia,Ohrid,5.3,3,3,5,2
+MED0338,Croatia,Rijeka,0.8,3,2,5,2
+MED0339,North Macedonia,Bitola,4.3,5,3,4,5
+MED0340,Serbia,Belgrade,4.1,2,3,4,3
+MED0341,Montenegro,Cetinje,3.8,3,4,5,3
+MED0342,Bosnia and Herzegovina,Mostar,6.9,3,4,4,4
+MED0343,Bosnia and Herzegovina,Banja Luka,4.5,4,3,3,4
+MED0344,Montenegro,Podgorica,6.1,1,3,3,3
+MED0345,Kosovo,Pristina,4.4,2,1,4,4
+MED0346,North Macedonia,Bitola,7.2,4,5,5,3
+MED0347,Kosovo,Peja,3.8,4,2,3,4
+MED0348,Kosovo,Peja,6.3,4,2,4,4
+MED0349,Croatia,Rijeka,4.7,5,3,4,4
+MED0350,Serbia,Belgrade,4.7,3,2,5,3
+MED0351,Croatia,Rijeka,5.5,3,3,3,2
+MED0352,Bosnia and Herzegovina,Sarajevo,3.5,3,2,5,3
+MED0353,Albania,Durrës,4.2,4,2,5,2
+MED0354,Serbia,Niš,2.9,2,3,4,2
+MED0355,Croatia,Split,6.1,2,2,4,2
+MED0356,Montenegro,Cetinje,9.5,2,3,3,4
+MED0357,Croatia,Rijeka,7.1,2,3,3,4
+MED0358,North Macedonia,Skopje,3.5,4,2,4,4
+MED0359,Slovenia,Maribor,6.7,3,2,2,5
+MED0360,Serbia,Niš,5.8,5,4,4,3
+MED0361,Albania,Shkodër,3.1,2,2,5,3
+MED0362,Croatia,Rijeka,2.2,2,4,4,3
+MED0363,North Macedonia,Skopje,4.6,3,4,5,3
+MED0364,Slovenia,Ljubljana,3.7,2,2,5,1
+MED0365,Croatia,Split,3.1,2,3,5,2
+MED0366,Croatia,Rijeka,3.4,3,1,5,3
+MED0367,North Macedonia,Bitola,7.5,3,4,3,5
+MED0368,Croatia,Zagreb,3.2,2,2,5,1
+MED0369,North Macedonia,Bitola,6.6,4,3,5,4
+MED0370,Kosovo,Prizren,4.5,4,4,4,3
+MED0371,Albania,Shkodër,3.2,4,3,5,2
+MED0372,North Macedonia,Bitola,4.6,4,3,4,2
+MED0373,North Macedonia,Bitola,3.7,5,4,4,4
+MED0374,Montenegro,Nikšić,2.4,3,3,4,3
+MED0375,Montenegro,Cetinje,4.6,3,4,4,3
+MED0376,Albania,Shkodër,7.4,4,3,3,5
+MED0377,Croatia,Split,6.0,3,1,3,5
+MED0378,Albania,Shkodër,7.3,3,4,3,4
+MED0379,Croatia,Rijeka,5.2,3,2,3,4
+MED0380,Serbia,Belgrade,2.5,3,4,4,1
+MED0381,Bosnia and Herzegovina,Mostar,3.7,3,2,5,3
+MED0382,Montenegro,Nikšić,4.2,3,3,4,4
+MED0383,Bosnia and Herzegovina,Banja Luka,2.7,3,3,4,4
+MED0384,Montenegro,Nikšić,3.1,3,2,5,3
+MED0385,Serbia,Belgrade,4.4,4,3,4,2
+MED0386,Serbia,Niš,0.7,2,4,5,2
+MED0387,Serbia,Belgrade,4.1,4,4,4,4
+MED0388,Slovenia,Maribor,6.2,4,4,2,3
+MED0389,Slovenia,Maribor,6.4,3,3,5,3
+MED0390,Serbia,Belgrade,8.4,2,4,4,3
+MED0391,North Macedonia,Ohrid,4.6,4,2,5,5
+MED0392,Slovenia,Ljubljana,2.6,5,1,5,4
+MED0393,Croatia,Split,2.8,2,4,4,2
+MED0394,Bosnia and Herzegovina,Mostar,2.5,3,3,3,3
+MED0395,Bosnia and Herzegovina,Sarajevo,2.2,5,3,3,2
+MED0396,Serbia,Niš,7.1,5,3,3,4
+MED0397,Bosnia and Herzegovina,Sarajevo,4.9,4,2,5,4
+MED0398,Montenegro,Nikšić,4.6,1,1,5,5
+MED0399,Croatia,Rijeka,4.3,3,4,4,2
+MED0400,Bosnia and Herzegovina,Mostar,4.0,4,3,5,4
+MED0401,Montenegro,Podgorica,4.4,3,3,5,4
+MED0402,Montenegro,Nikšić,8.3,3,3,4,4
+MED0403,North Macedonia,Skopje,5.5,3,4,5,3
+MED0404,Bosnia and Herzegovina,Banja Luka,4.1,3,2,5,3
+MED0405,Croatia,Split,4.8,4,4,4,3
+MED0406,Albania,Shkodër,4.3,4,3,5,5
+MED0407,Kosovo,Prizren,5.5,2,3,4,4
+MED0408,Albania,Durrës,6.6,3,3,4,4
+MED0409,North Macedonia,Ohrid,5.7,2,3,3,2
+MED0410,Bosnia and Herzegovina,Mostar,6.0,3,3,4,4
+MED0411,Serbia,Novi Sad,7.8,2,3,4,4
+MED0412,Kosovo,Prizren,5.9,3,5,5,3
+MED0413,Serbia,Belgrade,6.7,3,2,4,3
+MED0414,Serbia,Niš,3.5,2,3,4,3
+MED0415,Kosovo,Peja,7.4,3,4,5,3
+MED0416,Montenegro,Cetinje,3.1,3,3,5,2
+MED0417,Slovenia,Koper,5.0,5,3,3,4
+MED0418,Slovenia,Ljubljana,3.6,3,3,4,2
+MED0419,Croatia,Zagreb,7.4,1,2,4,2
+MED0420,Serbia,Novi Sad,4.4,2,3,5,3
+MED0421,Slovenia,Maribor,7.8,3,4,4,2
+MED0422,Slovenia,Maribor,5.2,3,1,5,4
+MED0423,Albania,Shkodër,5.7,2,2,4,4
+MED0424,Slovenia,Koper,4.7,1,4,3,4
+MED0425,Montenegro,Nikšić,4.6,4,4,5,3
+MED0426,Serbia,Novi Sad,2.4,4,2,5,4
+MED0427,North Macedonia,Skopje,7.0,3,2,4,4
+MED0428,Croatia,Rijeka,6.7,5,1,4,4
+MED0429,Montenegro,Cetinje,2.1,3,3,4,2
+MED0430,Slovenia,Ljubljana,7.5,4,4,2,5
+MED0431,Montenegro,Cetinje,7.9,2,2,5,4
+MED0432,Montenegro,Cetinje,3.5,4,3,3,3
+MED0433,Croatia,Zagreb,3.5,5,2,3,4
+MED0434,Bosnia and Herzegovina,Sarajevo,5.2,1,3,4,3
+MED0435,Montenegro,Cetinje,8.3,4,2,4,4
+MED0436,Albania,Shkodër,4.7,4,4,4,3
+MED0437,Kosovo,Pristina,4.6,3,2,3,4
+MED0438,Slovenia,Ljubljana,3.2,5,4,4,4
+MED0439,Albania,Durrës,5.3,1,2,4,3
+MED0440,Montenegro,Nikšić,6.5,4,4,5,4
+MED0441,Slovenia,Maribor,4.4,3,2,5,3
+MED0442,Serbia,Novi Sad,0.6,2,2,5,2
+MED0443,Croatia,Zagreb,3.9,3,3,5,1
+MED0444,Croatia,Split,7.0,2,2,3,4
+MED0445,Montenegro,Cetinje,2.9,3,4,5,2
+MED0446,Croatia,Split,7.8,2,2,2,4
+MED0447,Bosnia and Herzegovina,Banja Luka,5.9,2,3,5,2
+MED0448,Kosovo,Prizren,4.5,4,2,4,4
+MED0449,North Macedonia,Ohrid,5.2,3,2,3,4
+MED0450,North Macedonia,Skopje,4.5,4,4,3,4
+MED0451,North Macedonia,Ohrid,4.4,3,3,2,2
+MED0452,Kosovo,Pristina,4.2,4,2,4,4
+MED0453,Croatia,Rijeka,6.0,4,3,5,4
+MED0454,Albania,Shkodër,7.3,3,4,5,2
+MED0455,Bosnia and Herzegovina,Sarajevo,4.6,3,4,5,2
+MED0456,Croatia,Zagreb,3.8,4,2,5,3
+MED0457,Slovenia,Ljubljana,5.6,1,3,4,4
+MED0458,Serbia,Niš,2.3,2,3,5,1
+MED0459,Serbia,Belgrade,0.5,3,3,4,2
+MED0460,North Macedonia,Bitola,4.8,5,2,3,5
+MED0461,Montenegro,Podgorica,5.7,3,2,3,3
+MED0462,Kosovo,Peja,5.7,3,2,3,3
+MED0463,Slovenia,Koper,4.9,2,3,5,3
+MED0464,Montenegro,Podgorica,6.1,3,4,5,4
+MED0465,Serbia,Novi Sad,4.2,5,3,4,4
+MED0466,Montenegro,Nikšić,6.3,1,1,4,3
+MED0467,Serbia,Belgrade,5.3,3,2,2,4
+MED0468,Bosnia and Herzegovina,Mostar,3.1,4,2,4,3
+MED0469,North Macedonia,Skopje,1.1,4,4,5,1
+MED0470,Kosovo,Peja,3.2,4,3,5,4
+MED0471,Croatia,Rijeka,4.5,4,1,4,3
+MED0472,North Macedonia,Bitola,3.6,4,4,5,3
+MED0473,Serbia,Novi Sad,4.5,2,2,5,3
+MED0474,Croatia,Zagreb,4.1,5,3,5,5
+MED0475,Kosovo,Peja,4.6,3,1,5,4
+MED0476,Serbia,Novi Sad,6.0,2,4,3,3
+MED0477,Slovenia,Ljubljana,3.2,5,2,4,3
+MED0478,Kosovo,Prizren,4.9,3,4,5,2
+MED0479,Serbia,Niš,7.4,3,2,3,3
+MED0480,Serbia,Belgrade,3.6,3,3,5,3
+MED0481,Croatia,Rijeka,5.9,3,2,4,4
+MED0482,Albania,Durrës,5.0,3,4,5,4
+MED0483,Albania,Tirana,2.3,3,2,5,2
+MED0484,Croatia,Zagreb,4.8,4,2,5,4
+MED0485,Serbia,Niš,8.5,3,3,4,5
+MED0486,Montenegro,Cetinje,5.4,4,3,5,4
+MED0487,Albania,Shkodër,2.8,3,3,4,2
+MED0488,Slovenia,Maribor,0.5,3,3,4,3
+MED0489,Croatia,Zagreb,1.6,4,2,5,2
+MED0490,Bosnia and Herzegovina,Banja Luka,4.2,1,4,5,1
+MED0491,North Macedonia,Skopje,1.4,3,2,5,4
+MED0492,Serbia,Niš,7.2,3,1,4,5
+MED0493,Albania,Tirana,8.6,2,2,3,3
+MED0494,Kosovo,Pristina,5.1,5,2,5,4
+MED0495,Albania,Shkodër,6.9,4,3,4,3
+MED0496,Montenegro,Nikšić,1.3,3,3,5,4
+MED0497,Albania,Tirana,5.0,4,3,4,5
+MED0498,Kosovo,Pristina,2.9,4,2,5,4
+MED0499,Croatia,Zagreb,3.0,3,4,5,3
+MED0500,Montenegro,Cetinje,2.9,1,2,5,2
+MED0501,Croatia,Zagreb,0.5,3,2,5,3
+MED0502,Kosovo,Prizren,9.0,3,2,4,5
+MED0503,Serbia,Novi Sad,3.4,5,3,4,3
+MED0504,Bosnia and Herzegovina,Mostar,6.9,3,3,5,3
+MED0505,Bosnia and Herzegovina,Sarajevo,4.3,2,2,5,3
+MED0506,North Macedonia,Skopje,4.8,1,3,2,3
+MED0507,Albania,Durrës,5.1,3,4,4,3
+MED0508,Montenegro,Nikšić,5.3,3,2,3,3
+MED0509,Kosovo,Pristina,6.3,2,3,3,4
+MED0510,North Macedonia,Bitola,2.6,4,2,5,4
+MED0511,Montenegro,Nikšić,5.5,1,3,4,2
+MED0512,Kosovo,Prizren,6.2,3,2,4,4
+MED0513,North Macedonia,Bitola,6.2,4,3,4,4
+MED0514,Slovenia,Ljubljana,5.6,3,3,3,3
+MED0515,Croatia,Rijeka,4.2,3,4,4,2
+MED0516,North Macedonia,Bitola,4.5,2,2,4,2
+MED0517,North Macedonia,Skopje,3.1,3,3,5,3
+MED0518,Slovenia,Maribor,6.1,3,2,4,3
+MED0519,Albania,Durrës,2.3,2,3,3,1
+MED0520,Kosovo,Peja,4.7,3,5,5,2
+MED0521,Albania,Tirana,6.0,4,2,4,4
+MED0522,Serbia,Novi Sad,6.7,2,3,2,4
+MED0523,Montenegro,Nikšić,5.0,4,4,5,2
+MED0524,Kosovo,Peja,5.4,4,2,4,5
+MED0525,North Macedonia,Ohrid,8.6,4,2,4,5
+MED0526,Bosnia and Herzegovina,Sarajevo,6.1,3,2,4,3
+MED0527,Serbia,Belgrade,8.6,3,4,2,2
+MED0528,Serbia,Belgrade,5.3,2,3,5,4
+MED0529,Serbia,Niš,2.8,4,4,4,2
+MED0530,North Macedonia,Ohrid,3.4,3,2,4,3
+MED0531,Serbia,Niš,4.4,2,2,5,4
+MED0532,Montenegro,Nikšić,4.1,3,1,3,2
+MED0533,Serbia,Belgrade,8.6,3,3,5,3
+MED0534,Serbia,Niš,4.5,4,3,3,4
+MED0535,Slovenia,Maribor,1.6,3,2,5,3
+MED0536,Croatia,Split,3.2,3,3,4,3
+MED0537,Montenegro,Cetinje,3.7,2,3,5,3
+MED0538,Kosovo,Peja,3.5,4,3,5,2
+MED0539,Slovenia,Maribor,4.1,3,1,4,2
+MED0540,Croatia,Rijeka,5.2,3,3,5,3
+MED0541,Bosnia and Herzegovina,Banja Luka,5.8,4,2,5,4
+MED0542,Serbia,Niš,5.8,3,3,1,3
+MED0543,Croatia,Split,6.6,3,4,5,4
+MED0544,Bosnia and Herzegovina,Mostar,4.3,2,4,4,2
+MED0545,Kosovo,Peja,4.2,4,2,2,3
+MED0546,Bosnia and Herzegovina,Sarajevo,4.6,3,2,4,4
+MED0547,North Macedonia,Skopje,6.3,4,3,4,4
+MED0548,Bosnia and Herzegovina,Banja Luka,7.1,1,3,5,3
+MED0549,Albania,Tirana,4.3,3,3,4,3
+MED0550,Croatia,Split,5.8,3,2,4,4
+MED0551,Kosovo,Peja,5.2,3,3,5,4
+MED0552,North Macedonia,Ohrid,5.9,4,4,4,5
+MED0553,North Macedonia,Ohrid,7.8,1,3,4,2
+MED0554,Serbia,Niš,3.6,4,3,5,2
+MED0555,North Macedonia,Bitola,4.2,5,3,4,4
+MED0556,Bosnia and Herzegovina,Banja Luka,3.9,3,3,4,3
+MED0557,Albania,Tirana,5.3,4,2,5,4
+MED0558,North Macedonia,Ohrid,1.4,3,3,5,3
+MED0559,Montenegro,Podgorica,5.1,3,3,3,2
+MED0560,Albania,Tirana,8.0,3,3,3,4

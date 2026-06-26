@@ -1,0 +1,611 @@
+id,country,city,grade,school_belonging,teacher_support,peer_support,classroom_disruption,school_satisfaction
+SCL0001,Bosnia and Herzegovina,Sarajevo,1,5,3,3,1,4
+SCL0002,Kosovo,Prizren,2,4,3,4,2,3
+SCL0003,Croatia,Zagreb,1,4,3,3,2,3
+SCL0004,Albania,Durrës,3,5,2,3,4,4
+SCL0005,Montenegro,Cetinje,2,4,3,5,4,4
+SCL0006,North Macedonia,Ohrid,3,4,3,4,3,5
+SCL0007,Croatia,Split,4,4,4,5,3,4
+SCL0008,Serbia,Niš,2,2,2,4,2,3
+SCL0009,Albania,Shkodër,1,3,2,3,4,3
+SCL0010,Slovenia,Koper,2,5,5,3,3,4
+SCL0011,Serbia,Niš,4,4,2,3,2,3
+SCL0012,Bosnia and Herzegovina,Banja Luka,3,5,4,3,3,4
+SCL0013,Croatia,Rijeka,2,4,4,1,3,3
+SCL0014,Slovenia,Koper,2,4,3,4,2,4
+SCL0015,Croatia,Rijeka,3,2,5,4,3,3
+SCL0016,Bosnia and Herzegovina,Sarajevo,4,3,3,3,2,4
+SCL0017,North Macedonia,Skopje,3,4,3,2,2,4
+SCL0018,Serbia,Niš,2,4,4,4,2,4
+SCL0019,Slovenia,Koper,4,3,3,4,2,5
+SCL0020,Croatia,Zagreb,3,5,3,3,2,4
+SCL0021,Bosnia and Herzegovina,Sarajevo,4,4,4,4,3,4
+SCL0022,Croatia,Zagreb,4,2,2,3,4,3
+SCL0023,Croatia,Zagreb,4,5,3,4,2,5
+SCL0024,Croatia,Zagreb,3,4,3,2,2,3
+SCL0025,Kosovo,Prizren,3,3,3,4,4,3
+SCL0026,Slovenia,Maribor,4,3,1,2,2,3
+SCL0027,Slovenia,Ljubljana,2,4,4,3,1,4
+SCL0028,Serbia,Novi Sad,4,4,2,4,3,4
+SCL0029,Bosnia and Herzegovina,Banja Luka,2,2,4,4,2,4
+SCL0030,Slovenia,Ljubljana,3,3,4,4,3,4
+SCL0031,Montenegro,Podgorica,1,1,2,3,2,2
+SCL0032,Montenegro,Cetinje,1,3,4,3,3,4
+SCL0033,Croatia,Split,3,3,4,3,3,3
+SCL0034,Croatia,Zagreb,3,3,3,3,3,3
+SCL0035,Serbia,Belgrade,3,3,2,3,2,3
+SCL0036,Croatia,Zagreb,1,3,4,4,3,4
+SCL0037,Kosovo,Prizren,4,3,3,3,1,4
+SCL0038,Slovenia,Maribor,1,4,3,4,3,4
+SCL0039,Serbia,Niš,3,5,3,3,3,5
+SCL0040,Bosnia and Herzegovina,Banja Luka,3,2,4,4,3,3
+SCL0041,Bosnia and Herzegovina,Sarajevo,4,4,3,3,3,5
+SCL0042,Serbia,Niš,3,2,2,4,3,3
+SCL0043,Kosovo,Pristina,4,2,3,5,3,4
+SCL0044,Croatia,Zagreb,1,3,3,3,2,4
+SCL0045,Croatia,Rijeka,3,3,3,4,3,3
+SCL0046,Croatia,Split,3,2,3,2,2,3
+SCL0047,Montenegro,Nikšić,3,3,3,3,2,5
+SCL0048,Croatia,Zagreb,2,4,4,4,2,5
+SCL0049,Serbia,Belgrade,4,1,3,3,2,3
+SCL0050,North Macedonia,Ohrid,2,4,4,2,2,4
+SCL0051,Croatia,Split,3,3,5,1,3,3
+SCL0052,Slovenia,Ljubljana,2,4,4,5,4,4
+SCL0053,Croatia,Split,3,3,3,4,4,4
+SCL0054,Slovenia,Ljubljana,4,5,3,2,3,3
+SCL0055,Montenegro,Nikšić,2,4,3,2,4,2
+SCL0056,Bosnia and Herzegovina,Banja Luka,3,3,3,5,3,3
+SCL0057,Montenegro,Cetinje,4,4,3,4,2,4
+SCL0058,Montenegro,Podgorica,2,5,3,2,1,5
+SCL0059,Montenegro,Podgorica,4,3,3,3,1,4
+SCL0060,North Macedonia,Ohrid,4,3,5,2,2,3
+SCL0061,Kosovo,Peja,3,1,4,3,4,3
+SCL0062,Albania,Durrës,1,4,4,5,3,4
+SCL0063,Slovenia,Maribor,3,2,5,3,1,4
+SCL0064,Albania,Shkodër,4,2,4,3,3,4
+SCL0065,Kosovo,Peja,4,2,3,3,2,3
+SCL0066,North Macedonia,Ohrid,2,4,4,4,4,4
+SCL0067,Bosnia and Herzegovina,Banja Luka,4,3,4,4,2,4
+SCL0068,Serbia,Niš,1,4,2,3,3,4
+SCL0069,Croatia,Split,1,3,2,4,2,3
+SCL0070,Montenegro,Podgorica,2,2,3,4,1,3
+SCL0071,Slovenia,Ljubljana,4,2,4,4,2,4
+SCL0072,North Macedonia,Skopje,1,3,4,2,3,4
+SCL0073,Croatia,Rijeka,3,3,3,4,4,4
+SCL0074,Albania,Shkodër,1,3,3,5,2,4
+SCL0075,Kosovo,Pristina,4,3,3,3,2,4
+SCL0076,Montenegro,Cetinje,4,2,3,3,1,2
+SCL0077,Kosovo,Pristina,3,4,4,4,3,3
+SCL0078,Serbia,Novi Sad,2,3,3,3,3,3
+SCL0079,Slovenia,Ljubljana,1,3,3,4,3,4
+SCL0080,Serbia,Novi Sad,1,2,3,4,2,4
+SCL0081,Serbia,Novi Sad,1,3,3,4,2,4
+SCL0082,Montenegro,Podgorica,1,4,4,3,2,4
+SCL0083,North Macedonia,Skopje,2,3,4,4,2,4
+SCL0084,Bosnia and Herzegovina,Banja Luka,1,3,3,4,1,4
+SCL0085,Bosnia and Herzegovina,Sarajevo,1,4,3,4,2,3
+SCL0086,Montenegro,Podgorica,1,3,3,3,4,3
+SCL0087,Kosovo,Pristina,1,4,2,5,2,3
+SCL0088,Slovenia,Ljubljana,3,4,2,3,4,4
+SCL0089,Croatia,Split,4,3,3,5,1,3
+SCL0090,Serbia,Novi Sad,4,2,4,4,4,3
+SCL0091,North Macedonia,Bitola,1,3,4,5,2,4
+SCL0092,Albania,Tirana,2,3,5,3,2,4
+SCL0093,North Macedonia,Skopje,3,5,3,5,1,5
+SCL0094,Croatia,Zagreb,4,3,3,3,3,3
+SCL0095,Bosnia and Herzegovina,Banja Luka,1,2,4,3,3,3
+SCL0096,North Macedonia,Bitola,2,3,4,4,3,4
+SCL0097,Serbia,Niš,3,3,3,4,2,4
+SCL0098,North Macedonia,Bitola,3,3,3,5,4,4
+SCL0099,Croatia,Split,2,4,4,4,4,4
+SCL0100,Serbia,Niš,4,2,3,4,2,4
+SCL0101,Slovenia,Maribor,2,4,5,3,3,5
+SCL0102,North Macedonia,Ohrid,3,4,4,4,5,4
+SCL0103,Montenegro,Nikšić,4,3,2,4,3,4
+SCL0104,North Macedonia,Skopje,1,3,2,3,2,2
+SCL0105,North Macedonia,Bitola,2,3,2,4,2,3
+SCL0106,Bosnia and Herzegovina,Sarajevo,4,2,3,2,2,2
+SCL0107,Albania,Durrës,1,3,3,3,1,3
+SCL0108,Montenegro,Nikšić,1,4,3,2,2,4
+SCL0109,North Macedonia,Bitola,2,4,2,3,3,4
+SCL0110,Kosovo,Pristina,3,4,4,4,2,4
+SCL0111,Bosnia and Herzegovina,Mostar,1,4,4,3,2,5
+SCL0112,Croatia,Zagreb,1,4,5,3,2,4
+SCL0113,Serbia,Belgrade,3,4,5,4,1,5
+SCL0114,Albania,Tirana,3,4,3,3,2,4
+SCL0115,Croatia,Split,4,4,3,4,2,4
+SCL0116,Montenegro,Podgorica,2,3,3,3,3,2
+SCL0117,North Macedonia,Skopje,1,4,4,4,4,5
+SCL0118,Albania,Tirana,4,3,4,3,3,4
+SCL0119,Kosovo,Prizren,4,3,3,3,4,3
+SCL0120,Serbia,Novi Sad,3,3,4,3,3,4
+SCL0121,Bosnia and Herzegovina,Mostar,2,3,2,4,2,4
+SCL0122,North Macedonia,Bitola,3,3,3,5,1,4
+SCL0123,Serbia,Novi Sad,4,5,3,4,3,4
+SCL0124,Bosnia and Herzegovina,Sarajevo,2,3,4,1,4,3
+SCL0125,Croatia,Zagreb,4,2,3,5,2,3
+SCL0126,North Macedonia,Bitola,4,3,3,5,2,4
+SCL0127,North Macedonia,Bitola,3,4,4,5,4,4
+SCL0128,Slovenia,Ljubljana,4,3,3,5,4,4
+SCL0129,Serbia,Novi Sad,1,2,4,4,1,3
+SCL0130,Serbia,Belgrade,3,4,3,3,1,4
+SCL0131,Bosnia and Herzegovina,Sarajevo,1,3,4,4,2,3
+SCL0132,Slovenia,Ljubljana,4,3,3,4,2,4
+SCL0133,Croatia,Split,2,2,4,3,3,3
+SCL0134,North Macedonia,Ohrid,1,3,4,3,2,4
+SCL0135,Montenegro,Podgorica,2,3,4,3,1,4
+SCL0136,Slovenia,Ljubljana,3,3,4,4,2,4
+SCL0137,Croatia,Split,2,4,5,3,3,4
+SCL0138,North Macedonia,Skopje,2,5,3,4,3,4
+SCL0139,Bosnia and Herzegovina,Mostar,2,3,3,3,1,3
+SCL0140,Montenegro,Podgorica,4,1,4,4,2,3
+SCL0141,Bosnia and Herzegovina,Banja Luka,3,3,4,3,2,3
+SCL0142,Kosovo,Prizren,4,3,4,4,2,4
+SCL0143,Kosovo,Pristina,1,4,3,4,5,4
+SCL0144,Albania,Shkodër,3,2,4,5,1,4
+SCL0145,Slovenia,Maribor,3,3,4,2,3,2
+SCL0146,Slovenia,Ljubljana,1,5,3,3,3,4
+SCL0147,Bosnia and Herzegovina,Banja Luka,2,2,4,4,5,3
+SCL0148,Kosovo,Prizren,1,5,5,3,2,4
+SCL0149,Slovenia,Maribor,4,3,3,3,3,3
+SCL0150,Albania,Durrës,2,2,3,4,3,4
+SCL0151,Slovenia,Koper,1,3,5,2,3,5
+SCL0152,Serbia,Novi Sad,3,4,2,3,2,4
+SCL0153,Serbia,Novi Sad,3,3,4,3,2,3
+SCL0154,Serbia,Novi Sad,2,4,3,3,4,3
+SCL0155,Serbia,Niš,3,4,1,3,3,3
+SCL0156,Kosovo,Peja,1,1,4,4,4,3
+SCL0157,North Macedonia,Bitola,4,5,3,4,1,5
+SCL0158,Serbia,Belgrade,2,4,2,3,2,4
+SCL0159,Serbia,Belgrade,1,3,4,3,2,4
+SCL0160,North Macedonia,Ohrid,2,4,3,3,1,4
+SCL0161,Croatia,Zagreb,3,2,3,4,2,4
+SCL0162,Bosnia and Herzegovina,Banja Luka,2,3,3,3,3,3
+SCL0163,Bosnia and Herzegovina,Banja Luka,2,4,3,3,2,4
+SCL0164,North Macedonia,Ohrid,2,4,3,4,2,4
+SCL0165,Serbia,Novi Sad,2,5,3,2,2,3
+SCL0166,Croatia,Split,2,4,4,4,3,3
+SCL0167,Slovenia,Ljubljana,4,5,3,4,3,5
+SCL0168,North Macedonia,Bitola,4,4,4,4,2,5
+SCL0169,Kosovo,Peja,2,4,3,3,2,4
+SCL0170,Albania,Shkodër,4,4,3,5,4,4
+SCL0171,Bosnia and Herzegovina,Banja Luka,3,3,3,3,3,4
+SCL0172,Montenegro,Nikšić,4,4,3,3,3,3
+SCL0173,Bosnia and Herzegovina,Banja Luka,3,3,4,4,2,5
+SCL0174,Albania,Durrës,2,4,4,3,4,4
+SCL0175,Bosnia and Herzegovina,Banja Luka,3,3,3,2,2,4
+SCL0176,Bosnia and Herzegovina,Sarajevo,2,2,3,4,3,4
+SCL0177,Serbia,Novi Sad,1,4,3,4,2,3
+SCL0178,Serbia,Niš,4,3,3,3,4,2
+SCL0179,Kosovo,Prizren,4,3,3,2,3,3
+SCL0180,Albania,Tirana,3,3,3,4,4,4
+SCL0181,Montenegro,Nikšić,3,2,1,3,3,3
+SCL0182,Slovenia,Maribor,2,3,2,2,2,3
+SCL0183,North Macedonia,Bitola,3,4,4,3,2,4
+SCL0184,Slovenia,Maribor,2,3,3,4,3,3
+SCL0185,Serbia,Niš,2,4,3,5,2,4
+SCL0186,Kosovo,Pristina,2,2,3,3,1,4
+SCL0187,Serbia,Niš,4,3,3,3,2,4
+SCL0188,Slovenia,Koper,3,3,4,2,1,5
+SCL0189,Bosnia and Herzegovina,Mostar,2,4,3,4,3,4
+SCL0190,Croatia,Rijeka,3,4,4,3,2,4
+SCL0191,Bosnia and Herzegovina,Sarajevo,2,2,3,4,3,4
+SCL0192,Slovenia,Maribor,1,5,3,4,1,5
+SCL0193,Kosovo,Prizren,3,3,4,5,2,4
+SCL0194,Kosovo,Pristina,2,3,3,4,1,4
+SCL0195,Croatia,Rijeka,2,3,2,4,2,3
+SCL0196,Slovenia,Maribor,2,3,4,3,5,3
+SCL0197,Croatia,Split,4,5,3,4,1,5
+SCL0198,Bosnia and Herzegovina,Sarajevo,1,3,3,3,2,4
+SCL0199,Bosnia and Herzegovina,Sarajevo,2,4,3,3,2,4
+SCL0200,Serbia,Belgrade,1,4,3,2,2,5
+SCL0201,Croatia,Zagreb,1,2,3,4,2,3
+SCL0202,Bosnia and Herzegovina,Sarajevo,3,5,4,3,2,5
+SCL0203,Kosovo,Peja,2,3,3,4,3,3
+SCL0204,Kosovo,Prizren,2,3,3,4,2,3
+SCL0205,Croatia,Zagreb,2,3,2,3,3,3
+SCL0206,Bosnia and Herzegovina,Mostar,3,2,4,4,3,3
+SCL0207,Croatia,Split,3,3,4,3,1,4
+SCL0208,Croatia,Rijeka,3,4,2,5,2,4
+SCL0209,Montenegro,Cetinje,1,3,4,3,3,4
+SCL0210,Bosnia and Herzegovina,Sarajevo,3,4,4,2,1,5
+SCL0211,Bosnia and Herzegovina,Sarajevo,1,3,2,5,2,4
+SCL0212,Croatia,Split,2,4,3,3,3,3
+SCL0213,Montenegro,Nikšić,2,2,2,2,4,2
+SCL0214,Montenegro,Nikšić,1,3,3,4,1,4
+SCL0215,Slovenia,Ljubljana,4,2,5,1,3,3
+SCL0216,Slovenia,Ljubljana,3,2,4,4,3,3
+SCL0217,Montenegro,Cetinje,1,4,3,4,4,4
+SCL0218,Croatia,Split,4,3,3,2,4,3
+SCL0219,Croatia,Split,3,2,4,3,4,2
+SCL0220,Serbia,Niš,1,5,4,2,2,5
+SCL0221,Serbia,Niš,3,3,3,2,4,3
+SCL0222,Croatia,Split,3,4,2,3,1,3
+SCL0223,Bosnia and Herzegovina,Banja Luka,4,3,2,3,4,3
+SCL0224,Croatia,Zagreb,2,5,5,5,1,5
+SCL0225,Bosnia and Herzegovina,Banja Luka,4,3,3,4,1,3
+SCL0226,Montenegro,Cetinje,4,1,3,3,1,3
+SCL0227,Kosovo,Peja,2,2,4,4,4,2
+SCL0228,Serbia,Niš,3,3,4,1,2,3
+SCL0229,Bosnia and Herzegovina,Mostar,1,3,4,4,3,3
+SCL0230,Slovenia,Ljubljana,4,4,3,4,2,5
+SCL0231,Slovenia,Koper,4,2,3,4,3,3
+SCL0232,Croatia,Split,1,3,2,3,2,4
+SCL0233,Kosovo,Pristina,1,4,5,4,4,4
+SCL0234,Montenegro,Nikšić,3,4,3,4,4,4
+SCL0235,Serbia,Niš,4,2,4,4,2,4
+SCL0236,Montenegro,Podgorica,2,3,4,4,3,5
+SCL0237,Albania,Durrës,1,3,3,4,1,3
+SCL0238,Serbia,Novi Sad,1,2,3,3,2,2
+SCL0239,Montenegro,Cetinje,2,3,2,3,4,2
+SCL0240,Serbia,Niš,3,5,4,3,4,4
+SCL0241,Kosovo,Peja,2,4,4,3,1,5
+SCL0242,Albania,Durrës,2,4,4,5,5,5
+SCL0243,North Macedonia,Bitola,3,4,3,3,2,4
+SCL0244,North Macedonia,Bitola,3,4,2,5,2,4
+SCL0245,Bosnia and Herzegovina,Banja Luka,1,3,4,2,2,3
+SCL0246,Albania,Shkodër,4,4,3,5,3,4
+SCL0247,Bosnia and Herzegovina,Banja Luka,4,3,4,3,5,3
+SCL0248,Slovenia,Koper,2,5,4,3,2,5
+SCL0249,Bosnia and Herzegovina,Banja Luka,2,4,5,4,3,4
+SCL0250,Croatia,Rijeka,1,3,4,3,3,4
+SCL0251,Croatia,Rijeka,3,5,4,4,4,5
+SCL0252,Serbia,Niš,4,3,3,5,4,3
+SCL0253,Slovenia,Ljubljana,2,4,4,4,5,3
+SCL0254,Albania,Durrës,4,3,3,3,1,3
+SCL0255,Slovenia,Maribor,2,3,5,2,2,4
+SCL0256,North Macedonia,Bitola,1,4,4,3,3,3
+SCL0257,North Macedonia,Bitola,3,4,4,3,3,4
+SCL0258,Albania,Durrës,3,2,3,4,2,3
+SCL0259,Bosnia and Herzegovina,Sarajevo,2,3,3,2,2,3
+SCL0260,Serbia,Niš,3,3,3,3,2,4
+SCL0261,Bosnia and Herzegovina,Sarajevo,2,3,4,3,3,3
+SCL0262,Croatia,Rijeka,4,4,2,2,2,4
+SCL0263,Slovenia,Koper,1,4,3,3,5,4
+SCL0264,Slovenia,Maribor,3,3,4,3,2,4
+SCL0265,Croatia,Zagreb,3,2,4,4,3,4
+SCL0266,Serbia,Niš,3,3,3,4,4,3
+SCL0267,Bosnia and Herzegovina,Mostar,4,5,3,3,3,5
+SCL0268,Kosovo,Prizren,2,3,2,4,4,3
+SCL0269,Slovenia,Ljubljana,4,4,3,5,1,5
+SCL0270,Kosovo,Pristina,3,3,2,3,3,2
+SCL0271,Serbia,Niš,4,5,4,3,4,5
+SCL0272,North Macedonia,Bitola,2,3,3,5,3,4
+SCL0273,Slovenia,Koper,3,1,4,3,3,3
+SCL0274,Croatia,Zagreb,4,5,3,3,2,3
+SCL0275,North Macedonia,Skopje,3,5,3,2,1,4
+SCL0276,Slovenia,Ljubljana,2,5,3,4,3,4
+SCL0277,North Macedonia,Ohrid,3,2,4,3,3,3
+SCL0278,Slovenia,Ljubljana,4,2,4,3,4,3
+SCL0279,Croatia,Rijeka,4,3,3,4,3,4
+SCL0280,Bosnia and Herzegovina,Mostar,4,2,4,4,2,4
+SCL0281,Albania,Tirana,3,5,2,2,2,3
+SCL0282,Slovenia,Maribor,2,4,3,3,2,3
+SCL0283,Bosnia and Herzegovina,Sarajevo,4,5,3,2,5,4
+SCL0284,Albania,Shkodër,2,3,2,4,4,2
+SCL0285,Kosovo,Pristina,1,4,5,5,2,4
+SCL0286,Serbia,Novi Sad,2,4,5,3,4,5
+SCL0287,Slovenia,Maribor,4,3,5,4,2,5
+SCL0288,Serbia,Novi Sad,3,4,5,2,3,3
+SCL0289,Kosovo,Pristina,4,3,2,4,2,3
+SCL0290,Kosovo,Prizren,4,4,3,3,2,3
+SCL0291,North Macedonia,Skopje,4,2,3,4,3,3
+SCL0292,Montenegro,Podgorica,4,4,3,4,3,4
+SCL0293,Slovenia,Koper,2,3,4,5,4,4
+SCL0294,Serbia,Novi Sad,1,4,3,4,2,4
+SCL0295,North Macedonia,Ohrid,1,3,2,4,4,2
+SCL0296,Kosovo,Pristina,4,2,4,4,3,4
+SCL0297,Montenegro,Cetinje,3,3,2,4,3,3
+SCL0298,Kosovo,Peja,2,4,5,4,2,4
+SCL0299,Serbia,Novi Sad,4,5,3,4,2,5
+SCL0300,Montenegro,Nikšić,3,4,4,5,4,4
+SCL0301,Bosnia and Herzegovina,Sarajevo,4,1,4,3,3,2
+SCL0302,North Macedonia,Skopje,2,4,3,3,3,4
+SCL0303,North Macedonia,Ohrid,1,2,2,4,4,2
+SCL0304,Serbia,Novi Sad,2,4,5,1,1,4
+SCL0305,Kosovo,Prizren,1,3,3,3,4,3
+SCL0306,Montenegro,Nikšić,1,4,4,2,1,5
+SCL0307,Slovenia,Maribor,4,3,3,3,2,4
+SCL0308,Serbia,Niš,3,4,3,4,3,4
+SCL0309,Kosovo,Prizren,2,4,3,3,2,4
+SCL0310,Serbia,Novi Sad,2,4,4,1,1,3
+SCL0311,Albania,Shkodër,2,3,3,3,2,4
+SCL0312,Albania,Tirana,2,3,3,4,3,4
+SCL0313,Croatia,Split,3,3,5,4,2,5
+SCL0314,Bosnia and Herzegovina,Mostar,4,4,3,4,1,4
+SCL0315,Slovenia,Koper,4,3,4,4,3,3
+SCL0316,Bosnia and Herzegovina,Sarajevo,1,4,4,5,3,4
+SCL0317,Kosovo,Prizren,1,3,3,4,5,3
+SCL0318,Kosovo,Peja,2,1,3,5,1,3
+SCL0319,Montenegro,Nikšić,4,2,4,3,1,4
+SCL0320,Albania,Shkodër,3,2,3,3,2,3
+SCL0321,Slovenia,Ljubljana,4,3,2,4,2,5
+SCL0322,Kosovo,Peja,1,3,4,3,4,4
+SCL0323,Montenegro,Podgorica,3,2,3,3,2,3
+SCL0324,Kosovo,Pristina,4,5,2,3,2,5
+SCL0325,Slovenia,Ljubljana,2,3,4,3,4,4
+SCL0326,Serbia,Novi Sad,2,3,4,4,3,3
+SCL0327,Serbia,Novi Sad,4,3,3,5,3,4
+SCL0328,North Macedonia,Bitola,3,4,4,4,3,5
+SCL0329,Croatia,Zagreb,2,2,4,4,2,4
+SCL0330,Croatia,Rijeka,2,3,4,3,2,4
+SCL0331,Slovenia,Ljubljana,1,3,3,4,4,3
+SCL0332,Montenegro,Cetinje,4,4,3,3,4,3
+SCL0333,Bosnia and Herzegovina,Banja Luka,2,2,3,3,2,2
+SCL0334,North Macedonia,Skopje,3,4,4,2,4,4
+SCL0335,Kosovo,Peja,4,3,4,4,2,4
+SCL0336,Albania,Shkodër,4,4,3,3,2,5
+SCL0337,Serbia,Belgrade,1,4,3,2,2,3
+SCL0338,Croatia,Rijeka,4,2,5,5,1,5
+SCL0339,Slovenia,Koper,1,4,4,3,1,5
+SCL0340,Croatia,Zagreb,4,3,4,3,4,4
+SCL0341,North Macedonia,Skopje,2,5,3,4,3,4
+SCL0342,Bosnia and Herzegovina,Banja Luka,1,4,4,4,2,4
+SCL0343,Albania,Tirana,2,4,4,4,3,4
+SCL0344,Bosnia and Herzegovina,Sarajevo,4,4,3,3,1,4
+SCL0345,Croatia,Zagreb,1,3,4,4,3,4
+SCL0346,North Macedonia,Ohrid,4,4,2,4,4,4
+SCL0347,Serbia,Niš,1,3,3,4,3,3
+SCL0348,Croatia,Split,3,3,3,4,2,4
+SCL0349,Serbia,Novi Sad,2,2,3,5,1,4
+SCL0350,Serbia,Belgrade,3,4,4,2,3,4
+SCL0351,Slovenia,Maribor,2,3,2,4,4,2
+SCL0352,Serbia,Niš,4,3,5,3,4,4
+SCL0353,Montenegro,Cetinje,3,4,3,4,4,4
+SCL0354,Slovenia,Koper,2,3,3,5,2,4
+SCL0355,North Macedonia,Skopje,3,3,4,2,3,4
+SCL0356,North Macedonia,Skopje,4,3,4,3,4,4
+SCL0357,Slovenia,Koper,2,3,4,4,3,3
+SCL0358,Albania,Shkodër,1,4,3,4,2,4
+SCL0359,North Macedonia,Bitola,4,3,2,5,2,4
+SCL0360,Serbia,Novi Sad,1,5,3,4,4,4
+SCL0361,North Macedonia,Skopje,4,2,2,4,2,3
+SCL0362,North Macedonia,Ohrid,2,4,4,4,3,4
+SCL0363,Albania,Tirana,3,2,3,5,3,3
+SCL0364,North Macedonia,Ohrid,3,3,4,4,2,4
+SCL0365,Croatia,Split,1,4,3,5,3,5
+SCL0366,Slovenia,Maribor,4,3,4,3,3,4
+SCL0367,Bosnia and Herzegovina,Mostar,1,4,3,4,1,4
+SCL0368,Slovenia,Maribor,1,4,3,5,2,4
+SCL0369,Serbia,Belgrade,3,4,2,3,3,3
+SCL0370,North Macedonia,Bitola,3,4,3,2,3,3
+SCL0371,North Macedonia,Skopje,1,3,2,4,2,4
+SCL0372,Montenegro,Podgorica,3,3,4,2,3,3
+SCL0373,Croatia,Rijeka,2,3,3,5,2,4
+SCL0374,Bosnia and Herzegovina,Banja Luka,1,4,5,2,3,4
+SCL0375,Albania,Tirana,2,4,4,4,1,4
+SCL0376,Croatia,Rijeka,2,3,4,4,2,4
+SCL0377,Montenegro,Podgorica,2,4,3,5,2,5
+SCL0378,Serbia,Belgrade,4,4,4,3,4,5
+SCL0379,Albania,Shkodër,4,3,3,3,2,4
+SCL0380,North Macedonia,Bitola,4,4,4,3,3,5
+SCL0381,Croatia,Zagreb,3,3,5,4,1,5
+SCL0382,Bosnia and Herzegovina,Banja Luka,3,2,3,4,4,2
+SCL0383,Kosovo,Prizren,2,2,4,4,2,4
+SCL0384,Albania,Tirana,2,3,2,4,1,4
+SCL0385,Slovenia,Koper,4,4,4,4,4,4
+SCL0386,Croatia,Zagreb,2,3,5,3,3,3
+SCL0387,Serbia,Novi Sad,3,3,4,4,2,4
+SCL0388,Slovenia,Ljubljana,4,5,3,3,3,5
+SCL0389,North Macedonia,Bitola,3,3,3,3,2,4
+SCL0390,North Macedonia,Skopje,4,2,3,4,3,4
+SCL0391,Serbia,Belgrade,4,3,3,5,2,4
+SCL0392,North Macedonia,Ohrid,4,3,3,4,2,5
+SCL0393,Albania,Tirana,2,3,2,5,1,4
+SCL0394,Slovenia,Koper,4,5,3,3,3,4
+SCL0395,Croatia,Zagreb,1,1,3,2,3,2
+SCL0396,North Macedonia,Bitola,3,3,4,4,2,4
+SCL0397,North Macedonia,Ohrid,1,4,2,4,4,3
+SCL0398,Montenegro,Cetinje,3,3,2,3,4,2
+SCL0399,North Macedonia,Skopje,1,3,5,2,5,3
+SCL0400,Slovenia,Maribor,4,3,5,3,2,4
+SCL0401,Bosnia and Herzegovina,Mostar,4,4,4,3,3,4
+SCL0402,North Macedonia,Skopje,3,3,3,3,4,3
+SCL0403,Albania,Durrës,1,3,5,4,2,4
+SCL0404,Serbia,Novi Sad,2,3,4,3,2,3
+SCL0405,Serbia,Belgrade,4,5,2,4,3,3
+SCL0406,Serbia,Belgrade,1,3,3,5,3,4
+SCL0407,Bosnia and Herzegovina,Sarajevo,2,3,5,3,2,5
+SCL0408,Slovenia,Koper,4,1,5,4,1,3
+SCL0409,Bosnia and Herzegovina,Mostar,4,2,4,4,3,3
+SCL0410,Serbia,Novi Sad,1,4,4,4,1,5
+SCL0411,Serbia,Belgrade,1,2,3,5,2,4
+SCL0412,Slovenia,Ljubljana,2,3,3,2,2,3
+SCL0413,Croatia,Rijeka,3,4,4,3,2,5
+SCL0414,Albania,Durrës,1,4,4,5,3,4
+SCL0415,Croatia,Rijeka,1,2,3,3,2,3
+SCL0416,Montenegro,Cetinje,1,2,3,1,3,3
+SCL0417,Albania,Durrës,4,1,5,5,3,3
+SCL0418,Serbia,Novi Sad,3,4,4,3,3,4
+SCL0419,Bosnia and Herzegovina,Banja Luka,2,4,3,3,3,4
+SCL0420,Slovenia,Koper,3,3,4,4,3,5
+SCL0421,Serbia,Novi Sad,1,2,4,3,4,3
+SCL0422,Slovenia,Maribor,4,4,3,3,3,3
+SCL0423,Bosnia and Herzegovina,Banja Luka,3,4,3,3,1,4
+SCL0424,Montenegro,Cetinje,2,4,4,2,4,4
+SCL0425,Serbia,Niš,3,4,3,5,2,5
+SCL0426,Bosnia and Herzegovina,Sarajevo,1,2,5,4,3,4
+SCL0427,Albania,Durrës,2,2,3,3,3,3
+SCL0428,North Macedonia,Bitola,2,2,4,3,3,2
+SCL0429,North Macedonia,Bitola,3,3,2,1,1,3
+SCL0430,Bosnia and Herzegovina,Sarajevo,3,3,5,4,2,4
+SCL0431,Albania,Tirana,3,3,3,4,2,4
+SCL0432,Kosovo,Pristina,1,4,4,2,3,3
+SCL0433,Croatia,Rijeka,2,3,3,4,3,4
+SCL0434,Slovenia,Koper,1,2,4,4,2,4
+SCL0435,Serbia,Novi Sad,3,2,4,4,2,3
+SCL0436,Montenegro,Nikšić,4,3,4,5,3,5
+SCL0437,North Macedonia,Skopje,3,5,4,4,2,5
+SCL0438,Croatia,Split,1,3,4,2,3,3
+SCL0439,Croatia,Rijeka,1,3,3,4,1,5
+SCL0440,Serbia,Niš,4,4,3,4,3,4
+SCL0441,Croatia,Rijeka,1,3,4,4,1,5
+SCL0442,Montenegro,Cetinje,4,3,4,2,3,3
+SCL0443,Serbia,Niš,2,3,4,4,2,4
+SCL0444,Kosovo,Peja,4,3,3,3,1,4
+SCL0445,Bosnia and Herzegovina,Banja Luka,1,4,3,3,4,4
+SCL0446,Montenegro,Podgorica,1,4,4,3,4,4
+SCL0447,Slovenia,Ljubljana,3,4,3,2,3,4
+SCL0448,Croatia,Zagreb,1,3,3,3,2,3
+SCL0449,Bosnia and Herzegovina,Mostar,4,3,3,5,2,4
+SCL0450,Kosovo,Prizren,1,2,4,4,3,4
+SCL0451,Croatia,Zagreb,4,3,4,5,3,4
+SCL0452,Kosovo,Pristina,2,2,2,4,2,3
+SCL0453,Bosnia and Herzegovina,Mostar,3,5,3,3,2,3
+SCL0454,Montenegro,Podgorica,2,3,2,4,2,4
+SCL0455,Slovenia,Koper,2,2,5,2,4,3
+SCL0456,Bosnia and Herzegovina,Mostar,3,4,4,4,3,5
+SCL0457,Kosovo,Peja,1,2,2,3,4,2
+SCL0458,Montenegro,Cetinje,4,3,4,4,3,3
+SCL0459,Slovenia,Maribor,4,3,4,4,3,3
+SCL0460,Serbia,Belgrade,2,3,3,4,3,4
+SCL0461,Kosovo,Prizren,4,5,3,5,4,4
+SCL0462,Serbia,Belgrade,3,3,3,4,1,4
+SCL0463,Slovenia,Ljubljana,1,4,4,4,3,4
+SCL0464,Slovenia,Ljubljana,1,5,3,5,3,4
+SCL0465,Croatia,Rijeka,3,3,4,5,2,4
+SCL0466,Slovenia,Ljubljana,4,4,3,3,1,3
+SCL0467,Bosnia and Herzegovina,Sarajevo,1,2,4,3,1,5
+SCL0468,Montenegro,Podgorica,3,3,3,3,3,4
+SCL0469,Bosnia and Herzegovina,Mostar,2,3,4,3,2,4
+SCL0470,Serbia,Novi Sad,2,5,3,4,2,5
+SCL0471,North Macedonia,Bitola,3,4,4,4,4,4
+SCL0472,Montenegro,Nikšić,2,3,3,3,3,3
+SCL0473,Albania,Durrës,2,4,3,3,2,4
+SCL0474,Slovenia,Maribor,4,4,1,4,2,3
+SCL0475,Serbia,Belgrade,3,3,2,5,2,4
+SCL0476,Kosovo,Peja,3,4,3,2,2,4
+SCL0477,Montenegro,Nikšić,3,4,1,4,3,4
+SCL0478,North Macedonia,Bitola,4,5,2,3,2,4
+SCL0479,Croatia,Rijeka,1,2,2,3,4,2
+SCL0480,Albania,Tirana,4,1,5,4,1,4
+SCL0481,Croatia,Split,3,2,5,4,1,4
+SCL0482,Serbia,Niš,4,4,3,3,3,3
+SCL0483,Albania,Shkodër,4,4,3,3,3,4
+SCL0484,Montenegro,Cetinje,1,3,3,3,3,3
+SCL0485,Albania,Durrës,1,5,2,5,3,5
+SCL0486,Kosovo,Peja,2,4,5,2,4,5
+SCL0487,Serbia,Novi Sad,2,3,4,3,2,4
+SCL0488,Slovenia,Ljubljana,4,2,3,4,2,3
+SCL0489,Albania,Durrës,1,3,3,2,2,2
+SCL0490,Kosovo,Prizren,3,2,4,3,3,4
+SCL0491,Kosovo,Peja,1,3,3,2,4,3
+SCL0492,Serbia,Niš,1,5,4,3,1,5
+SCL0493,Serbia,Novi Sad,3,4,4,3,1,4
+SCL0494,Serbia,Belgrade,3,4,2,2,2,3
+SCL0495,Kosovo,Prizren,4,3,3,3,4,3
+SCL0496,Montenegro,Nikšić,2,5,2,1,3,4
+SCL0497,North Macedonia,Ohrid,1,4,3,4,2,4
+SCL0498,Montenegro,Cetinje,2,3,4,4,3,5
+SCL0499,Bosnia and Herzegovina,Banja Luka,4,1,3,5,3,3
+SCL0500,Serbia,Niš,2,4,3,3,3,4
+SCL0501,North Macedonia,Skopje,1,4,4,4,2,5
+SCL0502,Kosovo,Peja,2,3,4,2,1,4
+SCL0503,Montenegro,Cetinje,2,3,4,4,2,4
+SCL0504,Kosovo,Prizren,3,2,4,4,3,2
+SCL0505,North Macedonia,Skopje,2,4,3,1,3,3
+SCL0506,Kosovo,Peja,1,3,3,4,2,4
+SCL0507,North Macedonia,Skopje,1,4,4,3,2,4
+SCL0508,Albania,Durrës,1,3,1,4,1,3
+SCL0509,Croatia,Split,1,5,4,2,3,4
+SCL0510,Kosovo,Peja,1,4,3,4,4,4
+SCL0511,Croatia,Split,2,3,4,5,3,5
+SCL0512,Serbia,Novi Sad,4,3,4,4,2,3
+SCL0513,Croatia,Rijeka,3,3,3,3,3,3
+SCL0514,Bosnia and Herzegovina,Sarajevo,4,3,3,3,1,4
+SCL0515,Bosnia and Herzegovina,Banja Luka,2,2,2,3,3,3
+SCL0516,North Macedonia,Ohrid,4,3,4,5,4,4
+SCL0517,Albania,Durrës,2,3,4,4,1,4
+SCL0518,Serbia,Niš,4,4,2,3,2,4
+SCL0519,Croatia,Rijeka,4,4,3,3,2,4
+SCL0520,Albania,Tirana,2,3,4,4,3,4
+SCL0521,Albania,Durrës,4,3,5,5,3,4
+SCL0522,Slovenia,Maribor,4,3,3,5,1,4
+SCL0523,Kosovo,Pristina,1,3,2,4,2,4
+SCL0524,Albania,Tirana,1,4,2,4,1,4
+SCL0525,Montenegro,Podgorica,4,2,3,2,2,3
+SCL0526,North Macedonia,Bitola,3,3,4,3,2,4
+SCL0527,Kosovo,Pristina,3,4,5,2,4,3
+SCL0528,Slovenia,Koper,4,3,3,3,4,3
+SCL0529,Serbia,Belgrade,2,2,4,2,3,4
+SCL0530,North Macedonia,Ohrid,3,2,3,5,3,4
+SCL0531,Serbia,Novi Sad,2,1,4,4,2,3
+SCL0532,Bosnia and Herzegovina,Sarajevo,4,4,3,3,2,5
+SCL0533,Albania,Durrës,4,4,3,3,2,3
+SCL0534,Croatia,Rijeka,1,3,3,3,5,3
+SCL0535,Albania,Tirana,4,4,2,3,1,2
+SCL0536,Croatia,Split,3,4,4,4,2,5
+SCL0537,Montenegro,Nikšić,1,4,4,2,3,3
+SCL0538,Slovenia,Maribor,4,3,4,4,4,4
+SCL0539,Montenegro,Podgorica,3,3,3,3,2,3
+SCL0540,Serbia,Novi Sad,3,4,4,3,3,4
+SCL0541,Croatia,Zagreb,2,4,3,3,2,4
+SCL0542,Serbia,Niš,3,3,3,3,4,3
+SCL0543,Montenegro,Cetinje,2,5,2,4,4,4
+SCL0544,Montenegro,Nikšić,4,5,4,4,2,5
+SCL0545,Croatia,Zagreb,2,3,3,2,2,3
+SCL0546,Slovenia,Maribor,3,3,3,5,3,4
+SCL0547,Kosovo,Peja,2,4,4,4,3,5
+SCL0548,Bosnia and Herzegovina,Sarajevo,2,3,4,5,1,4
+SCL0549,Kosovo,Prizren,3,4,3,2,3,3
+SCL0550,Bosnia and Herzegovina,Mostar,1,3,4,3,2,3
+SCL0551,Serbia,Novi Sad,2,5,3,3,4,5
+SCL0552,Serbia,Belgrade,1,3,4,3,3,3
+SCL0553,Bosnia and Herzegovina,Banja Luka,3,3,4,3,2,4
+SCL0554,North Macedonia,Ohrid,1,3,4,3,4,4
+SCL0555,Serbia,Belgrade,4,3,2,4,2,4
+SCL0556,Croatia,Split,3,2,4,4,4,3
+SCL0557,Albania,Tirana,4,4,4,5,2,4
+SCL0558,Serbia,Novi Sad,2,2,3,4,2,4
+SCL0559,Albania,Tirana,2,1,3,4,4,3
+SCL0560,Croatia,Zagreb,4,4,3,2,5,4
+SCL0561,North Macedonia,Bitola,4,3,3,4,2,4
+SCL0562,Bosnia and Herzegovina,Mostar,3,3,4,4,1,5
+SCL0563,Bosnia and Herzegovina,Mostar,2,3,2,4,2,3
+SCL0564,Slovenia,Koper,1,4,4,4,4,4
+SCL0565,North Macedonia,Ohrid,3,4,4,2,2,4
+SCL0566,Serbia,Belgrade,1,3,3,3,3,3
+SCL0567,Kosovo,Peja,2,3,3,3,4,3
+SCL0568,Kosovo,Pristina,2,4,2,4,3,4
+SCL0569,Serbia,Belgrade,4,2,3,3,4,2
+SCL0570,Albania,Shkodër,3,2,4,4,1,4
+SCL0571,Montenegro,Cetinje,3,4,3,3,2,4
+SCL0572,Serbia,Belgrade,3,3,4,4,1,4
+SCL0573,Montenegro,Podgorica,2,3,3,4,4,4
+SCL0574,Bosnia and Herzegovina,Banja Luka,3,5,4,3,3,4
+SCL0575,Serbia,Belgrade,1,3,4,4,1,5
+SCL0576,Montenegro,Podgorica,3,3,4,4,3,4
+SCL0577,Bosnia and Herzegovina,Mostar,2,3,4,2,2,5
+SCL0578,Croatia,Zagreb,1,3,4,2,2,4
+SCL0579,North Macedonia,Skopje,1,3,5,2,3,4
+SCL0580,Montenegro,Nikšić,3,3,5,3,3,4
+SCL0581,Montenegro,Nikšić,4,4,3,4,3,4
+SCL0582,Bosnia and Herzegovina,Sarajevo,4,3,4,2,2,4
+SCL0583,Croatia,Zagreb,1,4,4,5,2,4
+SCL0584,Slovenia,Ljubljana,3,1,3,3,3,3
+SCL0585,Slovenia,Maribor,3,2,4,5,4,3
+SCL0586,Croatia,Rijeka,4,3,2,3,2,4
+SCL0587,Kosovo,Prizren,3,3,5,4,2,5
+SCL0588,Montenegro,Cetinje,1,4,4,3,3,4
+SCL0589,Bosnia and Herzegovina,Sarajevo,2,3,4,4,3,4
+SCL0590,Montenegro,Nikšić,2,4,4,3,3,4
+SCL0591,Serbia,Novi Sad,3,4,2,3,3,3
+SCL0592,Slovenia,Koper,1,3,3,3,4,3
+SCL0593,Serbia,Novi Sad,4,3,4,3,4,4
+SCL0594,Croatia,Zagreb,4,3,4,5,3,5
+SCL0595,Kosovo,Pristina,4,3,4,3,2,4
+SCL0596,North Macedonia,Skopje,4,4,3,3,3,4
+SCL0597,Montenegro,Nikšić,2,3,1,2,4,3
+SCL0598,Croatia,Rijeka,2,4,5,5,1,5
+SCL0599,Slovenia,Koper,3,4,4,2,2,4
+SCL0600,Slovenia,Maribor,1,3,3,4,3,4
+SCL0601,Montenegro,Cetinje,2,4,4,3,2,5
+SCL0602,Albania,Durrës,1,4,4,4,4,3
+SCL0603,North Macedonia,Ohrid,1,4,2,2,3,3
+SCL0604,Kosovo,Prizren,1,3,3,3,4,3
+SCL0605,Montenegro,Cetinje,2,5,3,4,3,4
+SCL0606,Serbia,Belgrade,1,4,3,2,3,4
+SCL0607,Albania,Tirana,4,3,4,3,2,3
+SCL0608,North Macedonia,Bitola,3,5,2,3,3,4
+SCL0609,Montenegro,Podgorica,3,3,3,4,2,4
+SCL0610,Albania,Tirana,1,2,2,4,4,3

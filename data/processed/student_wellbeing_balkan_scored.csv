@@ -1,0 +1,521 @@
+participant_id,country,city,gender,age,study_year,sleep_hours,digital_stress,perceived_stress,academic_motivation,wellbeing,stress_group
+SWB0001,Kosovo,Peja,Female,22,2,8.5,2,19,28,36,moderate
+SWB0002,Montenegro,Cetinje,Female,27,2,8.3,3,23,27,33,moderate
+SWB0003,Montenegro,Cetinje,Female,24,5,8.5,2,10,37,38,lower
+SWB0004,Montenegro,Cetinje,Female,21,1,6.6,2,28,23,28,moderate
+SWB0005,Serbia,Belgrade,Male,26,3,7.0,2,20,17,29,moderate
+SWB0006,Bosnia and Herzegovina,Sarajevo,Male,22,4,6.4,3,33,26,36,higher
+SWB0007,Montenegro,Nikšić,Female,20,4,7.9,3,17,32,40,lower
+SWB0008,Albania,Shkodër,Female,22,4,8.3,1,25,31,38,moderate
+SWB0009,Serbia,Belgrade,Female,28,4,8.3,5,29,33,33,higher
+SWB0010,Bosnia and Herzegovina,Banja Luka,Female,22,3,5.8,4,27,29,36,moderate
+SWB0011,North Macedonia,Bitola,Female,18,4,9.5,4,20,31,40,moderate
+SWB0012,Serbia,Novi Sad,Female,24,4,7.4,3,25,33,31,moderate
+SWB0013,Croatia,Zagreb,Male,23,1,7.8,5,26,35,40,moderate
+SWB0014,Bosnia and Herzegovina,Banja Luka,Male,23,3,9.0,3,23,28,40,moderate
+SWB0015,Montenegro,Nikšić,Male,27,3,8.0,3,23,37,31,moderate
+SWB0016,Slovenia,Maribor,Female,18,3,8.4,4,24,31,29,moderate
+SWB0017,Bosnia and Herzegovina,Mostar,Male,24,3,6.0,4,28,23,29,moderate
+SWB0018,Croatia,Split,Female,26,1,8.0,4,26,35,34,moderate
+SWB0019,North Macedonia,Ohrid,Female,23,1,6.7,3,25,32,34,moderate
+SWB0020,Slovenia,Ljubljana,Male,23,2,7.1,3,17,35,40,lower
+SWB0021,Slovenia,Ljubljana,Female,21,5,7.6,4,28,29,40,moderate
+SWB0022,Montenegro,Podgorica,Female,23,4,6.8,3,24,31,34,moderate
+SWB0023,North Macedonia,Bitola,Male,23,4,7.3,3,16,38,37,lower
+SWB0024,Serbia,Niš,Male,19,1,4.3,2,23,20,28,moderate
+SWB0025,Croatia,Zagreb,Female,20,3,7.6,4,30,21,38,higher
+SWB0026,Serbia,Novi Sad,Female,24,4,8.7,4,20,28,40,moderate
+SWB0027,Serbia,Novi Sad,Female,21,3,6.0,2,23,24,35,moderate
+SWB0028,Slovenia,Koper,Female,20,1,9.6,3,23,31,34,moderate
+SWB0029,Slovenia,Koper,Female,23,4,5.0,2,26,31,27,moderate
+SWB0030,Croatia,Zagreb,Female,25,2,9.3,2,14,27,32,lower
+SWB0031,Serbia,Niš,Female,22,3,7.7,5,27,26,35,moderate
+SWB0032,Serbia,Belgrade,Prefer not to say,18,3,6.3,3,26,23,31,moderate
+SWB0033,Bosnia and Herzegovina,Sarajevo,Male,25,5,6.0,4,20,32,34,moderate
+SWB0034,Montenegro,Nikšić,Male,21,4,8.1,3,20,31,30,moderate
+SWB0035,Albania,Tirana,Prefer not to say,25,1,9.3,3,16,26,31,lower
+SWB0036,Albania,Shkodër,Female,26,1,6.1,2,21,34,40,moderate
+SWB0037,Serbia,Belgrade,Male,26,3,9.0,4,22,25,36,moderate
+SWB0038,Serbia,Belgrade,Female,24,5,7.0,3,15,32,36,lower
+SWB0039,Albania,Shkodër,Female,20,3,8.3,2,19,35,30,moderate
+SWB0040,Slovenia,Ljubljana,Female,25,5,6.5,3,18,27,28,lower
+SWB0041,Bosnia and Herzegovina,Banja Luka,Female,20,4,6.2,3,22,32,40,moderate
+SWB0042,Montenegro,Cetinje,Male,27,2,4.7,2,30,28,37,higher
+SWB0043,Albania,Shkodër,Female,25,5,5.7,4,31,24,32,higher
+SWB0044,Croatia,Split,Female,23,2,7.8,1,11,23,35,lower
+SWB0045,Albania,Shkodër,Female,19,2,5.4,1,25,30,28,moderate
+SWB0046,Croatia,Zagreb,Male,18,3,5.9,2,15,24,32,lower
+SWB0047,Albania,Durrës,Male,19,3,7.8,3,23,31,33,moderate
+SWB0048,Serbia,Novi Sad,Female,23,4,5.6,4,20,33,30,moderate
+SWB0049,Croatia,Split,Male,23,2,7.7,3,26,26,34,moderate
+SWB0050,Montenegro,Podgorica,Female,23,3,7.2,3,29,15,29,higher
+SWB0051,Bosnia and Herzegovina,Mostar,Female,23,5,5.8,3,27,32,30,moderate
+SWB0052,Slovenia,Koper,Male,21,1,6.0,4,27,35,32,moderate
+SWB0053,Slovenia,Koper,Female,20,2,6.4,3,17,31,31,lower
+SWB0054,North Macedonia,Ohrid,Female,21,2,5.7,1,18,31,38,lower
+SWB0055,Bosnia and Herzegovina,Mostar,Female,26,2,6.2,3,24,28,32,moderate
+SWB0056,Serbia,Belgrade,Male,23,5,6.4,3,20,38,31,moderate
+SWB0057,Serbia,Niš,Male,24,2,6.6,2,21,25,40,moderate
+SWB0058,Albania,Durrës,Male,21,4,6.8,3,24,33,30,moderate
+SWB0059,Serbia,Novi Sad,Female,18,2,7.6,3,26,35,35,moderate
+SWB0060,Croatia,Zagreb,Female,25,3,5.7,2,22,29,19,moderate
+SWB0061,North Macedonia,Bitola,Female,21,3,5.4,3,22,23,26,moderate
+SWB0062,Albania,Durrës,Female,21,3,6.7,3,26,25,30,moderate
+SWB0063,Albania,Shkodër,Female,26,4,7.4,3,24,32,38,moderate
+SWB0064,Albania,Durrës,Male,24,2,8.0,3,26,23,32,moderate
+SWB0065,Croatia,Zagreb,Male,26,3,8.6,5,23,26,30,moderate
+SWB0066,North Macedonia,Bitola,Female,21,3,5.3,3,27,17,30,moderate
+SWB0067,Montenegro,Nikšić,Female,20,4,7.1,5,22,31,34,moderate
+SWB0068,Croatia,Zagreb,Female,18,2,5.1,4,22,31,15,moderate
+SWB0069,Croatia,Split,Female,22,3,7.9,4,28,26,40,moderate
+SWB0070,Slovenia,Maribor,Female,23,2,7.1,4,24,23,31,moderate
+SWB0071,Serbia,Niš,Female,21,5,7.2,3,29,28,29,higher
+SWB0072,Montenegro,Cetinje,Female,24,1,7.7,3,27,31,36,moderate
+SWB0073,North Macedonia,Ohrid,Male,23,2,7.9,3,12,32,40,lower
+SWB0074,Croatia,Zagreb,Female,19,1,7.5,2,15,25,33,lower
+SWB0075,Serbia,Belgrade,Female,27,1,5.6,4,22,35,29,moderate
+SWB0076,Kosovo,Peja,Male,19,3,8.1,2,12,22,38,lower
+SWB0077,Croatia,Zagreb,Female,18,1,7.8,3,24,29,34,moderate
+SWB0078,Croatia,Split,Female,25,1,6.3,3,22,19,38,moderate
+SWB0079,Slovenia,Maribor,Female,26,2,7.4,4,20,27,26,moderate
+SWB0080,Slovenia,Maribor,Female,23,2,7.6,2,12,26,30,lower
+SWB0081,Albania,Tirana,Female,23,2,7.7,2,11,36,31,lower
+SWB0082,North Macedonia,Skopje,Female,21,3,5.5,2,20,24,35,moderate
+SWB0083,Montenegro,Podgorica,Female,24,3,5.2,3,25,35,36,moderate
+SWB0084,Slovenia,Koper,Male,24,2,7.1,3,19,31,40,moderate
+SWB0085,Montenegro,Cetinje,Female,20,1,6.1,3,21,35,28,moderate
+SWB0086,North Macedonia,Ohrid,Male,18,5,6.5,4,26,36,33,moderate
+SWB0087,Kosovo,Prizren,Prefer not to say,23,3,7.5,1,26,36,34,moderate
+SWB0088,Serbia,Belgrade,Female,20,4,8.5,2,22,26,35,moderate
+SWB0089,Albania,Durrës,Male,22,5,7.1,3,21,31,34,moderate
+SWB0090,Serbia,Belgrade,Female,21,1,3.7,5,13,30,40,lower
+SWB0091,Albania,Tirana,Male,26,5,7.4,3,27,25,30,moderate
+SWB0092,Croatia,Rijeka,Female,23,5,7.2,3,20,35,33,moderate
+SWB0093,Serbia,Novi Sad,Female,25,3,7.9,3,13,38,37,lower
+SWB0094,Bosnia and Herzegovina,Sarajevo,Male,28,2,5.3,2,26,34,26,moderate
+SWB0095,Croatia,Rijeka,Male,22,4,6.0,5,30,21,31,higher
+SWB0096,North Macedonia,Ohrid,Male,26,4,5.2,2,23,26,34,moderate
+SWB0097,Bosnia and Herzegovina,Banja Luka,Male,18,2,5.1,3,15,30,32,lower
+SWB0098,Albania,Tirana,Male,19,3,5.9,3,30,39,38,higher
+SWB0099,Bosnia and Herzegovina,Mostar,Male,22,2,8.7,3,14,34,34,lower
+SWB0100,Serbia,Novi Sad,Female,24,5,5.0,2,20,26,36,moderate
+SWB0101,Slovenia,Maribor,Male,25,1,5.8,4,27,30,33,moderate
+SWB0102,Slovenia,Koper,Female,23,2,7.2,4,35,31,34,higher
+SWB0103,Bosnia and Herzegovina,Mostar,Male,23,2,6.2,3,28,28,20,moderate
+SWB0104,Montenegro,Cetinje,Female,25,4,6.4,1,17,28,40,lower
+SWB0105,Montenegro,Nikšić,Prefer not to say,19,2,6.9,3,24,32,32,moderate
+SWB0106,North Macedonia,Ohrid,Male,26,4,8.3,3,24,28,39,moderate
+SWB0107,Serbia,Niš,Female,22,3,6.6,4,26,25,34,moderate
+SWB0108,Croatia,Split,Male,19,1,8.2,3,24,20,36,moderate
+SWB0109,Bosnia and Herzegovina,Sarajevo,Male,21,3,8.2,3,21,29,40,moderate
+SWB0110,Serbia,Niš,Female,18,1,6.0,3,32,27,28,higher
+SWB0111,North Macedonia,Ohrid,Female,18,4,7.6,3,22,31,40,moderate
+SWB0112,Serbia,Belgrade,Male,19,4,4.9,2,22,27,40,moderate
+SWB0113,Serbia,Novi Sad,Female,18,5,6.8,4,30,33,36,higher
+SWB0114,Kosovo,Pristina,Female,21,2,5.2,3,26,31,27,moderate
+SWB0115,Slovenia,Koper,Male,22,3,6.5,3,29,32,33,higher
+SWB0116,Slovenia,Koper,Female,25,4,6.5,4,24,31,26,moderate
+SWB0117,Bosnia and Herzegovina,Sarajevo,Female,26,3,8.0,4,20,34,38,moderate
+SWB0118,Croatia,Zagreb,Female,18,2,7.8,2,32,31,35,higher
+SWB0119,Serbia,Belgrade,Male,21,4,7.4,4,36,32,38,higher
+SWB0120,Bosnia and Herzegovina,Banja Luka,Prefer not to say,22,2,6.6,3,27,25,29,moderate
+SWB0121,North Macedonia,Ohrid,Male,23,4,5.7,3,30,15,32,higher
+SWB0122,Albania,Tirana,Female,21,3,4.8,3,26,39,28,moderate
+SWB0123,Serbia,Niš,Female,25,4,8.9,4,21,34,37,moderate
+SWB0124,Bosnia and Herzegovina,Sarajevo,Female,24,3,8.2,2,25,32,35,moderate
+SWB0125,North Macedonia,Ohrid,Female,24,2,6.0,5,34,33,28,higher
+SWB0126,Bosnia and Herzegovina,Sarajevo,Female,22,5,6.4,4,23,30,40,moderate
+SWB0127,Montenegro,Nikšić,Male,19,4,7.6,2,32,36,31,higher
+SWB0128,Croatia,Zagreb,Prefer not to say,25,2,8.4,5,27,25,36,moderate
+SWB0129,Croatia,Split,Male,24,1,6.0,3,25,33,30,moderate
+SWB0130,Croatia,Rijeka,Female,20,3,8.3,4,26,27,33,moderate
+SWB0131,North Macedonia,Bitola,Female,28,1,7.3,3,15,36,40,lower
+SWB0132,Bosnia and Herzegovina,Mostar,Female,20,1,6.2,3,24,29,40,moderate
+SWB0133,Albania,Shkodër,Female,25,1,8.5,3,26,37,40,moderate
+SWB0134,Montenegro,Podgorica,Female,18,5,8.5,2,21,29,36,moderate
+SWB0135,Montenegro,Cetinje,Female,24,4,6.2,1,19,35,36,moderate
+SWB0136,Serbia,Novi Sad,Male,19,1,7.5,2,19,31,35,moderate
+SWB0137,Kosovo,Prizren,Female,25,3,5.7,3,33,28,34,higher
+SWB0138,Slovenia,Koper,Female,27,2,6.5,3,29,26,28,higher
+SWB0139,Montenegro,Cetinje,Male,18,4,6.5,2,27,29,25,moderate
+SWB0140,Serbia,Belgrade,Male,27,1,9.0,3,16,32,38,lower
+SWB0141,North Macedonia,Skopje,Female,27,4,6.7,3,22,30,33,moderate
+SWB0142,Serbia,Novi Sad,Male,25,1,7.0,3,20,35,36,moderate
+SWB0143,Croatia,Split,Female,25,4,8.0,4,26,33,36,moderate
+SWB0144,Slovenia,Maribor,Female,27,5,6.6,2,27,31,22,moderate
+SWB0145,Albania,Tirana,Female,18,4,6.6,3,20,16,39,moderate
+SWB0146,Serbia,Novi Sad,Female,18,2,4.7,4,19,24,34,moderate
+SWB0147,North Macedonia,Skopje,Female,20,4,6.7,3,20,24,40,moderate
+SWB0148,Kosovo,Peja,Female,23,3,6.2,3,32,37,39,higher
+SWB0149,Kosovo,Peja,Female,18,2,5.2,4,25,29,34,moderate
+SWB0150,Bosnia and Herzegovina,Mostar,Male,22,2,6.3,1,26,32,40,moderate
+SWB0151,Bosnia and Herzegovina,Banja Luka,Male,25,1,6.6,4,21,27,32,moderate
+SWB0152,Bosnia and Herzegovina,Sarajevo,Male,22,1,7.7,3,18,30,35,lower
+SWB0153,Montenegro,Cetinje,Female,19,2,6.9,2,25,29,29,moderate
+SWB0154,Slovenia,Ljubljana,Female,21,4,6.9,3,25,32,32,moderate
+SWB0155,Serbia,Belgrade,Female,24,4,6.5,5,27,25,33,moderate
+SWB0156,Serbia,Novi Sad,Female,26,2,7.0,3,19,26,24,moderate
+SWB0157,Serbia,Niš,Male,19,1,8.2,4,13,26,40,lower
+SWB0158,Slovenia,Ljubljana,Male,20,1,7.2,3,20,29,31,moderate
+SWB0159,North Macedonia,Bitola,Female,26,4,8.3,3,21,35,39,moderate
+SWB0160,Croatia,Rijeka,Male,26,3,8.0,3,30,27,33,higher
+SWB0161,Albania,Durrës,Female,20,1,6.2,3,18,39,40,lower
+SWB0162,Slovenia,Ljubljana,Male,25,5,6.2,4,27,25,32,moderate
+SWB0163,Slovenia,Ljubljana,Male,20,4,5.6,4,24,23,29,moderate
+SWB0164,Montenegro,Nikšić,Female,22,5,6.4,5,26,25,26,moderate
+SWB0165,Albania,Tirana,Female,25,3,6.4,4,28,32,32,moderate
+SWB0166,Montenegro,Cetinje,Female,20,2,7.3,2,12,20,40,lower
+SWB0167,Serbia,Belgrade,Female,26,5,6.2,3,22,27,35,moderate
+SWB0168,Albania,Shkodër,Male,22,1,7.3,5,32,38,28,higher
+SWB0169,North Macedonia,Ohrid,Female,25,1,7.1,3,24,26,33,moderate
+SWB0170,Albania,Tirana,Female,23,5,7.2,4,23,27,34,moderate
+SWB0171,Croatia,Rijeka,Female,24,5,8.1,4,27,34,34,moderate
+SWB0172,Croatia,Zagreb,Female,19,4,6.3,2,21,30,33,moderate
+SWB0173,Croatia,Split,Female,23,1,8.0,3,26,31,35,moderate
+SWB0174,Slovenia,Koper,Female,21,5,7.9,2,20,34,25,moderate
+SWB0175,Montenegro,Cetinje,Male,22,2,6.8,4,28,25,31,moderate
+SWB0176,Albania,Shkodër,Female,23,4,7.3,2,20,30,34,moderate
+SWB0177,Montenegro,Podgorica,Female,20,3,7.8,4,33,28,31,higher
+SWB0178,Slovenia,Ljubljana,Male,27,4,8.0,3,29,31,28,higher
+SWB0179,North Macedonia,Bitola,Female,18,3,7.7,3,16,28,32,lower
+SWB0180,Kosovo,Prizren,Male,18,2,5.7,2,13,18,39,lower
+SWB0181,Albania,Shkodër,Prefer not to say,18,4,8.2,3,29,29,38,higher
+SWB0182,North Macedonia,Skopje,Female,23,4,6.5,3,19,34,34,moderate
+SWB0183,Slovenia,Ljubljana,Female,21,3,10.0,3,21,31,40,moderate
+SWB0184,North Macedonia,Skopje,Female,24,3,6.6,2,13,22,40,lower
+SWB0185,Slovenia,Koper,Female,23,3,7.2,2,23,25,35,moderate
+SWB0186,Slovenia,Ljubljana,Prefer not to say,21,1,7.3,3,25,23,38,moderate
+SWB0187,Kosovo,Peja,Female,19,4,6.3,3,31,23,40,higher
+SWB0188,Albania,Shkodër,Female,21,3,7.0,1,14,26,32,lower
+SWB0189,Montenegro,Cetinje,Female,27,5,7.2,3,25,29,27,moderate
+SWB0190,Serbia,Niš,Female,22,2,7.5,3,22,21,32,moderate
+SWB0191,Kosovo,Prizren,Female,18,4,7.6,4,29,26,33,higher
+SWB0192,Albania,Tirana,Female,25,4,6.3,2,25,34,29,moderate
+SWB0193,Croatia,Zagreb,Female,25,3,6.5,2,23,31,35,moderate
+SWB0194,Slovenia,Maribor,Male,23,3,8.2,3,28,30,40,moderate
+SWB0195,Slovenia,Ljubljana,Female,22,4,5.3,3,24,24,34,moderate
+SWB0196,Serbia,Novi Sad,Female,30,1,6.4,3,21,31,32,moderate
+SWB0197,Kosovo,Peja,Male,21,2,7.0,5,29,31,35,higher
+SWB0198,North Macedonia,Ohrid,Female,22,2,6.8,3,19,35,35,moderate
+SWB0199,Bosnia and Herzegovina,Mostar,Female,21,3,8.3,2,29,29,32,higher
+SWB0200,Slovenia,Maribor,Male,24,5,6.2,3,31,25,30,higher
+SWB0201,Serbia,Novi Sad,Female,21,2,7.0,3,26,21,31,moderate
+SWB0202,Bosnia and Herzegovina,Sarajevo,Male,22,1,7.2,4,25,40,40,moderate
+SWB0203,Montenegro,Nikšić,Male,27,2,5.6,4,22,31,40,moderate
+SWB0204,Albania,Shkodër,Male,22,5,7.8,2,19,32,40,moderate
+SWB0205,Montenegro,Nikšić,Male,21,5,5.7,2,14,26,30,lower
+SWB0206,Serbia,Niš,Male,20,2,7.5,3,19,22,32,moderate
+SWB0207,Serbia,Belgrade,Male,19,5,8.2,3,21,35,34,moderate
+SWB0208,Bosnia and Herzegovina,Banja Luka,Female,20,5,6.0,3,40,24,37,higher
+SWB0209,Kosovo,Peja,Male,18,5,7.9,1,21,30,36,moderate
+SWB0210,Montenegro,Nikšić,Female,23,1,8.5,3,15,36,40,lower
+SWB0211,Albania,Shkodër,Female,23,4,6.3,1,21,30,35,moderate
+SWB0212,Albania,Durrës,Male,21,2,8.6,3,23,35,33,moderate
+SWB0213,Bosnia and Herzegovina,Sarajevo,Female,24,1,7.0,3,23,32,26,moderate
+SWB0214,Serbia,Niš,Female,19,2,5.2,2,29,30,25,higher
+SWB0215,Croatia,Split,Male,23,1,6.1,4,24,37,38,moderate
+SWB0216,Montenegro,Podgorica,Female,18,2,7.5,2,18,26,31,lower
+SWB0217,North Macedonia,Skopje,Female,21,3,6.9,4,24,31,40,moderate
+SWB0218,Serbia,Novi Sad,Prefer not to say,22,2,7.2,4,33,19,35,higher
+SWB0219,Montenegro,Nikšić,Male,23,2,7.8,4,29,27,34,higher
+SWB0220,Serbia,Belgrade,Female,21,2,7.4,3,18,28,34,lower
+SWB0221,Serbia,Belgrade,Male,22,1,6.1,4,30,27,20,higher
+SWB0222,Albania,Durrës,Male,22,2,6.6,2,20,30,27,moderate
+SWB0223,Slovenia,Ljubljana,Female,24,3,7.0,2,30,32,37,higher
+SWB0224,Albania,Shkodër,Male,24,1,6.2,3,29,28,34,higher
+SWB0225,North Macedonia,Bitola,Male,29,3,6.4,3,26,31,28,moderate
+SWB0226,Albania,Durrës,Female,27,3,8.0,3,14,34,33,lower
+SWB0227,Bosnia and Herzegovina,Banja Luka,Female,27,1,6.6,2,25,24,37,moderate
+SWB0228,Kosovo,Pristina,Female,24,4,5.4,3,25,26,33,moderate
+SWB0229,North Macedonia,Ohrid,Prefer not to say,23,1,7.6,3,25,24,40,moderate
+SWB0230,Montenegro,Podgorica,Female,23,1,7.5,4,27,21,40,moderate
+SWB0231,Albania,Durrës,Male,21,3,8.0,3,17,31,31,lower
+SWB0232,Bosnia and Herzegovina,Mostar,Male,21,2,9.4,3,26,33,35,moderate
+SWB0233,Croatia,Rijeka,Male,23,2,6.4,3,25,37,35,moderate
+SWB0234,Bosnia and Herzegovina,Sarajevo,Female,20,3,5.1,2,21,28,31,moderate
+SWB0235,Slovenia,Ljubljana,Female,19,4,8.9,2,10,30,40,lower
+SWB0236,Croatia,Rijeka,Male,18,5,6.0,4,18,35,33,lower
+SWB0237,Albania,Tirana,Female,27,2,7.6,3,27,24,32,moderate
+SWB0238,Kosovo,Prizren,Female,21,1,6.3,4,26,21,25,moderate
+SWB0239,North Macedonia,Ohrid,Male,21,2,7.0,3,21,25,38,moderate
+SWB0240,Bosnia and Herzegovina,Banja Luka,Female,28,3,5.7,5,29,23,24,higher
+SWB0241,North Macedonia,Bitola,Female,23,3,6.0,3,26,32,40,moderate
+SWB0242,North Macedonia,Ohrid,Male,25,2,7.0,3,29,27,37,higher
+SWB0243,Croatia,Split,Female,18,2,5.5,1,14,36,40,lower
+SWB0244,Croatia,Rijeka,Female,18,2,6.8,4,24,24,39,moderate
+SWB0245,Bosnia and Herzegovina,Mostar,Female,18,4,7.7,3,24,21,40,moderate
+SWB0246,Serbia,Niš,Female,21,5,7.9,2,22,35,36,moderate
+SWB0247,Bosnia and Herzegovina,Mostar,Female,18,4,6.1,3,18,27,38,lower
+SWB0248,North Macedonia,Ohrid,Male,21,1,7.0,4,31,38,32,higher
+SWB0249,Albania,Shkodër,Male,24,1,6.7,4,20,34,40,moderate
+SWB0250,Bosnia and Herzegovina,Banja Luka,Female,21,2,6.5,2,19,33,32,moderate
+SWB0251,Slovenia,Maribor,Female,24,1,7.4,3,21,27,40,moderate
+SWB0252,Croatia,Split,Male,19,1,6.1,3,23,30,31,moderate
+SWB0253,Bosnia and Herzegovina,Sarajevo,Female,27,3,7.5,3,29,38,37,higher
+SWB0254,Croatia,Zagreb,Female,20,3,5.7,4,27,24,33,moderate
+SWB0255,Slovenia,Koper,Male,22,5,6.3,2,24,32,35,moderate
+SWB0256,Croatia,Zagreb,Male,27,3,7.1,2,23,30,38,moderate
+SWB0257,North Macedonia,Skopje,Female,23,5,6.4,2,19,26,40,moderate
+SWB0258,Albania,Shkodër,Male,22,5,6.5,4,27,27,40,moderate
+SWB0259,Bosnia and Herzegovina,Banja Luka,Male,22,3,7.1,3,21,32,40,moderate
+SWB0260,Montenegro,Podgorica,Female,24,5,5.6,3,25,27,35,moderate
+SWB0261,Montenegro,Cetinje,Female,24,4,6.1,2,27,33,31,moderate
+SWB0262,Bosnia and Herzegovina,Mostar,Female,24,4,7.5,2,17,23,34,lower
+SWB0263,Montenegro,Cetinje,Male,24,5,6.7,2,23,27,39,moderate
+SWB0264,Albania,Durrës,Female,25,4,7.3,3,18,29,37,lower
+SWB0265,Serbia,Niš,Male,19,1,6.8,3,12,38,40,lower
+SWB0266,Bosnia and Herzegovina,Sarajevo,Female,23,2,5.2,5,26,25,27,moderate
+SWB0267,Bosnia and Herzegovina,Mostar,Female,18,3,7.1,4,30,28,28,higher
+SWB0268,North Macedonia,Skopje,Male,22,3,6.3,2,11,27,32,lower
+SWB0269,Kosovo,Peja,Prefer not to say,18,2,5.0,2,14,23,34,lower
+SWB0270,Albania,Tirana,Female,21,4,8.6,4,26,29,38,moderate
+SWB0271,Slovenia,Maribor,Female,21,5,7.2,4,22,29,35,moderate
+SWB0272,North Macedonia,Bitola,Female,26,4,7.7,1,19,35,20,moderate
+SWB0273,Albania,Tirana,Prefer not to say,18,5,7.0,5,29,35,29,higher
+SWB0274,Albania,Shkodër,Female,21,1,9.0,3,15,39,37,lower
+SWB0275,North Macedonia,Skopje,Female,18,5,4.7,3,29,25,27,higher
+SWB0276,Serbia,Niš,Male,22,2,6.4,4,24,28,32,moderate
+SWB0277,Serbia,Belgrade,Female,20,4,7.3,3,34,23,36,higher
+SWB0278,Croatia,Split,Male,22,4,7.1,3,20,29,34,moderate
+SWB0279,Croatia,Zagreb,Male,19,5,7.7,3,23,27,40,moderate
+SWB0280,Croatia,Rijeka,Female,18,2,7.1,5,30,35,39,higher
+SWB0281,Bosnia and Herzegovina,Sarajevo,Female,23,2,8.0,3,13,32,35,lower
+SWB0282,Serbia,Novi Sad,Female,27,2,6.3,4,23,33,33,moderate
+SWB0283,North Macedonia,Skopje,Female,22,5,8.9,2,13,35,38,lower
+SWB0284,North Macedonia,Ohrid,Male,18,1,8.7,5,24,35,30,moderate
+SWB0285,Bosnia and Herzegovina,Sarajevo,Male,29,2,4.9,4,26,20,30,moderate
+SWB0286,Albania,Shkodër,Female,19,3,5.0,5,28,26,27,moderate
+SWB0287,Serbia,Niš,Female,22,3,6.9,3,17,40,37,lower
+SWB0288,North Macedonia,Ohrid,Female,25,4,7.4,2,25,25,31,moderate
+SWB0289,Serbia,Niš,Female,18,5,8.4,3,31,29,29,higher
+SWB0290,Montenegro,Podgorica,Male,20,2,9.9,4,18,26,34,lower
+SWB0291,Croatia,Zagreb,Female,18,1,5.9,2,24,33,36,moderate
+SWB0292,Bosnia and Herzegovina,Banja Luka,Male,21,2,5.4,2,21,23,40,moderate
+SWB0293,Croatia,Split,Male,19,5,6.1,5,20,31,39,moderate
+SWB0294,North Macedonia,Bitola,Female,24,2,5.4,4,28,27,37,moderate
+SWB0295,Slovenia,Koper,Male,24,1,8.0,2,26,27,40,moderate
+SWB0296,Serbia,Novi Sad,Male,21,1,7.0,2,23,26,40,moderate
+SWB0297,Croatia,Zagreb,Male,21,4,5.6,4,27,24,33,moderate
+SWB0298,Serbia,Belgrade,Female,25,4,7.2,3,22,29,33,moderate
+SWB0299,Montenegro,Cetinje,Male,22,2,7.0,3,21,24,27,moderate
+SWB0300,North Macedonia,Skopje,Female,22,2,7.2,3,14,29,40,lower
+SWB0301,Croatia,Rijeka,Female,19,3,6.3,3,22,32,39,moderate
+SWB0302,Slovenia,Ljubljana,Female,21,1,7.7,4,24,35,34,moderate
+SWB0303,Montenegro,Podgorica,Female,20,5,5.9,2,25,39,35,moderate
+SWB0304,Montenegro,Cetinje,Female,25,1,8.6,4,27,37,38,moderate
+SWB0305,Slovenia,Ljubljana,Male,21,4,8.2,1,18,33,39,lower
+SWB0306,Montenegro,Nikšić,Male,21,2,9.5,3,20,22,40,moderate
+SWB0307,Bosnia and Herzegovina,Sarajevo,Female,21,3,7.8,3,25,27,37,moderate
+SWB0308,Serbia,Belgrade,Female,18,2,7.0,3,17,20,34,lower
+SWB0309,Bosnia and Herzegovina,Sarajevo,Female,25,5,9.7,5,24,24,35,moderate
+SWB0310,Slovenia,Ljubljana,Male,21,1,7.3,4,22,29,36,moderate
+SWB0311,Montenegro,Podgorica,Female,19,5,8.1,4,29,19,32,higher
+SWB0312,Montenegro,Nikšić,Female,19,3,7.9,1,18,30,35,lower
+SWB0313,North Macedonia,Bitola,Male,21,1,5.3,4,28,29,27,moderate
+SWB0314,Kosovo,Prizren,Male,22,1,7.8,2,26,19,40,moderate
+SWB0315,Serbia,Niš,Female,22,1,9.2,3,13,26,34,lower
+SWB0316,Albania,Shkodër,Male,23,1,6.3,3,21,27,33,moderate
+SWB0317,Slovenia,Koper,Male,18,5,6.3,2,31,24,30,higher
+SWB0318,Serbia,Novi Sad,Female,23,2,6.4,5,16,26,40,lower
+SWB0319,Bosnia and Herzegovina,Sarajevo,Female,24,3,6.5,3,32,25,30,higher
+SWB0320,Montenegro,Nikšić,Female,25,4,6.2,3,20,34,35,moderate
+SWB0321,Serbia,Novi Sad,Male,21,4,6.4,2,23,28,31,moderate
+SWB0322,Serbia,Niš,Male,22,2,6.4,4,25,19,36,moderate
+SWB0323,Kosovo,Prizren,Female,23,5,6.5,3,35,24,38,higher
+SWB0324,Bosnia and Herzegovina,Banja Luka,Female,20,2,5.9,3,23,25,39,moderate
+SWB0325,Slovenia,Ljubljana,Male,26,2,8.8,5,29,29,23,higher
+SWB0326,Montenegro,Cetinje,Male,25,3,6.0,3,28,31,31,moderate
+SWB0327,Serbia,Niš,Male,23,3,7.5,5,21,29,35,moderate
+SWB0328,Croatia,Zagreb,Female,25,1,8.0,5,21,24,34,moderate
+SWB0329,Kosovo,Peja,Male,20,5,7.7,4,31,33,34,higher
+SWB0330,Croatia,Zagreb,Female,19,4,6.1,5,24,29,27,moderate
+SWB0331,Bosnia and Herzegovina,Banja Luka,Female,24,3,4.7,3,26,29,37,moderate
+SWB0332,North Macedonia,Bitola,Female,20,2,9.4,4,15,38,40,lower
+SWB0333,North Macedonia,Skopje,Female,19,1,7.5,2,12,31,31,lower
+SWB0334,Serbia,Novi Sad,Female,21,1,6.2,2,19,32,27,moderate
+SWB0335,Croatia,Rijeka,Female,18,2,7.9,3,19,33,32,moderate
+SWB0336,Albania,Shkodër,Female,18,1,5.4,3,26,24,22,moderate
+SWB0337,Albania,Shkodër,Female,22,4,8.1,4,20,27,28,moderate
+SWB0338,Bosnia and Herzegovina,Mostar,Male,18,4,8.3,3,25,27,39,moderate
+SWB0339,Kosovo,Peja,Female,18,3,7.0,1,13,22,36,lower
+SWB0340,North Macedonia,Ohrid,Female,19,1,6.2,4,32,27,26,higher
+SWB0341,Kosovo,Peja,Female,26,5,7.5,2,25,26,32,moderate
+SWB0342,Croatia,Zagreb,Female,20,1,7.3,2,19,20,29,moderate
+SWB0343,North Macedonia,Skopje,Female,21,1,6.4,4,20,25,32,moderate
+SWB0344,Croatia,Rijeka,Female,24,4,6.8,3,19,22,32,moderate
+SWB0345,Serbia,Novi Sad,Male,26,2,7.6,3,20,25,35,moderate
+SWB0346,Serbia,Novi Sad,Female,18,5,6.2,4,22,22,25,moderate
+SWB0347,Serbia,Niš,Prefer not to say,22,1,6.0,2,28,25,30,moderate
+SWB0348,North Macedonia,Bitola,Female,21,1,8.1,3,24,37,36,moderate
+SWB0349,North Macedonia,Bitola,Female,19,3,7.6,3,18,32,40,lower
+SWB0350,Serbia,Novi Sad,Female,19,5,7.2,3,19,28,40,moderate
+SWB0351,Croatia,Split,Female,24,1,6.6,3,18,28,31,lower
+SWB0352,Croatia,Zagreb,Female,25,4,4.0,3,17,30,32,lower
+SWB0353,Croatia,Zagreb,Female,21,5,8.4,4,22,34,40,moderate
+SWB0354,Bosnia and Herzegovina,Sarajevo,Female,19,3,7.6,5,28,34,34,moderate
+SWB0355,Croatia,Split,Female,22,5,6.4,3,21,21,26,moderate
+SWB0356,Serbia,Niš,Male,24,1,6.0,4,31,32,27,higher
+SWB0357,Montenegro,Nikšić,Female,20,2,6.4,3,28,29,40,moderate
+SWB0358,Slovenia,Maribor,Female,24,4,5.9,3,26,31,36,moderate
+SWB0359,Serbia,Belgrade,Male,26,2,7.2,3,18,32,33,lower
+SWB0360,Slovenia,Koper,Female,21,4,7.3,3,19,28,37,moderate
+SWB0361,Kosovo,Peja,Female,24,4,6.5,3,11,24,40,lower
+SWB0362,Bosnia and Herzegovina,Banja Luka,Male,19,2,7.3,3,24,36,35,moderate
+SWB0363,Albania,Durrës,Male,21,1,6.9,4,22,40,35,moderate
+SWB0364,North Macedonia,Ohrid,Female,26,3,6.2,2,27,27,37,moderate
+SWB0365,Croatia,Split,Female,24,5,5.9,4,34,31,34,higher
+SWB0366,Croatia,Split,Female,25,3,5.0,2,29,24,31,higher
+SWB0367,Croatia,Split,Female,26,2,7.5,3,17,31,40,lower
+SWB0368,Montenegro,Cetinje,Male,20,3,7.4,3,28,25,40,moderate
+SWB0369,Albania,Shkodër,Female,24,3,9.1,3,31,32,36,higher
+SWB0370,Kosovo,Prizren,Female,21,2,5.1,3,24,23,34,moderate
+SWB0371,Serbia,Niš,Prefer not to say,22,4,7.7,3,19,34,39,moderate
+SWB0372,Albania,Shkodër,Female,21,1,6.6,3,26,28,21,moderate
+SWB0373,Serbia,Niš,Female,24,1,7.9,1,17,26,36,lower
+SWB0374,Albania,Tirana,Female,20,5,6.8,2,25,25,26,moderate
+SWB0375,Albania,Tirana,Male,22,3,5.6,5,22,32,34,moderate
+SWB0376,Albania,Durrës,Male,24,1,5.8,4,21,32,34,moderate
+SWB0377,Bosnia and Herzegovina,Banja Luka,Male,19,3,7.7,3,26,31,34,moderate
+SWB0378,Serbia,Novi Sad,Male,18,2,6.4,4,18,40,30,lower
+SWB0379,Kosovo,Prizren,Female,20,1,5.6,3,16,39,34,lower
+SWB0380,Croatia,Zagreb,Male,22,1,7.2,3,20,34,35,moderate
+SWB0381,Serbia,Belgrade,Female,21,3,5.2,3,20,38,28,moderate
+SWB0382,Kosovo,Pristina,Female,24,4,8.8,4,22,35,40,moderate
+SWB0383,North Macedonia,Bitola,Female,18,4,6.3,4,16,30,37,lower
+SWB0384,Albania,Shkodër,Female,20,3,6.7,3,26,26,36,moderate
+SWB0385,Slovenia,Ljubljana,Male,22,1,6.9,4,27,24,34,moderate
+SWB0386,Slovenia,Ljubljana,Female,18,4,7.2,4,28,30,31,moderate
+SWB0387,Albania,Shkodër,Male,26,4,7.8,3,19,37,40,moderate
+SWB0388,Bosnia and Herzegovina,Banja Luka,Male,19,5,6.0,5,28,30,36,moderate
+SWB0389,Serbia,Belgrade,Female,22,1,6.1,3,18,38,40,lower
+SWB0390,Slovenia,Ljubljana,Female,18,2,8.1,4,21,35,40,moderate
+SWB0391,Albania,Tirana,Female,18,3,6.9,3,14,33,34,lower
+SWB0392,Serbia,Niš,Female,25,5,6.2,3,20,38,31,moderate
+SWB0393,Bosnia and Herzegovina,Sarajevo,Female,21,4,6.7,3,28,31,30,moderate
+SWB0394,Albania,Durrës,Female,24,2,7.6,3,15,27,33,lower
+SWB0395,Kosovo,Prizren,Female,22,1,8.8,3,19,31,32,moderate
+SWB0396,North Macedonia,Bitola,Female,21,3,7.3,4,24,30,37,moderate
+SWB0397,Slovenia,Maribor,Male,22,3,8.0,1,17,24,37,lower
+SWB0398,Kosovo,Peja,Female,24,3,7.3,3,24,35,40,moderate
+SWB0399,Albania,Tirana,Female,19,4,9.8,3,27,27,37,moderate
+SWB0400,North Macedonia,Ohrid,Prefer not to say,20,2,4.7,4,24,28,38,moderate
+SWB0401,Croatia,Split,Male,18,1,6.9,4,20,29,40,moderate
+SWB0402,Albania,Tirana,Female,23,4,5.7,1,24,40,33,moderate
+SWB0403,Slovenia,Ljubljana,Female,18,5,7.5,4,17,27,33,lower
+SWB0404,Montenegro,Nikšić,Female,21,5,5.9,3,30,37,33,higher
+SWB0405,Bosnia and Herzegovina,Mostar,Male,19,3,7.6,3,21,24,33,moderate
+SWB0406,Slovenia,Maribor,Male,22,3,6.5,1,18,32,31,lower
+SWB0407,Bosnia and Herzegovina,Sarajevo,Female,18,1,7.2,1,21,34,29,moderate
+SWB0408,Bosnia and Herzegovina,Sarajevo,Female,27,5,7.3,2,19,19,34,moderate
+SWB0409,Montenegro,Podgorica,Male,27,1,7.1,2,29,32,31,higher
+SWB0410,Bosnia and Herzegovina,Banja Luka,Female,21,4,7.1,3,32,22,38,higher
+SWB0411,Croatia,Rijeka,Male,20,2,6.2,5,28,28,36,moderate
+SWB0412,Montenegro,Nikšić,Male,21,4,6.8,4,26,33,29,moderate
+SWB0413,Serbia,Belgrade,Female,18,3,9.0,2,8,30,40,lower
+SWB0414,Montenegro,Cetinje,Male,18,1,9.1,2,10,21,26,lower
+SWB0415,Slovenia,Maribor,Male,25,2,5.4,3,12,25,40,lower
+SWB0416,Kosovo,Prizren,Female,26,4,7.5,4,25,35,40,moderate
+SWB0417,Slovenia,Koper,Female,18,3,6.5,2,16,40,31,lower
+SWB0418,Slovenia,Maribor,Male,20,4,5.9,3,17,27,40,lower
+SWB0419,Slovenia,Koper,Female,19,3,6.1,3,21,32,31,moderate
+SWB0420,Slovenia,Ljubljana,Male,19,5,8.6,1,14,39,40,lower
+SWB0421,Bosnia and Herzegovina,Mostar,Male,23,1,8.3,4,28,25,31,moderate
+SWB0422,Croatia,Rijeka,Prefer not to say,25,5,4.8,4,31,34,29,higher
+SWB0423,Montenegro,Cetinje,Female,18,2,6.5,3,25,29,31,moderate
+SWB0424,Croatia,Rijeka,Female,24,5,6.6,2,13,29,39,lower
+SWB0425,Montenegro,Nikšić,Male,23,3,7.1,2,20,26,35,moderate
+SWB0426,Kosovo,Prizren,Female,18,4,6.3,4,23,23,37,moderate
+SWB0427,Bosnia and Herzegovina,Sarajevo,Male,22,1,8.5,5,29,38,36,higher
+SWB0428,Kosovo,Peja,Male,20,2,7.5,4,29,33,27,higher
+SWB0429,Kosovo,Prizren,Male,23,2,6.3,5,24,28,36,moderate
+SWB0430,Montenegro,Podgorica,Female,23,2,5.5,4,26,17,33,moderate
+SWB0431,Serbia,Niš,Female,21,3,7.6,4,19,29,40,moderate
+SWB0432,Bosnia and Herzegovina,Mostar,Female,20,3,8.2,2,15,20,39,lower
+SWB0433,Serbia,Belgrade,Male,20,4,7.3,3,22,25,29,moderate
+SWB0434,Croatia,Split,Male,20,2,6.3,3,22,32,25,moderate
+SWB0435,Bosnia and Herzegovina,Mostar,Female,19,4,8.3,4,21,31,31,moderate
+SWB0436,Montenegro,Cetinje,Female,20,4,8.4,5,22,25,38,moderate
+SWB0437,Montenegro,Podgorica,Female,25,2,8.3,2,25,33,36,moderate
+SWB0438,Montenegro,Cetinje,Male,21,4,6.7,1,14,27,31,lower
+SWB0439,Kosovo,Pristina,Male,18,3,7.3,3,19,29,37,moderate
+SWB0440,Serbia,Belgrade,Male,20,3,7.3,3,29,27,38,higher
+SWB0441,North Macedonia,Ohrid,Male,23,1,7.5,5,18,37,37,lower
+SWB0442,Kosovo,Prizren,Female,19,5,6.9,3,13,33,40,lower
+SWB0443,Albania,Tirana,Female,21,3,8.2,3,27,38,40,moderate
+SWB0444,Croatia,Rijeka,Female,24,2,6.8,2,20,34,40,moderate
+SWB0445,North Macedonia,Ohrid,Male,20,1,6.3,4,26,32,30,moderate
+SWB0446,Slovenia,Maribor,Female,19,2,9.8,3,27,25,37,moderate
+SWB0447,Bosnia and Herzegovina,Banja Luka,Female,23,2,4.9,4,33,23,26,higher
+SWB0448,Croatia,Zagreb,Female,22,2,8.8,4,13,29,32,lower
+SWB0449,Croatia,Zagreb,Male,22,1,7.2,4,23,25,30,moderate
+SWB0450,Montenegro,Nikšić,Prefer not to say,23,3,5.3,4,21,23,27,moderate
+SWB0451,Bosnia and Herzegovina,Sarajevo,Female,21,2,6.6,4,20,33,37,moderate
+SWB0452,Serbia,Belgrade,Male,18,1,6.2,2,14,34,34,lower
+SWB0453,Serbia,Novi Sad,Female,19,1,6.8,3,29,27,27,higher
+SWB0454,Albania,Shkodër,Male,24,4,7.4,4,22,30,35,moderate
+SWB0455,Slovenia,Maribor,Female,18,3,5.7,4,27,32,33,moderate
+SWB0456,Albania,Durrës,Female,22,3,5.5,4,28,31,31,moderate
+SWB0457,Serbia,Belgrade,Male,20,2,6.7,2,16,27,40,lower
+SWB0458,North Macedonia,Skopje,Female,18,3,7.8,4,17,24,31,lower
+SWB0459,Slovenia,Koper,Female,24,5,5.4,3,28,21,34,moderate
+SWB0460,Serbia,Niš,Female,22,2,5.6,5,24,24,34,moderate
+SWB0461,Montenegro,Nikšić,Male,24,3,8.9,3,22,26,26,moderate
+SWB0462,Albania,Shkodër,Female,20,4,5.4,3,22,35,39,moderate
+SWB0463,Croatia,Zagreb,Female,24,1,7.0,2,16,20,35,lower
+SWB0464,Serbia,Niš,Female,22,2,5.5,3,27,29,33,moderate
+SWB0465,Albania,Shkodër,Female,21,3,7.3,3,27,36,31,moderate
+SWB0466,Serbia,Niš,Female,23,5,6.8,4,17,39,33,lower
+SWB0467,Bosnia and Herzegovina,Banja Luka,Male,28,2,6.7,2,17,24,38,lower
+SWB0468,Montenegro,Cetinje,Female,23,5,6.7,4,34,33,38,higher
+SWB0469,Bosnia and Herzegovina,Banja Luka,Male,21,4,7.0,4,19,28,27,moderate
+SWB0470,Croatia,Zagreb,Female,18,1,7.2,4,30,28,37,higher
+SWB0471,North Macedonia,Bitola,Male,22,4,7.5,4,29,30,37,higher
+SWB0472,Slovenia,Koper,Male,20,3,7.2,2,17,28,40,lower
+SWB0473,Albania,Durrës,Female,26,2,7.2,3,16,32,28,lower
+SWB0474,North Macedonia,Ohrid,Female,22,3,6.3,3,17,32,40,lower
+SWB0475,Slovenia,Ljubljana,Female,21,2,6.4,3,31,29,39,higher
+SWB0476,Croatia,Rijeka,Male,19,2,9.1,4,21,25,40,moderate
+SWB0477,Albania,Durrës,Female,18,3,6.4,5,34,22,29,higher
+SWB0478,Serbia,Niš,Prefer not to say,20,4,6.6,5,34,29,37,higher
+SWB0479,Kosovo,Peja,Male,18,1,6.9,3,18,34,38,lower
+SWB0480,Bosnia and Herzegovina,Sarajevo,Male,27,1,6.4,3,21,28,40,moderate
+SWB0481,Croatia,Rijeka,Male,26,1,7.4,4,24,32,37,moderate
+SWB0482,Bosnia and Herzegovina,Mostar,Prefer not to say,19,3,8.3,3,21,33,38,moderate
+SWB0483,Croatia,Rijeka,Male,23,2,7.0,4,29,28,36,higher
+SWB0484,Bosnia and Herzegovina,Sarajevo,Female,25,5,7.4,3,25,37,33,moderate
+SWB0485,Croatia,Zagreb,Female,21,5,8.4,5,22,22,40,moderate
+SWB0486,Serbia,Belgrade,Female,18,2,6.0,4,28,28,33,moderate
+SWB0487,Montenegro,Nikšić,Female,27,5,6.4,2,22,25,38,moderate
+SWB0488,Serbia,Niš,Male,20,4,7.8,2,26,34,33,moderate
+SWB0489,Serbia,Novi Sad,Female,23,3,8.4,3,21,27,37,moderate
+SWB0490,Croatia,Rijeka,Female,18,1,7.8,3,13,33,37,lower
+SWB0491,Montenegro,Nikšić,Female,23,3,7.1,3,25,30,24,moderate
+SWB0492,North Macedonia,Ohrid,Female,20,4,8.4,2,16,22,40,lower
+SWB0493,Kosovo,Pristina,Female,18,1,5.8,4,21,33,40,moderate
+SWB0494,Bosnia and Herzegovina,Sarajevo,Male,20,5,6.4,3,26,40,33,moderate
+SWB0495,Montenegro,Cetinje,Female,26,3,7.1,5,35,20,40,higher
+SWB0496,North Macedonia,Bitola,Female,23,3,7.3,5,22,35,30,moderate
+SWB0497,Slovenia,Ljubljana,Male,23,1,7.5,5,19,30,38,moderate
+SWB0498,Slovenia,Koper,Female,18,3,7.5,3,27,36,35,moderate
+SWB0499,Bosnia and Herzegovina,Mostar,Male,20,3,8.2,3,19,38,40,moderate
+SWB0500,Bosnia and Herzegovina,Banja Luka,Female,25,4,8.1,4,27,22,25,moderate
+SWB0501,Croatia,Zagreb,Male,20,1,7.8,3,26,29,28,moderate
+SWB0502,Bosnia and Herzegovina,Banja Luka,Female,25,1,7.3,2,17,25,39,lower
+SWB0503,Serbia,Belgrade,Female,25,2,5.2,3,19,32,38,moderate
+SWB0504,Croatia,Zagreb,Female,27,3,5.1,2,18,24,34,lower
+SWB0505,Serbia,Belgrade,Female,19,2,5.0,4,28,25,39,moderate
+SWB0506,Bosnia and Herzegovina,Sarajevo,Male,23,3,7.5,4,35,32,33,higher
+SWB0507,Albania,Durrës,Female,21,5,7.7,3,20,29,31,moderate
+SWB0508,Serbia,Novi Sad,Female,26,3,6.1,1,26,32,35,moderate
+SWB0509,Croatia,Split,Male,18,2,8.0,3,21,26,35,moderate
+SWB0510,Montenegro,Podgorica,Female,18,2,6.0,3,32,27,26,higher
+SWB0511,Serbia,Novi Sad,Male,19,1,8.2,3,23,31,34,moderate
+SWB0512,North Macedonia,Skopje,Female,24,2,7.5,2,24,31,40,moderate
+SWB0513,Serbia,Belgrade,Female,22,2,4.1,3,22,35,36,moderate
+SWB0514,Bosnia and Herzegovina,Banja Luka,Female,21,2,6.8,2,22,26,33,moderate
+SWB0515,Serbia,Belgrade,Male,24,3,7.3,4,24,29,40,moderate
+SWB0516,Croatia,Split,Female,26,2,5.1,4,27,24,24,moderate
+SWB0517,Kosovo,Peja,Female,19,3,6.0,2,19,24,31,moderate
+SWB0518,Albania,Tirana,Female,21,3,5.6,3,23,35,32,moderate
+SWB0519,Kosovo,Peja,Female,24,4,8.4,5,32,27,33,higher
+SWB0520,Bosnia and Herzegovina,Sarajevo,Female,27,1,7.6,3,13,21,40,lower

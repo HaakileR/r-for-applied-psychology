@@ -1,0 +1,64 @@
+# ANOVA and Effect Sizes
+
+## Research question
+
+How do we compare more than two groups?
+
+## Balkan teaching case
+
+::: {.balkan-case}
+Students compare school satisfaction across grades and discuss effect sizes.
+
+The example is inspired by contexts that students in Montenegro and the wider Balkan region may recognize: university seminars, exam periods, mobility experiences, schools, public services, and applied research projects. The data are synthetic and are used only for learning.
+:::
+
+## Learning outcomes
+
+After this chapter, students should be able to:
+
+- identify the research purpose of the analysis;
+- load and inspect the relevant dataset;
+- choose an appropriate analysis strategy;
+- run basic R code;
+- interpret the result in psychological language;
+- explain what the analysis can and cannot show.
+
+## R example
+
+```{r}
+library(tidyverse)
+
+data <- read_csv("data/raw/school_climate_balkan.csv")
+
+glimpse(data)
+head(data)
+```
+
+## First descriptive step
+
+```{r}
+data |> 
+  summarise(
+    n = n(),
+    across(where(is.numeric), ~ mean(.x, na.rm = TRUE), .names = "mean_{.col}")
+  )
+```
+
+## Teaching interpretation
+
+The first step in psychological data analysis is not hypothesis testing. The first step is understanding the dataset: What is one row? What are the variables? Which variables are numeric, ordinal, or categorical? What does a higher value mean?
+
+A good analysis always connects statistical output to the psychological meaning of the variables.
+
+## Practice task
+
+Choose two variables from this dataset and write:
+
+1. what each variable measures;
+2. whether the variable is numeric, ordinal, or categorical;
+3. one descriptive statistic that is appropriate;
+4. one research question that could be tested with these variables.
+
+## Reflection
+
+A reproducible analysis should allow another student to open the project, run the code, and obtain the same output. This is why every chapter uses scripts, clear file paths, and synthetic data.

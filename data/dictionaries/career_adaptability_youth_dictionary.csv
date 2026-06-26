@@ -1,0 +1,9 @@
+0,1,2
+id,string,Synthetic participant identifier
+country,categorical,Country
+city,categorical,City
+career_concern,ordinal,"Career concern, 1-5"
+career_control,ordinal,"Career control, 1-5"
+career_curiosity,ordinal,"Career curiosity, 1-5"
+career_confidence,ordinal,"Career confidence, 1-5"
+perceived_employability,ordinal,"Perceived employability, 1-5"

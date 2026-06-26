@@ -1,0 +1,9 @@
+0,1,2
+id,string,Synthetic participant identifier
+country,categorical,Country
+city,categorical,City
+prior_statistics_experience,categorical,Previous statistics experience
+r_confidence,ordinal,"Confidence using R, 1-5"
+statistics_anxiety,ordinal,"Statistics anxiety, 1-5"
+help_seeking,ordinal,"Academic help-seeking, 1-5"
+course_engagement,ordinal,"Course engagement, 1-5"

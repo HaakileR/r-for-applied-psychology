@@ -1,0 +1,9 @@
+0,1,2
+id,string,Synthetic participant identifier
+country,categorical,Country
+city,categorical,City
+work_hours_week,numeric,Weekly work hours
+family_support,ordinal,"Family support, 1-5"
+work_flexibility,ordinal,"Work flexibility, 1-5"
+work_family_conflict,ordinal,"Work-family conflict, 1-5"
+life_satisfaction,ordinal,"Life satisfaction, 1-5"

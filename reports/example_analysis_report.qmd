@@ -1,0 +1,40 @@
+---
+title: "Example Analysis Report"
+author: "Hakile Resulbegoviq"
+format: html
+---
+
+## Research question
+
+Is perceived stress associated with well-being among students in the synthetic Balkan student dataset?
+
+```{r}
+library(tidyverse)
+library(broom)
+
+data <- read_csv("data/raw/student_wellbeing_balkan.csv")
+```
+
+## Descriptive statistics
+
+```{r}
+data |>
+  summarise(
+    n = n(),
+    mean_stress = mean(perceived_stress),
+    sd_stress = sd(perceived_stress),
+    mean_wellbeing = mean(wellbeing),
+    sd_wellbeing = sd(wellbeing)
+  )
+```
+
+## Regression model
+
+```{r}
+model <- lm(wellbeing ~ perceived_stress + academic_motivation + sleep_hours, data = data)
+tidy(model, conf.int = TRUE)
+```
+
+## Interpretation
+
+In this synthetic dataset, higher perceived stress is expected to be associated with lower well-being, after controlling for motivation and sleep. This example is for teaching only and should not be interpreted as evidence about real students.

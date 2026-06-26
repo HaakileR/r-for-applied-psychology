@@ -1,0 +1,321 @@
+id,country,city,sport_type,intrinsic_motivation,identified_regulation,external_regulation,training_hours_week,sport_wellbeing
+SPT0001,Montenegro,Cetinje,team,4,3,2,4.0,3
+SPT0002,Slovenia,Maribor,recreational,1,3,2,10.4,1
+SPT0003,Kosovo,Prizren,team,4,3,2,7.8,4
+SPT0004,Montenegro,Cetinje,recreational,3,2,4,5.8,2
+SPT0005,Montenegro,Podgorica,team,4,3,3,6.2,3
+SPT0006,Montenegro,Podgorica,team,3,3,3,5.2,2
+SPT0007,Bosnia and Herzegovina,Banja Luka,individual,4,3,3,7.5,2
+SPT0008,Slovenia,Koper,recreational,2,5,3,7.4,3
+SPT0009,Serbia,Novi Sad,team,3,4,2,6.4,3
+SPT0010,Albania,Tirana,team,4,2,3,5.8,3
+SPT0011,Albania,Durrës,recreational,4,4,3,8.6,3
+SPT0012,Croatia,Zagreb,individual,3,3,3,6.4,3
+SPT0013,Albania,Tirana,team,2,4,2,0.5,2
+SPT0014,Montenegro,Nikšić,individual,4,3,2,7.8,3
+SPT0015,Slovenia,Ljubljana,team,5,3,2,6.6,3
+SPT0016,Kosovo,Peja,team,2,4,3,5.5,2
+SPT0017,Serbia,Novi Sad,recreational,4,3,2,4.8,3
+SPT0018,Serbia,Novi Sad,team,3,3,3,6.7,3
+SPT0019,Serbia,Novi Sad,team,3,3,2,5.2,2
+SPT0020,Kosovo,Prizren,team,4,4,3,5.9,3
+SPT0021,North Macedonia,Bitola,individual,5,3,4,5.2,3
+SPT0022,North Macedonia,Ohrid,recreational,4,3,2,5.6,3
+SPT0023,Serbia,Niš,team,3,4,2,10.0,3
+SPT0024,Croatia,Split,team,4,3,3,6.3,3
+SPT0025,Montenegro,Nikšić,individual,4,3,5,5.3,2
+SPT0026,North Macedonia,Skopje,individual,3,4,3,9.5,4
+SPT0027,Slovenia,Koper,team,4,3,3,8.6,4
+SPT0028,Kosovo,Peja,individual,3,4,2,6.9,2
+SPT0029,North Macedonia,Bitola,team,4,3,2,4.6,2
+SPT0030,Bosnia and Herzegovina,Banja Luka,team,3,3,4,6.3,2
+SPT0031,Slovenia,Koper,team,4,4,2,3.1,2
+SPT0032,Serbia,Belgrade,team,3,3,3,5.6,3
+SPT0033,Kosovo,Prizren,team,3,2,2,5.9,3
+SPT0034,Bosnia and Herzegovina,Mostar,individual,3,5,1,7.8,3
+SPT0035,Montenegro,Cetinje,recreational,3,3,2,5.7,2
+SPT0036,Serbia,Novi Sad,individual,4,4,2,6.1,3
+SPT0037,Croatia,Rijeka,recreational,3,3,3,5.9,3
+SPT0038,Croatia,Split,recreational,3,3,4,7.5,2
+SPT0039,Slovenia,Maribor,team,4,3,3,7.5,2
+SPT0040,North Macedonia,Ohrid,team,5,3,4,5.5,3
+SPT0041,Albania,Shkodër,individual,3,2,2,3.8,2
+SPT0042,Albania,Shkodër,individual,4,4,3,5.7,4
+SPT0043,Montenegro,Cetinje,recreational,3,3,3,6.9,2
+SPT0044,Bosnia and Herzegovina,Mostar,recreational,4,5,1,10.4,4
+SPT0045,Croatia,Split,recreational,4,4,2,7.7,3
+SPT0046,Serbia,Niš,recreational,4,5,3,6.3,4
+SPT0047,Serbia,Niš,team,4,3,3,8.1,3
+SPT0048,Slovenia,Maribor,recreational,4,4,2,6.1,3
+SPT0049,Kosovo,Peja,recreational,4,4,3,9.5,3
+SPT0050,Montenegro,Nikšić,individual,5,4,1,6.4,2
+SPT0051,Albania,Shkodër,team,4,1,2,10.6,2
+SPT0052,Montenegro,Podgorica,recreational,4,4,2,2.8,3
+SPT0053,Kosovo,Prizren,individual,3,4,3,6.2,3
+SPT0054,North Macedonia,Bitola,individual,4,3,1,9.2,3
+SPT0055,Croatia,Rijeka,recreational,5,3,1,5.3,5
+SPT0056,Serbia,Belgrade,team,4,3,3,9.7,3
+SPT0057,Kosovo,Peja,recreational,3,3,1,6.9,3
+SPT0058,Slovenia,Maribor,individual,4,4,3,3.6,2
+SPT0059,Serbia,Niš,individual,3,5,1,9.4,3
+SPT0060,Bosnia and Herzegovina,Banja Luka,recreational,5,3,3,4.0,4
+SPT0061,Croatia,Rijeka,individual,5,5,3,7.8,3
+SPT0062,Serbia,Belgrade,team,4,3,3,4.0,1
+SPT0063,Kosovo,Prizren,team,4,5,4,6.0,3
+SPT0064,North Macedonia,Skopje,individual,5,3,4,4.3,3
+SPT0065,Croatia,Rijeka,team,4,5,4,4.0,3
+SPT0066,Serbia,Novi Sad,team,4,4,2,5.4,3
+SPT0067,Montenegro,Podgorica,recreational,4,2,2,8.1,3
+SPT0068,Kosovo,Pristina,individual,4,4,2,5.7,2
+SPT0069,Croatia,Split,team,2,3,3,4.5,1
+SPT0070,Slovenia,Ljubljana,team,3,4,2,5.3,3
+SPT0071,Croatia,Rijeka,individual,4,3,3,6.5,3
+SPT0072,Montenegro,Podgorica,individual,3,4,2,3.8,2
+SPT0073,Slovenia,Maribor,individual,4,4,3,7.6,3
+SPT0074,Slovenia,Koper,team,3,3,4,4.0,3
+SPT0075,Slovenia,Ljubljana,individual,4,3,3,5.1,4
+SPT0076,Bosnia and Herzegovina,Mostar,individual,3,4,1,3.1,3
+SPT0077,Kosovo,Prizren,recreational,4,3,4,5.9,2
+SPT0078,Kosovo,Pristina,team,4,4,3,8.0,4
+SPT0079,Kosovo,Pristina,team,5,3,3,5.6,3
+SPT0080,Slovenia,Ljubljana,individual,4,4,3,5.2,3
+SPT0081,Bosnia and Herzegovina,Mostar,team,3,3,1,1.2,1
+SPT0082,Serbia,Niš,team,3,3,3,6.4,2
+SPT0083,Croatia,Rijeka,recreational,3,1,2,7.1,1
+SPT0084,Montenegro,Cetinje,team,3,4,4,8.1,3
+SPT0085,Serbia,Belgrade,recreational,2,4,3,2.4,3
+SPT0086,Croatia,Rijeka,team,4,4,2,5.4,3
+SPT0087,Serbia,Novi Sad,individual,4,5,3,5.0,3
+SPT0088,North Macedonia,Bitola,team,3,5,1,7.5,3
+SPT0089,Slovenia,Koper,team,4,2,3,4.1,4
+SPT0090,North Macedonia,Ohrid,recreational,4,4,4,5.6,3
+SPT0091,Slovenia,Maribor,team,3,3,4,7.7,2
+SPT0092,Croatia,Zagreb,recreational,4,4,2,5.2,4
+SPT0093,Bosnia and Herzegovina,Mostar,individual,2,4,1,4.8,3
+SPT0094,Kosovo,Peja,individual,2,3,4,3.8,1
+SPT0095,Serbia,Novi Sad,individual,3,3,4,5.5,2
+SPT0096,Serbia,Belgrade,team,3,3,2,7.8,2
+SPT0097,Serbia,Belgrade,team,5,3,4,6.8,3
+SPT0098,Albania,Durrës,team,5,3,2,6.2,2
+SPT0099,Serbia,Niš,individual,3,5,2,2.3,2
+SPT0100,Serbia,Belgrade,recreational,3,2,1,1.8,3
+SPT0101,Serbia,Novi Sad,recreational,4,3,2,4.0,2
+SPT0102,Bosnia and Herzegovina,Mostar,individual,4,4,3,6.9,3
+SPT0103,Montenegro,Nikšić,team,3,4,3,8.1,3
+SPT0104,Kosovo,Prizren,recreational,3,4,3,9.8,2
+SPT0105,Croatia,Split,individual,3,2,1,4.9,2
+SPT0106,North Macedonia,Skopje,team,5,3,2,3.7,2
+SPT0107,North Macedonia,Skopje,team,4,2,2,6.7,3
+SPT0108,Slovenia,Maribor,recreational,4,4,1,6.4,4
+SPT0109,Slovenia,Koper,recreational,4,3,4,8.0,4
+SPT0110,Croatia,Split,individual,5,4,4,5.2,3
+SPT0111,Bosnia and Herzegovina,Mostar,team,4,3,2,3.3,3
+SPT0112,Croatia,Zagreb,recreational,3,5,3,5.3,3
+SPT0113,Croatia,Rijeka,recreational,3,5,1,0.9,2
+SPT0114,Serbia,Novi Sad,individual,3,4,2,9.6,3
+SPT0115,Bosnia and Herzegovina,Mostar,individual,5,5,3,6.2,3
+SPT0116,Albania,Durrës,team,5,2,3,2.7,3
+SPT0117,Albania,Tirana,team,4,3,3,8.1,3
+SPT0118,North Macedonia,Ohrid,recreational,3,3,3,5.4,4
+SPT0119,Kosovo,Pristina,individual,3,2,1,4.6,2
+SPT0120,Montenegro,Podgorica,individual,4,4,2,6.1,3
+SPT0121,Montenegro,Cetinje,team,4,3,2,7.6,4
+SPT0122,Montenegro,Cetinje,team,4,3,1,5.3,4
+SPT0123,Slovenia,Maribor,recreational,3,4,1,6.5,3
+SPT0124,Croatia,Rijeka,individual,4,4,3,8.5,4
+SPT0125,Montenegro,Cetinje,recreational,3,4,2,8.8,2
+SPT0126,Bosnia and Herzegovina,Mostar,recreational,4,3,4,12.0,3
+SPT0127,Bosnia and Herzegovina,Mostar,team,3,3,2,2.7,2
+SPT0128,Slovenia,Ljubljana,team,3,2,3,2.9,2
+SPT0129,Serbia,Belgrade,individual,4,4,2,6.9,3
+SPT0130,Kosovo,Pristina,individual,4,3,2,5.8,3
+SPT0131,Kosovo,Peja,team,4,5,3,3.5,3
+SPT0132,Kosovo,Peja,recreational,4,3,2,9.1,3
+SPT0133,Serbia,Belgrade,recreational,4,4,1,9.4,3
+SPT0134,Bosnia and Herzegovina,Banja Luka,team,3,3,3,4.0,2
+SPT0135,Albania,Durrës,recreational,4,4,2,6.2,4
+SPT0136,Kosovo,Pristina,team,5,4,2,7.4,2
+SPT0137,Croatia,Zagreb,individual,3,4,3,6.1,3
+SPT0138,Albania,Tirana,team,5,3,2,7.0,3
+SPT0139,Croatia,Rijeka,team,3,5,3,3.8,3
+SPT0140,Slovenia,Ljubljana,individual,3,4,2,5.3,3
+SPT0141,Albania,Tirana,individual,4,2,4,4.0,2
+SPT0142,Kosovo,Peja,recreational,4,2,3,7.0,3
+SPT0143,Croatia,Zagreb,team,4,4,2,4.5,4
+SPT0144,Bosnia and Herzegovina,Banja Luka,team,4,3,1,3.9,4
+SPT0145,Bosnia and Herzegovina,Mostar,recreational,4,3,2,3.7,3
+SPT0146,Serbia,Novi Sad,recreational,3,3,2,4.2,3
+SPT0147,Slovenia,Ljubljana,recreational,4,4,2,4.8,3
+SPT0148,Albania,Tirana,recreational,4,5,2,6.1,3
+SPT0149,Bosnia and Herzegovina,Sarajevo,recreational,3,3,2,8.1,3
+SPT0150,Slovenia,Koper,recreational,4,4,3,8.1,2
+SPT0151,Kosovo,Prizren,individual,2,4,2,4.7,2
+SPT0152,Bosnia and Herzegovina,Mostar,recreational,3,3,1,7.5,2
+SPT0153,Croatia,Split,team,3,3,4,6.0,2
+SPT0154,North Macedonia,Ohrid,individual,3,3,2,6.1,3
+SPT0155,Albania,Shkodër,individual,5,5,2,12.0,2
+SPT0156,Kosovo,Peja,team,4,4,3,4.8,4
+SPT0157,Montenegro,Cetinje,individual,4,3,3,5.1,3
+SPT0158,Albania,Tirana,individual,4,3,2,10.5,3
+SPT0159,Montenegro,Podgorica,individual,3,5,2,6.5,3
+SPT0160,Kosovo,Prizren,team,4,4,2,8.1,2
+SPT0161,Bosnia and Herzegovina,Banja Luka,individual,3,4,2,6.3,3
+SPT0162,Croatia,Rijeka,recreational,3,5,3,4.6,3
+SPT0163,Bosnia and Herzegovina,Mostar,recreational,3,2,4,7.7,1
+SPT0164,Montenegro,Nikšić,individual,4,4,2,7.3,2
+SPT0165,Slovenia,Koper,recreational,3,2,3,7.5,1
+SPT0166,Serbia,Novi Sad,team,4,3,3,7.1,1
+SPT0167,Montenegro,Podgorica,team,4,4,3,7.9,3
+SPT0168,Croatia,Rijeka,team,4,4,4,6.5,2
+SPT0169,Croatia,Split,team,4,4,3,8.9,2
+SPT0170,Serbia,Belgrade,recreational,4,4,3,2.3,4
+SPT0171,Serbia,Niš,team,5,4,2,6.5,3
+SPT0172,Kosovo,Pristina,individual,4,4,1,5.2,3
+SPT0173,Kosovo,Pristina,team,3,4,2,6.6,3
+SPT0174,North Macedonia,Skopje,individual,3,4,2,7.8,2
+SPT0175,Kosovo,Prizren,recreational,3,4,2,7.9,2
+SPT0176,Bosnia and Herzegovina,Mostar,team,3,4,2,1.8,2
+SPT0177,Albania,Shkodër,recreational,2,3,5,6.3,1
+SPT0178,North Macedonia,Skopje,team,4,4,4,7.6,4
+SPT0179,Kosovo,Pristina,individual,2,2,1,6.3,2
+SPT0180,Croatia,Zagreb,recreational,4,3,4,5.1,3
+SPT0181,Slovenia,Maribor,individual,5,3,5,8.1,3
+SPT0182,Slovenia,Koper,recreational,4,4,2,7.0,2
+SPT0183,Albania,Tirana,individual,4,3,3,8.8,3
+SPT0184,Montenegro,Podgorica,individual,4,3,3,2.4,3
+SPT0185,Croatia,Zagreb,recreational,4,2,4,5.4,3
+SPT0186,Bosnia and Herzegovina,Banja Luka,team,2,4,4,4.1,3
+SPT0187,Bosnia and Herzegovina,Sarajevo,team,4,4,3,5.5,3
+SPT0188,Bosnia and Herzegovina,Banja Luka,individual,3,3,1,9.6,4
+SPT0189,Albania,Tirana,team,4,3,1,3.8,3
+SPT0190,Croatia,Split,individual,3,3,3,3.6,2
+SPT0191,Bosnia and Herzegovina,Sarajevo,team,4,2,3,6.2,2
+SPT0192,Montenegro,Podgorica,individual,2,3,2,6.3,2
+SPT0193,Serbia,Belgrade,team,3,4,2,5.0,2
+SPT0194,Albania,Shkodër,recreational,4,5,1,7.8,4
+SPT0195,Kosovo,Pristina,team,4,3,2,7.2,3
+SPT0196,North Macedonia,Bitola,recreational,3,3,2,3.2,2
+SPT0197,Montenegro,Cetinje,team,5,3,3,9.4,3
+SPT0198,North Macedonia,Ohrid,individual,5,4,3,7.7,3
+SPT0199,Serbia,Niš,individual,4,2,2,5.6,3
+SPT0200,Kosovo,Peja,team,3,4,2,7.5,2
+SPT0201,Serbia,Novi Sad,individual,4,3,2,5.7,2
+SPT0202,Bosnia and Herzegovina,Banja Luka,recreational,4,3,3,7.8,3
+SPT0203,Croatia,Zagreb,team,5,4,3,6.4,3
+SPT0204,Croatia,Zagreb,recreational,3,4,1,6.3,2
+SPT0205,Croatia,Zagreb,team,3,2,2,4.4,2
+SPT0206,Albania,Tirana,recreational,3,4,3,2.9,2
+SPT0207,Croatia,Zagreb,individual,3,4,3,8.9,4
+SPT0208,Serbia,Novi Sad,individual,4,3,3,6.3,2
+SPT0209,Slovenia,Maribor,individual,4,3,2,9.2,2
+SPT0210,Bosnia and Herzegovina,Sarajevo,team,5,4,2,5.3,4
+SPT0211,North Macedonia,Skopje,recreational,5,2,4,8.4,3
+SPT0212,Croatia,Split,individual,4,3,1,5.6,3
+SPT0213,Croatia,Split,recreational,2,3,2,5.3,2
+SPT0214,North Macedonia,Bitola,individual,4,3,3,7.3,3
+SPT0215,North Macedonia,Skopje,individual,3,3,4,5.3,2
+SPT0216,Croatia,Split,recreational,5,4,2,7.4,3
+SPT0217,North Macedonia,Bitola,recreational,5,3,4,8.1,1
+SPT0218,Croatia,Rijeka,team,3,4,3,9.6,3
+SPT0219,Serbia,Novi Sad,team,3,5,2,7.5,3
+SPT0220,Serbia,Belgrade,individual,3,3,1,4.8,2
+SPT0221,Croatia,Zagreb,team,4,3,2,2.9,3
+SPT0222,Albania,Shkodër,recreational,3,5,3,5.1,3
+SPT0223,Albania,Durrës,recreational,5,4,3,7.8,3
+SPT0224,Bosnia and Herzegovina,Banja Luka,individual,3,3,3,3.6,3
+SPT0225,North Macedonia,Ohrid,team,4,3,1,7.2,3
+SPT0226,Montenegro,Nikšić,team,4,3,1,3.7,3
+SPT0227,Montenegro,Podgorica,team,4,4,2,7.1,3
+SPT0228,Bosnia and Herzegovina,Sarajevo,individual,4,4,2,4.6,3
+SPT0229,Albania,Shkodër,individual,3,3,3,8.5,2
+SPT0230,Kosovo,Prizren,team,3,4,2,0.5,2
+SPT0231,Serbia,Novi Sad,team,3,5,2,4.9,3
+SPT0232,Albania,Shkodër,recreational,4,4,2,4.4,4
+SPT0233,Montenegro,Nikšić,recreational,3,4,3,10.9,2
+SPT0234,Bosnia and Herzegovina,Sarajevo,individual,3,4,3,4.5,2
+SPT0235,Montenegro,Nikšić,team,4,5,1,7.9,4
+SPT0236,Albania,Tirana,team,4,5,3,5.4,4
+SPT0237,Serbia,Novi Sad,team,4,3,3,9.3,2
+SPT0238,Bosnia and Herzegovina,Sarajevo,team,4,3,1,3.8,3
+SPT0239,Slovenia,Ljubljana,recreational,3,4,4,7.0,3
+SPT0240,Serbia,Belgrade,individual,3,1,2,4.4,3
+SPT0241,Croatia,Rijeka,team,3,4,2,6.1,3
+SPT0242,Albania,Durrës,team,4,2,2,3.3,3
+SPT0243,Montenegro,Nikšić,team,4,4,1,4.5,3
+SPT0244,Albania,Shkodër,individual,3,4,3,7.0,2
+SPT0245,Montenegro,Cetinje,team,2,4,3,5.1,2
+SPT0246,Albania,Shkodër,recreational,4,3,2,6.6,3
+SPT0247,Albania,Tirana,team,4,3,3,8.7,3
+SPT0248,North Macedonia,Skopje,recreational,4,3,2,7.5,3
+SPT0249,Kosovo,Peja,team,4,3,2,6.2,3
+SPT0250,North Macedonia,Skopje,recreational,3,4,3,7.4,2
+SPT0251,Bosnia and Herzegovina,Banja Luka,recreational,3,5,3,6.3,2
+SPT0252,Croatia,Split,team,3,4,2,6.9,3
+SPT0253,Croatia,Split,recreational,4,4,3,7.0,3
+SPT0254,Croatia,Rijeka,team,3,5,3,11.5,2
+SPT0255,Bosnia and Herzegovina,Sarajevo,team,3,4,3,5.6,3
+SPT0256,Kosovo,Pristina,team,4,3,4,6.1,3
+SPT0257,Kosovo,Pristina,team,4,4,4,7.8,2
+SPT0258,Bosnia and Herzegovina,Sarajevo,team,4,4,1,6.8,3
+SPT0259,North Macedonia,Bitola,team,4,4,3,8.8,3
+SPT0260,Serbia,Novi Sad,recreational,3,3,3,7.7,2
+SPT0261,Slovenia,Maribor,recreational,4,4,3,6.2,2
+SPT0262,Kosovo,Peja,team,4,3,2,1.5,3
+SPT0263,Kosovo,Pristina,individual,4,4,3,8.0,3
+SPT0264,North Macedonia,Bitola,team,4,3,3,8.1,3
+SPT0265,Slovenia,Maribor,team,3,2,2,5.3,3
+SPT0266,Serbia,Novi Sad,recreational,3,4,2,6.5,2
+SPT0267,Montenegro,Nikšić,team,4,4,1,6.0,3
+SPT0268,Croatia,Rijeka,individual,5,3,3,5.7,4
+SPT0269,Montenegro,Cetinje,individual,3,4,3,1.4,3
+SPT0270,Serbia,Niš,team,5,3,3,4.1,4
+SPT0271,Croatia,Rijeka,team,4,4,4,8.6,4
+SPT0272,Croatia,Zagreb,team,4,3,3,4.6,4
+SPT0273,Slovenia,Maribor,recreational,2,3,2,5.2,4
+SPT0274,Montenegro,Cetinje,team,3,3,4,3.1,1
+SPT0275,Albania,Durrës,team,4,3,2,7.2,3
+SPT0276,North Macedonia,Ohrid,individual,5,3,2,7.5,2
+SPT0277,Croatia,Rijeka,individual,3,4,2,6.0,2
+SPT0278,Serbia,Niš,team,3,4,2,8.0,2
+SPT0279,Serbia,Niš,team,3,2,3,7.0,2
+SPT0280,Serbia,Niš,team,4,3,2,6.7,4
+SPT0281,Slovenia,Maribor,team,5,3,2,5.5,3
+SPT0282,Montenegro,Podgorica,individual,3,4,1,6.2,2
+SPT0283,Albania,Durrës,individual,3,4,2,8.2,3
+SPT0284,Albania,Durrës,recreational,4,2,3,6.1,3
+SPT0285,Kosovo,Pristina,team,3,3,5,2.2,2
+SPT0286,North Macedonia,Ohrid,individual,2,3,3,4.9,2
+SPT0287,Serbia,Niš,individual,4,3,3,4.6,2
+SPT0288,Slovenia,Koper,team,3,2,3,6.6,2
+SPT0289,Croatia,Split,individual,3,2,3,4.7,3
+SPT0290,Croatia,Zagreb,individual,5,3,1,9.2,4
+SPT0291,Montenegro,Podgorica,team,3,3,4,8.0,2
+SPT0292,Croatia,Rijeka,recreational,4,3,1,4.3,2
+SPT0293,Serbia,Belgrade,recreational,2,2,3,5.3,2
+SPT0294,Serbia,Niš,team,4,2,3,7.2,2
+SPT0295,Serbia,Belgrade,recreational,5,5,2,4.2,4
+SPT0296,Croatia,Split,individual,4,3,3,6.5,3
+SPT0297,Croatia,Rijeka,individual,3,3,1,6.7,2
+SPT0298,Slovenia,Ljubljana,recreational,3,3,4,6.9,3
+SPT0299,Serbia,Novi Sad,recreational,3,5,3,4.8,3
+SPT0300,Slovenia,Maribor,recreational,5,2,2,9.0,3
+SPT0301,Serbia,Niš,team,4,5,2,4.3,4
+SPT0302,Croatia,Rijeka,recreational,3,5,3,6.5,2
+SPT0303,Slovenia,Maribor,team,4,3,2,5.4,2
+SPT0304,Montenegro,Nikšić,individual,3,4,1,8.9,3
+SPT0305,Serbia,Novi Sad,individual,5,4,3,6.0,4
+SPT0306,Kosovo,Prizren,individual,3,3,2,5.6,2
+SPT0307,Serbia,Belgrade,team,4,4,2,6.6,3
+SPT0308,Slovenia,Maribor,individual,5,3,2,5.8,3
+SPT0309,North Macedonia,Ohrid,recreational,4,5,3,7.2,3
+SPT0310,Kosovo,Peja,team,3,3,4,3.2,2
+SPT0311,Croatia,Split,team,3,2,2,3.7,3
+SPT0312,Serbia,Belgrade,individual,2,4,4,4.5,1
+SPT0313,Albania,Tirana,individual,4,3,2,5.7,2
+SPT0314,Slovenia,Koper,recreational,3,2,2,7.3,3
+SPT0315,Bosnia and Herzegovina,Banja Luka,recreational,3,3,4,6.5,2
+SPT0316,Croatia,Split,team,3,4,2,2.7,3
+SPT0317,Croatia,Split,individual,4,4,4,4.3,2
+SPT0318,Montenegro,Cetinje,recreational,3,4,2,1.0,3
+SPT0319,Serbia,Novi Sad,team,3,3,2,8.1,3
+SPT0320,Croatia,Zagreb,recreational,2,3,3,2.7,1

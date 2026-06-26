@@ -1,0 +1,10 @@
+0,1,2
+id,string,Synthetic participant identifier
+country,categorical,Country
+city,categorical,City
+sport_type,categorical,Sport participation type
+intrinsic_motivation,ordinal,"Intrinsic motivation, 1-5"
+identified_regulation,ordinal,"Identified regulation, 1-5"
+external_regulation,ordinal,"External regulation, 1-5"
+training_hours_week,numeric,Weekly training hours
+sport_wellbeing,ordinal,"Sport-related wellbeing, 1-5"

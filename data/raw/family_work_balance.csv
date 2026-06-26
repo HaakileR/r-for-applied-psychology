@@ -1,0 +1,411 @@
+id,country,city,work_hours_week,family_support,work_flexibility,work_family_conflict,life_satisfaction
+FWB0001,Bosnia and Herzegovina,Mostar,43.7,3,2,1,5
+FWB0002,Slovenia,Maribor,40.9,4,2,2,4
+FWB0003,Slovenia,Ljubljana,37.9,5,4,1,5
+FWB0004,Montenegro,Podgorica,41.5,3,3,1,5
+FWB0005,North Macedonia,Bitola,46.2,3,2,2,5
+FWB0006,Montenegro,Cetinje,49.6,4,3,1,4
+FWB0007,Croatia,Zagreb,26.0,3,2,1,4
+FWB0008,Albania,Tirana,32.7,2,4,1,5
+FWB0009,North Macedonia,Bitola,37.7,2,2,2,4
+FWB0010,Albania,Shkodër,47.4,3,3,1,5
+FWB0011,Bosnia and Herzegovina,Banja Luka,31.4,5,2,1,5
+FWB0012,Croatia,Rijeka,36.2,3,4,1,5
+FWB0013,Kosovo,Peja,33.1,4,2,1,5
+FWB0014,Serbia,Niš,47.2,3,4,1,5
+FWB0015,Serbia,Belgrade,39.3,5,2,1,5
+FWB0016,North Macedonia,Ohrid,58.8,4,2,1,4
+FWB0017,Montenegro,Cetinje,40.4,4,2,1,5
+FWB0018,Serbia,Novi Sad,31.3,4,4,1,5
+FWB0019,Croatia,Zagreb,38.3,5,3,1,5
+FWB0020,Montenegro,Podgorica,44.0,3,2,1,4
+FWB0021,Serbia,Belgrade,35.3,2,4,1,5
+FWB0022,Slovenia,Ljubljana,42.7,5,3,1,5
+FWB0023,Croatia,Zagreb,49.6,4,3,1,5
+FWB0024,Albania,Durrës,26.8,3,4,1,5
+FWB0025,Serbia,Niš,20.9,3,2,1,4
+FWB0026,Albania,Shkodër,42.3,4,2,1,5
+FWB0027,Slovenia,Ljubljana,36.7,3,2,1,4
+FWB0028,Montenegro,Podgorica,39.9,2,2,1,5
+FWB0029,Slovenia,Maribor,39.4,4,4,1,5
+FWB0030,Slovenia,Ljubljana,53.4,4,2,2,4
+FWB0031,Kosovo,Pristina,41.0,4,4,1,5
+FWB0032,Croatia,Zagreb,39.0,3,4,1,5
+FWB0033,Albania,Shkodër,38.5,3,2,1,5
+FWB0034,Croatia,Rijeka,43.3,3,3,1,5
+FWB0035,Montenegro,Nikšić,27.3,2,4,2,4
+FWB0036,North Macedonia,Ohrid,49.2,4,3,1,5
+FWB0037,North Macedonia,Bitola,35.3,5,3,1,5
+FWB0038,Kosovo,Prizren,38.1,3,4,1,4
+FWB0039,Serbia,Belgrade,20.5,3,3,1,5
+FWB0040,Bosnia and Herzegovina,Mostar,43.0,3,2,1,4
+FWB0041,Slovenia,Ljubljana,34.5,3,2,1,5
+FWB0042,North Macedonia,Bitola,28.1,3,2,1,5
+FWB0043,Montenegro,Podgorica,45.0,3,3,1,5
+FWB0044,Bosnia and Herzegovina,Mostar,42.9,5,4,1,5
+FWB0045,Croatia,Split,30.5,4,4,1,5
+FWB0046,North Macedonia,Ohrid,42.8,3,5,1,4
+FWB0047,North Macedonia,Skopje,30.1,2,2,1,3
+FWB0048,Montenegro,Podgorica,46.6,5,5,1,5
+FWB0049,Montenegro,Podgorica,35.9,3,3,1,5
+FWB0050,Slovenia,Koper,36.5,3,2,1,3
+FWB0051,Croatia,Split,29.7,3,4,1,4
+FWB0052,Serbia,Niš,35.5,5,1,1,4
+FWB0053,Croatia,Split,40.2,4,4,1,5
+FWB0054,Slovenia,Koper,30.7,2,4,1,4
+FWB0055,North Macedonia,Skopje,38.2,5,4,1,5
+FWB0056,Croatia,Split,40.5,2,3,2,3
+FWB0057,North Macedonia,Ohrid,43.4,3,2,2,5
+FWB0058,Serbia,Novi Sad,37.5,5,1,1,4
+FWB0059,North Macedonia,Skopje,33.2,3,2,1,5
+FWB0060,Serbia,Belgrade,57.1,3,3,2,5
+FWB0061,Albania,Durrës,31.7,3,1,1,5
+FWB0062,Croatia,Split,45.6,3,4,1,5
+FWB0063,Croatia,Rijeka,25.6,3,2,1,4
+FWB0064,North Macedonia,Skopje,45.2,2,3,1,4
+FWB0065,Serbia,Belgrade,39.5,5,2,1,5
+FWB0066,Kosovo,Peja,40.8,3,2,1,5
+FWB0067,Montenegro,Cetinje,33.3,4,4,1,5
+FWB0068,Albania,Shkodër,31.5,3,1,1,5
+FWB0069,Slovenia,Koper,36.6,3,4,1,5
+FWB0070,Albania,Tirana,44.2,4,2,1,4
+FWB0071,Serbia,Niš,32.4,2,4,1,5
+FWB0072,Kosovo,Pristina,37.6,3,3,1,4
+FWB0073,Croatia,Rijeka,33.3,3,3,1,5
+FWB0074,Croatia,Rijeka,28.9,3,2,1,5
+FWB0075,Slovenia,Koper,34.9,3,3,1,5
+FWB0076,Croatia,Rijeka,28.3,5,3,1,5
+FWB0077,Slovenia,Koper,45.2,3,2,1,4
+FWB0078,Albania,Tirana,35.7,5,2,1,5
+FWB0079,Croatia,Zagreb,45.3,4,4,1,5
+FWB0080,Montenegro,Cetinje,39.2,5,2,1,5
+FWB0081,Bosnia and Herzegovina,Sarajevo,43.5,2,2,2,5
+FWB0082,Montenegro,Cetinje,41.3,3,2,1,4
+FWB0083,North Macedonia,Skopje,46.5,3,3,1,4
+FWB0084,Kosovo,Pristina,40.6,4,3,1,5
+FWB0085,Slovenia,Koper,34.7,5,3,1,5
+FWB0086,Serbia,Niš,33.5,3,3,1,5
+FWB0087,Bosnia and Herzegovina,Sarajevo,34.7,2,3,1,4
+FWB0088,Bosnia and Herzegovina,Mostar,56.8,3,1,2,4
+FWB0089,Albania,Shkodër,34.1,5,2,1,5
+FWB0090,Serbia,Belgrade,32.5,4,4,1,5
+FWB0091,Croatia,Split,40.4,4,3,1,4
+FWB0092,Albania,Shkodër,39.5,3,4,1,5
+FWB0093,Croatia,Zagreb,33.1,4,4,1,5
+FWB0094,Serbia,Belgrade,29.7,2,4,1,4
+FWB0095,Croatia,Split,40.9,4,2,1,5
+FWB0096,Kosovo,Pristina,37.0,3,4,1,5
+FWB0097,Montenegro,Nikšić,64.5,2,3,2,4
+FWB0098,North Macedonia,Ohrid,37.1,4,3,1,5
+FWB0099,Slovenia,Maribor,44.6,4,4,1,4
+FWB0100,Croatia,Rijeka,35.4,4,1,1,5
+FWB0101,North Macedonia,Skopje,40.9,4,3,1,5
+FWB0102,Serbia,Novi Sad,42.6,3,2,1,4
+FWB0103,Kosovo,Peja,39.8,2,4,1,5
+FWB0104,Serbia,Belgrade,21.9,3,3,1,5
+FWB0105,Serbia,Niš,33.3,5,4,1,5
+FWB0106,Albania,Shkodër,45.4,3,3,1,5
+FWB0107,Serbia,Belgrade,39.9,4,4,1,5
+FWB0108,Slovenia,Maribor,30.2,3,4,1,5
+FWB0109,Slovenia,Ljubljana,41.8,3,3,1,4
+FWB0110,Albania,Durrës,32.4,2,5,1,5
+FWB0111,Serbia,Belgrade,36.8,2,3,1,5
+FWB0112,Bosnia and Herzegovina,Banja Luka,26.4,3,5,1,4
+FWB0113,Croatia,Zagreb,41.6,3,3,2,3
+FWB0114,Albania,Durrës,45.5,4,3,1,5
+FWB0115,Bosnia and Herzegovina,Sarajevo,39.0,3,2,1,5
+FWB0116,Bosnia and Herzegovina,Banja Luka,31.4,4,3,1,5
+FWB0117,Montenegro,Podgorica,44.6,4,3,1,5
+FWB0118,Slovenia,Koper,42.2,5,3,1,5
+FWB0119,Albania,Durrës,39.2,3,3,1,4
+FWB0120,Croatia,Rijeka,33.4,2,5,1,5
+FWB0121,Croatia,Split,45.3,3,4,1,5
+FWB0122,North Macedonia,Skopje,49.8,3,4,1,5
+FWB0123,Bosnia and Herzegovina,Sarajevo,36.6,4,1,1,5
+FWB0124,Albania,Shkodër,31.7,3,3,1,5
+FWB0125,Croatia,Zagreb,31.6,2,2,1,4
+FWB0126,Serbia,Novi Sad,37.2,2,3,1,4
+FWB0127,Croatia,Rijeka,37.2,2,3,2,4
+FWB0128,Croatia,Zagreb,46.4,3,2,2,5
+FWB0129,Slovenia,Maribor,42.4,4,2,1,5
+FWB0130,Montenegro,Nikšić,50.7,4,3,1,4
+FWB0131,Serbia,Belgrade,37.9,4,2,1,5
+FWB0132,Montenegro,Nikšić,51.4,4,4,1,5
+FWB0133,Croatia,Zagreb,29.8,2,2,1,4
+FWB0134,North Macedonia,Bitola,34.7,3,3,1,5
+FWB0135,Bosnia and Herzegovina,Sarajevo,39.3,4,3,1,5
+FWB0136,Montenegro,Podgorica,41.1,3,3,1,5
+FWB0137,Kosovo,Prizren,36.4,4,3,1,5
+FWB0138,Albania,Durrës,24.7,2,4,1,4
+FWB0139,Bosnia and Herzegovina,Banja Luka,58.7,3,4,1,5
+FWB0140,Serbia,Novi Sad,46.7,3,2,1,4
+FWB0141,Slovenia,Ljubljana,46.9,2,3,1,4
+FWB0142,Montenegro,Cetinje,53.1,4,4,1,5
+FWB0143,Croatia,Split,23.9,4,1,1,5
+FWB0144,Bosnia and Herzegovina,Sarajevo,54.0,5,4,1,5
+FWB0145,Croatia,Rijeka,39.8,4,3,1,5
+FWB0146,Montenegro,Podgorica,45.6,4,3,1,5
+FWB0147,North Macedonia,Bitola,50.7,5,4,1,5
+FWB0148,Montenegro,Podgorica,37.5,5,3,1,5
+FWB0149,North Macedonia,Bitola,45.9,3,2,1,5
+FWB0150,North Macedonia,Bitola,43.4,1,4,1,3
+FWB0151,North Macedonia,Ohrid,35.1,5,2,1,5
+FWB0152,Kosovo,Peja,33.3,4,3,1,5
+FWB0153,Serbia,Belgrade,41.2,3,4,1,5
+FWB0154,Kosovo,Peja,50.6,4,1,1,5
+FWB0155,Bosnia and Herzegovina,Sarajevo,53.3,3,3,2,4
+FWB0156,Kosovo,Peja,44.6,5,5,1,5
+FWB0157,Serbia,Belgrade,33.4,3,3,1,4
+FWB0158,Montenegro,Cetinje,51.2,3,4,1,5
+FWB0159,Bosnia and Herzegovina,Mostar,38.7,3,3,1,5
+FWB0160,Croatia,Zagreb,42.1,4,2,2,5
+FWB0161,Croatia,Split,38.9,4,4,1,5
+FWB0162,Croatia,Split,36.6,3,3,1,4
+FWB0163,Croatia,Split,41.6,3,4,1,5
+FWB0164,Albania,Durrës,43.6,4,3,1,4
+FWB0165,Serbia,Novi Sad,35.6,3,2,1,5
+FWB0166,North Macedonia,Skopje,38.4,4,1,1,4
+FWB0167,Slovenia,Maribor,50.0,5,4,1,5
+FWB0168,Serbia,Novi Sad,34.7,3,3,1,5
+FWB0169,Serbia,Niš,43.9,5,2,1,5
+FWB0170,Slovenia,Maribor,37.8,3,5,1,5
+FWB0171,Bosnia and Herzegovina,Mostar,39.9,4,3,1,5
+FWB0172,Slovenia,Maribor,44.9,3,5,1,5
+FWB0173,Montenegro,Cetinje,43.2,4,3,1,5
+FWB0174,Kosovo,Peja,39.1,4,2,1,5
+FWB0175,Slovenia,Ljubljana,47.9,3,4,1,5
+FWB0176,Serbia,Novi Sad,43.0,3,2,1,4
+FWB0177,Bosnia and Herzegovina,Banja Luka,38.8,4,4,1,5
+FWB0178,Kosovo,Peja,39.3,3,2,1,4
+FWB0179,Albania,Shkodër,36.5,3,3,1,5
+FWB0180,Serbia,Novi Sad,27.5,5,3,1,5
+FWB0181,Bosnia and Herzegovina,Sarajevo,50.8,4,4,2,5
+FWB0182,Montenegro,Nikšić,27.6,2,4,1,5
+FWB0183,Croatia,Rijeka,39.5,3,1,1,4
+FWB0184,Croatia,Split,43.1,4,3,1,5
+FWB0185,Serbia,Novi Sad,48.6,4,3,2,4
+FWB0186,Albania,Durrës,36.7,4,3,1,5
+FWB0187,North Macedonia,Skopje,32.3,4,3,1,5
+FWB0188,Albania,Durrës,42.5,5,4,2,5
+FWB0189,Bosnia and Herzegovina,Mostar,43.7,4,2,2,5
+FWB0190,Montenegro,Cetinje,34.0,4,2,1,5
+FWB0191,Slovenia,Koper,46.7,4,3,1,5
+FWB0192,Serbia,Niš,26.4,3,3,1,4
+FWB0193,Montenegro,Podgorica,49.9,5,3,1,4
+FWB0194,Slovenia,Ljubljana,41.1,5,2,1,5
+FWB0195,Bosnia and Herzegovina,Mostar,41.3,4,3,2,5
+FWB0196,Kosovo,Peja,50.3,4,5,1,5
+FWB0197,Kosovo,Peja,36.0,4,2,1,5
+FWB0198,Serbia,Novi Sad,50.1,3,2,2,4
+FWB0199,Slovenia,Maribor,40.3,3,3,1,4
+FWB0200,Bosnia and Herzegovina,Mostar,41.9,2,4,1,4
+FWB0201,Croatia,Zagreb,46.1,4,3,1,5
+FWB0202,Bosnia and Herzegovina,Mostar,29.6,5,4,1,5
+FWB0203,Montenegro,Podgorica,46.9,4,3,1,5
+FWB0204,North Macedonia,Skopje,41.6,4,3,1,5
+FWB0205,Slovenia,Ljubljana,38.1,4,5,1,5
+FWB0206,Slovenia,Ljubljana,43.3,2,4,2,5
+FWB0207,Albania,Durrës,27.7,3,3,1,4
+FWB0208,Croatia,Split,41.1,5,3,1,4
+FWB0209,Serbia,Niš,33.7,4,4,1,5
+FWB0210,Croatia,Zagreb,40.8,3,5,1,4
+FWB0211,Montenegro,Nikšić,48.7,4,5,1,5
+FWB0212,Slovenia,Koper,43.3,5,2,1,5
+FWB0213,Serbia,Belgrade,37.9,3,4,1,5
+FWB0214,Albania,Tirana,33.8,3,4,1,5
+FWB0215,Serbia,Novi Sad,40.8,5,3,1,5
+FWB0216,Bosnia and Herzegovina,Sarajevo,24.6,2,2,1,4
+FWB0217,Slovenia,Ljubljana,29.4,3,5,1,5
+FWB0218,North Macedonia,Ohrid,47.6,5,3,1,5
+FWB0219,Slovenia,Koper,46.9,4,3,1,5
+FWB0220,Albania,Tirana,34.3,4,2,1,5
+FWB0221,North Macedonia,Ohrid,41.0,3,2,1,5
+FWB0222,Bosnia and Herzegovina,Sarajevo,45.1,4,2,1,5
+FWB0223,North Macedonia,Skopje,39.3,3,4,1,5
+FWB0224,Kosovo,Pristina,27.4,2,3,1,5
+FWB0225,Kosovo,Pristina,47.6,4,4,2,5
+FWB0226,Bosnia and Herzegovina,Sarajevo,31.3,3,2,1,5
+FWB0227,Croatia,Split,37.4,4,2,1,5
+FWB0228,Kosovo,Pristina,43.0,4,2,1,5
+FWB0229,Serbia,Belgrade,25.5,3,4,1,4
+FWB0230,Montenegro,Nikšić,45.4,3,4,1,5
+FWB0231,Croatia,Split,63.7,2,4,2,5
+FWB0232,Serbia,Belgrade,37.8,3,4,1,4
+FWB0233,Serbia,Niš,41.9,2,2,1,4
+FWB0234,Serbia,Novi Sad,49.2,5,1,1,4
+FWB0235,Croatia,Zagreb,41.9,3,3,2,5
+FWB0236,Croatia,Split,39.7,4,4,1,5
+FWB0237,Slovenia,Ljubljana,28.9,3,2,1,5
+FWB0238,Serbia,Belgrade,46.7,3,2,1,5
+FWB0239,Serbia,Niš,56.4,3,3,1,5
+FWB0240,Serbia,Belgrade,46.5,3,4,1,5
+FWB0241,Slovenia,Maribor,41.9,3,3,2,4
+FWB0242,Slovenia,Maribor,35.3,3,4,1,5
+FWB0243,Albania,Durrës,45.9,4,3,1,4
+FWB0244,Slovenia,Koper,42.5,3,2,1,5
+FWB0245,Albania,Durrës,32.1,2,3,1,5
+FWB0246,Serbia,Novi Sad,41.7,4,4,1,5
+FWB0247,Kosovo,Pristina,45.9,4,3,3,5
+FWB0248,Montenegro,Podgorica,26.7,1,4,1,4
+FWB0249,Croatia,Rijeka,31.9,2,2,1,4
+FWB0250,Kosovo,Peja,30.5,2,3,1,5
+FWB0251,North Macedonia,Bitola,39.1,4,2,2,4
+FWB0252,Croatia,Split,53.2,5,4,2,4
+FWB0253,Croatia,Rijeka,32.5,3,3,1,4
+FWB0254,Bosnia and Herzegovina,Sarajevo,50.3,3,2,1,4
+FWB0255,Croatia,Zagreb,35.7,3,4,1,4
+FWB0256,Serbia,Novi Sad,50.9,4,2,2,4
+FWB0257,Croatia,Rijeka,40.5,4,3,1,5
+FWB0258,North Macedonia,Skopje,44.6,2,3,1,5
+FWB0259,Bosnia and Herzegovina,Mostar,43.9,3,3,1,4
+FWB0260,Slovenia,Ljubljana,38.8,5,4,1,5
+FWB0261,Montenegro,Cetinje,46.3,3,4,1,5
+FWB0262,Serbia,Niš,54.8,5,2,1,5
+FWB0263,Bosnia and Herzegovina,Banja Luka,43.4,3,4,1,5
+FWB0264,Bosnia and Herzegovina,Sarajevo,38.8,5,3,1,5
+FWB0265,Bosnia and Herzegovina,Mostar,45.5,3,3,1,4
+FWB0266,North Macedonia,Ohrid,36.5,3,3,1,3
+FWB0267,Bosnia and Herzegovina,Banja Luka,34.0,3,3,1,5
+FWB0268,Albania,Shkodër,37.7,4,4,1,5
+FWB0269,Albania,Durrës,50.2,5,1,2,4
+FWB0270,Bosnia and Herzegovina,Banja Luka,55.5,3,1,2,5
+FWB0271,Bosnia and Herzegovina,Mostar,39.8,4,2,1,5
+FWB0272,Albania,Shkodër,39.0,3,3,1,5
+FWB0273,Albania,Tirana,17.3,3,3,1,5
+FWB0274,Croatia,Split,29.6,3,3,1,4
+FWB0275,Croatia,Split,42.1,4,3,2,3
+FWB0276,Albania,Durrës,44.6,3,4,1,5
+FWB0277,Montenegro,Cetinje,39.9,4,1,1,4
+FWB0278,Montenegro,Nikšić,33.9,3,4,1,4
+FWB0279,Kosovo,Prizren,39.7,4,2,1,4
+FWB0280,Serbia,Niš,37.8,3,3,1,4
+FWB0281,Slovenia,Ljubljana,35.4,3,3,1,5
+FWB0282,North Macedonia,Bitola,34.8,4,2,1,5
+FWB0283,North Macedonia,Skopje,46.3,5,2,1,5
+FWB0284,Montenegro,Cetinje,19.0,5,2,1,4
+FWB0285,Albania,Durrës,47.2,3,3,1,4
+FWB0286,Albania,Durrës,43.6,2,2,1,5
+FWB0287,Albania,Tirana,46.5,3,3,1,5
+FWB0288,Croatia,Rijeka,17.6,3,2,1,4
+FWB0289,Slovenia,Koper,46.8,3,2,1,4
+FWB0290,Croatia,Zagreb,43.9,5,4,1,4
+FWB0291,North Macedonia,Skopje,41.1,2,2,1,5
+FWB0292,North Macedonia,Ohrid,29.2,4,5,1,5
+FWB0293,Kosovo,Prizren,46.7,4,3,1,5
+FWB0294,Croatia,Split,32.9,2,5,1,5
+FWB0295,Serbia,Belgrade,41.1,4,5,1,5
+FWB0296,North Macedonia,Skopje,51.4,4,3,1,4
+FWB0297,Bosnia and Herzegovina,Banja Luka,45.8,2,2,2,4
+FWB0298,Serbia,Belgrade,31.3,3,3,1,4
+FWB0299,Serbia,Niš,46.1,2,3,1,4
+FWB0300,Kosovo,Prizren,55.2,5,3,1,4
+FWB0301,Albania,Durrës,47.5,5,2,1,5
+FWB0302,Serbia,Novi Sad,54.2,4,2,1,5
+FWB0303,Bosnia and Herzegovina,Mostar,48.5,5,1,1,5
+FWB0304,Serbia,Belgrade,36.1,4,3,1,5
+FWB0305,Slovenia,Koper,17.1,3,4,1,4
+FWB0306,Serbia,Belgrade,47.2,2,3,1,5
+FWB0307,Serbia,Novi Sad,21.7,4,2,2,4
+FWB0308,North Macedonia,Skopje,47.7,5,5,1,5
+FWB0309,Croatia,Zagreb,38.9,2,3,1,4
+FWB0310,Bosnia and Herzegovina,Banja Luka,43.5,4,2,1,5
+FWB0311,Serbia,Niš,41.0,3,3,1,5
+FWB0312,Croatia,Zagreb,23.3,2,3,1,5
+FWB0313,Kosovo,Peja,40.2,3,3,1,5
+FWB0314,Bosnia and Herzegovina,Mostar,49.0,4,4,1,5
+FWB0315,Croatia,Split,26.0,5,3,1,5
+FWB0316,North Macedonia,Bitola,55.3,4,3,1,5
+FWB0317,Serbia,Niš,41.6,3,3,1,5
+FWB0318,Montenegro,Nikšić,37.5,3,4,1,5
+FWB0319,Croatia,Zagreb,46.9,2,2,1,5
+FWB0320,Albania,Tirana,42.6,3,3,1,3
+FWB0321,Kosovo,Prizren,49.8,5,2,2,5
+FWB0322,Montenegro,Podgorica,46.2,4,4,1,5
+FWB0323,North Macedonia,Bitola,27.4,4,2,1,4
+FWB0324,Bosnia and Herzegovina,Mostar,38.8,3,1,1,4
+FWB0325,Albania,Tirana,35.8,5,3,1,4
+FWB0326,Bosnia and Herzegovina,Banja Luka,52.8,4,4,1,5
+FWB0327,Serbia,Niš,40.5,4,1,1,4
+FWB0328,Slovenia,Ljubljana,27.9,5,3,1,5
+FWB0329,Croatia,Split,42.4,3,3,1,5
+FWB0330,Croatia,Rijeka,27.1,2,3,1,4
+FWB0331,Slovenia,Ljubljana,26.4,2,3,1,4
+FWB0332,Croatia,Rijeka,35.6,3,1,2,5
+FWB0333,North Macedonia,Skopje,39.4,2,3,1,4
+FWB0334,Slovenia,Koper,44.6,3,3,1,5
+FWB0335,Slovenia,Maribor,55.4,4,4,1,5
+FWB0336,Serbia,Niš,34.1,4,2,1,5
+FWB0337,Kosovo,Pristina,36.2,4,3,1,5
+FWB0338,Croatia,Rijeka,24.8,5,4,1,4
+FWB0339,Croatia,Zagreb,38.0,3,3,1,4
+FWB0340,Albania,Durrës,35.4,4,4,1,5
+FWB0341,Serbia,Niš,36.9,4,2,1,5
+FWB0342,Slovenia,Maribor,47.0,5,3,1,4
+FWB0343,Croatia,Rijeka,44.6,4,2,1,5
+FWB0344,Albania,Durrës,30.4,4,4,1,5
+FWB0345,Slovenia,Ljubljana,41.5,3,4,1,4
+FWB0346,Slovenia,Ljubljana,45.5,4,3,2,5
+FWB0347,North Macedonia,Skopje,36.4,3,2,1,5
+FWB0348,Croatia,Split,37.5,3,4,1,5
+FWB0349,Slovenia,Maribor,22.3,3,2,1,5
+FWB0350,Serbia,Niš,30.8,4,4,1,5
+FWB0351,Slovenia,Koper,50.6,5,1,1,5
+FWB0352,Croatia,Split,38.7,3,4,1,5
+FWB0353,Croatia,Split,31.9,5,3,1,5
+FWB0354,Serbia,Niš,44.5,4,3,1,4
+FWB0355,Slovenia,Ljubljana,48.1,2,3,2,5
+FWB0356,Albania,Tirana,42.6,4,2,1,5
+FWB0357,Montenegro,Cetinje,25.6,3,4,1,4
+FWB0358,Croatia,Zagreb,50.5,5,2,1,4
+FWB0359,Bosnia and Herzegovina,Sarajevo,39.6,3,4,1,5
+FWB0360,Kosovo,Prizren,33.4,5,3,1,5
+FWB0361,Albania,Tirana,44.0,3,3,1,5
+FWB0362,Croatia,Zagreb,32.9,3,2,1,5
+FWB0363,Kosovo,Peja,41.0,3,4,1,5
+FWB0364,North Macedonia,Bitola,35.6,3,4,1,5
+FWB0365,Kosovo,Peja,42.6,3,3,2,4
+FWB0366,Montenegro,Cetinje,53.2,3,1,2,3
+FWB0367,Bosnia and Herzegovina,Mostar,28.4,4,2,1,3
+FWB0368,Albania,Durrës,41.4,4,3,1,5
+FWB0369,Bosnia and Herzegovina,Sarajevo,45.0,5,2,1,5
+FWB0370,Slovenia,Maribor,53.4,4,4,1,5
+FWB0371,Albania,Durrës,43.3,4,4,1,5
+FWB0372,Montenegro,Nikšić,38.8,4,3,1,5
+FWB0373,Bosnia and Herzegovina,Sarajevo,40.2,4,3,1,5
+FWB0374,Croatia,Zagreb,35.1,3,3,1,5
+FWB0375,Kosovo,Peja,47.5,4,2,1,5
+FWB0376,Bosnia and Herzegovina,Mostar,42.9,3,2,2,5
+FWB0377,North Macedonia,Skopje,34.6,2,3,2,3
+FWB0378,Montenegro,Nikšić,40.0,4,3,1,5
+FWB0379,Serbia,Novi Sad,43.3,3,4,1,5
+FWB0380,Serbia,Belgrade,30.5,3,4,1,5
+FWB0381,Albania,Durrës,34.2,2,3,1,4
+FWB0382,Montenegro,Cetinje,42.6,5,3,1,4
+FWB0383,Slovenia,Ljubljana,37.4,3,3,1,4
+FWB0384,Croatia,Zagreb,25.0,5,3,1,5
+FWB0385,Bosnia and Herzegovina,Sarajevo,33.2,3,2,1,4
+FWB0386,Montenegro,Nikšić,45.5,3,5,1,5
+FWB0387,North Macedonia,Ohrid,49.1,5,3,1,5
+FWB0388,Serbia,Niš,38.3,3,1,1,5
+FWB0389,Kosovo,Prizren,36.9,4,3,1,5
+FWB0390,Bosnia and Herzegovina,Sarajevo,31.3,3,4,1,5
+FWB0391,Albania,Shkodër,50.0,4,3,1,5
+FWB0392,Slovenia,Ljubljana,49.5,3,3,1,5
+FWB0393,North Macedonia,Bitola,51.6,4,2,1,5
+FWB0394,Kosovo,Prizren,49.1,5,3,1,5
+FWB0395,Bosnia and Herzegovina,Banja Luka,36.6,3,3,1,5
+FWB0396,Bosnia and Herzegovina,Banja Luka,32.7,3,4,1,5
+FWB0397,North Macedonia,Bitola,59.9,3,3,1,5
+FWB0398,Montenegro,Nikšić,47.8,4,2,1,5
+FWB0399,Slovenia,Koper,51.6,3,3,1,4
+FWB0400,Serbia,Novi Sad,49.7,3,2,1,5
+FWB0401,Croatia,Zagreb,40.1,3,3,1,5
+FWB0402,Croatia,Rijeka,39.1,3,3,2,4
+FWB0403,Bosnia and Herzegovina,Mostar,50.7,3,2,1,4
+FWB0404,North Macedonia,Skopje,43.6,5,3,1,5
+FWB0405,North Macedonia,Ohrid,44.1,4,2,1,5
+FWB0406,Albania,Durrës,42.3,4,3,1,5
+FWB0407,Croatia,Zagreb,38.2,5,1,1,5
+FWB0408,Montenegro,Podgorica,40.6,3,2,1,4
+FWB0409,Bosnia and Herzegovina,Banja Luka,50.9,3,4,1,5
+FWB0410,Croatia,Rijeka,36.5,4,3,1,4

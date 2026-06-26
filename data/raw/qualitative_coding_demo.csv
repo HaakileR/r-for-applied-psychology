@@ -1,0 +1,81 @@
+id,country,city,open_response,primary_theme,sentiment_code
+QLT001,Bosnia and Herzegovina,Banja Luka,"Online materials are useful, but I need structure to avoid distraction.",digital distraction,negative
+QLT002,Croatia,Split,Clear feedback helped me improve my report.,teacher feedback,mixed
+QLT003,Montenegro,Cetinje,Peer feedback helped me notice mistakes in my interpretation.,peer support,positive
+QLT004,North Macedonia,Skopje,Working with colleagues made difficult R exercises easier to understand.,peer support,mixed
+QLT005,Montenegro,Podgorica,The most useful strategy was solving small tasks every day.,exam preparation,positive
+QLT006,Slovenia,Maribor,"My main challenge is balancing lectures, work, and family responsibilities.",time management,mixed
+QLT007,Croatia,Rijeka,"Online materials are useful, but I need structure to avoid distraction.",digital distraction,positive
+QLT008,Croatia,Rijeka,Clear feedback helped me improve my report.,teacher feedback,mixed
+QLT009,Croatia,Zagreb,Short comments on my code helped me correct mistakes quickly.,teacher feedback,mixed
+QLT010,Albania,Shkodër,I prefer discussing results in a small group before writing the final answer.,peer support,positive
+QLT011,North Macedonia,Bitola,"Online materials are useful, but I need structure to avoid distraction.",digital distraction,positive
+QLT012,Albania,Shkodër,Peer feedback helped me notice mistakes in my interpretation.,peer support,mixed
+QLT013,Croatia,Rijeka,Short comments on my code helped me correct mistakes quickly.,teacher feedback,positive
+QLT014,Slovenia,Maribor,I study better when I put my phone away for a fixed period.,digital distraction,positive
+QLT015,Serbia,Belgrade,I feel calmer when the exam requirements are explained clearly.,exam preparation,mixed
+QLT016,Montenegro,Podgorica,Short comments on my code helped me correct mistakes quickly.,teacher feedback,mixed
+QLT017,Slovenia,Maribor,A simple calendar helped me prepare earlier instead of studying at the last moment.,time management,positive
+QLT018,Kosovo,Prizren,I learned more when the instructor explained why an analysis was appropriate.,teacher feedback,mixed
+QLT019,Serbia,Novi Sad,Practice tests helped me understand what I know and what I need to repeat.,exam preparation,mixed
+QLT020,Montenegro,Cetinje,Peer feedback helped me notice mistakes in my interpretation.,peer support,positive
+QLT021,Croatia,Zagreb,Peer feedback helped me notice mistakes in my interpretation.,peer support,mixed
+QLT022,Albania,Tirana,The most useful strategy was solving small tasks every day.,exam preparation,positive
+QLT023,Montenegro,Nikšić,I learned that planning my week makes studying feel more manageable.,time management,positive
+QLT024,Serbia,Belgrade,Working with colleagues made difficult R exercises easier to understand.,peer support,mixed
+QLT025,Serbia,Niš,Short comments on my code helped me correct mistakes quickly.,teacher feedback,positive
+QLT026,North Macedonia,Ohrid,I learned that planning my week makes studying feel more manageable.,time management,negative
+QLT027,Albania,Durrës,A simple calendar helped me prepare earlier instead of studying at the last moment.,time management,mixed
+QLT028,North Macedonia,Bitola,Practice tests helped me understand what I know and what I need to repeat.,exam preparation,mixed
+QLT029,Serbia,Belgrade,The most useful strategy was solving small tasks every day.,exam preparation,mixed
+QLT030,Slovenia,Koper,I prefer discussing results in a small group before writing the final answer.,peer support,mixed
+QLT031,Croatia,Rijeka,The most useful strategy was solving small tasks every day.,exam preparation,positive
+QLT032,Croatia,Rijeka,I learned that planning my week makes studying feel more manageable.,time management,negative
+QLT033,Croatia,Zagreb,Peer feedback helped me notice mistakes in my interpretation.,peer support,mixed
+QLT034,Albania,Shkodër,A simple calendar helped me prepare earlier instead of studying at the last moment.,time management,mixed
+QLT035,Serbia,Belgrade,I learned more when the instructor explained why an analysis was appropriate.,teacher feedback,positive
+QLT036,North Macedonia,Bitola,A simple calendar helped me prepare earlier instead of studying at the last moment.,time management,mixed
+QLT037,Croatia,Rijeka,"My main challenge is balancing lectures, work, and family responsibilities.",time management,positive
+QLT038,Montenegro,Cetinje,Notifications often interrupt my concentration while I study.,digital distraction,mixed
+QLT039,Slovenia,Koper,Notifications often interrupt my concentration while I study.,digital distraction,positive
+QLT040,North Macedonia,Ohrid,I learned more when the instructor explained why an analysis was appropriate.,teacher feedback,mixed
+QLT041,Slovenia,Ljubljana,Notifications often interrupt my concentration while I study.,digital distraction,mixed
+QLT042,Croatia,Zagreb,Working with colleagues made difficult R exercises easier to understand.,peer support,mixed
+QLT043,Croatia,Zagreb,Practice tests helped me understand what I know and what I need to repeat.,exam preparation,mixed
+QLT044,Croatia,Split,Notifications often interrupt my concentration while I study.,digital distraction,negative
+QLT045,Montenegro,Nikšić,The most useful strategy was solving small tasks every day.,exam preparation,mixed
+QLT046,Croatia,Zagreb,Peer feedback helped me notice mistakes in my interpretation.,peer support,positive
+QLT047,Bosnia and Herzegovina,Banja Luka,I prefer discussing results in a small group before writing the final answer.,peer support,positive
+QLT048,Slovenia,Ljubljana,Clear feedback helped me improve my report.,teacher feedback,positive
+QLT049,Bosnia and Herzegovina,Mostar,Clear feedback helped me improve my report.,teacher feedback,mixed
+QLT050,North Macedonia,Bitola,Peer feedback helped me notice mistakes in my interpretation.,peer support,positive
+QLT051,Kosovo,Peja,I study better when I put my phone away for a fixed period.,digital distraction,mixed
+QLT052,Croatia,Split,I prefer discussing results in a small group before writing the final answer.,peer support,mixed
+QLT053,Montenegro,Podgorica,I feel calmer when the exam requirements are explained clearly.,exam preparation,mixed
+QLT054,Croatia,Split,Working with colleagues made difficult R exercises easier to understand.,peer support,negative
+QLT055,Albania,Durrës,Working with colleagues made difficult R exercises easier to understand.,peer support,mixed
+QLT056,Croatia,Rijeka,Peer feedback helped me notice mistakes in my interpretation.,peer support,positive
+QLT057,Croatia,Rijeka,I study better when I put my phone away for a fixed period.,digital distraction,mixed
+QLT058,Montenegro,Cetinje,The most useful strategy was solving small tasks every day.,exam preparation,positive
+QLT059,Croatia,Split,Short comments on my code helped me correct mistakes quickly.,teacher feedback,positive
+QLT060,Montenegro,Podgorica,I prefer discussing results in a small group before writing the final answer.,peer support,negative
+QLT061,Serbia,Niš,"Online materials are useful, but I need structure to avoid distraction.",digital distraction,positive
+QLT062,Albania,Durrës,Clear feedback helped me improve my report.,teacher feedback,positive
+QLT063,Serbia,Novi Sad,I study better when I put my phone away for a fixed period.,digital distraction,negative
+QLT064,Montenegro,Cetinje,Practice tests helped me understand what I know and what I need to repeat.,exam preparation,mixed
+QLT065,Croatia,Rijeka,I learned that planning my week makes studying feel more manageable.,time management,negative
+QLT066,Croatia,Rijeka,I study better when I put my phone away for a fixed period.,digital distraction,mixed
+QLT067,Serbia,Niš,Short comments on my code helped me correct mistakes quickly.,teacher feedback,positive
+QLT068,Slovenia,Ljubljana,Notifications often interrupt my concentration while I study.,digital distraction,mixed
+QLT069,Serbia,Novi Sad,Clear feedback helped me improve my report.,teacher feedback,positive
+QLT070,Slovenia,Ljubljana,Clear feedback helped me improve my report.,teacher feedback,positive
+QLT071,Slovenia,Ljubljana,Clear feedback helped me improve my report.,teacher feedback,mixed
+QLT072,Croatia,Split,Clear feedback helped me improve my report.,teacher feedback,positive
+QLT073,North Macedonia,Ohrid,Notifications often interrupt my concentration while I study.,digital distraction,positive
+QLT074,Montenegro,Cetinje,Notifications often interrupt my concentration while I study.,digital distraction,negative
+QLT075,Serbia,Belgrade,Peer feedback helped me notice mistakes in my interpretation.,peer support,mixed
+QLT076,North Macedonia,Bitola,I learned that planning my week makes studying feel more manageable.,time management,positive
+QLT077,Croatia,Rijeka,Practice tests helped me understand what I know and what I need to repeat.,exam preparation,positive
+QLT078,Croatia,Split,"My main challenge is balancing lectures, work, and family responsibilities.",time management,negative
+QLT079,Croatia,Split,I learned that planning my week makes studying feel more manageable.,time management,negative
+QLT080,North Macedonia,Skopje,"Online materials are useful, but I need structure to avoid distraction.",digital distraction,mixed

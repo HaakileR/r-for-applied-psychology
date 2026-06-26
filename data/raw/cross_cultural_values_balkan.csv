@@ -1,0 +1,641 @@
+id,country,city,individual_agency,family_obligation,community_orientation,openness_to_change,intercultural_contact
+VALC0001,Serbia,Niš,4,4,5,3,1
+VALC0002,Serbia,Niš,4,4,3,4,4
+VALC0003,Kosovo,Prizren,3,4,2,2,2
+VALC0004,Slovenia,Ljubljana,3,3,5,4,5
+VALC0005,North Macedonia,Skopje,4,3,4,3,3
+VALC0006,Bosnia and Herzegovina,Banja Luka,3,4,3,3,3
+VALC0007,North Macedonia,Bitola,3,3,4,2,2
+VALC0008,Slovenia,Maribor,5,5,2,5,3
+VALC0009,North Macedonia,Skopje,4,3,3,4,2
+VALC0010,Croatia,Zagreb,5,4,4,3,4
+VALC0011,Croatia,Split,3,2,2,3,2
+VALC0012,Albania,Tirana,3,4,3,3,3
+VALC0013,Montenegro,Podgorica,3,4,4,3,4
+VALC0014,Serbia,Novi Sad,3,3,3,5,3
+VALC0015,North Macedonia,Skopje,5,5,3,3,3
+VALC0016,Kosovo,Peja,3,4,4,3,2
+VALC0017,Slovenia,Koper,4,3,3,4,3
+VALC0018,Slovenia,Maribor,5,2,3,4,1
+VALC0019,Montenegro,Podgorica,3,4,2,3,3
+VALC0020,Montenegro,Podgorica,3,2,2,3,2
+VALC0021,Kosovo,Prizren,3,4,4,3,3
+VALC0022,Serbia,Novi Sad,4,3,3,2,5
+VALC0023,Croatia,Zagreb,2,3,4,2,3
+VALC0024,Montenegro,Podgorica,5,4,2,3,3
+VALC0025,North Macedonia,Ohrid,4,5,4,4,2
+VALC0026,Albania,Durrës,3,3,3,3,3
+VALC0027,Bosnia and Herzegovina,Sarajevo,4,2,4,4,3
+VALC0028,Albania,Durrës,2,3,5,3,3
+VALC0029,Slovenia,Maribor,3,4,4,2,4
+VALC0030,Croatia,Split,3,5,4,3,4
+VALC0031,North Macedonia,Skopje,3,4,3,4,4
+VALC0032,Kosovo,Prizren,4,3,3,2,1
+VALC0033,Montenegro,Podgorica,3,5,4,4,3
+VALC0034,Albania,Tirana,3,4,3,4,3
+VALC0035,Montenegro,Cetinje,4,4,4,3,5
+VALC0036,Serbia,Belgrade,3,4,3,3,3
+VALC0037,Bosnia and Herzegovina,Sarajevo,2,2,3,3,3
+VALC0038,North Macedonia,Bitola,3,4,4,3,3
+VALC0039,North Macedonia,Skopje,4,2,4,3,4
+VALC0040,Croatia,Split,4,3,4,3,3
+VALC0041,Kosovo,Prizren,3,5,4,4,4
+VALC0042,Slovenia,Koper,4,5,2,4,3
+VALC0043,Serbia,Belgrade,3,3,3,1,4
+VALC0044,Montenegro,Nikšić,4,2,1,2,2
+VALC0045,Serbia,Novi Sad,3,3,3,1,3
+VALC0046,Slovenia,Koper,2,4,3,3,3
+VALC0047,Serbia,Novi Sad,3,4,3,1,2
+VALC0048,North Macedonia,Bitola,3,5,3,4,3
+VALC0049,Bosnia and Herzegovina,Mostar,3,4,4,5,2
+VALC0050,Montenegro,Cetinje,2,4,3,3,3
+VALC0051,Kosovo,Prizren,3,4,4,2,2
+VALC0052,Montenegro,Cetinje,3,3,2,1,4
+VALC0053,Montenegro,Nikšić,3,3,3,3,5
+VALC0054,Albania,Tirana,3,4,4,2,3
+VALC0055,Montenegro,Cetinje,3,3,4,2,3
+VALC0056,Montenegro,Podgorica,2,5,3,4,2
+VALC0057,Slovenia,Maribor,4,4,4,3,4
+VALC0058,Serbia,Niš,3,2,4,3,5
+VALC0059,Slovenia,Maribor,2,4,4,4,5
+VALC0060,Montenegro,Nikšić,2,4,3,3,2
+VALC0061,Serbia,Novi Sad,2,4,3,3,5
+VALC0062,Serbia,Niš,3,5,3,2,4
+VALC0063,North Macedonia,Skopje,4,4,3,3,3
+VALC0064,Croatia,Zagreb,4,4,4,2,2
+VALC0065,North Macedonia,Skopje,3,2,4,3,3
+VALC0066,Slovenia,Koper,3,3,4,2,3
+VALC0067,North Macedonia,Bitola,3,4,4,3,3
+VALC0068,Montenegro,Cetinje,4,5,4,3,3
+VALC0069,Serbia,Novi Sad,4,3,3,3,4
+VALC0070,Albania,Tirana,4,4,2,2,3
+VALC0071,North Macedonia,Bitola,4,3,3,3,4
+VALC0072,Kosovo,Prizren,3,3,2,1,4
+VALC0073,North Macedonia,Bitola,3,4,3,3,3
+VALC0074,Albania,Tirana,4,4,3,2,3
+VALC0075,Montenegro,Nikšić,3,2,2,3,2
+VALC0076,Slovenia,Maribor,2,4,4,2,2
+VALC0077,Slovenia,Koper,3,4,4,4,4
+VALC0078,North Macedonia,Skopje,4,4,5,4,3
+VALC0079,Kosovo,Pristina,3,4,4,4,3
+VALC0080,Croatia,Zagreb,1,3,4,2,1
+VALC0081,Serbia,Novi Sad,4,4,4,4,2
+VALC0082,Montenegro,Cetinje,4,3,4,4,4
+VALC0083,Bosnia and Herzegovina,Sarajevo,2,3,3,3,1
+VALC0084,Montenegro,Podgorica,4,5,2,3,2
+VALC0085,North Macedonia,Skopje,3,5,4,5,2
+VALC0086,Albania,Tirana,4,4,5,2,3
+VALC0087,North Macedonia,Skopje,3,3,4,3,5
+VALC0088,Serbia,Niš,4,3,3,3,2
+VALC0089,Bosnia and Herzegovina,Banja Luka,2,4,3,3,4
+VALC0090,Bosnia and Herzegovina,Banja Luka,4,3,4,4,4
+VALC0091,Croatia,Rijeka,5,3,4,4,4
+VALC0092,Serbia,Belgrade,3,4,4,3,3
+VALC0093,Montenegro,Podgorica,4,5,4,1,3
+VALC0094,Serbia,Niš,3,3,4,3,5
+VALC0095,North Macedonia,Skopje,5,3,4,4,3
+VALC0096,Slovenia,Ljubljana,3,5,4,4,3
+VALC0097,Bosnia and Herzegovina,Sarajevo,4,4,3,3,2
+VALC0098,Albania,Shkodër,3,4,4,3,3
+VALC0099,Serbia,Novi Sad,3,4,2,3,3
+VALC0100,Croatia,Rijeka,3,4,4,3,5
+VALC0101,Bosnia and Herzegovina,Mostar,2,3,4,3,3
+VALC0102,North Macedonia,Skopje,5,4,5,4,3
+VALC0103,Serbia,Niš,4,5,3,3,2
+VALC0104,Montenegro,Nikšić,3,4,3,3,5
+VALC0105,Kosovo,Prizren,4,4,4,2,3
+VALC0106,Kosovo,Pristina,3,4,3,3,3
+VALC0107,Serbia,Niš,4,3,4,3,4
+VALC0108,Croatia,Zagreb,3,4,4,3,2
+VALC0109,Serbia,Belgrade,3,3,2,2,4
+VALC0110,Kosovo,Pristina,3,3,3,3,1
+VALC0111,Bosnia and Herzegovina,Banja Luka,4,2,4,3,3
+VALC0112,Serbia,Belgrade,4,5,3,4,2
+VALC0113,North Macedonia,Skopje,3,3,4,1,2
+VALC0114,Croatia,Rijeka,3,3,3,3,4
+VALC0115,Serbia,Belgrade,4,2,5,4,4
+VALC0116,Albania,Durrës,3,4,2,2,3
+VALC0117,Serbia,Niš,3,3,4,3,5
+VALC0118,Croatia,Zagreb,4,3,2,3,3
+VALC0119,Kosovo,Pristina,4,3,2,2,3
+VALC0120,Montenegro,Cetinje,3,5,4,3,3
+VALC0121,Montenegro,Nikšić,3,4,5,2,4
+VALC0122,Montenegro,Cetinje,4,4,3,4,2
+VALC0123,Bosnia and Herzegovina,Mostar,2,4,3,4,4
+VALC0124,Slovenia,Koper,3,4,4,2,5
+VALC0125,Serbia,Novi Sad,3,4,4,3,2
+VALC0126,Serbia,Belgrade,4,4,4,5,3
+VALC0127,Montenegro,Cetinje,3,4,3,4,3
+VALC0128,Serbia,Niš,5,2,3,4,2
+VALC0129,Montenegro,Nikšić,3,4,3,2,4
+VALC0130,Kosovo,Prizren,5,3,4,1,4
+VALC0131,Bosnia and Herzegovina,Sarajevo,3,3,5,3,2
+VALC0132,Bosnia and Herzegovina,Banja Luka,3,2,4,4,3
+VALC0133,North Macedonia,Skopje,2,3,4,4,3
+VALC0134,Serbia,Belgrade,3,5,3,4,3
+VALC0135,Slovenia,Koper,4,4,3,3,4
+VALC0136,Serbia,Novi Sad,4,4,3,1,3
+VALC0137,North Macedonia,Ohrid,5,3,2,3,1
+VALC0138,Serbia,Novi Sad,4,4,2,3,3
+VALC0139,Albania,Shkodër,3,4,3,3,3
+VALC0140,Kosovo,Prizren,2,4,4,4,3
+VALC0141,Serbia,Novi Sad,2,4,5,3,4
+VALC0142,Slovenia,Koper,3,4,3,3,2
+VALC0143,North Macedonia,Skopje,4,5,3,2,1
+VALC0144,Bosnia and Herzegovina,Sarajevo,5,3,4,3,4
+VALC0145,North Macedonia,Bitola,4,4,4,3,4
+VALC0146,Albania,Tirana,3,3,4,4,2
+VALC0147,Bosnia and Herzegovina,Mostar,3,3,3,5,2
+VALC0148,Slovenia,Ljubljana,3,3,3,2,2
+VALC0149,Bosnia and Herzegovina,Mostar,3,4,3,2,2
+VALC0150,Serbia,Niš,4,3,3,4,2
+VALC0151,Bosnia and Herzegovina,Banja Luka,4,4,3,2,2
+VALC0152,Croatia,Rijeka,4,5,4,1,3
+VALC0153,Montenegro,Podgorica,3,4,5,3,4
+VALC0154,Serbia,Belgrade,4,4,3,3,4
+VALC0155,Croatia,Zagreb,3,3,4,2,2
+VALC0156,Albania,Shkodër,4,3,4,3,3
+VALC0157,Croatia,Rijeka,2,5,2,5,1
+VALC0158,Kosovo,Prizren,3,4,4,3,3
+VALC0159,Kosovo,Pristina,3,5,4,4,2
+VALC0160,Slovenia,Ljubljana,4,3,3,3,4
+VALC0161,Serbia,Belgrade,3,4,2,4,4
+VALC0162,Croatia,Split,4,5,2,4,2
+VALC0163,Serbia,Niš,4,4,3,3,2
+VALC0164,Serbia,Belgrade,4,4,4,4,4
+VALC0165,Albania,Shkodër,3,3,4,2,2
+VALC0166,Slovenia,Maribor,4,2,4,5,3
+VALC0167,Croatia,Zagreb,3,4,3,3,2
+VALC0168,Croatia,Rijeka,3,2,3,3,4
+VALC0169,Kosovo,Prizren,4,4,5,4,4
+VALC0170,Serbia,Niš,3,4,3,4,3
+VALC0171,North Macedonia,Ohrid,3,4,4,3,2
+VALC0172,Albania,Shkodër,2,4,3,4,3
+VALC0173,Montenegro,Nikšić,4,3,5,4,5
+VALC0174,Montenegro,Podgorica,3,4,3,4,2
+VALC0175,Croatia,Split,5,5,5,3,4
+VALC0176,Serbia,Novi Sad,3,3,3,3,1
+VALC0177,Slovenia,Ljubljana,2,3,3,3,3
+VALC0178,Serbia,Niš,4,4,3,3,2
+VALC0179,North Macedonia,Ohrid,3,3,4,1,3
+VALC0180,Serbia,Belgrade,2,5,4,5,3
+VALC0181,Montenegro,Cetinje,4,3,4,3,3
+VALC0182,Serbia,Niš,3,3,3,4,2
+VALC0183,Albania,Shkodër,3,4,2,3,3
+VALC0184,Slovenia,Ljubljana,3,4,3,4,2
+VALC0185,Serbia,Novi Sad,2,5,5,2,2
+VALC0186,Croatia,Rijeka,3,3,4,4,4
+VALC0187,Montenegro,Podgorica,4,5,3,4,4
+VALC0188,Montenegro,Cetinje,4,2,4,4,3
+VALC0189,Bosnia and Herzegovina,Sarajevo,4,4,4,2,3
+VALC0190,Kosovo,Pristina,4,4,4,4,4
+VALC0191,Croatia,Split,3,3,4,4,4
+VALC0192,Serbia,Novi Sad,3,4,3,5,4
+VALC0193,Croatia,Split,2,4,4,3,4
+VALC0194,Kosovo,Prizren,4,3,3,2,4
+VALC0195,Albania,Shkodër,5,3,2,3,4
+VALC0196,Albania,Shkodër,4,4,3,5,4
+VALC0197,Kosovo,Pristina,3,3,4,4,2
+VALC0198,Serbia,Niš,2,4,4,4,4
+VALC0199,Slovenia,Maribor,3,4,4,4,3
+VALC0200,Albania,Tirana,2,3,2,2,3
+VALC0201,Kosovo,Prizren,2,3,4,3,2
+VALC0202,Croatia,Rijeka,5,4,3,3,3
+VALC0203,Montenegro,Nikšić,4,2,3,4,5
+VALC0204,Bosnia and Herzegovina,Sarajevo,3,4,3,3,2
+VALC0205,Montenegro,Cetinje,5,4,4,3,5
+VALC0206,Slovenia,Koper,2,4,3,2,4
+VALC0207,Serbia,Novi Sad,3,2,5,1,3
+VALC0208,Slovenia,Ljubljana,4,3,4,2,2
+VALC0209,Slovenia,Maribor,4,4,3,2,3
+VALC0210,Serbia,Novi Sad,5,3,3,2,4
+VALC0211,Serbia,Novi Sad,4,4,4,5,3
+VALC0212,Croatia,Zagreb,4,4,3,2,3
+VALC0213,Slovenia,Maribor,4,3,4,3,3
+VALC0214,Albania,Shkodër,3,5,5,2,4
+VALC0215,North Macedonia,Ohrid,4,5,4,4,3
+VALC0216,Albania,Shkodër,3,4,2,5,2
+VALC0217,North Macedonia,Bitola,3,3,4,5,4
+VALC0218,Serbia,Niš,5,4,3,5,4
+VALC0219,Kosovo,Peja,4,3,1,3,5
+VALC0220,Bosnia and Herzegovina,Banja Luka,3,3,4,4,3
+VALC0221,Croatia,Split,3,4,3,4,4
+VALC0222,Serbia,Belgrade,3,3,2,5,3
+VALC0223,Bosnia and Herzegovina,Sarajevo,2,3,3,3,4
+VALC0224,Bosnia and Herzegovina,Sarajevo,3,4,5,3,2
+VALC0225,Montenegro,Cetinje,3,4,4,2,3
+VALC0226,Montenegro,Nikšić,2,4,4,4,2
+VALC0227,Serbia,Belgrade,3,3,3,3,4
+VALC0228,Slovenia,Koper,2,4,5,4,2
+VALC0229,Serbia,Belgrade,3,5,3,4,3
+VALC0230,Bosnia and Herzegovina,Banja Luka,3,4,4,4,3
+VALC0231,North Macedonia,Skopje,4,4,5,4,4
+VALC0232,Serbia,Novi Sad,2,4,2,2,2
+VALC0233,Albania,Durrës,2,5,3,3,3
+VALC0234,Serbia,Niš,3,4,3,3,4
+VALC0235,Slovenia,Koper,3,4,4,3,4
+VALC0236,Bosnia and Herzegovina,Sarajevo,4,4,2,4,3
+VALC0237,Albania,Shkodër,2,5,3,3,3
+VALC0238,Serbia,Novi Sad,4,5,5,2,3
+VALC0239,Slovenia,Koper,4,4,3,1,4
+VALC0240,Bosnia and Herzegovina,Sarajevo,4,4,3,2,3
+VALC0241,Montenegro,Cetinje,3,5,5,3,3
+VALC0242,Croatia,Zagreb,4,3,5,4,2
+VALC0243,Albania,Durrës,4,4,3,3,3
+VALC0244,Slovenia,Ljubljana,5,3,2,2,4
+VALC0245,Bosnia and Herzegovina,Sarajevo,3,4,3,4,3
+VALC0246,Croatia,Zagreb,5,3,3,1,3
+VALC0247,North Macedonia,Skopje,4,4,3,3,3
+VALC0248,Serbia,Belgrade,3,2,4,2,1
+VALC0249,Croatia,Split,3,5,3,4,3
+VALC0250,Croatia,Rijeka,4,4,4,2,4
+VALC0251,Albania,Tirana,4,3,4,2,3
+VALC0252,Montenegro,Cetinje,3,4,5,2,3
+VALC0253,Montenegro,Nikšić,2,4,2,3,3
+VALC0254,Slovenia,Maribor,5,5,3,2,3
+VALC0255,North Macedonia,Ohrid,3,3,5,3,4
+VALC0256,Serbia,Novi Sad,5,5,3,3,3
+VALC0257,North Macedonia,Bitola,3,4,3,5,5
+VALC0258,Albania,Durrës,4,4,3,5,3
+VALC0259,Albania,Tirana,4,3,3,3,3
+VALC0260,Kosovo,Pristina,2,4,4,4,3
+VALC0261,Serbia,Novi Sad,1,3,3,3,3
+VALC0262,Montenegro,Podgorica,4,5,4,3,3
+VALC0263,Serbia,Belgrade,2,3,4,4,3
+VALC0264,Bosnia and Herzegovina,Banja Luka,4,3,3,3,3
+VALC0265,Slovenia,Maribor,3,4,4,3,4
+VALC0266,Slovenia,Maribor,5,3,4,4,3
+VALC0267,Montenegro,Nikšić,4,4,4,2,4
+VALC0268,Bosnia and Herzegovina,Banja Luka,4,4,2,3,3
+VALC0269,Kosovo,Pristina,4,2,4,4,1
+VALC0270,Croatia,Rijeka,4,3,4,3,3
+VALC0271,Albania,Shkodër,2,4,2,4,2
+VALC0272,Serbia,Novi Sad,2,4,3,3,5
+VALC0273,Kosovo,Prizren,4,4,4,4,3
+VALC0274,Bosnia and Herzegovina,Sarajevo,3,3,3,3,2
+VALC0275,Bosnia and Herzegovina,Mostar,3,4,4,4,3
+VALC0276,Serbia,Novi Sad,5,5,5,1,2
+VALC0277,Croatia,Split,3,4,3,3,4
+VALC0278,Croatia,Split,4,2,3,3,4
+VALC0279,Bosnia and Herzegovina,Mostar,3,2,2,3,4
+VALC0280,Croatia,Rijeka,2,3,4,5,1
+VALC0281,Croatia,Zagreb,4,3,3,5,3
+VALC0282,Serbia,Niš,3,4,2,2,5
+VALC0283,North Macedonia,Skopje,4,5,4,3,2
+VALC0284,Montenegro,Nikšić,3,4,4,5,4
+VALC0285,Serbia,Belgrade,3,4,5,3,3
+VALC0286,Slovenia,Ljubljana,2,4,3,2,5
+VALC0287,North Macedonia,Skopje,4,4,4,3,4
+VALC0288,Bosnia and Herzegovina,Sarajevo,3,5,3,4,3
+VALC0289,Montenegro,Cetinje,4,4,3,3,2
+VALC0290,Croatia,Zagreb,2,4,3,4,3
+VALC0291,Croatia,Split,3,3,2,4,2
+VALC0292,Slovenia,Ljubljana,3,2,5,3,4
+VALC0293,Croatia,Rijeka,4,3,4,3,3
+VALC0294,North Macedonia,Skopje,5,4,4,4,2
+VALC0295,Slovenia,Koper,4,3,4,4,2
+VALC0296,Croatia,Zagreb,4,4,5,1,2
+VALC0297,Albania,Tirana,3,3,4,3,1
+VALC0298,Bosnia and Herzegovina,Banja Luka,4,4,3,4,3
+VALC0299,Croatia,Rijeka,4,4,3,3,3
+VALC0300,Kosovo,Pristina,3,3,4,3,4
+VALC0301,Bosnia and Herzegovina,Mostar,5,3,2,3,3
+VALC0302,Montenegro,Podgorica,2,3,4,3,3
+VALC0303,Slovenia,Ljubljana,3,3,3,2,4
+VALC0304,Montenegro,Podgorica,3,3,4,4,4
+VALC0305,Serbia,Belgrade,4,3,3,2,3
+VALC0306,Kosovo,Peja,2,4,4,3,4
+VALC0307,Bosnia and Herzegovina,Sarajevo,2,3,2,3,5
+VALC0308,Serbia,Belgrade,4,4,5,4,3
+VALC0309,North Macedonia,Ohrid,3,4,4,1,3
+VALC0310,Bosnia and Herzegovina,Sarajevo,3,3,4,2,3
+VALC0311,Bosnia and Herzegovina,Banja Luka,4,3,4,1,4
+VALC0312,Croatia,Split,2,5,3,2,3
+VALC0313,Slovenia,Koper,4,3,2,3,3
+VALC0314,Kosovo,Prizren,5,4,4,2,4
+VALC0315,Serbia,Novi Sad,2,4,4,2,3
+VALC0316,Serbia,Belgrade,3,3,4,3,3
+VALC0317,Montenegro,Podgorica,2,4,5,2,5
+VALC0318,Kosovo,Prizren,3,3,2,3,3
+VALC0319,Croatia,Rijeka,4,4,4,4,3
+VALC0320,Croatia,Split,4,4,3,3,2
+VALC0321,North Macedonia,Skopje,4,3,3,5,4
+VALC0322,Slovenia,Maribor,3,4,2,4,3
+VALC0323,Albania,Durrës,5,5,3,4,4
+VALC0324,North Macedonia,Ohrid,3,4,5,1,2
+VALC0325,Kosovo,Prizren,2,3,4,2,3
+VALC0326,Bosnia and Herzegovina,Sarajevo,4,4,3,2,3
+VALC0327,Bosnia and Herzegovina,Sarajevo,2,4,2,4,4
+VALC0328,Croatia,Rijeka,5,3,3,3,3
+VALC0329,Serbia,Belgrade,3,3,3,3,2
+VALC0330,Slovenia,Ljubljana,4,3,3,5,3
+VALC0331,North Macedonia,Skopje,3,2,4,2,3
+VALC0332,Slovenia,Maribor,3,3,4,3,2
+VALC0333,Serbia,Niš,2,4,5,3,3
+VALC0334,Slovenia,Koper,2,3,3,3,3
+VALC0335,Serbia,Niš,2,4,4,2,4
+VALC0336,Bosnia and Herzegovina,Mostar,2,5,2,4,4
+VALC0337,Croatia,Rijeka,3,4,3,3,3
+VALC0338,Albania,Shkodër,4,4,4,4,4
+VALC0339,Serbia,Novi Sad,2,4,4,2,4
+VALC0340,North Macedonia,Bitola,3,3,3,4,3
+VALC0341,Albania,Durrës,3,2,4,3,3
+VALC0342,North Macedonia,Ohrid,4,3,4,3,2
+VALC0343,Croatia,Rijeka,2,3,4,3,3
+VALC0344,Slovenia,Maribor,2,3,4,3,3
+VALC0345,Bosnia and Herzegovina,Banja Luka,3,4,3,5,3
+VALC0346,Montenegro,Podgorica,3,5,3,5,4
+VALC0347,Slovenia,Maribor,3,3,4,5,1
+VALC0348,Serbia,Belgrade,3,5,4,3,3
+VALC0349,Montenegro,Podgorica,4,3,4,2,4
+VALC0350,North Macedonia,Bitola,4,4,4,2,5
+VALC0351,Serbia,Belgrade,2,4,3,4,4
+VALC0352,Slovenia,Koper,3,3,2,1,2
+VALC0353,Montenegro,Podgorica,4,3,5,3,4
+VALC0354,Croatia,Zagreb,5,4,4,3,2
+VALC0355,Albania,Shkodër,3,4,5,2,3
+VALC0356,Kosovo,Peja,4,3,3,3,3
+VALC0357,Bosnia and Herzegovina,Banja Luka,2,4,3,5,3
+VALC0358,Croatia,Split,3,3,3,3,5
+VALC0359,Bosnia and Herzegovina,Mostar,3,3,2,4,3
+VALC0360,Kosovo,Prizren,3,5,3,4,3
+VALC0361,North Macedonia,Ohrid,4,3,3,2,3
+VALC0362,North Macedonia,Ohrid,4,3,2,3,4
+VALC0363,Kosovo,Peja,2,5,4,4,4
+VALC0364,North Macedonia,Skopje,2,5,4,3,3
+VALC0365,Albania,Tirana,4,3,4,3,3
+VALC0366,Montenegro,Cetinje,2,3,5,4,2
+VALC0367,Serbia,Novi Sad,3,4,4,5,3
+VALC0368,Montenegro,Cetinje,3,4,3,4,3
+VALC0369,Serbia,Novi Sad,4,3,3,3,2
+VALC0370,Albania,Durrës,4,4,3,3,4
+VALC0371,Bosnia and Herzegovina,Banja Luka,4,4,3,2,1
+VALC0372,Serbia,Niš,3,2,4,3,2
+VALC0373,Kosovo,Peja,4,4,2,3,3
+VALC0374,Slovenia,Koper,3,4,3,1,2
+VALC0375,North Macedonia,Ohrid,4,4,4,4,4
+VALC0376,Montenegro,Cetinje,4,4,5,4,4
+VALC0377,Bosnia and Herzegovina,Sarajevo,2,3,3,3,4
+VALC0378,Serbia,Niš,3,3,1,4,3
+VALC0379,Montenegro,Nikšić,4,4,3,3,3
+VALC0380,Montenegro,Podgorica,3,4,5,3,2
+VALC0381,North Macedonia,Ohrid,4,3,3,2,2
+VALC0382,Croatia,Rijeka,3,2,3,3,2
+VALC0383,Albania,Durrës,3,5,4,3,3
+VALC0384,Serbia,Belgrade,3,3,3,3,1
+VALC0385,Kosovo,Pristina,2,3,3,4,3
+VALC0386,Montenegro,Podgorica,3,4,4,3,4
+VALC0387,Montenegro,Podgorica,4,4,2,3,4
+VALC0388,Croatia,Rijeka,3,5,5,3,3
+VALC0389,Serbia,Belgrade,4,4,4,5,3
+VALC0390,Montenegro,Cetinje,3,4,3,3,3
+VALC0391,Croatia,Rijeka,2,3,3,4,5
+VALC0392,Slovenia,Koper,3,4,3,4,2
+VALC0393,Croatia,Zagreb,4,4,4,2,2
+VALC0394,Montenegro,Cetinje,3,4,4,3,4
+VALC0395,Albania,Shkodër,2,3,4,5,4
+VALC0396,North Macedonia,Bitola,4,4,2,3,4
+VALC0397,Croatia,Zagreb,4,4,4,3,3
+VALC0398,North Macedonia,Skopje,3,3,4,3,4
+VALC0399,Kosovo,Peja,3,4,4,3,4
+VALC0400,Serbia,Niš,3,4,4,4,3
+VALC0401,Kosovo,Pristina,2,4,4,3,3
+VALC0402,North Macedonia,Skopje,2,4,4,4,5
+VALC0403,Croatia,Rijeka,3,4,3,2,3
+VALC0404,Croatia,Rijeka,3,4,4,4,3
+VALC0405,Croatia,Zagreb,4,2,2,5,2
+VALC0406,Montenegro,Podgorica,4,5,3,3,4
+VALC0407,Bosnia and Herzegovina,Sarajevo,3,4,4,3,4
+VALC0408,Slovenia,Koper,3,2,3,3,3
+VALC0409,North Macedonia,Bitola,2,3,3,5,3
+VALC0410,Bosnia and Herzegovina,Sarajevo,3,4,2,4,2
+VALC0411,Slovenia,Ljubljana,3,4,4,3,2
+VALC0412,Bosnia and Herzegovina,Banja Luka,3,4,3,4,3
+VALC0413,Bosnia and Herzegovina,Sarajevo,3,3,4,3,3
+VALC0414,Slovenia,Maribor,4,3,3,3,2
+VALC0415,Montenegro,Nikšić,3,5,4,3,3
+VALC0416,Montenegro,Podgorica,4,2,4,2,3
+VALC0417,North Macedonia,Bitola,2,4,5,3,2
+VALC0418,Slovenia,Ljubljana,3,4,4,3,4
+VALC0419,Slovenia,Maribor,3,3,2,2,4
+VALC0420,Serbia,Novi Sad,2,3,4,1,4
+VALC0421,Slovenia,Ljubljana,3,5,3,2,4
+VALC0422,Serbia,Niš,3,5,5,4,4
+VALC0423,Montenegro,Podgorica,5,4,4,3,4
+VALC0424,Montenegro,Podgorica,3,3,3,4,3
+VALC0425,Serbia,Novi Sad,3,3,5,3,2
+VALC0426,North Macedonia,Bitola,3,4,3,3,4
+VALC0427,Montenegro,Podgorica,3,3,5,3,3
+VALC0428,Kosovo,Prizren,3,4,4,5,4
+VALC0429,Albania,Durrës,4,4,4,3,2
+VALC0430,Kosovo,Peja,2,3,2,3,3
+VALC0431,Slovenia,Maribor,4,3,3,3,4
+VALC0432,Albania,Shkodër,3,5,4,3,5
+VALC0433,Slovenia,Maribor,3,4,4,4,4
+VALC0434,Croatia,Split,4,4,3,3,2
+VALC0435,Serbia,Belgrade,3,3,2,3,2
+VALC0436,Kosovo,Peja,4,3,4,3,3
+VALC0437,Serbia,Novi Sad,4,2,4,2,4
+VALC0438,Montenegro,Nikšić,2,3,5,3,2
+VALC0439,Croatia,Rijeka,4,4,4,5,5
+VALC0440,North Macedonia,Skopje,3,2,3,4,3
+VALC0441,Bosnia and Herzegovina,Banja Luka,3,4,4,2,3
+VALC0442,Montenegro,Cetinje,3,3,3,3,3
+VALC0443,Albania,Tirana,4,3,3,3,3
+VALC0444,Kosovo,Peja,3,4,3,3,2
+VALC0445,Croatia,Split,2,4,3,3,2
+VALC0446,Serbia,Niš,4,5,4,3,2
+VALC0447,Bosnia and Herzegovina,Mostar,3,3,3,4,5
+VALC0448,North Macedonia,Skopje,4,4,3,2,5
+VALC0449,Croatia,Rijeka,4,3,3,3,3
+VALC0450,Serbia,Niš,4,3,3,4,4
+VALC0451,Serbia,Niš,4,3,4,4,3
+VALC0452,Croatia,Rijeka,3,3,3,4,3
+VALC0453,North Macedonia,Ohrid,3,5,3,2,3
+VALC0454,Croatia,Split,4,4,2,3,5
+VALC0455,Serbia,Belgrade,3,3,2,2,3
+VALC0456,Montenegro,Nikšić,4,4,3,2,4
+VALC0457,Albania,Durrës,4,4,4,3,4
+VALC0458,Montenegro,Podgorica,5,2,3,1,4
+VALC0459,Kosovo,Prizren,2,4,4,2,3
+VALC0460,Kosovo,Peja,2,3,3,5,3
+VALC0461,Slovenia,Maribor,5,5,4,2,2
+VALC0462,Albania,Durrës,3,2,4,3,2
+VALC0463,Slovenia,Maribor,4,4,3,3,3
+VALC0464,Montenegro,Podgorica,4,2,4,3,5
+VALC0465,Albania,Shkodër,3,4,4,4,2
+VALC0466,North Macedonia,Ohrid,2,4,4,5,4
+VALC0467,Montenegro,Podgorica,3,2,2,2,4
+VALC0468,Croatia,Zagreb,4,3,3,2,4
+VALC0469,Croatia,Rijeka,3,3,4,3,3
+VALC0470,Albania,Shkodër,4,4,4,2,2
+VALC0471,Serbia,Novi Sad,2,4,4,4,3
+VALC0472,Slovenia,Ljubljana,2,3,4,3,3
+VALC0473,Croatia,Split,3,3,2,3,2
+VALC0474,Bosnia and Herzegovina,Banja Luka,4,4,4,2,3
+VALC0475,Slovenia,Ljubljana,3,4,4,2,4
+VALC0476,Slovenia,Maribor,3,4,4,3,3
+VALC0477,Kosovo,Pristina,4,3,3,3,4
+VALC0478,Kosovo,Prizren,5,5,5,5,4
+VALC0479,Albania,Durrës,3,3,3,3,4
+VALC0480,Albania,Durrës,3,3,4,4,4
+VALC0481,North Macedonia,Bitola,3,4,4,3,2
+VALC0482,Albania,Tirana,4,3,3,3,3
+VALC0483,North Macedonia,Bitola,5,4,3,4,2
+VALC0484,Slovenia,Koper,4,4,4,4,2
+VALC0485,Croatia,Rijeka,2,4,4,3,2
+VALC0486,Serbia,Novi Sad,1,4,4,5,3
+VALC0487,Slovenia,Maribor,4,5,4,4,5
+VALC0488,Croatia,Rijeka,3,3,4,3,5
+VALC0489,North Macedonia,Bitola,4,4,3,4,4
+VALC0490,Slovenia,Maribor,3,3,5,3,2
+VALC0491,Slovenia,Koper,4,3,4,4,3
+VALC0492,North Macedonia,Bitola,3,3,5,3,3
+VALC0493,Bosnia and Herzegovina,Mostar,2,4,5,3,2
+VALC0494,Serbia,Belgrade,4,3,3,3,3
+VALC0495,Bosnia and Herzegovina,Banja Luka,4,4,4,4,3
+VALC0496,Serbia,Niš,3,4,3,2,2
+VALC0497,Kosovo,Pristina,4,5,3,4,3
+VALC0498,Slovenia,Ljubljana,4,3,2,3,3
+VALC0499,Albania,Tirana,4,4,3,4,3
+VALC0500,Albania,Tirana,4,3,3,2,3
+VALC0501,Albania,Shkodër,5,4,4,2,3
+VALC0502,Bosnia and Herzegovina,Mostar,3,3,4,4,3
+VALC0503,Serbia,Belgrade,3,5,2,5,2
+VALC0504,Montenegro,Nikšić,2,4,3,2,4
+VALC0505,Slovenia,Ljubljana,4,4,5,3,2
+VALC0506,Serbia,Novi Sad,4,3,3,4,2
+VALC0507,Croatia,Split,4,2,3,4,3
+VALC0508,Kosovo,Pristina,4,3,3,4,4
+VALC0509,Kosovo,Peja,3,2,3,3,3
+VALC0510,Croatia,Split,3,4,4,1,3
+VALC0511,Bosnia and Herzegovina,Mostar,3,5,3,3,3
+VALC0512,Croatia,Rijeka,3,5,3,2,4
+VALC0513,Montenegro,Nikšić,2,3,3,2,3
+VALC0514,Bosnia and Herzegovina,Mostar,4,3,3,4,2
+VALC0515,North Macedonia,Ohrid,4,5,3,2,2
+VALC0516,Kosovo,Prizren,2,5,4,3,4
+VALC0517,Bosnia and Herzegovina,Mostar,3,4,3,3,3
+VALC0518,Montenegro,Nikšić,3,3,3,4,5
+VALC0519,Albania,Shkodër,3,4,4,3,3
+VALC0520,Croatia,Zagreb,5,4,4,4,2
+VALC0521,Bosnia and Herzegovina,Sarajevo,2,4,4,3,3
+VALC0522,Croatia,Zagreb,2,5,5,4,3
+VALC0523,Croatia,Zagreb,3,4,4,3,3
+VALC0524,Croatia,Zagreb,2,3,3,3,2
+VALC0525,Montenegro,Nikšić,4,3,3,3,2
+VALC0526,Slovenia,Maribor,3,3,4,2,5
+VALC0527,Slovenia,Koper,3,4,3,4,3
+VALC0528,Serbia,Novi Sad,3,3,3,3,4
+VALC0529,Montenegro,Podgorica,4,3,3,3,4
+VALC0530,Serbia,Belgrade,4,3,3,2,3
+VALC0531,Kosovo,Peja,4,3,4,2,2
+VALC0532,Kosovo,Pristina,3,2,4,4,3
+VALC0533,Kosovo,Peja,4,4,5,3,2
+VALC0534,Croatia,Split,2,3,5,3,3
+VALC0535,Serbia,Novi Sad,4,3,4,2,2
+VALC0536,Bosnia and Herzegovina,Sarajevo,3,4,3,4,4
+VALC0537,Kosovo,Peja,3,2,4,5,4
+VALC0538,Serbia,Novi Sad,4,5,5,5,3
+VALC0539,Slovenia,Ljubljana,3,4,4,3,3
+VALC0540,Albania,Shkodër,3,4,5,2,4
+VALC0541,Croatia,Split,3,4,2,2,3
+VALC0542,Kosovo,Prizren,3,4,2,2,4
+VALC0543,Serbia,Niš,2,2,4,3,3
+VALC0544,Croatia,Rijeka,3,4,2,4,3
+VALC0545,Serbia,Niš,4,4,2,2,4
+VALC0546,Serbia,Belgrade,3,3,3,2,3
+VALC0547,Albania,Shkodër,4,4,3,4,2
+VALC0548,Kosovo,Prizren,3,4,4,5,2
+VALC0549,Montenegro,Cetinje,4,3,3,4,4
+VALC0550,North Macedonia,Bitola,2,3,3,2,3
+VALC0551,Montenegro,Cetinje,4,5,4,2,3
+VALC0552,Bosnia and Herzegovina,Mostar,4,5,4,4,3
+VALC0553,Serbia,Belgrade,3,3,2,4,4
+VALC0554,North Macedonia,Ohrid,2,3,3,3,2
+VALC0555,Bosnia and Herzegovina,Banja Luka,4,4,4,2,4
+VALC0556,North Macedonia,Skopje,4,4,3,3,4
+VALC0557,Slovenia,Ljubljana,2,5,3,3,5
+VALC0558,Croatia,Split,3,4,5,4,2
+VALC0559,Serbia,Niš,4,3,3,3,2
+VALC0560,North Macedonia,Ohrid,2,3,4,2,3
+VALC0561,Albania,Shkodër,3,5,4,3,3
+VALC0562,Bosnia and Herzegovina,Sarajevo,3,3,4,3,4
+VALC0563,Slovenia,Maribor,3,4,3,3,3
+VALC0564,Slovenia,Ljubljana,3,4,3,3,3
+VALC0565,Bosnia and Herzegovina,Sarajevo,2,4,3,4,4
+VALC0566,Montenegro,Cetinje,3,3,5,4,3
+VALC0567,Slovenia,Maribor,4,4,3,5,3
+VALC0568,Montenegro,Nikšić,3,3,3,3,3
+VALC0569,Serbia,Belgrade,2,5,3,4,3
+VALC0570,Serbia,Niš,2,3,5,3,2
+VALC0571,North Macedonia,Skopje,3,3,2,3,3
+VALC0572,Croatia,Split,3,4,3,2,2
+VALC0573,Kosovo,Pristina,3,4,4,4,3
+VALC0574,Montenegro,Podgorica,3,5,4,4,3
+VALC0575,Kosovo,Peja,4,4,5,3,3
+VALC0576,Serbia,Niš,3,4,3,2,3
+VALC0577,North Macedonia,Skopje,4,4,3,3,5
+VALC0578,Kosovo,Peja,4,4,3,2,3
+VALC0579,Kosovo,Pristina,4,3,4,3,2
+VALC0580,Serbia,Niš,4,4,4,3,4
+VALC0581,Serbia,Niš,3,2,3,4,2
+VALC0582,Croatia,Rijeka,3,5,5,4,5
+VALC0583,Serbia,Belgrade,3,4,3,4,4
+VALC0584,Croatia,Rijeka,2,5,3,3,4
+VALC0585,Croatia,Rijeka,5,3,3,3,2
+VALC0586,Croatia,Split,4,5,3,2,4
+VALC0587,Croatia,Split,3,3,4,4,4
+VALC0588,Albania,Tirana,2,3,2,3,4
+VALC0589,Albania,Shkodër,4,3,4,5,4
+VALC0590,Serbia,Belgrade,5,5,5,4,5
+VALC0591,Kosovo,Peja,3,4,4,3,3
+VALC0592,Bosnia and Herzegovina,Banja Luka,3,3,4,3,4
+VALC0593,Slovenia,Koper,3,2,3,3,4
+VALC0594,Slovenia,Maribor,2,4,2,5,3
+VALC0595,Serbia,Novi Sad,2,4,5,3,4
+VALC0596,Croatia,Split,3,4,4,2,2
+VALC0597,Bosnia and Herzegovina,Mostar,3,2,4,5,3
+VALC0598,Serbia,Belgrade,5,3,4,4,5
+VALC0599,Bosnia and Herzegovina,Sarajevo,4,3,4,3,2
+VALC0600,North Macedonia,Bitola,4,2,5,5,3
+VALC0601,Montenegro,Cetinje,4,4,3,2,5
+VALC0602,Croatia,Rijeka,4,4,5,5,3
+VALC0603,Bosnia and Herzegovina,Mostar,4,5,4,2,4
+VALC0604,Serbia,Belgrade,4,3,3,3,3
+VALC0605,Kosovo,Pristina,4,3,3,2,3
+VALC0606,Serbia,Belgrade,4,2,3,3,3
+VALC0607,Croatia,Rijeka,4,4,4,2,1
+VALC0608,Serbia,Niš,3,4,4,4,4
+VALC0609,Albania,Shkodër,2,3,4,2,4
+VALC0610,North Macedonia,Bitola,3,4,3,3,3
+VALC0611,Slovenia,Koper,4,4,3,3,5
+VALC0612,Croatia,Rijeka,3,3,4,2,3
+VALC0613,Kosovo,Peja,4,2,3,3,5
+VALC0614,Bosnia and Herzegovina,Banja Luka,3,4,5,4,4
+VALC0615,Montenegro,Cetinje,4,4,4,3,3
+VALC0616,Montenegro,Cetinje,2,2,5,3,3
+VALC0617,Serbia,Novi Sad,3,2,4,3,2
+VALC0618,Croatia,Split,3,5,3,4,4
+VALC0619,Slovenia,Maribor,3,3,2,2,4
+VALC0620,Slovenia,Koper,2,4,5,4,4
+VALC0621,Croatia,Split,3,3,5,4,3
+VALC0622,Slovenia,Koper,2,4,4,5,3
+VALC0623,Montenegro,Cetinje,4,3,3,4,3
+VALC0624,Bosnia and Herzegovina,Mostar,3,4,4,3,3
+VALC0625,Bosnia and Herzegovina,Mostar,3,3,5,2,1
+VALC0626,Albania,Shkodër,3,3,2,4,2
+VALC0627,Slovenia,Ljubljana,5,3,4,2,2
+VALC0628,North Macedonia,Ohrid,4,2,4,3,3
+VALC0629,Croatia,Split,3,3,3,3,3
+VALC0630,Montenegro,Podgorica,4,3,3,3,2
+VALC0631,Kosovo,Pristina,4,4,3,3,5
+VALC0632,Montenegro,Cetinje,3,3,4,3,3
+VALC0633,North Macedonia,Skopje,3,4,3,5,4
+VALC0634,Kosovo,Pristina,2,4,4,4,2
+VALC0635,Serbia,Novi Sad,3,4,5,5,2
+VALC0636,Croatia,Zagreb,4,4,4,4,4
+VALC0637,Slovenia,Ljubljana,3,4,4,3,3
+VALC0638,Serbia,Novi Sad,4,3,3,1,4
+VALC0639,Kosovo,Peja,2,2,4,4,3
+VALC0640,Serbia,Belgrade,3,4,4,3,4

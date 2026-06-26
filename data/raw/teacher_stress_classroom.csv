@@ -1,0 +1,331 @@
+id,country,city,years_experience,class_size,administrative_load,teacher_self_efficacy,teacher_stress
+TCH0001,Kosovo,Prizren,19,20,3,3,3
+TCH0002,North Macedonia,Bitola,13,23,4,3,3
+TCH0003,Albania,Shkodër,21,19,4,4,4
+TCH0004,Kosovo,Pristina,20,24,5,2,5
+TCH0005,Albania,Tirana,20,24,3,3,5
+TCH0006,Montenegro,Nikšić,15,11,4,3,3
+TCH0007,Albania,Tirana,9,20,4,4,3
+TCH0008,Kosovo,Peja,15,20,4,2,4
+TCH0009,Bosnia and Herzegovina,Sarajevo,7,26,3,3,3
+TCH0010,Serbia,Niš,10,20,4,3,4
+TCH0011,Slovenia,Ljubljana,9,14,4,3,4
+TCH0012,Croatia,Zagreb,9,33,2,3,5
+TCH0013,Kosovo,Pristina,12,21,3,3,3
+TCH0014,Bosnia and Herzegovina,Banja Luka,10,28,4,4,4
+TCH0015,Montenegro,Nikšić,0,28,5,4,4
+TCH0016,Montenegro,Nikšić,6,18,2,2,3
+TCH0017,Serbia,Niš,19,22,2,3,2
+TCH0018,Albania,Shkodër,6,26,5,4,4
+TCH0019,Kosovo,Peja,17,33,2,5,5
+TCH0020,Slovenia,Maribor,29,28,4,2,4
+TCH0021,North Macedonia,Bitola,21,21,2,4,3
+TCH0022,North Macedonia,Skopje,36,27,4,3,5
+TCH0023,Serbia,Niš,23,23,4,5,3
+TCH0024,Slovenia,Maribor,5,31,2,4,4
+TCH0025,North Macedonia,Ohrid,19,17,4,4,3
+TCH0026,Slovenia,Ljubljana,17,18,3,3,3
+TCH0027,Bosnia and Herzegovina,Banja Luka,6,30,3,3,4
+TCH0028,North Macedonia,Skopje,19,15,3,4,2
+TCH0029,Kosovo,Prizren,12,17,5,3,3
+TCH0030,Albania,Durrës,14,28,5,2,4
+TCH0031,Kosovo,Peja,11,26,3,3,3
+TCH0032,Slovenia,Maribor,23,24,4,3,4
+TCH0033,Bosnia and Herzegovina,Mostar,16,26,3,2,3
+TCH0034,Slovenia,Koper,19,20,4,3,4
+TCH0035,Albania,Shkodër,12,32,2,3,3
+TCH0036,Serbia,Novi Sad,9,23,3,4,3
+TCH0037,Croatia,Split,8,21,4,5,3
+TCH0038,North Macedonia,Ohrid,7,34,3,4,5
+TCH0039,Serbia,Novi Sad,13,32,3,3,4
+TCH0040,Montenegro,Cetinje,17,8,3,3,3
+TCH0041,North Macedonia,Skopje,13,28,2,4,2
+TCH0042,North Macedonia,Ohrid,9,24,5,4,3
+TCH0043,Kosovo,Pristina,8,22,4,2,3
+TCH0044,Albania,Tirana,14,21,3,3,3
+TCH0045,Serbia,Novi Sad,7,20,4,5,3
+TCH0046,Croatia,Split,9,36,5,4,4
+TCH0047,Croatia,Zagreb,7,22,4,4,3
+TCH0048,Slovenia,Maribor,20,28,3,3,3
+TCH0049,Montenegro,Podgorica,17,11,4,4,2
+TCH0050,Croatia,Rijeka,11,28,3,4,4
+TCH0051,Kosovo,Peja,15,22,4,3,3
+TCH0052,Slovenia,Maribor,15,29,2,5,3
+TCH0053,Kosovo,Pristina,0,28,2,4,3
+TCH0054,Montenegro,Podgorica,3,23,3,5,3
+TCH0055,Kosovo,Peja,12,33,2,2,5
+TCH0056,Serbia,Belgrade,10,13,3,3,4
+TCH0057,Montenegro,Podgorica,20,26,4,2,5
+TCH0058,Slovenia,Koper,10,25,3,3,4
+TCH0059,North Macedonia,Ohrid,5,14,4,3,2
+TCH0060,Croatia,Rijeka,13,21,5,4,4
+TCH0061,Slovenia,Maribor,4,27,3,3,3
+TCH0062,Kosovo,Prizren,17,35,4,4,4
+TCH0063,Bosnia and Herzegovina,Mostar,13,35,4,3,5
+TCH0064,Slovenia,Ljubljana,17,30,3,4,4
+TCH0065,Serbia,Novi Sad,13,39,3,4,3
+TCH0066,North Macedonia,Skopje,16,27,3,2,4
+TCH0067,Serbia,Belgrade,14,15,4,4,3
+TCH0068,Croatia,Split,1,26,3,4,3
+TCH0069,North Macedonia,Ohrid,29,29,4,4,3
+TCH0070,Croatia,Zagreb,0,31,1,3,3
+TCH0071,Bosnia and Herzegovina,Sarajevo,13,36,2,3,5
+TCH0072,Montenegro,Cetinje,6,28,4,3,4
+TCH0073,Montenegro,Nikšić,10,16,4,3,3
+TCH0074,North Macedonia,Skopje,21,25,4,4,4
+TCH0075,North Macedonia,Ohrid,9,37,2,4,2
+TCH0076,Kosovo,Pristina,16,16,4,3,3
+TCH0077,Slovenia,Ljubljana,14,18,3,3,3
+TCH0078,North Macedonia,Ohrid,9,19,2,3,3
+TCH0079,Croatia,Split,11,24,3,3,3
+TCH0080,Bosnia and Herzegovina,Banja Luka,16,25,4,5,3
+TCH0081,Bosnia and Herzegovina,Mostar,16,35,2,2,5
+TCH0082,Croatia,Split,20,34,4,5,4
+TCH0083,Montenegro,Podgorica,23,16,4,3,4
+TCH0084,Serbia,Niš,17,24,5,3,4
+TCH0085,Albania,Durrës,14,23,4,4,4
+TCH0086,Kosovo,Prizren,27,22,5,3,4
+TCH0087,Bosnia and Herzegovina,Banja Luka,14,27,4,4,4
+TCH0088,North Macedonia,Bitola,9,9,2,5,1
+TCH0089,North Macedonia,Ohrid,0,27,4,4,3
+TCH0090,Serbia,Novi Sad,7,31,4,3,5
+TCH0091,Slovenia,Koper,10,27,4,3,4
+TCH0092,Bosnia and Herzegovina,Sarajevo,4,21,5,3,3
+TCH0093,Kosovo,Peja,8,25,3,4,2
+TCH0094,Serbia,Belgrade,21,29,3,4,4
+TCH0095,Bosnia and Herzegovina,Mostar,3,19,3,3,2
+TCH0096,Montenegro,Nikšić,9,30,2,3,5
+TCH0097,Albania,Shkodër,14,25,4,3,5
+TCH0098,Serbia,Novi Sad,20,26,3,4,4
+TCH0099,Albania,Durrës,5,25,4,4,3
+TCH0100,Montenegro,Nikšić,5,28,4,3,4
+TCH0101,Slovenia,Maribor,0,22,3,4,2
+TCH0102,Serbia,Niš,16,24,4,4,2
+TCH0103,Slovenia,Koper,11,14,3,4,3
+TCH0104,Montenegro,Nikšić,19,24,3,2,4
+TCH0105,Montenegro,Cetinje,2,17,4,4,3
+TCH0106,Serbia,Niš,0,19,3,4,3
+TCH0107,Serbia,Belgrade,4,25,4,3,4
+TCH0108,Serbia,Belgrade,3,30,4,3,4
+TCH0109,Croatia,Zagreb,23,23,4,3,5
+TCH0110,Croatia,Split,12,21,3,3,3
+TCH0111,Bosnia and Herzegovina,Mostar,13,17,4,5,3
+TCH0112,Montenegro,Cetinje,9,18,1,3,2
+TCH0113,Bosnia and Herzegovina,Sarajevo,24,14,5,5,3
+TCH0114,Croatia,Split,0,13,2,4,1
+TCH0115,North Macedonia,Ohrid,21,22,3,2,2
+TCH0116,Slovenia,Maribor,13,24,4,3,3
+TCH0117,Bosnia and Herzegovina,Mostar,14,22,4,4,3
+TCH0118,Albania,Shkodër,7,16,4,2,3
+TCH0119,Montenegro,Cetinje,4,31,4,3,5
+TCH0120,Montenegro,Podgorica,14,20,5,4,3
+TCH0121,Montenegro,Nikšić,13,23,5,3,3
+TCH0122,Serbia,Novi Sad,11,30,3,5,4
+TCH0123,Albania,Tirana,4,23,4,5,3
+TCH0124,Slovenia,Ljubljana,6,22,2,5,2
+TCH0125,Serbia,Novi Sad,3,15,3,4,3
+TCH0126,Montenegro,Nikšić,13,20,4,4,3
+TCH0127,Slovenia,Koper,6,26,3,4,2
+TCH0128,Bosnia and Herzegovina,Mostar,23,32,4,4,4
+TCH0129,Croatia,Rijeka,20,32,3,3,3
+TCH0130,Slovenia,Maribor,29,28,3,3,5
+TCH0131,Albania,Tirana,6,33,3,4,5
+TCH0132,Kosovo,Prizren,16,26,3,4,4
+TCH0133,Slovenia,Ljubljana,16,23,2,3,3
+TCH0134,Serbia,Novi Sad,17,25,3,2,4
+TCH0135,Bosnia and Herzegovina,Mostar,11,21,3,4,3
+TCH0136,Serbia,Belgrade,4,26,2,3,3
+TCH0137,Kosovo,Pristina,12,29,1,3,3
+TCH0138,Slovenia,Ljubljana,7,19,2,4,2
+TCH0139,Croatia,Zagreb,16,26,3,3,4
+TCH0140,North Macedonia,Bitola,6,33,3,3,4
+TCH0141,Kosovo,Pristina,6,24,4,2,5
+TCH0142,Bosnia and Herzegovina,Sarajevo,19,21,3,4,3
+TCH0143,Slovenia,Maribor,6,18,4,4,2
+TCH0144,Bosnia and Herzegovina,Sarajevo,9,19,3,4,3
+TCH0145,Slovenia,Maribor,6,27,4,4,4
+TCH0146,Croatia,Split,15,31,4,3,5
+TCH0147,Serbia,Novi Sad,8,27,3,3,4
+TCH0148,Albania,Tirana,0,24,4,4,2
+TCH0149,Slovenia,Koper,13,24,3,2,4
+TCH0150,Montenegro,Nikšić,14,23,2,4,4
+TCH0151,Slovenia,Ljubljana,3,26,3,3,3
+TCH0152,Albania,Shkodër,0,27,4,2,4
+TCH0153,Serbia,Niš,19,31,4,2,4
+TCH0154,Bosnia and Herzegovina,Sarajevo,10,27,3,3,2
+TCH0155,Montenegro,Podgorica,17,28,3,2,3
+TCH0156,North Macedonia,Skopje,16,31,3,3,4
+TCH0157,Kosovo,Pristina,23,16,4,4,4
+TCH0158,Serbia,Belgrade,10,23,5,4,3
+TCH0159,Serbia,Niš,11,28,3,4,3
+TCH0160,Serbia,Belgrade,15,26,3,3,3
+TCH0161,Albania,Shkodër,13,17,4,3,3
+TCH0162,Croatia,Rijeka,6,20,4,4,2
+TCH0163,Bosnia and Herzegovina,Mostar,20,19,4,3,4
+TCH0164,Slovenia,Koper,22,19,3,5,2
+TCH0165,Croatia,Rijeka,15,22,4,4,3
+TCH0166,Kosovo,Prizren,26,25,3,3,3
+TCH0167,Croatia,Split,5,18,4,5,2
+TCH0168,Serbia,Niš,10,29,3,4,3
+TCH0169,Slovenia,Koper,11,13,4,3,3
+TCH0170,Croatia,Split,17,24,4,3,4
+TCH0171,Bosnia and Herzegovina,Sarajevo,19,26,3,3,4
+TCH0172,Albania,Tirana,18,33,2,4,3
+TCH0173,Kosovo,Peja,13,22,2,2,2
+TCH0174,Kosovo,Peja,15,16,3,5,3
+TCH0175,Croatia,Rijeka,10,17,5,3,4
+TCH0176,Bosnia and Herzegovina,Mostar,21,16,3,2,3
+TCH0177,Croatia,Zagreb,8,26,3,2,4
+TCH0178,Bosnia and Herzegovina,Banja Luka,6,20,3,3,3
+TCH0179,Kosovo,Pristina,3,33,2,3,4
+TCH0180,Kosovo,Pristina,4,12,4,3,4
+TCH0181,Slovenia,Maribor,18,20,4,3,4
+TCH0182,Kosovo,Peja,13,28,4,3,5
+TCH0183,Serbia,Belgrade,7,18,3,3,3
+TCH0184,Slovenia,Koper,7,20,2,4,2
+TCH0185,Montenegro,Cetinje,30,27,5,3,4
+TCH0186,Bosnia and Herzegovina,Sarajevo,21,19,4,3,2
+TCH0187,Kosovo,Prizren,12,28,2,5,3
+TCH0188,Albania,Shkodër,17,21,3,3,3
+TCH0189,Bosnia and Herzegovina,Mostar,2,28,4,3,4
+TCH0190,Slovenia,Maribor,10,23,4,2,4
+TCH0191,Kosovo,Pristina,4,19,4,4,2
+TCH0192,Serbia,Belgrade,5,24,3,4,4
+TCH0193,Bosnia and Herzegovina,Mostar,2,13,3,4,3
+TCH0194,Montenegro,Podgorica,0,20,2,3,2
+TCH0195,Albania,Durrës,12,25,4,3,5
+TCH0196,Slovenia,Ljubljana,5,18,5,3,2
+TCH0197,Croatia,Split,5,25,3,3,4
+TCH0198,Serbia,Novi Sad,17,24,3,2,3
+TCH0199,Kosovo,Peja,0,27,4,3,4
+TCH0200,Croatia,Split,7,21,4,3,3
+TCH0201,Croatia,Split,16,23,3,3,3
+TCH0202,Albania,Tirana,11,28,3,4,3
+TCH0203,Serbia,Niš,29,28,3,3,5
+TCH0204,Croatia,Zagreb,17,36,3,3,4
+TCH0205,North Macedonia,Skopje,13,27,4,4,3
+TCH0206,Kosovo,Prizren,2,28,4,4,5
+TCH0207,Slovenia,Ljubljana,10,27,2,3,3
+TCH0208,Croatia,Rijeka,18,34,5,4,5
+TCH0209,Serbia,Niš,11,15,4,3,3
+TCH0210,Serbia,Niš,5,12,3,3,3
+TCH0211,Croatia,Zagreb,18,16,3,4,2
+TCH0212,Albania,Tirana,7,21,3,4,4
+TCH0213,Montenegro,Nikšić,7,23,1,3,2
+TCH0214,Slovenia,Maribor,17,27,4,2,3
+TCH0215,Slovenia,Koper,8,22,3,3,3
+TCH0216,Slovenia,Ljubljana,24,23,3,4,4
+TCH0217,Kosovo,Pristina,11,18,4,3,3
+TCH0218,Kosovo,Prizren,21,24,4,2,4
+TCH0219,Serbia,Niš,8,23,2,5,4
+TCH0220,North Macedonia,Ohrid,15,25,2,3,4
+TCH0221,Kosovo,Pristina,8,26,4,4,3
+TCH0222,Bosnia and Herzegovina,Banja Luka,14,17,3,4,2
+TCH0223,Slovenia,Koper,9,22,3,3,3
+TCH0224,Montenegro,Podgorica,16,34,2,4,2
+TCH0225,Albania,Durrës,27,31,4,2,5
+TCH0226,Serbia,Belgrade,0,23,2,2,3
+TCH0227,Croatia,Rijeka,0,31,5,3,4
+TCH0228,Serbia,Belgrade,4,29,4,4,4
+TCH0229,Slovenia,Ljubljana,5,26,2,4,3
+TCH0230,Croatia,Split,13,25,4,4,4
+TCH0231,North Macedonia,Ohrid,19,16,3,4,1
+TCH0232,Serbia,Niš,10,29,4,4,4
+TCH0233,Kosovo,Peja,7,26,4,3,3
+TCH0234,Croatia,Rijeka,0,31,2,2,4
+TCH0235,Montenegro,Cetinje,22,32,2,3,3
+TCH0236,Bosnia and Herzegovina,Sarajevo,15,30,4,3,5
+TCH0237,Bosnia and Herzegovina,Sarajevo,18,28,4,3,5
+TCH0238,Serbia,Belgrade,7,16,5,4,3
+TCH0239,North Macedonia,Ohrid,2,22,2,3,2
+TCH0240,Montenegro,Podgorica,11,28,4,3,3
+TCH0241,Kosovo,Pristina,8,28,4,3,4
+TCH0242,Bosnia and Herzegovina,Sarajevo,3,17,3,3,3
+TCH0243,North Macedonia,Ohrid,12,23,5,3,4
+TCH0244,Kosovo,Prizren,6,32,3,5,3
+TCH0245,Serbia,Niš,19,25,4,3,3
+TCH0246,Kosovo,Pristina,5,25,4,2,4
+TCH0247,Croatia,Split,15,24,2,3,3
+TCH0248,Bosnia and Herzegovina,Banja Luka,0,21,4,4,4
+TCH0249,Bosnia and Herzegovina,Sarajevo,8,29,4,5,4
+TCH0250,Serbia,Niš,3,32,2,2,3
+TCH0251,Serbia,Novi Sad,10,20,4,4,3
+TCH0252,Kosovo,Prizren,14,21,3,4,3
+TCH0253,Croatia,Zagreb,23,30,3,4,3
+TCH0254,Slovenia,Maribor,25,31,3,2,4
+TCH0255,Montenegro,Nikšić,0,16,3,2,3
+TCH0256,North Macedonia,Ohrid,13,22,5,3,4
+TCH0257,Serbia,Belgrade,20,18,3,5,2
+TCH0258,Montenegro,Cetinje,18,27,4,4,4
+TCH0259,Croatia,Split,16,29,3,5,3
+TCH0260,Serbia,Niš,8,23,3,2,4
+TCH0261,Croatia,Rijeka,7,14,3,3,2
+TCH0262,Croatia,Rijeka,16,24,4,3,3
+TCH0263,Slovenia,Koper,14,17,2,3,3
+TCH0264,Bosnia and Herzegovina,Banja Luka,18,17,3,5,3
+TCH0265,Montenegro,Nikšić,22,29,3,5,3
+TCH0266,Albania,Shkodër,16,27,4,3,4
+TCH0267,Kosovo,Pristina,8,14,2,5,2
+TCH0268,Serbia,Novi Sad,15,19,3,4,2
+TCH0269,Bosnia and Herzegovina,Banja Luka,12,28,3,3,4
+TCH0270,Montenegro,Nikšić,9,26,4,5,3
+TCH0271,Montenegro,Cetinje,9,22,4,5,4
+TCH0272,Serbia,Niš,15,18,3,2,2
+TCH0273,Slovenia,Maribor,24,25,4,4,5
+TCH0274,Montenegro,Cetinje,10,16,3,3,4
+TCH0275,Slovenia,Koper,17,29,3,3,4
+TCH0276,Croatia,Split,13,25,4,4,3
+TCH0277,Serbia,Niš,11,22,3,4,3
+TCH0278,Croatia,Zagreb,24,27,3,3,4
+TCH0279,Kosovo,Pristina,9,22,4,4,3
+TCH0280,Kosovo,Pristina,16,30,3,2,3
+TCH0281,North Macedonia,Bitola,18,20,2,3,2
+TCH0282,Montenegro,Nikšić,10,19,2,4,3
+TCH0283,Montenegro,Cetinje,14,26,3,4,4
+TCH0284,Bosnia and Herzegovina,Sarajevo,2,27,2,3,3
+TCH0285,Slovenia,Maribor,13,22,4,3,5
+TCH0286,Montenegro,Nikšić,13,19,3,2,3
+TCH0287,Montenegro,Nikšić,10,33,4,4,5
+TCH0288,Croatia,Zagreb,1,33,4,4,3
+TCH0289,North Macedonia,Bitola,8,20,3,4,4
+TCH0290,Serbia,Novi Sad,16,13,3,4,1
+TCH0291,Kosovo,Prizren,8,15,4,4,4
+TCH0292,Serbia,Novi Sad,0,23,3,2,4
+TCH0293,Croatia,Split,20,19,3,3,3
+TCH0294,Serbia,Novi Sad,8,25,4,3,3
+TCH0295,Croatia,Split,7,28,4,4,5
+TCH0296,North Macedonia,Skopje,16,17,3,3,4
+TCH0297,Kosovo,Pristina,20,14,4,3,3
+TCH0298,Bosnia and Herzegovina,Sarajevo,3,26,4,4,5
+TCH0299,Croatia,Split,5,24,3,4,4
+TCH0300,Bosnia and Herzegovina,Mostar,22,26,3,4,2
+TCH0301,Albania,Durrës,12,29,5,4,5
+TCH0302,Kosovo,Peja,15,29,4,4,4
+TCH0303,Serbia,Novi Sad,18,37,5,4,4
+TCH0304,Montenegro,Nikšić,14,30,5,2,5
+TCH0305,Slovenia,Koper,10,14,2,4,2
+TCH0306,Montenegro,Podgorica,6,24,3,5,3
+TCH0307,North Macedonia,Skopje,11,35,4,3,5
+TCH0308,Croatia,Zagreb,4,28,3,4,4
+TCH0309,Croatia,Split,23,21,3,4,4
+TCH0310,Serbia,Novi Sad,14,24,2,2,3
+TCH0311,Slovenia,Koper,17,28,3,3,4
+TCH0312,Serbia,Belgrade,0,23,4,4,5
+TCH0313,Albania,Durrës,29,18,2,3,2
+TCH0314,North Macedonia,Ohrid,15,34,4,4,3
+TCH0315,Albania,Durrës,28,24,3,4,4
+TCH0316,Serbia,Belgrade,13,30,5,4,5
+TCH0317,Montenegro,Nikšić,10,20,4,5,2
+TCH0318,Slovenia,Koper,0,22,4,3,4
+TCH0319,Albania,Durrës,15,29,3,4,3
+TCH0320,Serbia,Belgrade,0,21,4,2,3
+TCH0321,Kosovo,Prizren,5,15,2,2,2
+TCH0322,Albania,Durrës,1,21,3,3,4
+TCH0323,Slovenia,Koper,4,28,1,4,2
+TCH0324,Slovenia,Koper,25,20,4,4,2
+TCH0325,Serbia,Novi Sad,21,29,3,3,5
+TCH0326,Montenegro,Cetinje,6,22,4,2,4
+TCH0327,Serbia,Niš,20,24,4,5,3
+TCH0328,Croatia,Zagreb,8,27,4,4,3
+TCH0329,Albania,Durrës,25,16,4,3,3
+TCH0330,Kosovo,Peja,14,24,4,3,3

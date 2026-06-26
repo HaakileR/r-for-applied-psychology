@@ -1,0 +1,9 @@
+0,1,2
+id,string,Synthetic participant identifier
+country,categorical,Country
+city,categorical,City
+mobility_experience,categorical,Study/work mobility category
+language_confidence,ordinal,"Language confidence, 1-5"
+social_support,ordinal,"Social support, 1-5"
+sense_of_belonging,ordinal,"Sense of belonging, 1-5"
+adaptation_stress,ordinal,"Stress related to adaptation, 1-5"

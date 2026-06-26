@@ -1,0 +1,281 @@
+id,country,city,group,study_skills_pre,study_skills_post,workshop_attendance
+INT0001,Croatia,Rijeka,control,18,17,0
+INT0002,Bosnia and Herzegovina,Sarajevo,control,19,16,0
+INT0003,Bosnia and Herzegovina,Banja Luka,workshop,13,20,5
+INT0004,Kosovo,Peja,workshop,24,30,4
+INT0005,Bosnia and Herzegovina,Banja Luka,workshop,18,20,5
+INT0006,Serbia,Novi Sad,control,25,28,0
+INT0007,Montenegro,Podgorica,control,29,30,0
+INT0008,Croatia,Split,workshop,21,24,4
+INT0009,Montenegro,Cetinje,workshop,17,25,3
+INT0010,Bosnia and Herzegovina,Mostar,control,25,26,0
+INT0011,Bosnia and Herzegovina,Mostar,control,23,27,0
+INT0012,Albania,Shkodër,control,25,26,0
+INT0013,Slovenia,Ljubljana,control,30,31,0
+INT0014,Croatia,Zagreb,control,25,24,0
+INT0015,Croatia,Rijeka,workshop,24,33,4
+INT0016,Albania,Durrës,workshop,22,31,5
+INT0017,Croatia,Split,workshop,24,27,4
+INT0018,Slovenia,Maribor,workshop,30,33,3
+INT0019,Albania,Durrës,workshop,17,26,5
+INT0020,Slovenia,Koper,control,30,30,0
+INT0021,Kosovo,Prizren,workshop,19,22,3
+INT0022,Serbia,Novi Sad,workshop,23,30,4
+INT0023,Slovenia,Ljubljana,workshop,12,15,4
+INT0024,Slovenia,Maribor,workshop,25,29,5
+INT0025,Bosnia and Herzegovina,Sarajevo,workshop,15,20,4
+INT0026,Slovenia,Koper,control,28,27,0
+INT0027,North Macedonia,Bitola,control,28,32,0
+INT0028,North Macedonia,Bitola,workshop,28,30,4
+INT0029,Kosovo,Pristina,control,20,25,0
+INT0030,Kosovo,Peja,workshop,21,27,2
+INT0031,Croatia,Rijeka,control,26,24,0
+INT0032,Bosnia and Herzegovina,Mostar,control,14,15,0
+INT0033,North Macedonia,Bitola,control,24,28,0
+INT0034,Albania,Tirana,control,19,17,0
+INT0035,North Macedonia,Skopje,workshop,21,24,3
+INT0036,Bosnia and Herzegovina,Banja Luka,workshop,23,24,4
+INT0037,Montenegro,Cetinje,workshop,19,22,5
+INT0038,North Macedonia,Skopje,workshop,22,23,3
+INT0039,North Macedonia,Ohrid,control,25,30,0
+INT0040,Slovenia,Koper,workshop,23,30,3
+INT0041,Bosnia and Herzegovina,Mostar,control,21,23,0
+INT0042,Croatia,Zagreb,workshop,24,28,5
+INT0043,North Macedonia,Ohrid,workshop,17,27,4
+INT0044,Slovenia,Maribor,control,18,17,0
+INT0045,Serbia,Belgrade,control,19,17,0
+INT0046,Montenegro,Cetinje,workshop,20,30,5
+INT0047,Slovenia,Maribor,workshop,19,23,3
+INT0048,Montenegro,Podgorica,workshop,26,37,3
+INT0049,Montenegro,Cetinje,control,22,24,0
+INT0050,Croatia,Split,workshop,21,22,2
+INT0051,Croatia,Zagreb,workshop,22,34,3
+INT0052,Croatia,Zagreb,workshop,21,21,4
+INT0053,Kosovo,Pristina,control,20,19,0
+INT0054,North Macedonia,Bitola,control,23,24,0
+INT0055,Albania,Durrës,control,28,32,0
+INT0056,North Macedonia,Ohrid,control,15,13,0
+INT0057,Bosnia and Herzegovina,Mostar,workshop,21,22,4
+INT0058,Slovenia,Ljubljana,workshop,24,27,2
+INT0059,Albania,Shkodër,workshop,19,21,4
+INT0060,Serbia,Niš,control,22,27,0
+INT0061,Bosnia and Herzegovina,Mostar,control,23,27,0
+INT0062,Bosnia and Herzegovina,Mostar,control,17,20,0
+INT0063,Slovenia,Maribor,workshop,22,31,3
+INT0064,Bosnia and Herzegovina,Banja Luka,control,23,26,0
+INT0065,Montenegro,Cetinje,control,11,9,0
+INT0066,Montenegro,Podgorica,control,21,25,0
+INT0067,Serbia,Novi Sad,workshop,23,24,4
+INT0068,Croatia,Rijeka,workshop,19,25,5
+INT0069,Serbia,Belgrade,workshop,24,30,2
+INT0070,Croatia,Split,workshop,31,40,4
+INT0071,Croatia,Rijeka,workshop,17,19,3
+INT0072,Slovenia,Koper,workshop,18,25,3
+INT0073,Montenegro,Nikšić,workshop,22,31,5
+INT0074,Croatia,Split,workshop,23,27,4
+INT0075,Bosnia and Herzegovina,Banja Luka,workshop,19,22,4
+INT0076,Serbia,Novi Sad,workshop,28,29,4
+INT0077,Croatia,Zagreb,control,30,32,0
+INT0078,North Macedonia,Ohrid,control,28,33,0
+INT0079,Albania,Durrës,workshop,22,29,5
+INT0080,Bosnia and Herzegovina,Sarajevo,workshop,27,26,3
+INT0081,Bosnia and Herzegovina,Mostar,workshop,28,32,4
+INT0082,Serbia,Belgrade,workshop,18,23,3
+INT0083,Albania,Durrës,workshop,33,37,5
+INT0084,Serbia,Niš,control,27,27,0
+INT0085,Albania,Durrës,control,23,25,0
+INT0086,Serbia,Niš,workshop,23,22,1
+INT0087,Kosovo,Peja,workshop,27,32,5
+INT0088,Kosovo,Pristina,control,18,19,0
+INT0089,Croatia,Split,control,29,28,0
+INT0090,Kosovo,Peja,control,22,26,0
+INT0091,Serbia,Novi Sad,control,28,31,0
+INT0092,Slovenia,Maribor,control,18,23,0
+INT0093,Serbia,Novi Sad,workshop,18,18,2
+INT0094,Slovenia,Maribor,control,17,19,0
+INT0095,Serbia,Novi Sad,control,32,32,0
+INT0096,Kosovo,Prizren,workshop,20,26,5
+INT0097,Montenegro,Podgorica,workshop,27,25,5
+INT0098,Slovenia,Maribor,control,21,22,0
+INT0099,Slovenia,Koper,workshop,22,27,4
+INT0100,Montenegro,Podgorica,workshop,16,16,4
+INT0101,Slovenia,Koper,control,18,24,0
+INT0102,Serbia,Belgrade,control,25,23,0
+INT0103,Croatia,Split,control,27,26,0
+INT0104,Serbia,Belgrade,control,17,17,0
+INT0105,Slovenia,Koper,workshop,23,31,2
+INT0106,Bosnia and Herzegovina,Sarajevo,control,24,23,0
+INT0107,Slovenia,Koper,workshop,26,23,2
+INT0108,Serbia,Niš,workshop,21,22,4
+INT0109,North Macedonia,Bitola,workshop,21,24,5
+INT0110,Albania,Tirana,control,22,20,0
+INT0111,Slovenia,Koper,workshop,21,27,5
+INT0112,Serbia,Niš,workshop,31,37,4
+INT0113,Albania,Shkodër,workshop,22,22,4
+INT0114,Kosovo,Prizren,workshop,22,27,4
+INT0115,Serbia,Belgrade,control,13,14,0
+INT0116,Croatia,Zagreb,control,24,24,0
+INT0117,Slovenia,Ljubljana,control,23,32,0
+INT0118,Croatia,Rijeka,control,21,26,0
+INT0119,Bosnia and Herzegovina,Mostar,control,26,27,0
+INT0120,Albania,Shkodër,control,21,26,0
+INT0121,Bosnia and Herzegovina,Sarajevo,workshop,15,19,5
+INT0122,Kosovo,Pristina,control,18,17,0
+INT0123,North Macedonia,Ohrid,workshop,29,27,4
+INT0124,Kosovo,Prizren,workshop,25,29,5
+INT0125,Slovenia,Maribor,workshop,24,31,3
+INT0126,Serbia,Novi Sad,workshop,17,23,4
+INT0127,Serbia,Niš,control,19,20,0
+INT0128,North Macedonia,Ohrid,workshop,16,24,4
+INT0129,Montenegro,Nikšić,control,32,35,0
+INT0130,Slovenia,Koper,control,26,30,0
+INT0131,Croatia,Split,control,28,29,0
+INT0132,North Macedonia,Ohrid,control,21,25,0
+INT0133,Kosovo,Pristina,control,17,15,0
+INT0134,Slovenia,Ljubljana,control,31,34,0
+INT0135,Albania,Tirana,control,23,24,0
+INT0136,Croatia,Split,control,27,23,0
+INT0137,Slovenia,Koper,workshop,28,31,5
+INT0138,Montenegro,Cetinje,control,24,30,0
+INT0139,Albania,Shkodër,workshop,27,31,5
+INT0140,Slovenia,Ljubljana,control,16,18,0
+INT0141,Croatia,Zagreb,workshop,24,28,5
+INT0142,Albania,Durrës,workshop,11,15,4
+INT0143,Slovenia,Maribor,control,28,31,0
+INT0144,North Macedonia,Bitola,workshop,24,32,4
+INT0145,Serbia,Novi Sad,control,27,31,0
+INT0146,Bosnia and Herzegovina,Banja Luka,control,13,18,0
+INT0147,Albania,Tirana,workshop,22,29,3
+INT0148,Serbia,Belgrade,control,19,22,0
+INT0149,Albania,Durrës,control,21,29,0
+INT0150,Kosovo,Peja,control,28,26,0
+INT0151,Bosnia and Herzegovina,Sarajevo,workshop,24,27,3
+INT0152,Kosovo,Pristina,workshop,27,34,4
+INT0153,Croatia,Rijeka,workshop,15,21,4
+INT0154,Kosovo,Pristina,workshop,13,17,2
+INT0155,Slovenia,Koper,workshop,16,22,4
+INT0156,Serbia,Belgrade,control,16,20,0
+INT0157,Montenegro,Cetinje,control,25,26,0
+INT0158,Kosovo,Pristina,workshop,19,32,4
+INT0159,Slovenia,Koper,workshop,29,35,3
+INT0160,Croatia,Zagreb,control,29,28,0
+INT0161,Kosovo,Pristina,workshop,26,35,5
+INT0162,North Macedonia,Bitola,workshop,20,28,2
+INT0163,Serbia,Belgrade,workshop,23,27,2
+INT0164,North Macedonia,Skopje,control,17,23,0
+INT0165,Bosnia and Herzegovina,Sarajevo,workshop,23,30,3
+INT0166,Serbia,Niš,workshop,26,31,3
+INT0167,Serbia,Novi Sad,workshop,17,19,4
+INT0168,Bosnia and Herzegovina,Mostar,control,13,14,0
+INT0169,Bosnia and Herzegovina,Mostar,control,21,21,0
+INT0170,Kosovo,Pristina,control,20,23,0
+INT0171,Slovenia,Koper,workshop,24,30,3
+INT0172,Serbia,Niš,workshop,28,31,3
+INT0173,Bosnia and Herzegovina,Mostar,workshop,16,18,4
+INT0174,Slovenia,Ljubljana,workshop,30,34,4
+INT0175,Slovenia,Maribor,control,20,23,0
+INT0176,Croatia,Split,workshop,29,34,5
+INT0177,Kosovo,Prizren,workshop,20,26,4
+INT0178,Slovenia,Koper,workshop,18,23,5
+INT0179,Slovenia,Maribor,workshop,25,24,5
+INT0180,Slovenia,Maribor,workshop,21,30,5
+INT0181,Bosnia and Herzegovina,Sarajevo,workshop,20,26,3
+INT0182,Serbia,Belgrade,workshop,12,14,4
+INT0183,Croatia,Split,workshop,21,29,2
+INT0184,Bosnia and Herzegovina,Banja Luka,workshop,20,21,5
+INT0185,Kosovo,Prizren,workshop,27,27,2
+INT0186,Bosnia and Herzegovina,Banja Luka,workshop,29,37,4
+INT0187,Albania,Durrës,workshop,18,25,5
+INT0188,Albania,Shkodër,control,27,31,0
+INT0189,Montenegro,Cetinje,control,27,32,0
+INT0190,Montenegro,Cetinje,control,21,23,0
+INT0191,Montenegro,Nikšić,workshop,30,40,4
+INT0192,Montenegro,Cetinje,control,23,27,0
+INT0193,Croatia,Rijeka,control,21,27,0
+INT0194,North Macedonia,Skopje,workshop,12,18,5
+INT0195,Bosnia and Herzegovina,Sarajevo,workshop,12,17,4
+INT0196,Croatia,Rijeka,workshop,18,18,3
+INT0197,Slovenia,Maribor,workshop,23,30,5
+INT0198,Albania,Shkodër,workshop,14,21,4
+INT0199,Croatia,Split,control,32,36,0
+INT0200,Montenegro,Podgorica,workshop,24,24,4
+INT0201,North Macedonia,Skopje,control,27,26,0
+INT0202,Croatia,Zagreb,workshop,27,34,3
+INT0203,North Macedonia,Skopje,control,24,27,0
+INT0204,Montenegro,Nikšić,workshop,23,31,4
+INT0205,Croatia,Split,control,14,18,0
+INT0206,Albania,Tirana,control,26,26,0
+INT0207,Slovenia,Maribor,control,28,32,0
+INT0208,Montenegro,Nikšić,control,9,12,0
+INT0209,Serbia,Belgrade,control,26,31,0
+INT0210,Albania,Shkodër,workshop,19,28,4
+INT0211,Albania,Durrës,control,20,18,0
+INT0212,North Macedonia,Skopje,control,27,24,0
+INT0213,Serbia,Novi Sad,workshop,31,38,4
+INT0214,North Macedonia,Bitola,control,24,20,0
+INT0215,North Macedonia,Bitola,control,17,20,0
+INT0216,Kosovo,Prizren,control,24,29,0
+INT0217,Serbia,Belgrade,control,25,28,0
+INT0218,Montenegro,Nikšić,workshop,16,21,5
+INT0219,Montenegro,Podgorica,control,19,23,0
+INT0220,Montenegro,Nikšić,workshop,17,22,4
+INT0221,Slovenia,Ljubljana,workshop,20,24,3
+INT0222,Kosovo,Pristina,workshop,26,30,4
+INT0223,Slovenia,Ljubljana,control,23,25,0
+INT0224,Montenegro,Podgorica,workshop,23,31,3
+INT0225,Slovenia,Koper,workshop,23,30,2
+INT0226,Croatia,Zagreb,workshop,17,15,5
+INT0227,North Macedonia,Bitola,control,21,19,0
+INT0228,Serbia,Novi Sad,workshop,19,23,4
+INT0229,Slovenia,Maribor,control,22,29,0
+INT0230,Albania,Shkodër,control,13,13,0
+INT0231,North Macedonia,Ohrid,workshop,29,33,4
+INT0232,Slovenia,Koper,workshop,30,36,4
+INT0233,North Macedonia,Bitola,workshop,16,22,5
+INT0234,Albania,Tirana,control,24,26,0
+INT0235,Kosovo,Prizren,control,21,22,0
+INT0236,Croatia,Rijeka,control,25,29,0
+INT0237,Slovenia,Ljubljana,workshop,17,19,2
+INT0238,Bosnia and Herzegovina,Sarajevo,control,29,38,0
+INT0239,Montenegro,Podgorica,workshop,20,23,5
+INT0240,North Macedonia,Ohrid,workshop,37,40,3
+INT0241,Kosovo,Pristina,workshop,27,32,5
+INT0242,Montenegro,Podgorica,control,17,14,0
+INT0243,Serbia,Novi Sad,control,24,31,0
+INT0244,Bosnia and Herzegovina,Mostar,workshop,23,27,4
+INT0245,Kosovo,Peja,control,17,16,0
+INT0246,Bosnia and Herzegovina,Banja Luka,workshop,20,27,4
+INT0247,Slovenia,Koper,workshop,15,24,3
+INT0248,Slovenia,Ljubljana,control,25,25,0
+INT0249,Serbia,Niš,workshop,26,34,5
+INT0250,North Macedonia,Ohrid,control,14,21,0
+INT0251,Serbia,Niš,workshop,16,22,4
+INT0252,Bosnia and Herzegovina,Banja Luka,control,27,28,0
+INT0253,Montenegro,Nikšić,control,22,28,0
+INT0254,Croatia,Split,workshop,28,32,5
+INT0255,Serbia,Niš,control,16,21,0
+INT0256,Serbia,Novi Sad,workshop,28,36,3
+INT0257,Slovenia,Koper,control,16,25,0
+INT0258,Croatia,Split,workshop,21,25,5
+INT0259,Serbia,Novi Sad,workshop,28,35,4
+INT0260,Albania,Durrës,control,24,19,0
+INT0261,Albania,Tirana,workshop,27,29,5
+INT0262,Montenegro,Nikšić,control,19,25,0
+INT0263,Montenegro,Cetinje,control,25,30,0
+INT0264,Serbia,Belgrade,workshop,26,31,5
+INT0265,Albania,Durrës,workshop,29,39,4
+INT0266,North Macedonia,Bitola,workshop,22,23,3
+INT0267,Slovenia,Ljubljana,control,19,21,0
+INT0268,Slovenia,Ljubljana,workshop,23,32,4
+INT0269,Kosovo,Pristina,control,19,22,0
+INT0270,Kosovo,Peja,workshop,33,39,3
+INT0271,North Macedonia,Skopje,workshop,12,16,5
+INT0272,Albania,Durrës,workshop,21,23,2
+INT0273,Bosnia and Herzegovina,Banja Luka,control,18,17,0
+INT0274,Croatia,Rijeka,workshop,19,22,4
+INT0275,Serbia,Belgrade,workshop,18,27,4
+INT0276,Bosnia and Herzegovina,Mostar,workshop,14,21,3
+INT0277,Bosnia and Herzegovina,Mostar,control,15,13,0
+INT0278,Slovenia,Maribor,control,23,25,0
+INT0279,Bosnia and Herzegovina,Mostar,control,29,35,0
+INT0280,Serbia,Novi Sad,control,14,14,0

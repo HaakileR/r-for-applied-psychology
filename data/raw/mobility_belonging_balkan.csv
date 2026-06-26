@@ -1,0 +1,361 @@
+id,country,city,mobility_experience,language_confidence,social_support,sense_of_belonging,adaptation_stress
+MIG0001,Bosnia and Herzegovina,Banja Luka,regional,3,3,2,2
+MIG0002,Montenegro,Cetinje,international,5,2,2,4
+MIG0003,Montenegro,Nikšić,none,3,2,3,1
+MIG0004,Slovenia,Koper,none,4,3,4,3
+MIG0005,North Macedonia,Bitola,none,4,3,4,1
+MIG0006,North Macedonia,Ohrid,none,3,3,3,3
+MIG0007,Montenegro,Nikšić,internal,4,3,4,2
+MIG0008,Albania,Shkodër,none,3,4,3,1
+MIG0009,Albania,Tirana,internal,4,3,3,2
+MIG0010,Kosovo,Pristina,international,4,3,3,3
+MIG0011,Serbia,Belgrade,none,3,3,2,3
+MIG0012,Serbia,Novi Sad,international,2,3,4,1
+MIG0013,Serbia,Niš,none,3,3,4,4
+MIG0014,Montenegro,Cetinje,none,4,4,4,1
+MIG0015,Slovenia,Ljubljana,none,4,4,4,1
+MIG0016,Albania,Tirana,none,2,3,3,2
+MIG0017,Montenegro,Nikšić,regional,4,4,4,2
+MIG0018,Albania,Shkodër,international,5,3,3,3
+MIG0019,Kosovo,Prizren,international,4,3,4,1
+MIG0020,Croatia,Rijeka,internal,3,3,3,3
+MIG0021,North Macedonia,Skopje,none,2,4,2,3
+MIG0022,North Macedonia,Ohrid,international,3,4,3,4
+MIG0023,Bosnia and Herzegovina,Mostar,regional,3,2,3,2
+MIG0024,Albania,Shkodër,none,5,3,4,1
+MIG0025,Serbia,Novi Sad,regional,4,3,3,3
+MIG0026,Albania,Durrës,regional,3,4,4,1
+MIG0027,Kosovo,Peja,internal,5,4,4,1
+MIG0028,North Macedonia,Skopje,none,3,3,3,3
+MIG0029,Kosovo,Prizren,international,3,2,2,4
+MIG0030,Slovenia,Koper,none,2,4,4,2
+MIG0031,Kosovo,Pristina,none,3,3,4,2
+MIG0032,Serbia,Novi Sad,internal,4,4,4,2
+MIG0033,Serbia,Novi Sad,internal,3,1,2,5
+MIG0034,Serbia,Novi Sad,none,2,4,4,1
+MIG0035,Slovenia,Maribor,internal,5,2,2,3
+MIG0036,Montenegro,Cetinje,internal,4,3,3,2
+MIG0037,Croatia,Zagreb,regional,4,4,4,2
+MIG0038,Slovenia,Ljubljana,internal,2,4,3,2
+MIG0039,Kosovo,Pristina,none,4,5,4,1
+MIG0040,Croatia,Zagreb,regional,3,5,5,1
+MIG0041,Kosovo,Peja,internal,4,4,4,1
+MIG0042,Croatia,Rijeka,international,3,3,3,4
+MIG0043,Montenegro,Nikšić,internal,3,3,2,2
+MIG0044,Serbia,Novi Sad,internal,2,5,4,1
+MIG0045,Serbia,Novi Sad,regional,4,3,4,2
+MIG0046,Croatia,Rijeka,none,4,3,3,3
+MIG0047,Kosovo,Prizren,internal,4,5,4,1
+MIG0048,Serbia,Belgrade,internal,4,2,2,3
+MIG0049,Kosovo,Pristina,none,3,3,3,2
+MIG0050,Bosnia and Herzegovina,Sarajevo,none,4,2,2,4
+MIG0051,Albania,Shkodër,regional,3,4,4,1
+MIG0052,Serbia,Niš,internal,5,3,4,1
+MIG0053,Serbia,Niš,regional,3,4,4,1
+MIG0054,Serbia,Novi Sad,regional,3,2,3,4
+MIG0055,Serbia,Novi Sad,none,4,4,4,3
+MIG0056,Bosnia and Herzegovina,Banja Luka,none,5,3,5,2
+MIG0057,Slovenia,Koper,regional,4,3,4,3
+MIG0058,Croatia,Split,regional,5,3,5,2
+MIG0059,Serbia,Novi Sad,international,4,4,4,3
+MIG0060,Serbia,Niš,regional,4,4,4,3
+MIG0061,North Macedonia,Ohrid,regional,2,3,3,1
+MIG0062,Kosovo,Peja,none,2,3,3,2
+MIG0063,Serbia,Niš,regional,5,3,3,2
+MIG0064,Montenegro,Podgorica,none,2,5,4,1
+MIG0065,Slovenia,Koper,none,5,3,4,1
+MIG0066,Croatia,Split,none,2,3,4,2
+MIG0067,Serbia,Novi Sad,none,4,3,2,3
+MIG0068,Slovenia,Maribor,regional,3,4,3,1
+MIG0069,Bosnia and Herzegovina,Sarajevo,internal,4,2,4,3
+MIG0070,Albania,Durrës,international,2,3,4,2
+MIG0071,Slovenia,Maribor,internal,2,5,4,2
+MIG0072,Croatia,Rijeka,regional,4,3,1,3
+MIG0073,Bosnia and Herzegovina,Sarajevo,regional,3,3,4,1
+MIG0074,Slovenia,Ljubljana,none,3,4,3,2
+MIG0075,Montenegro,Cetinje,internal,3,4,3,2
+MIG0076,Serbia,Belgrade,international,2,3,2,3
+MIG0077,Slovenia,Maribor,none,3,2,2,3
+MIG0078,Serbia,Novi Sad,internal,5,3,3,4
+MIG0079,Montenegro,Podgorica,regional,3,4,3,2
+MIG0080,Kosovo,Prizren,none,5,5,3,2
+MIG0081,Bosnia and Herzegovina,Sarajevo,international,3,4,3,2
+MIG0082,Albania,Shkodër,none,4,4,4,2
+MIG0083,Bosnia and Herzegovina,Banja Luka,none,3,4,4,2
+MIG0084,Montenegro,Podgorica,none,4,3,2,3
+MIG0085,Montenegro,Nikšić,none,5,4,4,2
+MIG0086,Serbia,Belgrade,regional,3,4,3,1
+MIG0087,Bosnia and Herzegovina,Sarajevo,internal,3,4,4,2
+MIG0088,North Macedonia,Bitola,internal,4,4,3,4
+MIG0089,Kosovo,Pristina,international,3,3,4,2
+MIG0090,Slovenia,Ljubljana,internal,4,5,4,3
+MIG0091,Croatia,Rijeka,international,2,4,5,1
+MIG0092,Slovenia,Ljubljana,regional,3,4,4,1
+MIG0093,Bosnia and Herzegovina,Mostar,internal,2,4,3,3
+MIG0094,Albania,Tirana,regional,3,3,3,3
+MIG0095,Albania,Tirana,none,3,4,3,2
+MIG0096,Bosnia and Herzegovina,Sarajevo,regional,3,2,3,3
+MIG0097,Croatia,Split,none,2,4,3,3
+MIG0098,Serbia,Novi Sad,none,3,2,2,3
+MIG0099,Bosnia and Herzegovina,Banja Luka,international,4,4,4,3
+MIG0100,Kosovo,Pristina,none,4,4,5,4
+MIG0101,Montenegro,Nikšić,regional,3,5,4,2
+MIG0102,Croatia,Rijeka,internal,5,3,4,2
+MIG0103,Croatia,Rijeka,international,4,4,4,1
+MIG0104,Kosovo,Peja,regional,4,4,3,1
+MIG0105,Slovenia,Maribor,none,4,4,4,2
+MIG0106,Serbia,Belgrade,international,3,4,3,2
+MIG0107,Albania,Tirana,regional,3,3,3,3
+MIG0108,Serbia,Niš,none,3,3,4,2
+MIG0109,Croatia,Split,internal,4,3,3,2
+MIG0110,Kosovo,Prizren,international,4,3,4,3
+MIG0111,Slovenia,Ljubljana,none,3,4,4,1
+MIG0112,Serbia,Novi Sad,none,3,4,4,2
+MIG0113,Croatia,Rijeka,regional,3,2,3,4
+MIG0114,Montenegro,Podgorica,none,4,2,3,1
+MIG0115,Montenegro,Cetinje,internal,3,3,4,2
+MIG0116,Croatia,Split,none,3,4,5,2
+MIG0117,Croatia,Split,regional,4,3,3,2
+MIG0118,Albania,Shkodër,none,5,3,4,2
+MIG0119,Croatia,Zagreb,internal,3,4,5,1
+MIG0120,Montenegro,Nikšić,regional,3,4,4,1
+MIG0121,Serbia,Belgrade,internal,3,2,2,3
+MIG0122,Kosovo,Peja,none,4,4,4,2
+MIG0123,Kosovo,Prizren,regional,5,3,4,3
+MIG0124,Bosnia and Herzegovina,Sarajevo,regional,4,4,5,1
+MIG0125,Slovenia,Maribor,international,4,4,2,2
+MIG0126,Kosovo,Pristina,regional,4,3,1,4
+MIG0127,Montenegro,Cetinje,none,3,4,3,2
+MIG0128,Croatia,Split,none,3,4,3,4
+MIG0129,Serbia,Novi Sad,none,1,4,4,2
+MIG0130,Montenegro,Nikšić,internal,2,4,3,1
+MIG0131,Croatia,Split,regional,3,2,3,3
+MIG0132,Slovenia,Koper,none,2,5,4,2
+MIG0133,Albania,Tirana,none,2,4,3,2
+MIG0134,Croatia,Split,none,3,3,4,2
+MIG0135,Serbia,Novi Sad,internal,4,3,3,2
+MIG0136,Bosnia and Herzegovina,Mostar,internal,4,3,4,2
+MIG0137,North Macedonia,Skopje,none,3,3,3,2
+MIG0138,Kosovo,Pristina,regional,2,3,3,3
+MIG0139,Slovenia,Maribor,international,2,3,3,3
+MIG0140,Kosovo,Peja,none,3,3,3,3
+MIG0141,Kosovo,Pristina,none,3,3,2,3
+MIG0142,Slovenia,Maribor,none,2,5,4,3
+MIG0143,Kosovo,Pristina,regional,2,3,3,3
+MIG0144,Croatia,Zagreb,none,5,2,3,3
+MIG0145,Serbia,Niš,international,3,4,4,1
+MIG0146,Bosnia and Herzegovina,Banja Luka,none,3,3,3,2
+MIG0147,Kosovo,Pristina,internal,2,2,3,2
+MIG0148,Croatia,Split,none,3,4,3,2
+MIG0149,Montenegro,Cetinje,none,4,4,4,4
+MIG0150,Slovenia,Koper,international,3,4,3,2
+MIG0151,Bosnia and Herzegovina,Mostar,none,4,3,3,2
+MIG0152,Serbia,Niš,none,3,4,3,2
+MIG0153,Albania,Shkodër,none,3,2,2,3
+MIG0154,Kosovo,Peja,none,4,2,3,4
+MIG0155,Montenegro,Cetinje,none,4,3,4,3
+MIG0156,Albania,Tirana,none,3,3,4,3
+MIG0157,Albania,Shkodër,none,4,4,4,1
+MIG0158,Slovenia,Maribor,none,4,4,3,2
+MIG0159,North Macedonia,Ohrid,none,4,5,3,3
+MIG0160,Serbia,Belgrade,international,2,5,3,2
+MIG0161,North Macedonia,Bitola,none,3,4,3,2
+MIG0162,Croatia,Split,none,5,4,4,1
+MIG0163,North Macedonia,Bitola,international,4,5,3,2
+MIG0164,Montenegro,Cetinje,international,2,4,3,3
+MIG0165,Serbia,Niš,none,3,3,3,2
+MIG0166,Albania,Tirana,international,4,3,4,2
+MIG0167,Bosnia and Herzegovina,Mostar,international,5,2,2,3
+MIG0168,North Macedonia,Ohrid,internal,3,3,2,3
+MIG0169,Croatia,Rijeka,none,2,3,3,2
+MIG0170,North Macedonia,Skopje,international,3,3,4,2
+MIG0171,Serbia,Belgrade,regional,4,2,3,3
+MIG0172,Bosnia and Herzegovina,Mostar,none,3,5,4,2
+MIG0173,Croatia,Zagreb,none,4,3,4,3
+MIG0174,Kosovo,Prizren,regional,5,3,4,3
+MIG0175,Slovenia,Ljubljana,none,4,4,3,2
+MIG0176,Serbia,Belgrade,none,3,4,3,1
+MIG0177,Serbia,Belgrade,none,3,4,4,2
+MIG0178,Montenegro,Nikšić,none,3,5,4,2
+MIG0179,Serbia,Novi Sad,internal,4,4,4,2
+MIG0180,Montenegro,Podgorica,internal,5,4,5,1
+MIG0181,Montenegro,Podgorica,international,5,3,4,2
+MIG0182,Serbia,Novi Sad,none,3,3,3,1
+MIG0183,Bosnia and Herzegovina,Banja Luka,regional,3,3,3,3
+MIG0184,Albania,Durrës,internal,3,4,5,1
+MIG0185,Slovenia,Koper,none,3,4,4,1
+MIG0186,Bosnia and Herzegovina,Banja Luka,none,3,3,3,4
+MIG0187,Croatia,Zagreb,internal,4,2,2,4
+MIG0188,Croatia,Zagreb,none,2,4,3,2
+MIG0189,Albania,Durrës,none,4,3,5,1
+MIG0190,Croatia,Zagreb,regional,2,4,3,2
+MIG0191,Kosovo,Prizren,none,2,5,4,1
+MIG0192,Croatia,Split,internal,4,5,5,1
+MIG0193,Kosovo,Pristina,none,5,2,4,2
+MIG0194,Montenegro,Nikšić,none,4,4,3,3
+MIG0195,Bosnia and Herzegovina,Sarajevo,none,2,3,3,4
+MIG0196,Kosovo,Peja,regional,3,3,2,2
+MIG0197,Croatia,Rijeka,none,3,4,2,2
+MIG0198,North Macedonia,Ohrid,internal,3,4,4,2
+MIG0199,Slovenia,Koper,international,2,2,3,4
+MIG0200,Slovenia,Koper,internal,1,4,3,2
+MIG0201,Serbia,Novi Sad,regional,4,4,4,1
+MIG0202,Albania,Shkodër,none,4,2,4,1
+MIG0203,Kosovo,Prizren,none,5,5,5,1
+MIG0204,North Macedonia,Bitola,international,3,2,3,2
+MIG0205,Serbia,Novi Sad,internal,2,4,3,2
+MIG0206,Bosnia and Herzegovina,Mostar,international,5,4,5,1
+MIG0207,Croatia,Zagreb,none,3,4,4,4
+MIG0208,North Macedonia,Bitola,regional,3,3,3,2
+MIG0209,Montenegro,Podgorica,none,3,4,4,2
+MIG0210,Bosnia and Herzegovina,Mostar,regional,2,3,4,1
+MIG0211,Bosnia and Herzegovina,Sarajevo,none,2,3,2,3
+MIG0212,Serbia,Belgrade,none,4,4,4,2
+MIG0213,Bosnia and Herzegovina,Sarajevo,international,5,4,5,1
+MIG0214,Bosnia and Herzegovina,Sarajevo,none,4,3,4,2
+MIG0215,Croatia,Rijeka,regional,4,3,4,3
+MIG0216,Albania,Durrës,regional,4,2,4,3
+MIG0217,Croatia,Zagreb,internal,3,3,3,4
+MIG0218,North Macedonia,Bitola,regional,3,4,4,2
+MIG0219,Albania,Tirana,none,4,3,4,2
+MIG0220,Croatia,Rijeka,none,3,3,3,2
+MIG0221,Croatia,Split,international,4,3,3,2
+MIG0222,Slovenia,Ljubljana,none,4,4,4,1
+MIG0223,Albania,Durrës,internal,4,4,4,1
+MIG0224,Serbia,Belgrade,regional,3,3,3,1
+MIG0225,Bosnia and Herzegovina,Sarajevo,internal,4,3,4,3
+MIG0226,Slovenia,Maribor,internal,4,4,4,2
+MIG0227,Montenegro,Nikšić,internal,3,2,3,2
+MIG0228,North Macedonia,Ohrid,international,2,3,3,3
+MIG0229,North Macedonia,Skopje,none,1,3,4,1
+MIG0230,Croatia,Zagreb,none,4,2,4,3
+MIG0231,Montenegro,Nikšić,none,2,4,2,3
+MIG0232,Slovenia,Ljubljana,none,5,3,4,2
+MIG0233,Slovenia,Koper,international,3,2,2,4
+MIG0234,Kosovo,Prizren,none,4,4,4,1
+MIG0235,Kosovo,Prizren,international,4,4,4,2
+MIG0236,Croatia,Split,regional,3,4,4,2
+MIG0237,Kosovo,Prizren,none,4,3,3,3
+MIG0238,Serbia,Niš,none,4,3,4,2
+MIG0239,Bosnia and Herzegovina,Banja Luka,none,2,5,5,2
+MIG0240,Montenegro,Nikšić,none,4,3,4,3
+MIG0241,Kosovo,Prizren,none,4,3,5,3
+MIG0242,Croatia,Rijeka,internal,4,3,3,2
+MIG0243,Bosnia and Herzegovina,Mostar,internal,5,3,3,4
+MIG0244,Serbia,Novi Sad,regional,3,4,3,1
+MIG0245,North Macedonia,Bitola,none,3,3,3,3
+MIG0246,Albania,Durrës,international,3,3,2,1
+MIG0247,Montenegro,Podgorica,regional,3,3,4,4
+MIG0248,Bosnia and Herzegovina,Mostar,none,4,4,4,2
+MIG0249,Bosnia and Herzegovina,Sarajevo,internal,3,4,3,3
+MIG0250,Slovenia,Koper,international,2,3,2,2
+MIG0251,Bosnia and Herzegovina,Banja Luka,regional,5,5,4,2
+MIG0252,Bosnia and Herzegovina,Sarajevo,regional,4,3,4,1
+MIG0253,Albania,Tirana,none,4,4,3,3
+MIG0254,Slovenia,Ljubljana,international,5,3,3,1
+MIG0255,Albania,Shkodër,regional,4,3,4,1
+MIG0256,Serbia,Niš,none,4,4,3,2
+MIG0257,Serbia,Niš,none,3,4,3,2
+MIG0258,Montenegro,Nikšić,regional,5,3,5,2
+MIG0259,Montenegro,Cetinje,none,4,3,3,3
+MIG0260,Albania,Durrës,internal,5,4,4,2
+MIG0261,Kosovo,Peja,international,4,4,4,1
+MIG0262,Albania,Shkodër,none,1,4,3,2
+MIG0263,Bosnia and Herzegovina,Sarajevo,regional,4,3,3,3
+MIG0264,Albania,Shkodër,none,4,3,4,4
+MIG0265,Kosovo,Peja,internal,3,4,3,3
+MIG0266,Bosnia and Herzegovina,Banja Luka,none,2,4,4,1
+MIG0267,Croatia,Split,none,4,4,4,1
+MIG0268,Bosnia and Herzegovina,Mostar,none,2,3,3,2
+MIG0269,Croatia,Zagreb,none,3,4,5,1
+MIG0270,Kosovo,Prizren,none,3,5,4,3
+MIG0271,Serbia,Belgrade,none,4,3,3,4
+MIG0272,Kosovo,Pristina,internal,3,4,2,3
+MIG0273,Slovenia,Ljubljana,regional,3,5,5,2
+MIG0274,North Macedonia,Ohrid,regional,3,3,4,2
+MIG0275,Serbia,Niš,none,3,2,4,3
+MIG0276,Montenegro,Cetinje,regional,4,4,3,3
+MIG0277,Bosnia and Herzegovina,Sarajevo,regional,4,4,3,2
+MIG0278,Kosovo,Pristina,none,3,3,3,1
+MIG0279,Slovenia,Maribor,regional,3,2,2,3
+MIG0280,Croatia,Zagreb,none,4,4,4,1
+MIG0281,Albania,Durrës,international,5,5,4,1
+MIG0282,Slovenia,Koper,none,2,3,3,3
+MIG0283,Kosovo,Prizren,internal,3,5,4,2
+MIG0284,Montenegro,Podgorica,none,4,5,4,1
+MIG0285,Serbia,Niš,internal,2,3,2,3
+MIG0286,Albania,Tirana,international,4,2,3,2
+MIG0287,North Macedonia,Skopje,internal,5,2,4,2
+MIG0288,Serbia,Belgrade,none,4,3,3,1
+MIG0289,Bosnia and Herzegovina,Sarajevo,none,2,4,3,2
+MIG0290,Croatia,Rijeka,regional,4,3,4,1
+MIG0291,Albania,Durrës,none,4,3,4,2
+MIG0292,Croatia,Rijeka,regional,4,4,3,2
+MIG0293,Kosovo,Pristina,regional,4,4,4,2
+MIG0294,North Macedonia,Skopje,none,2,4,3,2
+MIG0295,North Macedonia,Bitola,none,2,4,4,1
+MIG0296,North Macedonia,Bitola,none,4,5,3,2
+MIG0297,North Macedonia,Ohrid,internal,4,2,3,3
+MIG0298,Kosovo,Prizren,none,2,2,2,2
+MIG0299,Albania,Tirana,regional,4,3,4,1
+MIG0300,North Macedonia,Skopje,international,4,4,3,3
+MIG0301,North Macedonia,Ohrid,regional,3,4,3,3
+MIG0302,Albania,Durrës,regional,3,3,3,4
+MIG0303,Kosovo,Peja,regional,4,3,3,3
+MIG0304,North Macedonia,Ohrid,none,2,3,3,2
+MIG0305,Albania,Tirana,internal,2,3,4,2
+MIG0306,Kosovo,Pristina,regional,4,3,3,1
+MIG0307,Kosovo,Peja,none,2,5,3,3
+MIG0308,Kosovo,Peja,international,4,3,4,3
+MIG0309,Croatia,Split,regional,4,5,5,2
+MIG0310,North Macedonia,Bitola,none,2,3,3,3
+MIG0311,Serbia,Niš,none,3,3,4,2
+MIG0312,Bosnia and Herzegovina,Sarajevo,regional,5,3,5,2
+MIG0313,Serbia,Novi Sad,none,2,4,2,3
+MIG0314,Bosnia and Herzegovina,Mostar,international,3,3,3,2
+MIG0315,Montenegro,Nikšić,regional,3,4,5,2
+MIG0316,Slovenia,Maribor,none,4,3,2,3
+MIG0317,Croatia,Split,international,3,3,4,2
+MIG0318,Slovenia,Koper,regional,3,3,3,2
+MIG0319,Serbia,Novi Sad,none,4,4,2,2
+MIG0320,Serbia,Belgrade,regional,4,3,4,2
+MIG0321,Croatia,Zagreb,regional,2,3,2,1
+MIG0322,Croatia,Split,internal,3,4,4,1
+MIG0323,Croatia,Split,none,2,3,3,2
+MIG0324,Serbia,Novi Sad,internal,4,3,3,2
+MIG0325,Albania,Shkodër,international,3,4,3,1
+MIG0326,Croatia,Rijeka,international,3,2,3,3
+MIG0327,Bosnia and Herzegovina,Sarajevo,internal,5,4,4,1
+MIG0328,Kosovo,Pristina,internal,4,1,2,4
+MIG0329,Slovenia,Ljubljana,international,3,2,3,1
+MIG0330,Kosovo,Pristina,none,4,3,5,2
+MIG0331,Albania,Durrës,none,3,4,4,2
+MIG0332,Croatia,Zagreb,internal,3,1,2,4
+MIG0333,Slovenia,Maribor,none,3,4,3,4
+MIG0334,Bosnia and Herzegovina,Sarajevo,regional,4,5,4,2
+MIG0335,Serbia,Belgrade,none,3,3,4,2
+MIG0336,Albania,Durrës,none,4,3,3,2
+MIG0337,Serbia,Belgrade,none,3,3,3,3
+MIG0338,Bosnia and Herzegovina,Sarajevo,regional,3,3,3,2
+MIG0339,North Macedonia,Ohrid,internal,2,3,3,3
+MIG0340,Serbia,Niš,none,3,4,2,1
+MIG0341,North Macedonia,Skopje,regional,3,4,3,1
+MIG0342,Bosnia and Herzegovina,Sarajevo,internal,4,4,3,3
+MIG0343,Slovenia,Koper,none,4,4,5,2
+MIG0344,Croatia,Rijeka,regional,4,2,4,3
+MIG0345,Serbia,Belgrade,none,4,2,3,2
+MIG0346,Bosnia and Herzegovina,Mostar,internal,5,4,5,1
+MIG0347,Albania,Tirana,none,3,3,4,1
+MIG0348,Serbia,Novi Sad,internal,4,5,4,1
+MIG0349,Croatia,Zagreb,regional,4,2,2,3
+MIG0350,Slovenia,Maribor,none,4,3,5,1
+MIG0351,Slovenia,Ljubljana,none,3,4,3,2
+MIG0352,Serbia,Belgrade,none,3,3,3,2
+MIG0353,North Macedonia,Skopje,international,4,4,3,2
+MIG0354,Croatia,Rijeka,internal,3,2,2,2
+MIG0355,Albania,Durrës,none,5,3,2,3
+MIG0356,Serbia,Niš,internal,3,3,3,2
+MIG0357,Serbia,Niš,none,3,4,3,1
+MIG0358,Albania,Tirana,none,5,3,3,3
+MIG0359,Albania,Tirana,internal,3,3,4,3
+MIG0360,Montenegro,Podgorica,none,5,5,4,1

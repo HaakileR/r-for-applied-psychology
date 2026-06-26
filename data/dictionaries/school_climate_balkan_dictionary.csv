@@ -1,0 +1,10 @@
+0,1,2
+id,string,Synthetic student identifier
+country,categorical,Country
+city,categorical,City
+grade,ordinal,"Upper-secondary grade, synthetic"
+school_belonging,ordinal,"School belonging, 1-5"
+teacher_support,ordinal,"Teacher support, 1-5"
+peer_support,ordinal,"Peer support, 1-5"
+classroom_disruption,ordinal,"Classroom disruption, 1-5"
+school_satisfaction,ordinal,"School satisfaction, 1-5"

@@ -1,0 +1,701 @@
+id,country,city,nature_connectedness,climate_concern,perceived_behavioral_control,pro_environmental_behavior
+ENV0001,Bosnia and Herzegovina,Banja Luka,2,4,4,4
+ENV0002,Croatia,Zagreb,3,3,2,4
+ENV0003,Montenegro,Nikšić,4,4,2,4
+ENV0004,Slovenia,Koper,4,3,4,4
+ENV0005,Slovenia,Koper,3,5,2,4
+ENV0006,Bosnia and Herzegovina,Sarajevo,3,5,4,5
+ENV0007,Montenegro,Podgorica,4,3,3,4
+ENV0008,Bosnia and Herzegovina,Sarajevo,3,3,3,4
+ENV0009,Montenegro,Nikšić,3,4,3,4
+ENV0010,Bosnia and Herzegovina,Mostar,4,4,3,5
+ENV0011,Kosovo,Prizren,4,5,3,5
+ENV0012,Albania,Tirana,4,4,2,4
+ENV0013,North Macedonia,Skopje,3,4,3,4
+ENV0014,Albania,Shkodër,4,3,3,3
+ENV0015,Croatia,Zagreb,2,3,3,4
+ENV0016,Bosnia and Herzegovina,Banja Luka,4,2,3,4
+ENV0017,Croatia,Rijeka,2,4,2,4
+ENV0018,Kosovo,Pristina,3,3,2,4
+ENV0019,Albania,Durrës,5,5,2,5
+ENV0020,Kosovo,Pristina,3,4,4,4
+ENV0021,Kosovo,Prizren,3,2,4,4
+ENV0022,Serbia,Belgrade,3,3,4,4
+ENV0023,Croatia,Zagreb,4,5,3,5
+ENV0024,Croatia,Rijeka,4,3,1,4
+ENV0025,Montenegro,Podgorica,2,5,4,5
+ENV0026,Serbia,Belgrade,4,3,4,5
+ENV0027,Slovenia,Maribor,5,4,3,4
+ENV0028,Serbia,Niš,5,4,3,5
+ENV0029,Albania,Tirana,5,3,3,3
+ENV0030,Bosnia and Herzegovina,Sarajevo,3,3,2,4
+ENV0031,Serbia,Belgrade,4,3,2,3
+ENV0032,Albania,Durrës,2,4,2,3
+ENV0033,Bosnia and Herzegovina,Sarajevo,3,4,4,5
+ENV0034,Croatia,Split,4,3,3,4
+ENV0035,Slovenia,Maribor,3,4,2,3
+ENV0036,Serbia,Novi Sad,3,3,4,5
+ENV0037,Bosnia and Herzegovina,Sarajevo,5,4,4,5
+ENV0038,North Macedonia,Skopje,4,2,4,3
+ENV0039,Montenegro,Podgorica,4,3,3,4
+ENV0040,Croatia,Rijeka,4,4,3,5
+ENV0041,Slovenia,Koper,4,2,4,4
+ENV0042,Serbia,Niš,5,3,2,4
+ENV0043,Croatia,Rijeka,3,3,5,3
+ENV0044,Serbia,Belgrade,4,3,4,4
+ENV0045,Slovenia,Maribor,3,4,4,4
+ENV0046,Montenegro,Podgorica,4,5,4,4
+ENV0047,Montenegro,Cetinje,3,4,3,3
+ENV0048,Croatia,Rijeka,2,2,4,2
+ENV0049,Montenegro,Podgorica,4,5,3,4
+ENV0050,Montenegro,Podgorica,3,5,3,5
+ENV0051,Croatia,Split,3,3,2,4
+ENV0052,Slovenia,Ljubljana,3,2,3,4
+ENV0053,Bosnia and Herzegovina,Sarajevo,5,4,5,5
+ENV0054,Bosnia and Herzegovina,Sarajevo,3,3,3,3
+ENV0055,Slovenia,Maribor,5,3,4,5
+ENV0056,Albania,Durrës,5,3,3,4
+ENV0057,North Macedonia,Skopje,2,4,3,5
+ENV0058,North Macedonia,Ohrid,5,4,3,5
+ENV0059,Slovenia,Maribor,5,3,3,4
+ENV0060,Montenegro,Nikšić,5,3,4,5
+ENV0061,Serbia,Novi Sad,2,4,2,3
+ENV0062,Serbia,Novi Sad,4,3,3,3
+ENV0063,Slovenia,Ljubljana,4,3,4,5
+ENV0064,Croatia,Split,4,5,1,3
+ENV0065,Serbia,Niš,5,3,3,5
+ENV0066,Montenegro,Nikšić,3,5,3,4
+ENV0067,Bosnia and Herzegovina,Sarajevo,5,3,3,5
+ENV0068,Montenegro,Cetinje,4,4,3,5
+ENV0069,Albania,Shkodër,5,2,3,4
+ENV0070,Croatia,Split,4,2,2,3
+ENV0071,Montenegro,Nikšić,4,4,3,3
+ENV0072,Albania,Tirana,2,4,3,4
+ENV0073,Montenegro,Nikšić,2,4,2,3
+ENV0074,Serbia,Niš,3,3,4,4
+ENV0075,Croatia,Rijeka,4,3,2,4
+ENV0076,Kosovo,Pristina,3,4,4,5
+ENV0077,Serbia,Niš,5,2,3,3
+ENV0078,Serbia,Niš,4,3,3,5
+ENV0079,Albania,Shkodër,3,4,3,4
+ENV0080,Slovenia,Maribor,3,2,3,3
+ENV0081,Albania,Shkodër,3,3,3,4
+ENV0082,Montenegro,Nikšić,5,3,4,5
+ENV0083,Serbia,Niš,4,3,4,5
+ENV0084,Serbia,Belgrade,4,4,3,5
+ENV0085,Bosnia and Herzegovina,Mostar,3,3,4,3
+ENV0086,Bosnia and Herzegovina,Mostar,5,3,3,5
+ENV0087,Bosnia and Herzegovina,Banja Luka,4,4,2,4
+ENV0088,Bosnia and Herzegovina,Sarajevo,3,3,3,3
+ENV0089,North Macedonia,Ohrid,5,3,3,4
+ENV0090,North Macedonia,Bitola,4,4,4,5
+ENV0091,North Macedonia,Ohrid,4,3,3,4
+ENV0092,Slovenia,Koper,5,3,3,3
+ENV0093,Bosnia and Herzegovina,Sarajevo,3,4,4,5
+ENV0094,Serbia,Belgrade,3,5,2,3
+ENV0095,Albania,Tirana,3,3,3,4
+ENV0096,North Macedonia,Ohrid,5,3,4,5
+ENV0097,Bosnia and Herzegovina,Mostar,3,3,2,4
+ENV0098,North Macedonia,Bitola,3,4,2,4
+ENV0099,Croatia,Split,5,4,3,4
+ENV0100,Slovenia,Maribor,2,3,4,4
+ENV0101,Kosovo,Peja,3,4,3,5
+ENV0102,Slovenia,Ljubljana,3,4,4,4
+ENV0103,Croatia,Rijeka,4,3,3,4
+ENV0104,Kosovo,Peja,5,3,2,4
+ENV0105,Serbia,Niš,3,4,2,3
+ENV0106,Slovenia,Ljubljana,3,4,4,4
+ENV0107,Croatia,Zagreb,5,2,3,5
+ENV0108,Kosovo,Prizren,4,3,3,3
+ENV0109,Montenegro,Podgorica,3,3,5,4
+ENV0110,Bosnia and Herzegovina,Sarajevo,4,3,3,4
+ENV0111,Serbia,Niš,3,3,2,4
+ENV0112,Montenegro,Cetinje,5,4,2,4
+ENV0113,Slovenia,Koper,5,3,2,3
+ENV0114,Serbia,Niš,2,5,3,5
+ENV0115,Montenegro,Podgorica,5,2,3,4
+ENV0116,Croatia,Split,2,4,2,4
+ENV0117,Slovenia,Maribor,3,5,4,4
+ENV0118,Montenegro,Cetinje,3,4,4,4
+ENV0119,North Macedonia,Bitola,4,4,5,5
+ENV0120,Croatia,Zagreb,3,4,2,4
+ENV0121,Kosovo,Peja,3,3,3,4
+ENV0122,North Macedonia,Bitola,5,2,4,5
+ENV0123,Bosnia and Herzegovina,Sarajevo,4,4,3,4
+ENV0124,Serbia,Niš,5,4,4,4
+ENV0125,Montenegro,Nikšić,5,3,4,5
+ENV0126,Slovenia,Ljubljana,2,4,3,4
+ENV0127,Montenegro,Cetinje,3,3,4,4
+ENV0128,Kosovo,Peja,3,2,4,4
+ENV0129,North Macedonia,Ohrid,2,3,2,3
+ENV0130,Serbia,Niš,3,5,1,4
+ENV0131,Serbia,Novi Sad,3,4,4,3
+ENV0132,Montenegro,Nikšić,3,4,4,4
+ENV0133,Bosnia and Herzegovina,Sarajevo,2,2,5,5
+ENV0134,Montenegro,Cetinje,3,5,3,5
+ENV0135,Serbia,Niš,4,2,3,3
+ENV0136,Croatia,Split,3,2,2,3
+ENV0137,Kosovo,Pristina,2,3,2,3
+ENV0138,Montenegro,Podgorica,5,4,3,4
+ENV0139,North Macedonia,Skopje,3,4,3,3
+ENV0140,Croatia,Zagreb,4,4,3,4
+ENV0141,Montenegro,Cetinje,5,3,4,5
+ENV0142,Croatia,Split,5,4,3,4
+ENV0143,Montenegro,Cetinje,4,4,3,5
+ENV0144,Montenegro,Cetinje,3,5,4,4
+ENV0145,Montenegro,Nikšić,3,4,1,4
+ENV0146,Albania,Shkodër,3,3,1,3
+ENV0147,Bosnia and Herzegovina,Sarajevo,2,2,2,2
+ENV0148,Montenegro,Cetinje,4,5,3,5
+ENV0149,Serbia,Novi Sad,2,1,5,3
+ENV0150,Montenegro,Podgorica,4,5,2,3
+ENV0151,Slovenia,Ljubljana,5,3,1,4
+ENV0152,Kosovo,Pristina,5,4,5,5
+ENV0153,Bosnia and Herzegovina,Sarajevo,3,3,2,4
+ENV0154,Albania,Tirana,3,4,4,4
+ENV0155,Croatia,Zagreb,4,3,3,4
+ENV0156,Bosnia and Herzegovina,Banja Luka,4,5,3,5
+ENV0157,Slovenia,Maribor,2,3,3,3
+ENV0158,North Macedonia,Ohrid,5,4,4,5
+ENV0159,Serbia,Belgrade,5,2,4,4
+ENV0160,Montenegro,Cetinje,4,4,2,5
+ENV0161,Serbia,Belgrade,3,3,4,4
+ENV0162,Serbia,Niš,5,3,2,4
+ENV0163,Serbia,Belgrade,4,3,4,4
+ENV0164,Kosovo,Peja,2,3,3,3
+ENV0165,Slovenia,Ljubljana,1,3,3,3
+ENV0166,Kosovo,Pristina,3,4,2,3
+ENV0167,Kosovo,Peja,2,4,3,5
+ENV0168,Serbia,Novi Sad,5,4,4,5
+ENV0169,Croatia,Split,3,3,3,3
+ENV0170,Slovenia,Ljubljana,2,5,3,4
+ENV0171,North Macedonia,Skopje,4,4,3,4
+ENV0172,Serbia,Niš,3,5,3,3
+ENV0173,Montenegro,Nikšić,3,4,3,5
+ENV0174,North Macedonia,Bitola,2,3,2,3
+ENV0175,North Macedonia,Skopje,4,3,2,4
+ENV0176,Slovenia,Ljubljana,4,3,2,3
+ENV0177,Montenegro,Podgorica,3,2,1,4
+ENV0178,Bosnia and Herzegovina,Banja Luka,3,4,2,3
+ENV0179,Croatia,Zagreb,3,3,3,4
+ENV0180,Slovenia,Maribor,5,3,4,4
+ENV0181,Croatia,Zagreb,4,3,4,4
+ENV0182,Croatia,Zagreb,4,4,2,4
+ENV0183,Slovenia,Koper,4,3,5,4
+ENV0184,Serbia,Belgrade,2,3,4,4
+ENV0185,Serbia,Niš,3,3,2,3
+ENV0186,Croatia,Rijeka,4,3,4,4
+ENV0187,Kosovo,Prizren,3,5,4,5
+ENV0188,Bosnia and Herzegovina,Banja Luka,3,2,4,4
+ENV0189,North Macedonia,Bitola,5,3,2,4
+ENV0190,Kosovo,Pristina,3,3,4,4
+ENV0191,Croatia,Zagreb,2,2,4,4
+ENV0192,Serbia,Niš,4,3,2,3
+ENV0193,Serbia,Niš,4,3,4,4
+ENV0194,Bosnia and Herzegovina,Sarajevo,3,1,5,3
+ENV0195,Bosnia and Herzegovina,Sarajevo,4,3,3,4
+ENV0196,Albania,Durrës,4,3,4,4
+ENV0197,Albania,Durrës,5,2,2,4
+ENV0198,Albania,Tirana,4,3,3,5
+ENV0199,Kosovo,Peja,3,5,1,4
+ENV0200,Bosnia and Herzegovina,Banja Luka,2,5,3,4
+ENV0201,Serbia,Novi Sad,5,3,4,4
+ENV0202,Serbia,Belgrade,3,4,2,4
+ENV0203,Montenegro,Podgorica,4,4,3,4
+ENV0204,Bosnia and Herzegovina,Banja Luka,5,5,3,5
+ENV0205,Kosovo,Pristina,3,4,4,4
+ENV0206,Croatia,Zagreb,4,5,2,5
+ENV0207,North Macedonia,Bitola,5,2,2,4
+ENV0208,Croatia,Split,3,4,4,4
+ENV0209,Montenegro,Podgorica,4,4,2,5
+ENV0210,Kosovo,Peja,4,5,2,4
+ENV0211,Serbia,Novi Sad,3,4,2,5
+ENV0212,Croatia,Split,2,3,2,3
+ENV0213,Albania,Shkodër,4,3,3,4
+ENV0214,Albania,Tirana,5,3,3,3
+ENV0215,Croatia,Rijeka,4,3,2,5
+ENV0216,Kosovo,Prizren,5,3,4,4
+ENV0217,Montenegro,Cetinje,4,4,4,4
+ENV0218,Croatia,Rijeka,4,3,4,3
+ENV0219,Serbia,Niš,4,4,3,5
+ENV0220,Slovenia,Ljubljana,3,3,3,3
+ENV0221,Slovenia,Koper,4,4,4,4
+ENV0222,North Macedonia,Skopje,4,3,3,5
+ENV0223,Kosovo,Pristina,5,3,3,3
+ENV0224,Slovenia,Maribor,5,2,4,5
+ENV0225,Bosnia and Herzegovina,Banja Luka,3,4,3,4
+ENV0226,Serbia,Niš,3,3,4,4
+ENV0227,Bosnia and Herzegovina,Banja Luka,4,3,2,3
+ENV0228,Bosnia and Herzegovina,Sarajevo,4,4,3,5
+ENV0229,Kosovo,Prizren,4,3,1,4
+ENV0230,Bosnia and Herzegovina,Mostar,3,4,3,4
+ENV0231,Bosnia and Herzegovina,Sarajevo,4,5,5,5
+ENV0232,Croatia,Zagreb,3,4,3,3
+ENV0233,Croatia,Zagreb,4,4,3,5
+ENV0234,Albania,Durrës,5,3,2,5
+ENV0235,Slovenia,Maribor,4,4,3,4
+ENV0236,Kosovo,Prizren,3,3,3,4
+ENV0237,Montenegro,Nikšić,3,3,4,3
+ENV0238,North Macedonia,Ohrid,5,4,3,5
+ENV0239,North Macedonia,Ohrid,4,3,2,4
+ENV0240,North Macedonia,Skopje,3,5,5,5
+ENV0241,Bosnia and Herzegovina,Sarajevo,4,2,2,4
+ENV0242,Montenegro,Nikšić,2,4,5,4
+ENV0243,Bosnia and Herzegovina,Banja Luka,4,3,2,5
+ENV0244,Montenegro,Podgorica,4,3,4,4
+ENV0245,Croatia,Zagreb,3,4,3,4
+ENV0246,Kosovo,Pristina,3,4,3,3
+ENV0247,Croatia,Zagreb,3,5,4,4
+ENV0248,North Macedonia,Ohrid,2,4,4,4
+ENV0249,Bosnia and Herzegovina,Mostar,4,3,3,4
+ENV0250,Kosovo,Peja,3,4,2,3
+ENV0251,Slovenia,Maribor,3,4,3,3
+ENV0252,Serbia,Novi Sad,2,4,3,3
+ENV0253,Slovenia,Koper,4,3,3,4
+ENV0254,Croatia,Split,4,2,4,4
+ENV0255,Montenegro,Podgorica,2,4,2,3
+ENV0256,Slovenia,Koper,2,5,2,5
+ENV0257,Croatia,Split,3,3,4,3
+ENV0258,Slovenia,Maribor,3,4,2,3
+ENV0259,North Macedonia,Ohrid,4,3,2,4
+ENV0260,Montenegro,Podgorica,4,3,4,4
+ENV0261,Serbia,Niš,5,3,2,5
+ENV0262,North Macedonia,Skopje,3,3,4,4
+ENV0263,Bosnia and Herzegovina,Sarajevo,3,2,2,4
+ENV0264,Bosnia and Herzegovina,Banja Luka,1,2,2,3
+ENV0265,Serbia,Novi Sad,4,3,5,4
+ENV0266,Serbia,Belgrade,3,3,3,2
+ENV0267,Kosovo,Prizren,5,3,2,3
+ENV0268,Serbia,Niš,2,3,3,2
+ENV0269,Bosnia and Herzegovina,Banja Luka,3,2,3,3
+ENV0270,Croatia,Rijeka,4,2,4,5
+ENV0271,Kosovo,Prizren,1,4,2,2
+ENV0272,Kosovo,Prizren,5,4,3,4
+ENV0273,Bosnia and Herzegovina,Sarajevo,3,2,3,4
+ENV0274,Slovenia,Maribor,4,3,2,5
+ENV0275,Montenegro,Nikšić,4,4,1,5
+ENV0276,Croatia,Rijeka,3,4,2,4
+ENV0277,Bosnia and Herzegovina,Mostar,1,4,2,2
+ENV0278,Bosnia and Herzegovina,Sarajevo,5,3,4,4
+ENV0279,Slovenia,Ljubljana,4,2,2,4
+ENV0280,North Macedonia,Skopje,5,5,3,5
+ENV0281,Serbia,Niš,4,3,2,4
+ENV0282,Montenegro,Cetinje,5,3,4,4
+ENV0283,Serbia,Niš,3,4,3,3
+ENV0284,Kosovo,Peja,3,2,4,3
+ENV0285,Bosnia and Herzegovina,Mostar,2,5,3,4
+ENV0286,North Macedonia,Ohrid,2,3,2,2
+ENV0287,North Macedonia,Ohrid,2,4,4,5
+ENV0288,Bosnia and Herzegovina,Sarajevo,2,3,3,3
+ENV0289,Croatia,Zagreb,4,5,4,5
+ENV0290,North Macedonia,Skopje,4,3,4,5
+ENV0291,Bosnia and Herzegovina,Mostar,5,5,4,5
+ENV0292,Croatia,Split,2,3,3,3
+ENV0293,Croatia,Rijeka,4,4,4,5
+ENV0294,Slovenia,Ljubljana,4,2,3,4
+ENV0295,Croatia,Zagreb,4,3,4,4
+ENV0296,Bosnia and Herzegovina,Sarajevo,4,4,2,5
+ENV0297,Serbia,Niš,5,4,3,4
+ENV0298,Bosnia and Herzegovina,Mostar,3,3,5,5
+ENV0299,Serbia,Belgrade,3,3,3,3
+ENV0300,North Macedonia,Bitola,3,3,4,4
+ENV0301,Croatia,Rijeka,3,4,2,4
+ENV0302,Slovenia,Koper,3,4,4,4
+ENV0303,Croatia,Zagreb,4,3,4,5
+ENV0304,Slovenia,Ljubljana,4,4,5,4
+ENV0305,Montenegro,Podgorica,4,4,4,4
+ENV0306,Kosovo,Peja,3,3,3,3
+ENV0307,North Macedonia,Skopje,4,2,3,5
+ENV0308,Croatia,Split,4,3,3,5
+ENV0309,Montenegro,Cetinje,4,3,3,4
+ENV0310,North Macedonia,Skopje,5,3,4,4
+ENV0311,Montenegro,Cetinje,3,4,3,4
+ENV0312,Montenegro,Podgorica,2,4,3,4
+ENV0313,Kosovo,Prizren,3,3,2,3
+ENV0314,Croatia,Zagreb,4,5,4,4
+ENV0315,Albania,Durrës,5,3,4,5
+ENV0316,North Macedonia,Skopje,4,5,3,4
+ENV0317,Montenegro,Podgorica,3,2,2,3
+ENV0318,Slovenia,Koper,4,3,3,4
+ENV0319,Croatia,Split,4,4,5,4
+ENV0320,Croatia,Zagreb,4,3,3,3
+ENV0321,Serbia,Niš,3,3,4,3
+ENV0322,North Macedonia,Skopje,5,3,3,4
+ENV0323,North Macedonia,Ohrid,3,3,4,4
+ENV0324,North Macedonia,Skopje,3,2,3,3
+ENV0325,Bosnia and Herzegovina,Banja Luka,4,3,2,5
+ENV0326,Montenegro,Nikšić,2,2,3,3
+ENV0327,Serbia,Niš,5,4,3,4
+ENV0328,Kosovo,Prizren,5,3,2,4
+ENV0329,Serbia,Niš,4,4,3,4
+ENV0330,Croatia,Zagreb,4,3,5,4
+ENV0331,Albania,Durrës,5,3,4,5
+ENV0332,Croatia,Rijeka,3,4,3,3
+ENV0333,Montenegro,Podgorica,3,2,3,3
+ENV0334,Serbia,Novi Sad,3,3,3,4
+ENV0335,Albania,Durrës,2,4,3,3
+ENV0336,Bosnia and Herzegovina,Mostar,3,4,3,5
+ENV0337,North Macedonia,Skopje,3,4,3,4
+ENV0338,Bosnia and Herzegovina,Mostar,4,4,5,5
+ENV0339,Montenegro,Nikšić,4,3,2,5
+ENV0340,Albania,Tirana,3,3,3,4
+ENV0341,Serbia,Niš,4,3,3,4
+ENV0342,Slovenia,Ljubljana,4,3,2,4
+ENV0343,Kosovo,Prizren,4,4,4,5
+ENV0344,Montenegro,Podgorica,3,3,4,4
+ENV0345,Serbia,Novi Sad,2,3,2,2
+ENV0346,Slovenia,Maribor,2,5,3,4
+ENV0347,Slovenia,Koper,5,5,4,4
+ENV0348,Bosnia and Herzegovina,Sarajevo,4,4,1,3
+ENV0349,Bosnia and Herzegovina,Mostar,3,3,3,4
+ENV0350,Albania,Tirana,3,2,2,3
+ENV0351,Slovenia,Maribor,2,2,4,3
+ENV0352,Serbia,Belgrade,5,4,3,4
+ENV0353,Serbia,Novi Sad,3,5,3,4
+ENV0354,Serbia,Niš,4,3,3,4
+ENV0355,Kosovo,Pristina,2,2,3,3
+ENV0356,Montenegro,Nikšić,4,3,4,4
+ENV0357,Croatia,Zagreb,4,3,3,3
+ENV0358,North Macedonia,Ohrid,2,5,4,3
+ENV0359,Bosnia and Herzegovina,Sarajevo,4,1,3,4
+ENV0360,Croatia,Split,4,4,4,5
+ENV0361,Serbia,Belgrade,3,4,3,4
+ENV0362,Montenegro,Nikšić,3,2,2,4
+ENV0363,Bosnia and Herzegovina,Banja Luka,3,2,2,3
+ENV0364,Croatia,Rijeka,3,5,5,5
+ENV0365,Serbia,Novi Sad,4,2,5,5
+ENV0366,Bosnia and Herzegovina,Mostar,5,2,2,3
+ENV0367,North Macedonia,Skopje,5,4,2,4
+ENV0368,Albania,Tirana,4,5,2,4
+ENV0369,Bosnia and Herzegovina,Mostar,4,5,4,5
+ENV0370,Kosovo,Prizren,2,4,1,4
+ENV0371,Montenegro,Podgorica,4,4,2,5
+ENV0372,Slovenia,Maribor,5,4,3,4
+ENV0373,Croatia,Split,3,4,3,4
+ENV0374,Albania,Shkodër,2,2,4,3
+ENV0375,Slovenia,Maribor,5,4,3,5
+ENV0376,Kosovo,Pristina,4,4,4,5
+ENV0377,Serbia,Belgrade,2,3,3,3
+ENV0378,Croatia,Rijeka,2,2,5,3
+ENV0379,Croatia,Rijeka,4,4,2,5
+ENV0380,Bosnia and Herzegovina,Mostar,2,3,4,5
+ENV0381,Albania,Tirana,5,5,2,5
+ENV0382,Croatia,Zagreb,4,3,3,3
+ENV0383,Slovenia,Koper,3,3,2,3
+ENV0384,Bosnia and Herzegovina,Banja Luka,3,4,2,4
+ENV0385,Bosnia and Herzegovina,Banja Luka,4,2,3,3
+ENV0386,Bosnia and Herzegovina,Sarajevo,2,4,4,4
+ENV0387,Montenegro,Cetinje,4,4,2,3
+ENV0388,Bosnia and Herzegovina,Banja Luka,4,5,1,4
+ENV0389,Slovenia,Koper,2,3,4,2
+ENV0390,Albania,Durrës,3,3,3,3
+ENV0391,Bosnia and Herzegovina,Sarajevo,2,5,4,4
+ENV0392,Montenegro,Cetinje,3,5,5,4
+ENV0393,Serbia,Novi Sad,3,3,3,4
+ENV0394,Kosovo,Prizren,4,4,4,4
+ENV0395,Bosnia and Herzegovina,Sarajevo,2,3,4,3
+ENV0396,Montenegro,Cetinje,4,2,4,4
+ENV0397,Slovenia,Maribor,5,3,3,4
+ENV0398,Croatia,Zagreb,4,5,2,4
+ENV0399,Serbia,Niš,5,4,4,5
+ENV0400,Montenegro,Nikšić,5,4,2,4
+ENV0401,Albania,Shkodër,5,3,1,4
+ENV0402,Croatia,Zagreb,1,3,3,3
+ENV0403,Slovenia,Maribor,4,4,3,4
+ENV0404,Serbia,Belgrade,3,3,4,4
+ENV0405,Kosovo,Pristina,3,5,3,5
+ENV0406,Croatia,Split,3,2,3,3
+ENV0407,North Macedonia,Bitola,4,4,4,5
+ENV0408,Montenegro,Cetinje,4,5,4,5
+ENV0409,Albania,Durrës,4,3,1,4
+ENV0410,Albania,Shkodër,4,2,2,4
+ENV0411,North Macedonia,Ohrid,5,3,2,3
+ENV0412,Serbia,Belgrade,4,4,2,4
+ENV0413,North Macedonia,Skopje,2,2,3,3
+ENV0414,Serbia,Niš,5,3,2,4
+ENV0415,Serbia,Belgrade,4,4,3,4
+ENV0416,Serbia,Belgrade,4,3,3,4
+ENV0417,Albania,Tirana,4,3,3,3
+ENV0418,Kosovo,Pristina,4,5,3,5
+ENV0419,Montenegro,Cetinje,3,3,2,3
+ENV0420,Slovenia,Koper,3,4,2,3
+ENV0421,Kosovo,Pristina,2,3,3,3
+ENV0422,Albania,Durrës,3,4,2,3
+ENV0423,Croatia,Zagreb,3,3,4,4
+ENV0424,Slovenia,Koper,5,4,2,5
+ENV0425,Croatia,Zagreb,3,4,4,4
+ENV0426,Croatia,Rijeka,4,3,3,4
+ENV0427,Serbia,Niš,5,4,4,5
+ENV0428,Croatia,Split,5,5,4,5
+ENV0429,Bosnia and Herzegovina,Banja Luka,4,2,3,4
+ENV0430,Albania,Shkodër,3,4,4,4
+ENV0431,Serbia,Novi Sad,4,4,4,5
+ENV0432,Slovenia,Koper,4,3,2,4
+ENV0433,Montenegro,Cetinje,2,3,3,3
+ENV0434,Serbia,Niš,4,3,2,3
+ENV0435,Serbia,Belgrade,4,3,3,4
+ENV0436,Serbia,Belgrade,4,3,3,4
+ENV0437,Serbia,Novi Sad,2,4,4,3
+ENV0438,Slovenia,Ljubljana,5,3,1,3
+ENV0439,Albania,Shkodër,3,4,4,4
+ENV0440,North Macedonia,Ohrid,3,4,3,4
+ENV0441,Albania,Tirana,3,3,3,4
+ENV0442,Kosovo,Prizren,4,5,2,5
+ENV0443,Albania,Durrës,3,3,4,4
+ENV0444,Croatia,Rijeka,3,5,2,4
+ENV0445,North Macedonia,Bitola,3,4,4,5
+ENV0446,Croatia,Zagreb,3,5,3,3
+ENV0447,Bosnia and Herzegovina,Mostar,4,3,3,4
+ENV0448,Croatia,Split,3,4,3,4
+ENV0449,Albania,Shkodër,4,2,2,3
+ENV0450,Croatia,Split,5,3,2,2
+ENV0451,Croatia,Zagreb,4,5,4,4
+ENV0452,Croatia,Rijeka,3,4,5,5
+ENV0453,North Macedonia,Ohrid,3,3,4,4
+ENV0454,Bosnia and Herzegovina,Mostar,5,3,3,5
+ENV0455,Kosovo,Prizren,5,4,5,5
+ENV0456,Montenegro,Podgorica,3,4,3,3
+ENV0457,Albania,Durrës,5,3,2,4
+ENV0458,Bosnia and Herzegovina,Sarajevo,4,4,2,5
+ENV0459,Albania,Shkodër,4,3,3,4
+ENV0460,Slovenia,Koper,3,4,5,4
+ENV0461,Serbia,Niš,3,4,2,3
+ENV0462,Kosovo,Peja,3,4,1,3
+ENV0463,Serbia,Niš,2,2,3,2
+ENV0464,Bosnia and Herzegovina,Sarajevo,3,5,5,4
+ENV0465,Serbia,Belgrade,3,4,4,5
+ENV0466,Serbia,Novi Sad,4,4,3,4
+ENV0467,Slovenia,Koper,2,3,2,2
+ENV0468,Serbia,Niš,5,3,3,4
+ENV0469,Bosnia and Herzegovina,Mostar,3,4,2,4
+ENV0470,Bosnia and Herzegovina,Sarajevo,3,5,3,4
+ENV0471,Albania,Tirana,4,3,4,5
+ENV0472,Montenegro,Cetinje,4,4,1,5
+ENV0473,Albania,Tirana,3,3,3,4
+ENV0474,Serbia,Niš,3,3,3,4
+ENV0475,Slovenia,Koper,2,4,3,1
+ENV0476,Montenegro,Nikšić,3,3,2,3
+ENV0477,Serbia,Novi Sad,4,5,3,5
+ENV0478,Montenegro,Podgorica,5,4,2,4
+ENV0479,Albania,Tirana,4,3,1,3
+ENV0480,Albania,Durrës,4,3,2,4
+ENV0481,Kosovo,Prizren,4,3,3,4
+ENV0482,Serbia,Belgrade,5,5,1,5
+ENV0483,Serbia,Belgrade,2,5,2,4
+ENV0484,Slovenia,Maribor,3,4,4,5
+ENV0485,Albania,Durrës,5,4,2,5
+ENV0486,Slovenia,Koper,4,4,2,3
+ENV0487,North Macedonia,Bitola,4,2,4,4
+ENV0488,Kosovo,Prizren,3,3,2,3
+ENV0489,Serbia,Niš,4,3,3,4
+ENV0490,Kosovo,Prizren,5,3,5,5
+ENV0491,Croatia,Rijeka,3,3,3,4
+ENV0492,Serbia,Niš,4,3,4,4
+ENV0493,Bosnia and Herzegovina,Banja Luka,2,3,4,3
+ENV0494,Bosnia and Herzegovina,Mostar,5,4,4,5
+ENV0495,Albania,Durrës,3,4,3,4
+ENV0496,Kosovo,Prizren,4,4,3,4
+ENV0497,Serbia,Novi Sad,3,2,2,3
+ENV0498,Bosnia and Herzegovina,Banja Luka,3,4,4,4
+ENV0499,Bosnia and Herzegovina,Mostar,4,3,4,4
+ENV0500,Serbia,Niš,4,4,2,4
+ENV0501,Slovenia,Ljubljana,4,3,1,2
+ENV0502,Serbia,Novi Sad,5,5,2,5
+ENV0503,Montenegro,Cetinje,3,2,4,3
+ENV0504,Croatia,Split,4,4,3,4
+ENV0505,Croatia,Zagreb,5,3,2,4
+ENV0506,Montenegro,Nikšić,3,5,3,3
+ENV0507,Albania,Durrës,3,3,5,5
+ENV0508,Croatia,Split,3,5,3,4
+ENV0509,Albania,Durrës,4,4,2,5
+ENV0510,Albania,Tirana,4,5,3,5
+ENV0511,Albania,Durrës,4,3,3,3
+ENV0512,Serbia,Novi Sad,3,4,3,5
+ENV0513,Bosnia and Herzegovina,Sarajevo,3,2,4,4
+ENV0514,North Macedonia,Ohrid,4,4,4,3
+ENV0515,Montenegro,Podgorica,3,3,3,4
+ENV0516,Serbia,Novi Sad,4,3,2,3
+ENV0517,Albania,Shkodër,3,2,3,4
+ENV0518,Albania,Durrës,4,5,2,4
+ENV0519,Serbia,Belgrade,3,2,4,4
+ENV0520,Serbia,Novi Sad,5,4,3,5
+ENV0521,Slovenia,Maribor,4,3,2,4
+ENV0522,Serbia,Novi Sad,2,2,5,4
+ENV0523,Serbia,Belgrade,4,2,3,3
+ENV0524,Croatia,Rijeka,3,4,2,4
+ENV0525,Croatia,Rijeka,4,4,3,4
+ENV0526,Serbia,Niš,3,2,3,5
+ENV0527,Croatia,Zagreb,3,4,3,4
+ENV0528,Slovenia,Maribor,4,5,4,5
+ENV0529,Albania,Shkodër,5,2,2,5
+ENV0530,Serbia,Belgrade,3,2,2,3
+ENV0531,North Macedonia,Skopje,4,3,4,3
+ENV0532,North Macedonia,Skopje,3,3,4,3
+ENV0533,North Macedonia,Bitola,4,2,3,3
+ENV0534,Albania,Shkodër,4,4,2,4
+ENV0535,Montenegro,Podgorica,3,3,2,3
+ENV0536,Montenegro,Cetinje,3,3,5,4
+ENV0537,Bosnia and Herzegovina,Sarajevo,3,4,3,3
+ENV0538,Serbia,Niš,3,5,5,5
+ENV0539,Slovenia,Koper,3,4,3,5
+ENV0540,Bosnia and Herzegovina,Sarajevo,4,2,3,4
+ENV0541,Kosovo,Peja,3,4,2,4
+ENV0542,Montenegro,Nikšić,3,2,4,4
+ENV0543,Serbia,Niš,4,2,3,4
+ENV0544,Kosovo,Prizren,3,5,2,4
+ENV0545,Serbia,Niš,3,4,3,4
+ENV0546,North Macedonia,Ohrid,4,3,3,5
+ENV0547,North Macedonia,Bitola,3,2,3,3
+ENV0548,Serbia,Niš,3,4,2,4
+ENV0549,Croatia,Zagreb,4,4,3,4
+ENV0550,Kosovo,Pristina,3,4,2,3
+ENV0551,Albania,Durrës,5,3,4,4
+ENV0552,Kosovo,Peja,5,4,3,5
+ENV0553,Serbia,Belgrade,2,4,1,3
+ENV0554,Kosovo,Prizren,3,1,5,3
+ENV0555,Albania,Tirana,5,3,2,5
+ENV0556,North Macedonia,Skopje,3,4,4,5
+ENV0557,Albania,Durrës,3,4,3,4
+ENV0558,Serbia,Novi Sad,4,2,2,3
+ENV0559,Montenegro,Nikšić,3,1,3,4
+ENV0560,Montenegro,Nikšić,3,2,2,4
+ENV0561,Kosovo,Pristina,4,2,2,4
+ENV0562,Slovenia,Ljubljana,4,2,4,4
+ENV0563,Slovenia,Maribor,3,4,3,2
+ENV0564,Serbia,Belgrade,3,5,2,4
+ENV0565,Montenegro,Cetinje,3,4,2,4
+ENV0566,Montenegro,Podgorica,4,2,2,4
+ENV0567,Bosnia and Herzegovina,Sarajevo,4,2,2,3
+ENV0568,North Macedonia,Ohrid,2,4,4,3
+ENV0569,Slovenia,Maribor,4,5,3,5
+ENV0570,North Macedonia,Ohrid,5,5,4,5
+ENV0571,Slovenia,Koper,4,2,3,3
+ENV0572,Serbia,Niš,4,4,3,5
+ENV0573,Croatia,Rijeka,3,2,4,3
+ENV0574,Albania,Durrës,4,3,2,3
+ENV0575,Slovenia,Ljubljana,3,2,2,2
+ENV0576,Serbia,Belgrade,3,4,2,3
+ENV0577,Bosnia and Herzegovina,Sarajevo,4,1,2,3
+ENV0578,Serbia,Belgrade,5,2,3,4
+ENV0579,Serbia,Niš,4,3,1,4
+ENV0580,Croatia,Split,3,4,2,3
+ENV0581,Serbia,Belgrade,3,4,3,4
+ENV0582,Slovenia,Ljubljana,3,4,3,4
+ENV0583,Slovenia,Ljubljana,3,4,3,4
+ENV0584,Kosovo,Prizren,4,3,4,4
+ENV0585,Slovenia,Koper,4,4,4,5
+ENV0586,Serbia,Novi Sad,4,3,1,3
+ENV0587,Slovenia,Koper,3,3,2,3
+ENV0588,Kosovo,Pristina,3,3,2,3
+ENV0589,Bosnia and Herzegovina,Banja Luka,3,3,3,3
+ENV0590,Serbia,Niš,5,4,3,5
+ENV0591,Montenegro,Podgorica,3,4,3,4
+ENV0592,Montenegro,Cetinje,4,3,4,4
+ENV0593,Slovenia,Maribor,5,3,4,4
+ENV0594,North Macedonia,Bitola,4,3,2,5
+ENV0595,North Macedonia,Skopje,3,3,3,3
+ENV0596,Bosnia and Herzegovina,Mostar,5,4,3,5
+ENV0597,North Macedonia,Skopje,4,4,3,4
+ENV0598,North Macedonia,Ohrid,4,4,3,4
+ENV0599,Bosnia and Herzegovina,Sarajevo,4,3,2,4
+ENV0600,Croatia,Split,4,4,3,5
+ENV0601,Slovenia,Maribor,3,3,1,4
+ENV0602,Serbia,Belgrade,4,3,3,4
+ENV0603,Montenegro,Nikšić,4,4,3,5
+ENV0604,Serbia,Novi Sad,3,4,2,3
+ENV0605,North Macedonia,Bitola,4,4,4,4
+ENV0606,Bosnia and Herzegovina,Mostar,5,5,4,5
+ENV0607,Serbia,Novi Sad,3,4,3,4
+ENV0608,North Macedonia,Bitola,5,5,3,4
+ENV0609,Albania,Shkodër,5,4,1,4
+ENV0610,Croatia,Zagreb,2,4,1,4
+ENV0611,Albania,Shkodër,5,4,3,4
+ENV0612,Montenegro,Nikšić,3,4,3,5
+ENV0613,Serbia,Belgrade,3,3,2,3
+ENV0614,North Macedonia,Skopje,4,2,4,3
+ENV0615,Montenegro,Nikšić,4,4,2,4
+ENV0616,Slovenia,Koper,2,5,3,2
+ENV0617,Montenegro,Podgorica,5,5,3,5
+ENV0618,Montenegro,Nikšić,4,5,4,4
+ENV0619,Serbia,Niš,4,3,5,4
+ENV0620,Croatia,Zagreb,5,3,2,3
+ENV0621,Serbia,Niš,2,5,3,3
+ENV0622,Albania,Tirana,3,5,2,4
+ENV0623,Slovenia,Koper,3,3,3,3
+ENV0624,Slovenia,Maribor,1,4,2,4
+ENV0625,Serbia,Niš,4,4,3,5
+ENV0626,Slovenia,Ljubljana,4,2,3,4
+ENV0627,Slovenia,Ljubljana,4,3,3,3
+ENV0628,Albania,Tirana,4,5,3,3
+ENV0629,Croatia,Split,5,3,3,4
+ENV0630,Serbia,Niš,3,3,2,3
+ENV0631,North Macedonia,Ohrid,2,5,4,4
+ENV0632,Bosnia and Herzegovina,Mostar,1,3,3,4
+ENV0633,Kosovo,Peja,2,3,5,3
+ENV0634,Bosnia and Herzegovina,Sarajevo,3,2,3,4
+ENV0635,Croatia,Split,3,4,3,4
+ENV0636,Albania,Tirana,4,4,3,4
+ENV0637,Croatia,Split,5,4,2,5
+ENV0638,Bosnia and Herzegovina,Sarajevo,3,4,4,4
+ENV0639,Serbia,Belgrade,2,5,2,4
+ENV0640,Bosnia and Herzegovina,Sarajevo,3,4,2,3
+ENV0641,Kosovo,Prizren,5,2,4,5
+ENV0642,Albania,Durrës,4,3,3,4
+ENV0643,Bosnia and Herzegovina,Banja Luka,4,3,3,4
+ENV0644,Kosovo,Pristina,4,2,3,4
+ENV0645,Bosnia and Herzegovina,Banja Luka,5,3,1,4
+ENV0646,Bosnia and Herzegovina,Mostar,3,4,3,5
+ENV0647,Bosnia and Herzegovina,Banja Luka,4,3,3,4
+ENV0648,Croatia,Rijeka,3,4,1,2
+ENV0649,Croatia,Split,4,3,4,4
+ENV0650,Kosovo,Prizren,4,3,2,2
+ENV0651,North Macedonia,Ohrid,3,3,3,4
+ENV0652,Bosnia and Herzegovina,Sarajevo,3,4,4,3
+ENV0653,Montenegro,Cetinje,4,2,1,3
+ENV0654,Serbia,Belgrade,2,4,4,4
+ENV0655,Bosnia and Herzegovina,Mostar,5,2,1,4
+ENV0656,Serbia,Novi Sad,3,4,2,2
+ENV0657,Serbia,Novi Sad,2,3,1,3
+ENV0658,Slovenia,Ljubljana,4,3,2,4
+ENV0659,Kosovo,Prizren,4,5,3,5
+ENV0660,Slovenia,Maribor,3,4,2,3
+ENV0661,North Macedonia,Ohrid,5,3,4,5
+ENV0662,Montenegro,Cetinje,3,2,3,3
+ENV0663,Kosovo,Peja,5,5,5,5
+ENV0664,North Macedonia,Skopje,2,3,3,3
+ENV0665,Serbia,Novi Sad,4,5,1,4
+ENV0666,Kosovo,Peja,3,5,2,4
+ENV0667,North Macedonia,Bitola,4,4,3,5
+ENV0668,Bosnia and Herzegovina,Mostar,2,3,3,4
+ENV0669,Montenegro,Podgorica,4,4,3,4
+ENV0670,Bosnia and Herzegovina,Banja Luka,4,4,2,4
+ENV0671,Montenegro,Nikšić,5,3,2,5
+ENV0672,Albania,Tirana,4,5,3,4
+ENV0673,Serbia,Novi Sad,3,5,3,4
+ENV0674,Bosnia and Herzegovina,Sarajevo,5,2,4,4
+ENV0675,Serbia,Niš,2,3,3,3
+ENV0676,North Macedonia,Bitola,5,4,3,4
+ENV0677,Croatia,Split,3,3,2,4
+ENV0678,Slovenia,Maribor,4,2,4,4
+ENV0679,Croatia,Rijeka,3,3,2,2
+ENV0680,North Macedonia,Skopje,5,5,4,5
+ENV0681,Slovenia,Koper,3,4,2,4
+ENV0682,Croatia,Split,3,4,4,4
+ENV0683,Montenegro,Cetinje,3,3,2,3
+ENV0684,Kosovo,Prizren,4,4,3,5
+ENV0685,North Macedonia,Skopje,4,3,4,4
+ENV0686,Bosnia and Herzegovina,Mostar,4,3,3,5
+ENV0687,Slovenia,Ljubljana,4,2,3,3
+ENV0688,Bosnia and Herzegovina,Sarajevo,3,5,4,5
+ENV0689,Serbia,Niš,5,3,4,5
+ENV0690,Serbia,Niš,4,2,4,4
+ENV0691,Bosnia and Herzegovina,Sarajevo,2,4,3,4
+ENV0692,Kosovo,Pristina,4,3,3,4
+ENV0693,Montenegro,Nikšić,3,2,4,3
+ENV0694,Slovenia,Maribor,4,5,4,5
+ENV0695,Slovenia,Ljubljana,3,3,3,4
+ENV0696,Croatia,Zagreb,4,3,1,4
+ENV0697,Kosovo,Prizren,2,5,3,4
+ENV0698,Bosnia and Herzegovina,Sarajevo,3,2,4,3
+ENV0699,Albania,Shkodër,5,3,3,4
+ENV0700,Montenegro,Podgorica,4,3,3,5

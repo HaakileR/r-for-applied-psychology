@@ -1,0 +1,179 @@
+dataset,variable,type,description
+student_wellbeing_balkan.csv,participant_id,string,Synthetic participant identifier
+student_wellbeing_balkan.csv,country,categorical,Balkan country used for teaching examples
+student_wellbeing_balkan.csv,city,categorical,City used for teaching examples
+student_wellbeing_balkan.csv,gender,categorical,Self-reported gender category in synthetic data
+student_wellbeing_balkan.csv,age,numeric,Age in years
+student_wellbeing_balkan.csv,study_year,ordinal,University study year
+student_wellbeing_balkan.csv,sleep_hours,numeric,Average sleep hours per night
+student_wellbeing_balkan.csv,digital_stress,ordinal,"Single-item digital stress indicator, 1-5"
+student_wellbeing_balkan.csv,perceived_stress,numeric,"Synthetic stress scale score, 8-40"
+student_wellbeing_balkan.csv,academic_motivation,numeric,"Synthetic motivation scale score, 8-40"
+student_wellbeing_balkan.csv,wellbeing,numeric,"Synthetic well-being scale score, 8-40"
+digital_learning_adaptation.csv,id,string,Synthetic participant identifier
+digital_learning_adaptation.csv,country,categorical,Country
+digital_learning_adaptation.csv,city,categorical,City
+digital_learning_adaptation.csv,internet_quality,ordinal,"Perceived internet quality, 1-5"
+digital_learning_adaptation.csv,self_regulated_learning,ordinal,"Self-regulated learning, 1-5"
+digital_learning_adaptation.csv,online_fatigue,ordinal,"Online learning fatigue, 1-5"
+digital_learning_adaptation.csv,digital_literacy,ordinal,"Digital literacy self-rating, 1-5"
+digital_learning_adaptation.csv,online_learning_adaptation,ordinal,"Adaptation to online/blended learning, 1-5"
+exam_anxiety_motivation.csv,id,string,Synthetic participant identifier
+exam_anxiety_motivation.csv,country,categorical,Country
+exam_anxiety_motivation.csv,city,categorical,City
+exam_anxiety_motivation.csv,preparation_hours_week,numeric,Weekly preparation hours before exam
+exam_anxiety_motivation.csv,test_anxiety,numeric,"Synthetic test anxiety score, 8-40"
+exam_anxiety_motivation.csv,academic_self_efficacy,numeric,"Synthetic academic self-efficacy score, 8-40"
+exam_anxiety_motivation.csv,exam_score,numeric,"Simulated exam score, 0-100"
+workplace_burnout_public_services.csv,id,string,Synthetic employee identifier
+workplace_burnout_public_services.csv,country,categorical,Country
+workplace_burnout_public_services.csv,city,categorical,City
+workplace_burnout_public_services.csv,sector,categorical,Public service sector
+workplace_burnout_public_services.csv,workload,ordinal,"Perceived workload, 1-5"
+workplace_burnout_public_services.csv,job_autonomy,ordinal,"Perceived autonomy, 1-5"
+workplace_burnout_public_services.csv,supervisor_support,ordinal,"Supervisor support, 1-5"
+workplace_burnout_public_services.csv,emotional_exhaustion,numeric,"Synthetic emotional exhaustion score, 5-35"
+workplace_burnout_public_services.csv,job_satisfaction,ordinal,"Job satisfaction, 1-5"
+school_climate_balkan.csv,id,string,Synthetic student identifier
+school_climate_balkan.csv,country,categorical,Country
+school_climate_balkan.csv,city,categorical,City
+school_climate_balkan.csv,grade,ordinal,"Upper-secondary grade, synthetic"
+school_climate_balkan.csv,school_belonging,ordinal,"School belonging, 1-5"
+school_climate_balkan.csv,teacher_support,ordinal,"Teacher support, 1-5"
+school_climate_balkan.csv,peer_support,ordinal,"Peer support, 1-5"
+school_climate_balkan.csv,classroom_disruption,ordinal,"Classroom disruption, 1-5"
+school_climate_balkan.csv,school_satisfaction,ordinal,"School satisfaction, 1-5"
+mobility_belonging_balkan.csv,id,string,Synthetic participant identifier
+mobility_belonging_balkan.csv,country,categorical,Country
+mobility_belonging_balkan.csv,city,categorical,City
+mobility_belonging_balkan.csv,mobility_experience,categorical,Study/work mobility category
+mobility_belonging_balkan.csv,language_confidence,ordinal,"Language confidence, 1-5"
+mobility_belonging_balkan.csv,social_support,ordinal,"Social support, 1-5"
+mobility_belonging_balkan.csv,sense_of_belonging,ordinal,"Sense of belonging, 1-5"
+mobility_belonging_balkan.csv,adaptation_stress,ordinal,"Stress related to adaptation, 1-5"
+environmental_attitudes_behavior.csv,id,string,Synthetic participant identifier
+environmental_attitudes_behavior.csv,country,categorical,Country
+environmental_attitudes_behavior.csv,city,categorical,City
+environmental_attitudes_behavior.csv,nature_connectedness,ordinal,"Nature connectedness, 1-5"
+environmental_attitudes_behavior.csv,climate_concern,ordinal,"Environmental concern, 1-5"
+environmental_attitudes_behavior.csv,perceived_behavioral_control,ordinal,"Perceived behavioral control, 1-5"
+environmental_attitudes_behavior.csv,pro_environmental_behavior,ordinal,"Pro-environmental behavior, 1-5"
+career_adaptability_youth.csv,id,string,Synthetic participant identifier
+career_adaptability_youth.csv,country,categorical,Country
+career_adaptability_youth.csv,city,categorical,City
+career_adaptability_youth.csv,career_concern,ordinal,"Career concern, 1-5"
+career_adaptability_youth.csv,career_control,ordinal,"Career control, 1-5"
+career_adaptability_youth.csv,career_curiosity,ordinal,"Career curiosity, 1-5"
+career_adaptability_youth.csv,career_confidence,ordinal,"Career confidence, 1-5"
+career_adaptability_youth.csv,perceived_employability,ordinal,"Perceived employability, 1-5"
+emotion_regulation_support.csv,id,string,Synthetic participant identifier
+emotion_regulation_support.csv,country,categorical,Country
+emotion_regulation_support.csv,city,categorical,City
+emotion_regulation_support.csv,cognitive_reappraisal,ordinal,"Cognitive reappraisal, 1-5"
+emotion_regulation_support.csv,expressive_suppression,ordinal,"Expressive suppression, 1-5"
+emotion_regulation_support.csv,family_support,ordinal,"Family support, 1-5"
+emotion_regulation_support.csv,friend_support,ordinal,"Friend support, 1-5"
+emotion_regulation_support.csv,life_satisfaction,ordinal,"Life satisfaction, 1-5"
+sport_motivation_wellbeing.csv,id,string,Synthetic participant identifier
+sport_motivation_wellbeing.csv,country,categorical,Country
+sport_motivation_wellbeing.csv,city,categorical,City
+sport_motivation_wellbeing.csv,sport_type,categorical,Sport participation type
+sport_motivation_wellbeing.csv,intrinsic_motivation,ordinal,"Intrinsic motivation, 1-5"
+sport_motivation_wellbeing.csv,identified_regulation,ordinal,"Identified regulation, 1-5"
+sport_motivation_wellbeing.csv,external_regulation,ordinal,"External regulation, 1-5"
+sport_motivation_wellbeing.csv,training_hours_week,numeric,Weekly training hours
+sport_motivation_wellbeing.csv,sport_wellbeing,ordinal,"Sport-related wellbeing, 1-5"
+media_use_attention.csv,id,string,Synthetic participant identifier
+media_use_attention.csv,country,categorical,Country
+media_use_attention.csv,city,categorical,City
+media_use_attention.csv,daily_screen_hours,numeric,Daily screen hours
+media_use_attention.csv,notification_pressure,ordinal,"Notification pressure, 1-5"
+media_use_attention.csv,mindful_media_use,ordinal,"Mindful media use, 1-5"
+media_use_attention.csv,study_focus,ordinal,"Study focus, 1-5"
+media_use_attention.csv,academic_distraction,ordinal,"Academic distraction, 1-5"
+family_work_balance.csv,id,string,Synthetic participant identifier
+family_work_balance.csv,country,categorical,Country
+family_work_balance.csv,city,categorical,City
+family_work_balance.csv,work_hours_week,numeric,Weekly work hours
+family_work_balance.csv,family_support,ordinal,"Family support, 1-5"
+family_work_balance.csv,work_flexibility,ordinal,"Work flexibility, 1-5"
+family_work_balance.csv,work_family_conflict,ordinal,"Work-family conflict, 1-5"
+family_work_balance.csv,life_satisfaction,ordinal,"Life satisfaction, 1-5"
+research_methods_anxiety.csv,id,string,Synthetic participant identifier
+research_methods_anxiety.csv,country,categorical,Country
+research_methods_anxiety.csv,city,categorical,City
+research_methods_anxiety.csv,prior_statistics_experience,categorical,Previous statistics experience
+research_methods_anxiety.csv,r_confidence,ordinal,"Confidence using R, 1-5"
+research_methods_anxiety.csv,statistics_anxiety,ordinal,"Statistics anxiety, 1-5"
+research_methods_anxiety.csv,help_seeking,ordinal,"Academic help-seeking, 1-5"
+research_methods_anxiety.csv,course_engagement,ordinal,"Course engagement, 1-5"
+tourism_service_psychology.csv,id,string,Synthetic respondent identifier
+tourism_service_psychology.csv,country,categorical,Country
+tourism_service_psychology.csv,city,categorical,City
+tourism_service_psychology.csv,service_quality,ordinal,"Perceived service quality, 1-5"
+tourism_service_psychology.csv,language_comfort,ordinal,"Language comfort in service interaction, 1-5"
+tourism_service_psychology.csv,perceived_warmth,ordinal,"Perceived warmth, 1-5"
+tourism_service_psychology.csv,complaint_intention,ordinal,"Complaint intention, 1-5"
+tourism_service_psychology.csv,visitor_satisfaction,ordinal,"Visitor satisfaction, 1-5"
+teacher_stress_classroom.csv,id,string,Synthetic teacher identifier
+teacher_stress_classroom.csv,country,categorical,Country
+teacher_stress_classroom.csv,city,categorical,City
+teacher_stress_classroom.csv,years_experience,numeric,Years of teaching experience
+teacher_stress_classroom.csv,class_size,numeric,Average class size
+teacher_stress_classroom.csv,administrative_load,ordinal,"Administrative load, 1-5"
+teacher_stress_classroom.csv,teacher_self_efficacy,ordinal,"Teacher self-efficacy, 1-5"
+teacher_stress_classroom.csv,teacher_stress,ordinal,"Teacher stress, 1-5"
+study_skills_intervention_prepost.csv,id,string,Synthetic participant identifier
+study_skills_intervention_prepost.csv,country,categorical,Country
+study_skills_intervention_prepost.csv,city,categorical,City
+study_skills_intervention_prepost.csv,group,categorical,Control or workshop group
+study_skills_intervention_prepost.csv,study_skills_pre,numeric,"Pre-intervention study skills score, 8-40"
+study_skills_intervention_prepost.csv,study_skills_post,numeric,"Post-intervention study skills score, 8-40"
+study_skills_intervention_prepost.csv,workshop_attendance,numeric,Number of workshop sessions attended
+scale_validation_items.csv,id,string,Synthetic participant identifier
+scale_validation_items.csv,country,categorical,Country
+scale_validation_items.csv,city,categorical,City
+scale_validation_items.csv,stress_item_01,ordinal,"Stress item, 1-5"
+scale_validation_items.csv,stress_item_02,ordinal,"Stress item, 1-5"
+scale_validation_items.csv,stress_item_03,ordinal,"Stress item, 1-5"
+scale_validation_items.csv,stress_item_04,ordinal,"Stress item, 1-5"
+scale_validation_items.csv,stress_item_05,ordinal,"Stress item, 1-5"
+scale_validation_items.csv,stress_item_06,ordinal,"Stress item, 1-5"
+scale_validation_items.csv,stress_item_07,ordinal,"Stress item, 1-5"
+scale_validation_items.csv,stress_item_08,ordinal,"Stress item, 1-5"
+scale_validation_items.csv,stress_item_09,ordinal,"Stress item, 1-5"
+scale_validation_items.csv,stress_item_10,ordinal,"Stress item, 1-5"
+scale_validation_items.csv,support_item_01,ordinal,"Support item, 1-5"
+scale_validation_items.csv,support_item_02,ordinal,"Support item, 1-5"
+scale_validation_items.csv,support_item_03,ordinal,"Support item, 1-5"
+scale_validation_items.csv,support_item_04,ordinal,"Support item, 1-5"
+scale_validation_items.csv,support_item_05,ordinal,"Support item, 1-5"
+scale_validation_items.csv,support_item_06,ordinal,"Support item, 1-5"
+scale_validation_items.csv,support_item_07,ordinal,"Support item, 1-5"
+scale_validation_items.csv,support_item_08,ordinal,"Support item, 1-5"
+scale_validation_items.csv,support_item_09,ordinal,"Support item, 1-5"
+scale_validation_items.csv,support_item_10,ordinal,"Support item, 1-5"
+scale_validation_items.csv,stress_total,numeric,Sum score for stress items
+scale_validation_items.csv,support_total,numeric,Sum score for support items
+cross_cultural_values_balkan.csv,id,string,Synthetic participant identifier
+cross_cultural_values_balkan.csv,country,categorical,Country
+cross_cultural_values_balkan.csv,city,categorical,City
+cross_cultural_values_balkan.csv,individual_agency,ordinal,"Individual agency, 1-5"
+cross_cultural_values_balkan.csv,family_obligation,ordinal,"Family obligation, 1-5"
+cross_cultural_values_balkan.csv,community_orientation,ordinal,"Community orientation, 1-5"
+cross_cultural_values_balkan.csv,openness_to_change,ordinal,"Openness to change, 1-5"
+cross_cultural_values_balkan.csv,intercultural_contact,ordinal,"Intercultural contact, 1-5"
+team_psychological_safety.csv,id,string,Synthetic team member identifier
+team_psychological_safety.csv,country,categorical,Country
+team_psychological_safety.csv,city,categorical,City
+team_psychological_safety.csv,team_size,numeric,Team size
+team_psychological_safety.csv,psychological_safety,ordinal,"Psychological safety, 1-5"
+team_psychological_safety.csv,leader_inclusiveness,ordinal,"Leader inclusiveness, 1-5"
+team_psychological_safety.csv,team_learning_behavior,ordinal,"Team learning behavior, 1-5"
+team_psychological_safety.csv,team_performance_rating,ordinal,"Team performance rating, 1-5"
+qualitative_coding_demo.csv,id,string,Synthetic response identifier
+qualitative_coding_demo.csv,country,categorical,Country
+qualitative_coding_demo.csv,city,categorical,City
+qualitative_coding_demo.csv,open_response,text,Synthetic short open response for teaching qualitative coding
+qualitative_coding_demo.csv,primary_theme,categorical,Pre-coded primary theme
+qualitative_coding_demo.csv,sentiment_code,categorical,Simple sentiment code

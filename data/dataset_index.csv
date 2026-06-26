@@ -1,0 +1,21 @@
+file,n_rows,teaching_use
+student_wellbeing_balkan.csv,520,"Student stress, motivation, digital stress, sleep, and well-being"
+digital_learning_adaptation.csv,430,Online learning adaptation among Balkan students
+exam_anxiety_motivation.csv,480,"Exam anxiety, self-efficacy, preparation, and performance"
+workplace_burnout_public_services.csv,390,Burnout-related indicators in public services
+school_climate_balkan.csv,610,"School climate and satisfaction, synthetic"
+mobility_belonging_balkan.csv,360,"Mobility experience, belonging, and adaptation stress"
+environmental_attitudes_behavior.csv,700,Environmental attitudes and behavior
+career_adaptability_youth.csv,450,Career adaptability and employability
+emotion_regulation_support.csv,500,"Emotion regulation, support, and life satisfaction"
+sport_motivation_wellbeing.csv,320,Sport motivation and well-being
+media_use_attention.csv,560,"Media use, focus, and academic distraction"
+family_work_balance.csv,410,Work-family balance and life satisfaction
+research_methods_anxiety.csv,420,Statistics anxiety and R confidence
+tourism_service_psychology.csv,370,Service psychology and tourism satisfaction
+teacher_stress_classroom.csv,330,Teacher stress and classroom context
+study_skills_intervention_prepost.csv,280,Pre-post study skills workshop example
+scale_validation_items.csv,520,Synthetic items for reliability and factor analysis
+cross_cultural_values_balkan.csv,640,Cross-cultural values teaching dataset
+team_psychological_safety.csv,300,Team psychological safety and learning behavior
+qualitative_coding_demo.csv,80,Short synthetic open responses for coding practice

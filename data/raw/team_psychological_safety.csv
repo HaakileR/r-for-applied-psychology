@@ -1,0 +1,301 @@
+id,country,city,team_size,psychological_safety,leader_inclusiveness,team_learning_behavior,team_performance_rating
+TEAM0001,Slovenia,Koper,7,4,4,5,4
+TEAM0002,Albania,Shkodër,12,4,4,4,3
+TEAM0003,North Macedonia,Skopje,3,4,5,5,4
+TEAM0004,Serbia,Belgrade,11,4,5,4,4
+TEAM0005,Slovenia,Ljubljana,12,4,2,3,2
+TEAM0006,Slovenia,Maribor,8,4,3,5,4
+TEAM0007,Albania,Tirana,10,2,3,2,3
+TEAM0008,Albania,Durrës,3,3,2,3,3
+TEAM0009,Croatia,Rijeka,11,2,5,3,3
+TEAM0010,Slovenia,Ljubljana,9,3,2,4,4
+TEAM0011,Montenegro,Nikšić,6,4,2,3,4
+TEAM0012,Serbia,Niš,11,3,4,3,3
+TEAM0013,Croatia,Split,8,5,3,3,3
+TEAM0014,Montenegro,Nikšić,6,4,3,3,4
+TEAM0015,Croatia,Rijeka,9,3,4,4,3
+TEAM0016,North Macedonia,Bitola,3,4,3,3,3
+TEAM0017,Bosnia and Herzegovina,Mostar,5,5,4,5,4
+TEAM0018,Bosnia and Herzegovina,Mostar,9,3,3,3,3
+TEAM0019,Croatia,Rijeka,13,5,3,3,4
+TEAM0020,Serbia,Niš,8,4,5,4,3
+TEAM0021,Kosovo,Prizren,9,5,5,4,3
+TEAM0022,North Macedonia,Skopje,9,4,2,3,3
+TEAM0023,Bosnia and Herzegovina,Banja Luka,11,3,5,4,4
+TEAM0024,Serbia,Niš,7,2,4,4,3
+TEAM0025,Slovenia,Ljubljana,8,2,5,3,2
+TEAM0026,Albania,Durrës,10,3,3,3,3
+TEAM0027,Serbia,Novi Sad,9,3,3,2,3
+TEAM0028,Montenegro,Podgorica,6,4,3,4,3
+TEAM0029,Croatia,Rijeka,3,3,3,4,3
+TEAM0030,Slovenia,Koper,11,2,2,3,2
+TEAM0031,Serbia,Belgrade,10,3,4,3,3
+TEAM0032,Albania,Tirana,3,4,3,4,4
+TEAM0033,Slovenia,Maribor,7,3,4,4,3
+TEAM0034,Croatia,Zagreb,8,4,3,4,3
+TEAM0035,North Macedonia,Ohrid,6,3,4,3,4
+TEAM0036,Kosovo,Peja,7,2,3,3,3
+TEAM0037,Bosnia and Herzegovina,Banja Luka,4,3,3,3,2
+TEAM0038,Slovenia,Ljubljana,3,3,4,4,3
+TEAM0039,Albania,Shkodër,7,3,4,3,3
+TEAM0040,Bosnia and Herzegovina,Banja Luka,6,4,3,3,3
+TEAM0041,Croatia,Split,9,4,2,3,3
+TEAM0042,Albania,Durrës,3,3,3,4,3
+TEAM0043,Albania,Durrës,12,4,3,3,4
+TEAM0044,Kosovo,Prizren,9,3,4,4,2
+TEAM0045,Croatia,Zagreb,8,5,3,5,4
+TEAM0046,Serbia,Belgrade,3,3,5,4,4
+TEAM0047,Bosnia and Herzegovina,Banja Luka,10,4,5,5,4
+TEAM0048,Albania,Tirana,6,3,4,3,2
+TEAM0049,Serbia,Belgrade,10,4,2,4,3
+TEAM0050,Serbia,Novi Sad,8,4,3,5,3
+TEAM0051,Albania,Durrës,6,3,3,3,3
+TEAM0052,Kosovo,Peja,5,4,3,3,3
+TEAM0053,North Macedonia,Ohrid,7,3,4,3,3
+TEAM0054,Slovenia,Maribor,8,5,4,4,3
+TEAM0055,Kosovo,Pristina,7,3,3,3,3
+TEAM0056,Montenegro,Nikšić,6,4,3,4,3
+TEAM0057,Slovenia,Ljubljana,11,3,4,3,2
+TEAM0058,North Macedonia,Skopje,4,3,3,3,2
+TEAM0059,North Macedonia,Ohrid,11,4,3,4,3
+TEAM0060,North Macedonia,Skopje,11,3,4,4,4
+TEAM0061,Slovenia,Ljubljana,3,3,5,3,3
+TEAM0062,Slovenia,Maribor,4,3,3,3,2
+TEAM0063,Montenegro,Podgorica,3,2,4,3,2
+TEAM0064,Albania,Durrës,12,2,4,4,4
+TEAM0065,Serbia,Belgrade,9,3,4,3,3
+TEAM0066,Croatia,Rijeka,9,3,3,3,3
+TEAM0067,Croatia,Zagreb,11,3,4,5,3
+TEAM0068,Kosovo,Peja,9,2,4,3,3
+TEAM0069,Kosovo,Prizren,12,3,3,4,3
+TEAM0070,North Macedonia,Ohrid,7,3,3,2,3
+TEAM0071,Slovenia,Maribor,11,4,4,4,2
+TEAM0072,Bosnia and Herzegovina,Banja Luka,11,3,3,3,2
+TEAM0073,North Macedonia,Skopje,10,4,5,4,4
+TEAM0074,Bosnia and Herzegovina,Sarajevo,8,1,3,3,3
+TEAM0075,Kosovo,Pristina,6,3,3,3,1
+TEAM0076,Montenegro,Nikšić,10,4,4,5,4
+TEAM0077,Bosnia and Herzegovina,Mostar,10,3,4,4,4
+TEAM0078,Croatia,Rijeka,10,3,3,4,3
+TEAM0079,Slovenia,Koper,3,3,3,4,4
+TEAM0080,Kosovo,Pristina,10,4,2,3,2
+TEAM0081,Serbia,Novi Sad,6,2,4,2,1
+TEAM0082,Serbia,Novi Sad,12,4,4,4,3
+TEAM0083,Croatia,Rijeka,11,4,3,4,4
+TEAM0084,Bosnia and Herzegovina,Mostar,7,3,3,4,3
+TEAM0085,Slovenia,Maribor,6,3,4,4,3
+TEAM0086,Croatia,Split,8,2,4,3,3
+TEAM0087,Albania,Durrës,3,4,2,5,5
+TEAM0088,Kosovo,Prizren,3,3,2,3,4
+TEAM0089,Bosnia and Herzegovina,Banja Luka,8,3,3,3,3
+TEAM0090,Slovenia,Ljubljana,6,5,4,4,4
+TEAM0091,North Macedonia,Ohrid,7,2,3,4,3
+TEAM0092,Bosnia and Herzegovina,Mostar,12,5,4,4,5
+TEAM0093,Kosovo,Pristina,8,3,4,3,3
+TEAM0094,Serbia,Novi Sad,6,4,4,4,4
+TEAM0095,Slovenia,Maribor,5,3,3,4,4
+TEAM0096,Kosovo,Peja,8,4,4,4,3
+TEAM0097,Bosnia and Herzegovina,Mostar,6,3,3,3,3
+TEAM0098,Serbia,Belgrade,10,4,3,3,3
+TEAM0099,North Macedonia,Bitola,5,4,3,4,3
+TEAM0100,Albania,Shkodër,7,3,4,4,2
+TEAM0101,Montenegro,Podgorica,8,4,5,3,3
+TEAM0102,Kosovo,Peja,14,2,3,2,1
+TEAM0103,Kosovo,Prizren,8,4,4,4,4
+TEAM0104,Croatia,Rijeka,3,3,5,4,3
+TEAM0105,Albania,Durrës,3,4,3,4,3
+TEAM0106,Albania,Shkodër,8,5,3,5,4
+TEAM0107,Croatia,Rijeka,10,4,3,4,2
+TEAM0108,Serbia,Niš,6,4,2,4,2
+TEAM0109,Slovenia,Maribor,11,4,2,4,4
+TEAM0110,Slovenia,Koper,8,3,3,3,4
+TEAM0111,North Macedonia,Ohrid,4,3,3,4,3
+TEAM0112,Croatia,Rijeka,7,5,3,3,4
+TEAM0113,Albania,Durrës,3,4,3,4,5
+TEAM0114,Kosovo,Prizren,12,3,3,2,2
+TEAM0115,Serbia,Novi Sad,11,3,2,3,2
+TEAM0116,Bosnia and Herzegovina,Mostar,7,3,3,3,3
+TEAM0117,Serbia,Novi Sad,6,4,4,3,2
+TEAM0118,Montenegro,Cetinje,7,2,3,3,3
+TEAM0119,Bosnia and Herzegovina,Sarajevo,9,3,3,4,2
+TEAM0120,Kosovo,Pristina,7,4,3,3,3
+TEAM0121,North Macedonia,Skopje,11,3,3,4,3
+TEAM0122,Albania,Shkodër,5,3,3,4,4
+TEAM0123,Serbia,Novi Sad,10,5,3,4,4
+TEAM0124,North Macedonia,Skopje,8,5,3,4,3
+TEAM0125,Montenegro,Podgorica,5,3,3,4,1
+TEAM0126,Albania,Shkodër,3,4,3,3,3
+TEAM0127,Albania,Durrës,13,4,4,4,5
+TEAM0128,Bosnia and Herzegovina,Sarajevo,7,3,4,3,3
+TEAM0129,Serbia,Niš,12,4,2,4,4
+TEAM0130,Serbia,Niš,10,5,5,5,3
+TEAM0131,Kosovo,Peja,10,4,4,4,4
+TEAM0132,Serbia,Belgrade,6,4,4,3,2
+TEAM0133,Slovenia,Ljubljana,11,2,4,4,3
+TEAM0134,North Macedonia,Ohrid,7,4,3,4,3
+TEAM0135,North Macedonia,Skopje,7,3,2,2,1
+TEAM0136,Croatia,Zagreb,6,3,3,4,4
+TEAM0137,Kosovo,Prizren,3,2,2,2,1
+TEAM0138,Bosnia and Herzegovina,Sarajevo,8,3,3,3,3
+TEAM0139,Albania,Tirana,10,5,4,5,5
+TEAM0140,Montenegro,Podgorica,9,3,4,4,2
+TEAM0141,Serbia,Novi Sad,9,2,5,4,3
+TEAM0142,Croatia,Zagreb,3,2,4,4,3
+TEAM0143,Kosovo,Pristina,11,3,3,3,2
+TEAM0144,Albania,Tirana,7,2,2,3,3
+TEAM0145,Serbia,Novi Sad,10,3,3,4,3
+TEAM0146,North Macedonia,Bitola,6,3,3,2,3
+TEAM0147,Slovenia,Ljubljana,10,3,5,4,4
+TEAM0148,North Macedonia,Skopje,11,3,3,3,3
+TEAM0149,Montenegro,Cetinje,6,3,1,2,5
+TEAM0150,Serbia,Novi Sad,8,3,2,3,2
+TEAM0151,Serbia,Novi Sad,4,4,3,4,3
+TEAM0152,Montenegro,Cetinje,9,3,5,4,2
+TEAM0153,Bosnia and Herzegovina,Sarajevo,13,2,4,3,3
+TEAM0154,Albania,Shkodër,7,4,4,4,4
+TEAM0155,Serbia,Belgrade,5,5,4,5,3
+TEAM0156,Montenegro,Nikšić,8,5,3,4,3
+TEAM0157,Kosovo,Pristina,10,4,3,3,3
+TEAM0158,Kosovo,Prizren,9,4,4,5,5
+TEAM0159,North Macedonia,Bitola,10,3,2,2,2
+TEAM0160,Bosnia and Herzegovina,Sarajevo,6,4,2,4,3
+TEAM0161,Montenegro,Nikšić,7,3,4,3,2
+TEAM0162,Albania,Durrës,5,3,4,4,3
+TEAM0163,Kosovo,Peja,9,4,3,4,3
+TEAM0164,Albania,Shkodër,8,4,4,3,3
+TEAM0165,Kosovo,Peja,4,4,4,4,4
+TEAM0166,North Macedonia,Bitola,3,2,3,2,2
+TEAM0167,Croatia,Rijeka,9,3,5,4,4
+TEAM0168,Albania,Durrës,6,3,3,3,2
+TEAM0169,Montenegro,Podgorica,6,4,3,4,3
+TEAM0170,Slovenia,Koper,5,3,2,4,2
+TEAM0171,Serbia,Belgrade,11,3,4,4,2
+TEAM0172,Albania,Shkodër,8,3,3,3,2
+TEAM0173,Kosovo,Prizren,11,4,3,5,4
+TEAM0174,Bosnia and Herzegovina,Sarajevo,10,3,3,3,2
+TEAM0175,Slovenia,Maribor,6,4,3,3,4
+TEAM0176,Montenegro,Cetinje,8,2,3,2,3
+TEAM0177,North Macedonia,Bitola,8,3,4,4,3
+TEAM0178,Serbia,Niš,9,2,5,3,2
+TEAM0179,North Macedonia,Ohrid,7,5,4,5,5
+TEAM0180,Croatia,Rijeka,7,4,3,4,3
+TEAM0181,Croatia,Rijeka,7,3,3,4,3
+TEAM0182,Croatia,Split,6,3,1,3,2
+TEAM0183,Bosnia and Herzegovina,Sarajevo,12,4,4,3,3
+TEAM0184,Bosnia and Herzegovina,Mostar,9,3,3,3,3
+TEAM0185,North Macedonia,Bitola,11,4,3,3,3
+TEAM0186,Croatia,Split,12,4,1,4,3
+TEAM0187,Bosnia and Herzegovina,Banja Luka,4,3,4,3,2
+TEAM0188,North Macedonia,Skopje,8,4,2,5,4
+TEAM0189,North Macedonia,Ohrid,8,4,3,3,3
+TEAM0190,Serbia,Niš,8,2,4,3,3
+TEAM0191,Montenegro,Cetinje,5,3,4,3,4
+TEAM0192,Kosovo,Peja,3,4,3,4,2
+TEAM0193,Albania,Tirana,15,3,5,4,2
+TEAM0194,Albania,Shkodër,3,3,3,3,3
+TEAM0195,Croatia,Rijeka,12,3,2,4,2
+TEAM0196,Croatia,Zagreb,9,3,5,4,3
+TEAM0197,Albania,Shkodër,9,3,3,2,1
+TEAM0198,Serbia,Belgrade,10,3,2,3,3
+TEAM0199,Bosnia and Herzegovina,Banja Luka,9,2,5,4,2
+TEAM0200,Slovenia,Maribor,6,3,3,5,4
+TEAM0201,Kosovo,Pristina,3,4,5,4,4
+TEAM0202,Serbia,Novi Sad,11,3,2,2,3
+TEAM0203,North Macedonia,Skopje,11,3,5,4,4
+TEAM0204,Croatia,Zagreb,9,4,4,5,4
+TEAM0205,Croatia,Zagreb,9,3,1,2,4
+TEAM0206,Serbia,Novi Sad,11,4,3,3,3
+TEAM0207,Albania,Shkodër,8,4,5,5,4
+TEAM0208,Bosnia and Herzegovina,Banja Luka,7,3,4,3,2
+TEAM0209,Croatia,Split,9,4,2,4,4
+TEAM0210,Albania,Durrës,5,4,5,4,4
+TEAM0211,Croatia,Zagreb,9,3,4,4,4
+TEAM0212,Croatia,Split,3,3,4,3,3
+TEAM0213,Croatia,Split,9,4,2,3,3
+TEAM0214,Bosnia and Herzegovina,Banja Luka,12,3,3,4,3
+TEAM0215,Slovenia,Maribor,8,5,4,4,3
+TEAM0216,Slovenia,Maribor,10,4,3,3,2
+TEAM0217,Kosovo,Peja,10,3,2,3,4
+TEAM0218,North Macedonia,Bitola,10,4,3,4,4
+TEAM0219,Bosnia and Herzegovina,Banja Luka,3,2,1,2,2
+TEAM0220,Kosovo,Peja,10,2,3,2,2
+TEAM0221,Serbia,Niš,11,5,3,4,5
+TEAM0222,Kosovo,Prizren,7,5,4,5,4
+TEAM0223,Croatia,Split,7,3,3,3,1
+TEAM0224,Montenegro,Podgorica,8,2,3,3,3
+TEAM0225,Croatia,Zagreb,9,3,3,3,3
+TEAM0226,Slovenia,Maribor,6,3,3,4,3
+TEAM0227,North Macedonia,Ohrid,3,4,3,3,4
+TEAM0228,Serbia,Niš,3,4,3,5,4
+TEAM0229,Albania,Durrës,6,5,3,4,4
+TEAM0230,Montenegro,Cetinje,11,2,3,3,2
+TEAM0231,North Macedonia,Bitola,6,3,3,3,3
+TEAM0232,Croatia,Split,5,3,3,4,4
+TEAM0233,North Macedonia,Ohrid,5,3,5,4,3
+TEAM0234,Montenegro,Nikšić,11,4,3,3,2
+TEAM0235,Croatia,Split,3,5,2,4,3
+TEAM0236,North Macedonia,Ohrid,11,4,2,4,4
+TEAM0237,Croatia,Split,9,3,3,3,3
+TEAM0238,Albania,Tirana,10,3,4,4,3
+TEAM0239,Bosnia and Herzegovina,Banja Luka,12,3,3,5,4
+TEAM0240,Serbia,Niš,9,3,4,4,4
+TEAM0241,Slovenia,Maribor,7,4,3,4,3
+TEAM0242,Croatia,Rijeka,9,4,4,5,3
+TEAM0243,Albania,Durrës,10,3,4,3,3
+TEAM0244,Bosnia and Herzegovina,Banja Luka,8,4,3,4,3
+TEAM0245,Serbia,Belgrade,10,4,3,3,3
+TEAM0246,North Macedonia,Skopje,8,3,4,3,3
+TEAM0247,Serbia,Niš,8,3,2,3,3
+TEAM0248,Albania,Shkodër,11,3,5,3,4
+TEAM0249,Bosnia and Herzegovina,Mostar,9,4,2,4,3
+TEAM0250,North Macedonia,Skopje,6,4,5,4,4
+TEAM0251,Montenegro,Cetinje,11,4,3,3,3
+TEAM0252,Albania,Shkodër,6,2,3,3,2
+TEAM0253,North Macedonia,Bitola,4,3,3,4,3
+TEAM0254,Croatia,Zagreb,9,3,2,3,3
+TEAM0255,Slovenia,Ljubljana,6,3,4,4,2
+TEAM0256,Albania,Shkodër,9,4,5,5,4
+TEAM0257,Kosovo,Prizren,6,3,5,4,3
+TEAM0258,Bosnia and Herzegovina,Sarajevo,12,4,2,4,4
+TEAM0259,Kosovo,Pristina,3,3,3,3,3
+TEAM0260,Montenegro,Nikšić,8,4,3,5,2
+TEAM0261,Serbia,Niš,7,5,4,5,4
+TEAM0262,Croatia,Rijeka,9,4,3,3,2
+TEAM0263,Montenegro,Nikšić,8,3,4,3,3
+TEAM0264,Slovenia,Ljubljana,7,5,3,5,5
+TEAM0265,Bosnia and Herzegovina,Sarajevo,5,3,3,4,3
+TEAM0266,Serbia,Niš,9,5,4,4,4
+TEAM0267,Albania,Tirana,3,4,5,4,4
+TEAM0268,Slovenia,Maribor,15,3,2,2,2
+TEAM0269,Serbia,Belgrade,3,1,5,4,3
+TEAM0270,Albania,Shkodër,9,3,4,3,4
+TEAM0271,Croatia,Zagreb,10,2,3,3,4
+TEAM0272,Montenegro,Cetinje,10,2,3,3,2
+TEAM0273,Albania,Shkodër,8,2,3,3,2
+TEAM0274,Albania,Shkodër,9,4,4,5,4
+TEAM0275,Bosnia and Herzegovina,Banja Luka,6,3,2,3,3
+TEAM0276,Slovenia,Koper,6,3,3,3,3
+TEAM0277,Croatia,Rijeka,10,4,3,2,3
+TEAM0278,Kosovo,Prizren,9,2,2,3,4
+TEAM0279,Croatia,Split,7,4,5,4,3
+TEAM0280,Montenegro,Podgorica,9,4,4,3,3
+TEAM0281,Croatia,Rijeka,13,4,3,4,5
+TEAM0282,Serbia,Niš,7,4,3,3,3
+TEAM0283,Albania,Shkodër,7,4,3,3,3
+TEAM0284,Montenegro,Cetinje,15,4,3,4,4
+TEAM0285,North Macedonia,Ohrid,8,5,3,4,5
+TEAM0286,North Macedonia,Bitola,6,3,5,5,3
+TEAM0287,North Macedonia,Bitola,9,4,3,4,4
+TEAM0288,North Macedonia,Ohrid,8,4,3,4,3
+TEAM0289,Albania,Durrës,4,3,3,4,4
+TEAM0290,Kosovo,Peja,7,3,3,3,2
+TEAM0291,Serbia,Belgrade,7,3,3,3,3
+TEAM0292,Croatia,Zagreb,3,4,3,3,4
+TEAM0293,Kosovo,Prizren,9,5,3,4,2
+TEAM0294,Albania,Shkodër,10,3,3,3,2
+TEAM0295,Kosovo,Pristina,10,4,4,4,3
+TEAM0296,Kosovo,Prizren,9,3,5,4,4
+TEAM0297,Kosovo,Pristina,7,4,4,4,2
+TEAM0298,Croatia,Split,5,3,4,5,4
+TEAM0299,Serbia,Novi Sad,9,4,4,4,4
+TEAM0300,Albania,Tirana,10,3,3,4,3

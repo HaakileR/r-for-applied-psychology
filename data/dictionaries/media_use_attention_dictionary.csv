@@ -1,0 +1,9 @@
+0,1,2
+id,string,Synthetic participant identifier
+country,categorical,Country
+city,categorical,City
+daily_screen_hours,numeric,Daily screen hours
+notification_pressure,ordinal,"Notification pressure, 1-5"
+mindful_media_use,ordinal,"Mindful media use, 1-5"
+study_focus,ordinal,"Study focus, 1-5"
+academic_distraction,ordinal,"Academic distraction, 1-5"

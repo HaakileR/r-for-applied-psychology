@@ -1,0 +1,391 @@
+id,country,city,sector,workload,job_autonomy,supervisor_support,emotional_exhaustion,job_satisfaction
+WBP0001,Croatia,Zagreb,healthcare,3,2,5,18,5
+WBP0002,North Macedonia,Bitola,education,3,4,4,12,5
+WBP0003,Croatia,Split,public administration,3,4,3,20,4
+WBP0004,Serbia,Belgrade,education,3,2,4,23,4
+WBP0005,Slovenia,Koper,social services,3,3,5,20,5
+WBP0006,Slovenia,Koper,healthcare,3,3,3,19,3
+WBP0007,Albania,Tirana,education,4,4,2,25,3
+WBP0008,Croatia,Split,social services,5,2,3,27,3
+WBP0009,North Macedonia,Ohrid,public administration,1,3,3,7,3
+WBP0010,Kosovo,Pristina,healthcare,4,3,4,12,4
+WBP0011,Croatia,Split,healthcare,3,1,3,16,3
+WBP0012,Slovenia,Maribor,education,4,3,3,20,3
+WBP0013,Albania,Durrës,social services,5,3,4,19,4
+WBP0014,North Macedonia,Bitola,public administration,2,3,4,11,3
+WBP0015,Croatia,Rijeka,public administration,2,2,1,20,2
+WBP0016,Slovenia,Ljubljana,social services,3,3,4,13,4
+WBP0017,Montenegro,Cetinje,public administration,3,3,3,16,4
+WBP0018,Bosnia and Herzegovina,Mostar,healthcare,4,2,3,15,3
+WBP0019,Bosnia and Herzegovina,Mostar,healthcare,2,3,2,8,4
+WBP0020,Bosnia and Herzegovina,Sarajevo,social services,2,4,4,10,4
+WBP0021,Croatia,Rijeka,public administration,4,3,3,19,3
+WBP0022,Croatia,Zagreb,education,4,2,3,23,3
+WBP0023,Croatia,Zagreb,healthcare,1,4,4,5,5
+WBP0024,Montenegro,Nikšić,social services,4,3,3,12,4
+WBP0025,Kosovo,Pristina,public administration,4,3,2,22,3
+WBP0026,Serbia,Niš,education,3,4,4,15,4
+WBP0027,Montenegro,Nikšić,public administration,2,4,3,15,4
+WBP0028,Bosnia and Herzegovina,Sarajevo,education,5,4,2,20,3
+WBP0029,Albania,Tirana,education,2,4,4,6,4
+WBP0030,Montenegro,Podgorica,public administration,3,2,3,14,3
+WBP0031,North Macedonia,Bitola,healthcare,3,4,3,9,5
+WBP0032,North Macedonia,Ohrid,healthcare,4,2,4,19,3
+WBP0033,Croatia,Zagreb,healthcare,2,3,2,14,3
+WBP0034,Albania,Durrës,education,3,2,5,16,4
+WBP0035,Serbia,Belgrade,social services,4,3,4,14,4
+WBP0036,Kosovo,Pristina,public administration,4,2,3,22,2
+WBP0037,Kosovo,Pristina,healthcare,3,2,2,9,2
+WBP0038,North Macedonia,Bitola,social services,3,3,3,10,4
+WBP0039,Albania,Durrës,public administration,3,4,3,9,4
+WBP0040,Kosovo,Pristina,healthcare,3,2,3,18,3
+WBP0041,Kosovo,Prizren,public administration,4,3,4,22,4
+WBP0042,Slovenia,Maribor,education,4,3,3,21,4
+WBP0043,Croatia,Split,healthcare,4,2,4,29,3
+WBP0044,Bosnia and Herzegovina,Banja Luka,healthcare,5,4,4,26,4
+WBP0045,North Macedonia,Bitola,education,3,3,4,19,4
+WBP0046,Albania,Shkodër,social services,3,4,2,11,3
+WBP0047,North Macedonia,Skopje,education,3,3,3,12,4
+WBP0048,Croatia,Rijeka,social services,3,3,3,16,4
+WBP0049,Bosnia and Herzegovina,Banja Luka,public administration,3,4,1,17,3
+WBP0050,Albania,Shkodër,public administration,5,4,3,15,4
+WBP0051,North Macedonia,Skopje,education,5,2,2,30,3
+WBP0052,Croatia,Split,education,4,2,5,21,4
+WBP0053,North Macedonia,Bitola,public administration,2,4,5,5,5
+WBP0054,Serbia,Belgrade,public administration,2,2,3,10,3
+WBP0055,North Macedonia,Skopje,healthcare,4,3,3,20,4
+WBP0056,Croatia,Split,public administration,2,2,2,12,2
+WBP0057,Bosnia and Herzegovina,Sarajevo,social services,4,2,5,16,4
+WBP0058,Kosovo,Pristina,public administration,5,2,3,23,3
+WBP0059,Serbia,Belgrade,public administration,2,2,5,6,4
+WBP0060,Slovenia,Maribor,education,3,4,4,18,5
+WBP0061,Bosnia and Herzegovina,Banja Luka,public administration,4,2,4,24,3
+WBP0062,Albania,Tirana,healthcare,1,3,4,10,4
+WBP0063,Croatia,Zagreb,healthcare,1,4,5,9,5
+WBP0064,Bosnia and Herzegovina,Banja Luka,social services,4,4,3,19,4
+WBP0065,Serbia,Niš,healthcare,3,2,3,19,4
+WBP0066,Montenegro,Nikšić,healthcare,3,1,3,17,3
+WBP0067,Albania,Shkodër,public administration,3,3,4,18,4
+WBP0068,Croatia,Rijeka,public administration,4,3,4,16,5
+WBP0069,Croatia,Zagreb,healthcare,2,4,4,10,4
+WBP0070,Kosovo,Peja,public administration,3,1,1,26,3
+WBP0071,Serbia,Novi Sad,education,3,1,1,17,2
+WBP0072,Croatia,Zagreb,public administration,5,2,2,27,3
+WBP0073,Kosovo,Prizren,education,4,2,2,26,2
+WBP0074,Bosnia and Herzegovina,Sarajevo,education,4,3,4,27,4
+WBP0075,Croatia,Zagreb,public administration,4,2,3,17,3
+WBP0076,Montenegro,Cetinje,healthcare,3,3,3,12,3
+WBP0077,Kosovo,Pristina,public administration,2,3,3,5,3
+WBP0078,Bosnia and Herzegovina,Banja Luka,healthcare,3,3,4,19,3
+WBP0079,Slovenia,Koper,education,3,3,3,21,4
+WBP0080,Serbia,Niš,social services,4,3,4,19,4
+WBP0081,Albania,Tirana,social services,4,5,3,17,5
+WBP0082,Slovenia,Maribor,healthcare,3,4,4,9,5
+WBP0083,Croatia,Zagreb,education,2,3,3,14,4
+WBP0084,Bosnia and Herzegovina,Mostar,public administration,4,4,3,14,5
+WBP0085,Serbia,Belgrade,social services,3,3,3,7,4
+WBP0086,Bosnia and Herzegovina,Sarajevo,education,3,2,4,19,4
+WBP0087,Albania,Durrës,healthcare,4,2,1,21,2
+WBP0088,Albania,Shkodër,social services,4,3,5,15,4
+WBP0089,Kosovo,Prizren,healthcare,4,4,3,23,4
+WBP0090,Bosnia and Herzegovina,Banja Luka,social services,4,4,2,16,3
+WBP0091,Serbia,Novi Sad,social services,3,3,3,15,3
+WBP0092,Slovenia,Ljubljana,social services,5,3,4,22,3
+WBP0093,North Macedonia,Skopje,public administration,3,5,3,18,5
+WBP0094,North Macedonia,Ohrid,education,4,5,3,13,5
+WBP0095,Serbia,Belgrade,healthcare,3,4,3,12,4
+WBP0096,Kosovo,Peja,education,2,3,3,19,4
+WBP0097,Serbia,Novi Sad,social services,4,4,3,18,3
+WBP0098,North Macedonia,Ohrid,public administration,2,3,4,5,5
+WBP0099,Serbia,Novi Sad,healthcare,3,4,3,18,4
+WBP0100,Bosnia and Herzegovina,Banja Luka,healthcare,5,3,1,21,2
+WBP0101,Albania,Durrës,healthcare,3,3,2,19,3
+WBP0102,Albania,Shkodër,education,3,3,2,16,3
+WBP0103,Bosnia and Herzegovina,Banja Luka,healthcare,4,4,3,21,4
+WBP0104,Croatia,Zagreb,public administration,3,4,4,10,5
+WBP0105,Bosnia and Herzegovina,Banja Luka,education,3,3,4,12,5
+WBP0106,Montenegro,Nikšić,healthcare,4,2,4,17,3
+WBP0107,Bosnia and Herzegovina,Sarajevo,healthcare,4,3,4,19,5
+WBP0108,Kosovo,Peja,public administration,4,4,3,18,3
+WBP0109,Bosnia and Herzegovina,Banja Luka,healthcare,4,3,4,22,4
+WBP0110,Montenegro,Cetinje,healthcare,5,4,3,16,4
+WBP0111,Kosovo,Peja,social services,3,2,1,16,2
+WBP0112,Serbia,Belgrade,social services,2,3,3,6,3
+WBP0113,Croatia,Rijeka,education,5,3,4,24,3
+WBP0114,Kosovo,Prizren,education,3,4,4,12,5
+WBP0115,Bosnia and Herzegovina,Sarajevo,healthcare,5,2,3,27,3
+WBP0116,Slovenia,Koper,healthcare,3,3,3,13,4
+WBP0117,Serbia,Niš,public administration,5,4,3,20,4
+WBP0118,Kosovo,Pristina,education,2,4,2,16,3
+WBP0119,Slovenia,Ljubljana,healthcare,3,4,4,22,4
+WBP0120,Albania,Tirana,social services,3,4,4,11,4
+WBP0121,Montenegro,Cetinje,public administration,3,3,3,19,4
+WBP0122,Kosovo,Peja,public administration,1,3,3,9,4
+WBP0123,North Macedonia,Ohrid,healthcare,4,4,3,19,4
+WBP0124,Montenegro,Nikšić,social services,3,2,2,19,3
+WBP0125,Slovenia,Maribor,education,2,4,3,16,5
+WBP0126,Slovenia,Maribor,social services,4,2,4,22,4
+WBP0127,Bosnia and Herzegovina,Sarajevo,social services,5,4,3,22,3
+WBP0128,Serbia,Niš,public administration,3,4,3,22,4
+WBP0129,Bosnia and Herzegovina,Mostar,public administration,4,3,4,14,5
+WBP0130,Albania,Tirana,public administration,5,4,3,23,3
+WBP0131,Kosovo,Peja,public administration,2,4,4,9,5
+WBP0132,Slovenia,Maribor,education,4,4,3,16,4
+WBP0133,North Macedonia,Skopje,public administration,3,3,2,15,3
+WBP0134,Croatia,Rijeka,education,3,3,3,20,4
+WBP0135,Slovenia,Maribor,public administration,5,1,4,27,3
+WBP0136,Albania,Shkodër,healthcare,3,3,3,15,4
+WBP0137,Albania,Shkodër,education,2,4,2,9,3
+WBP0138,Croatia,Zagreb,public administration,4,1,4,24,3
+WBP0139,Albania,Shkodër,public administration,3,2,3,18,3
+WBP0140,Montenegro,Cetinje,education,2,4,4,15,5
+WBP0141,Croatia,Zagreb,healthcare,5,2,3,25,3
+WBP0142,Croatia,Zagreb,public administration,2,5,1,9,4
+WBP0143,Croatia,Zagreb,education,4,3,4,12,4
+WBP0144,North Macedonia,Skopje,education,5,3,3,24,3
+WBP0145,Croatia,Rijeka,social services,5,2,4,32,4
+WBP0146,North Macedonia,Skopje,healthcare,3,3,4,14,4
+WBP0147,Bosnia and Herzegovina,Mostar,public administration,1,4,4,5,5
+WBP0148,Montenegro,Nikšić,social services,5,3,2,24,2
+WBP0149,Montenegro,Nikšić,healthcare,4,2,4,23,3
+WBP0150,Albania,Tirana,social services,4,3,3,8,4
+WBP0151,Bosnia and Herzegovina,Banja Luka,social services,4,4,4,19,5
+WBP0152,Croatia,Zagreb,social services,3,4,4,12,5
+WBP0153,Croatia,Rijeka,education,4,2,4,19,3
+WBP0154,Kosovo,Peja,public administration,2,4,3,11,4
+WBP0155,Serbia,Novi Sad,public administration,5,2,4,24,4
+WBP0156,Slovenia,Koper,education,5,2,4,28,4
+WBP0157,Croatia,Zagreb,education,3,3,5,16,4
+WBP0158,Montenegro,Podgorica,public administration,2,3,2,18,3
+WBP0159,Croatia,Split,education,2,3,4,5,5
+WBP0160,North Macedonia,Bitola,social services,4,5,4,12,5
+WBP0161,Bosnia and Herzegovina,Banja Luka,healthcare,4,4,2,23,4
+WBP0162,North Macedonia,Skopje,public administration,2,4,4,12,5
+WBP0163,Slovenia,Ljubljana,healthcare,4,3,3,23,4
+WBP0164,Serbia,Belgrade,public administration,3,3,3,14,4
+WBP0165,Slovenia,Ljubljana,healthcare,3,4,4,9,5
+WBP0166,Albania,Durrës,healthcare,4,4,4,18,5
+WBP0167,Croatia,Split,healthcare,3,4,4,16,5
+WBP0168,Croatia,Split,education,4,2,4,23,4
+WBP0169,Croatia,Split,social services,4,3,4,24,5
+WBP0170,Bosnia and Herzegovina,Mostar,social services,3,4,4,14,4
+WBP0171,Albania,Tirana,social services,3,4,3,23,4
+WBP0172,Slovenia,Maribor,education,3,3,2,14,3
+WBP0173,Croatia,Zagreb,education,4,2,2,22,2
+WBP0174,North Macedonia,Skopje,healthcare,3,1,4,24,3
+WBP0175,Kosovo,Peja,healthcare,3,3,5,16,5
+WBP0176,Slovenia,Maribor,education,4,4,3,16,5
+WBP0177,Slovenia,Koper,healthcare,4,2,4,18,3
+WBP0178,Kosovo,Peja,healthcare,1,3,2,7,4
+WBP0179,Croatia,Split,public administration,3,5,2,9,4
+WBP0180,North Macedonia,Ohrid,education,3,4,3,8,4
+WBP0181,Serbia,Belgrade,education,3,4,3,14,4
+WBP0182,Croatia,Rijeka,healthcare,5,4,2,18,4
+WBP0183,Serbia,Belgrade,healthcare,5,2,3,27,2
+WBP0184,Kosovo,Pristina,healthcare,4,3,4,18,4
+WBP0185,Bosnia and Herzegovina,Sarajevo,healthcare,3,3,4,18,5
+WBP0186,Slovenia,Maribor,public administration,4,2,4,19,4
+WBP0187,Albania,Shkodër,public administration,5,5,4,24,4
+WBP0188,Slovenia,Koper,healthcare,2,3,3,17,4
+WBP0189,Albania,Durrës,public administration,3,2,3,27,3
+WBP0190,Slovenia,Ljubljana,public administration,4,2,2,23,2
+WBP0191,Kosovo,Pristina,education,3,4,3,8,5
+WBP0192,North Macedonia,Bitola,social services,3,2,4,13,4
+WBP0193,Slovenia,Ljubljana,healthcare,3,2,3,15,3
+WBP0194,Montenegro,Nikšić,healthcare,1,3,2,5,4
+WBP0195,Montenegro,Nikšić,public administration,3,2,3,7,3
+WBP0196,Montenegro,Nikšić,public administration,4,4,2,18,3
+WBP0197,Serbia,Belgrade,social services,3,4,1,17,3
+WBP0198,Croatia,Rijeka,healthcare,4,4,2,23,4
+WBP0199,Kosovo,Peja,healthcare,3,4,3,12,4
+WBP0200,Slovenia,Ljubljana,education,3,3,3,18,4
+WBP0201,Slovenia,Maribor,education,4,5,2,21,5
+WBP0202,Croatia,Zagreb,social services,5,3,3,28,3
+WBP0203,Bosnia and Herzegovina,Mostar,healthcare,4,4,4,21,4
+WBP0204,Croatia,Rijeka,education,3,4,3,18,5
+WBP0205,Montenegro,Nikšić,social services,4,3,3,12,4
+WBP0206,Slovenia,Koper,public administration,3,3,3,18,4
+WBP0207,Montenegro,Podgorica,education,3,2,4,17,3
+WBP0208,Slovenia,Maribor,education,2,1,2,11,2
+WBP0209,Montenegro,Podgorica,social services,3,1,2,18,2
+WBP0210,Kosovo,Pristina,education,3,3,4,21,4
+WBP0211,Bosnia and Herzegovina,Mostar,education,3,1,2,19,3
+WBP0212,Bosnia and Herzegovina,Mostar,education,4,3,4,16,4
+WBP0213,Kosovo,Prizren,social services,4,3,1,22,2
+WBP0214,Montenegro,Cetinje,public administration,3,4,4,18,4
+WBP0215,North Macedonia,Ohrid,public administration,3,2,3,22,3
+WBP0216,North Macedonia,Ohrid,healthcare,3,4,3,13,4
+WBP0217,Serbia,Niš,healthcare,4,4,2,21,4
+WBP0218,Bosnia and Herzegovina,Sarajevo,education,4,3,4,19,4
+WBP0219,Montenegro,Nikšić,healthcare,3,3,4,17,4
+WBP0220,North Macedonia,Bitola,social services,3,2,3,10,3
+WBP0221,Serbia,Novi Sad,public administration,4,2,2,25,2
+WBP0222,Kosovo,Peja,education,3,2,5,15,4
+WBP0223,Kosovo,Pristina,education,2,2,4,13,4
+WBP0224,Montenegro,Podgorica,social services,5,3,3,28,3
+WBP0225,Serbia,Niš,public administration,5,3,3,25,4
+WBP0226,Croatia,Split,public administration,3,3,4,16,4
+WBP0227,Serbia,Belgrade,public administration,3,3,5,11,5
+WBP0228,Slovenia,Ljubljana,healthcare,3,3,2,10,2
+WBP0229,Bosnia and Herzegovina,Banja Luka,public administration,1,3,4,5,4
+WBP0230,Serbia,Belgrade,healthcare,3,3,1,6,2
+WBP0231,Kosovo,Pristina,healthcare,2,3,3,15,3
+WBP0232,Croatia,Rijeka,social services,5,3,5,23,4
+WBP0233,Slovenia,Maribor,education,5,2,3,25,3
+WBP0234,Slovenia,Maribor,public administration,4,3,3,14,4
+WBP0235,Albania,Tirana,education,3,3,2,17,2
+WBP0236,Kosovo,Prizren,social services,3,3,2,21,4
+WBP0237,Bosnia and Herzegovina,Sarajevo,public administration,3,3,5,11,4
+WBP0238,Montenegro,Cetinje,education,3,3,3,20,4
+WBP0239,Montenegro,Cetinje,education,3,3,4,16,4
+WBP0240,North Macedonia,Skopje,healthcare,4,4,3,21,4
+WBP0241,Bosnia and Herzegovina,Sarajevo,social services,2,1,3,12,3
+WBP0242,Serbia,Belgrade,public administration,2,3,2,11,4
+WBP0243,Serbia,Novi Sad,healthcare,4,2,2,26,2
+WBP0244,Montenegro,Podgorica,healthcare,2,4,3,9,5
+WBP0245,North Macedonia,Skopje,healthcare,2,4,4,5,5
+WBP0246,Albania,Shkodër,public administration,2,3,2,5,4
+WBP0247,Bosnia and Herzegovina,Sarajevo,public administration,3,3,3,9,3
+WBP0248,Bosnia and Herzegovina,Sarajevo,education,5,3,3,26,3
+WBP0249,Bosnia and Herzegovina,Mostar,education,5,2,4,18,3
+WBP0250,Albania,Durrës,healthcare,4,2,4,19,3
+WBP0251,Bosnia and Herzegovina,Banja Luka,social services,4,1,2,21,1
+WBP0252,Kosovo,Pristina,social services,4,3,4,23,4
+WBP0253,Montenegro,Cetinje,education,4,3,4,15,4
+WBP0254,Serbia,Niš,social services,2,2,4,12,4
+WBP0255,Bosnia and Herzegovina,Banja Luka,education,3,3,1,19,2
+WBP0256,Croatia,Split,public administration,3,3,4,11,5
+WBP0257,Serbia,Novi Sad,healthcare,2,2,3,18,4
+WBP0258,Bosnia and Herzegovina,Sarajevo,social services,4,2,3,23,3
+WBP0259,Croatia,Zagreb,education,3,5,2,15,4
+WBP0260,Croatia,Split,education,3,3,5,9,5
+WBP0261,Kosovo,Pristina,education,4,4,3,18,4
+WBP0262,North Macedonia,Bitola,social services,4,2,3,19,3
+WBP0263,North Macedonia,Ohrid,healthcare,4,5,3,21,4
+WBP0264,Albania,Shkodër,education,3,4,2,14,4
+WBP0265,Albania,Durrës,education,3,3,2,28,3
+WBP0266,Kosovo,Prizren,education,3,3,4,10,4
+WBP0267,Slovenia,Koper,education,4,3,3,16,4
+WBP0268,Slovenia,Ljubljana,social services,4,2,3,17,3
+WBP0269,Slovenia,Ljubljana,education,3,3,3,16,4
+WBP0270,Kosovo,Prizren,social services,4,2,3,19,4
+WBP0271,Kosovo,Pristina,education,2,3,3,12,4
+WBP0272,Montenegro,Podgorica,public administration,5,2,4,27,3
+WBP0273,Montenegro,Cetinje,healthcare,3,4,2,10,3
+WBP0274,Albania,Shkodër,social services,4,2,3,27,3
+WBP0275,Bosnia and Herzegovina,Sarajevo,healthcare,3,4,2,19,3
+WBP0276,Croatia,Zagreb,social services,4,3,4,22,4
+WBP0277,Kosovo,Pristina,public administration,3,3,4,16,4
+WBP0278,North Macedonia,Bitola,healthcare,5,3,4,19,4
+WBP0279,Montenegro,Cetinje,education,2,4,3,10,3
+WBP0280,North Macedonia,Bitola,public administration,5,3,4,23,4
+WBP0281,Albania,Durrës,healthcare,4,2,3,28,2
+WBP0282,Croatia,Split,social services,5,4,3,25,4
+WBP0283,Serbia,Belgrade,education,2,3,4,11,5
+WBP0284,Serbia,Niš,public administration,5,2,3,20,4
+WBP0285,Kosovo,Pristina,public administration,3,3,2,11,4
+WBP0286,Slovenia,Ljubljana,healthcare,3,2,4,18,3
+WBP0287,Montenegro,Nikšić,healthcare,3,5,2,14,3
+WBP0288,Slovenia,Koper,healthcare,4,2,4,28,3
+WBP0289,Kosovo,Prizren,social services,4,2,3,22,3
+WBP0290,Slovenia,Koper,public administration,3,4,2,22,4
+WBP0291,Kosovo,Prizren,healthcare,5,3,2,26,2
+WBP0292,Croatia,Zagreb,education,3,2,3,24,3
+WBP0293,Albania,Durrës,healthcare,3,3,5,10,5
+WBP0294,Albania,Shkodër,education,3,3,4,14,4
+WBP0295,Croatia,Rijeka,public administration,3,3,3,24,4
+WBP0296,Slovenia,Ljubljana,social services,4,3,2,23,3
+WBP0297,Bosnia and Herzegovina,Mostar,public administration,5,3,2,26,3
+WBP0298,Kosovo,Peja,social services,5,2,2,21,3
+WBP0299,Bosnia and Herzegovina,Banja Luka,education,4,3,2,21,2
+WBP0300,Croatia,Rijeka,healthcare,3,4,2,15,4
+WBP0301,Croatia,Split,healthcare,4,3,3,20,2
+WBP0302,Albania,Tirana,social services,3,2,4,20,4
+WBP0303,Serbia,Belgrade,social services,3,3,2,21,3
+WBP0304,Montenegro,Nikšić,social services,4,2,3,15,1
+WBP0305,Bosnia and Herzegovina,Mostar,education,2,3,4,13,4
+WBP0306,North Macedonia,Ohrid,public administration,3,1,4,17,3
+WBP0307,Croatia,Zagreb,public administration,1,2,4,9,4
+WBP0308,Croatia,Rijeka,public administration,3,3,2,25,3
+WBP0309,Montenegro,Nikšić,social services,2,2,2,11,3
+WBP0310,Kosovo,Prizren,education,2,2,1,12,2
+WBP0311,Slovenia,Maribor,public administration,3,3,2,22,4
+WBP0312,Croatia,Split,social services,4,3,3,22,4
+WBP0313,Croatia,Zagreb,education,4,4,3,14,5
+WBP0314,Albania,Shkodër,public administration,3,4,4,7,5
+WBP0315,Bosnia and Herzegovina,Mostar,healthcare,2,3,3,12,4
+WBP0316,Croatia,Rijeka,social services,4,4,4,14,4
+WBP0317,Montenegro,Cetinje,social services,3,3,4,15,4
+WBP0318,Croatia,Zagreb,public administration,4,3,4,22,3
+WBP0319,Croatia,Split,healthcare,5,3,5,15,4
+WBP0320,Serbia,Novi Sad,education,3,3,4,14,4
+WBP0321,Slovenia,Ljubljana,public administration,5,3,5,14,3
+WBP0322,Serbia,Niš,public administration,2,3,4,11,5
+WBP0323,North Macedonia,Bitola,public administration,3,2,2,16,3
+WBP0324,Croatia,Split,healthcare,4,2,4,18,4
+WBP0325,Serbia,Belgrade,social services,4,2,3,21,3
+WBP0326,North Macedonia,Skopje,healthcare,2,2,3,17,4
+WBP0327,Kosovo,Peja,healthcare,2,1,3,12,3
+WBP0328,Croatia,Rijeka,social services,4,4,4,20,5
+WBP0329,Serbia,Belgrade,public administration,3,3,2,18,3
+WBP0330,Kosovo,Prizren,healthcare,3,2,3,12,3
+WBP0331,Slovenia,Koper,public administration,5,2,3,20,2
+WBP0332,North Macedonia,Ohrid,social services,5,1,2,19,2
+WBP0333,Kosovo,Peja,healthcare,2,4,5,5,5
+WBP0334,Croatia,Split,education,5,3,4,29,5
+WBP0335,Croatia,Zagreb,social services,4,4,3,20,5
+WBP0336,Bosnia and Herzegovina,Mostar,social services,3,4,3,12,4
+WBP0337,North Macedonia,Ohrid,public administration,3,4,3,18,5
+WBP0338,Bosnia and Herzegovina,Mostar,public administration,3,3,2,15,3
+WBP0339,Slovenia,Maribor,public administration,4,3,3,27,4
+WBP0340,Slovenia,Ljubljana,social services,3,3,3,14,4
+WBP0341,Albania,Durrës,healthcare,4,3,4,15,4
+WBP0342,Serbia,Niš,public administration,4,3,2,21,2
+WBP0343,North Macedonia,Bitola,education,5,3,2,23,4
+WBP0344,Albania,Durrës,social services,4,3,2,19,3
+WBP0345,Bosnia and Herzegovina,Banja Luka,social services,4,2,5,20,4
+WBP0346,Slovenia,Ljubljana,public administration,3,3,3,18,4
+WBP0347,Slovenia,Ljubljana,social services,5,3,4,16,4
+WBP0348,Serbia,Belgrade,social services,3,3,5,15,5
+WBP0349,Bosnia and Herzegovina,Mostar,education,2,3,2,15,3
+WBP0350,North Macedonia,Bitola,public administration,4,4,3,15,4
+WBP0351,Kosovo,Peja,social services,1,3,2,12,3
+WBP0352,North Macedonia,Ohrid,public administration,5,3,4,27,4
+WBP0353,Kosovo,Pristina,education,4,4,3,13,4
+WBP0354,Kosovo,Prizren,social services,4,3,3,19,3
+WBP0355,Bosnia and Herzegovina,Banja Luka,social services,4,3,3,24,4
+WBP0356,Montenegro,Podgorica,public administration,4,2,3,19,3
+WBP0357,Croatia,Zagreb,education,4,2,3,22,3
+WBP0358,Kosovo,Peja,public administration,5,4,5,14,4
+WBP0359,Croatia,Split,social services,4,4,4,21,5
+WBP0360,Slovenia,Maribor,public administration,4,2,4,21,2
+WBP0361,Montenegro,Podgorica,education,5,2,2,34,3
+WBP0362,Montenegro,Podgorica,education,2,2,3,9,4
+WBP0363,Montenegro,Cetinje,public administration,3,3,2,15,4
+WBP0364,Croatia,Split,public administration,3,3,3,13,4
+WBP0365,Bosnia and Herzegovina,Banja Luka,education,3,3,3,13,4
+WBP0366,Slovenia,Ljubljana,social services,2,4,3,15,4
+WBP0367,Serbia,Belgrade,social services,3,4,5,15,5
+WBP0368,Kosovo,Pristina,healthcare,3,3,2,13,3
+WBP0369,North Macedonia,Bitola,education,1,4,3,7,4
+WBP0370,Slovenia,Ljubljana,public administration,3,4,3,8,4
+WBP0371,North Macedonia,Skopje,healthcare,1,3,4,5,5
+WBP0372,North Macedonia,Bitola,public administration,3,4,3,10,4
+WBP0373,Serbia,Novi Sad,healthcare,3,2,3,22,2
+WBP0374,Bosnia and Herzegovina,Banja Luka,public administration,2,4,3,10,4
+WBP0375,Kosovo,Prizren,healthcare,4,2,4,20,3
+WBP0376,Kosovo,Pristina,social services,3,3,3,22,3
+WBP0377,Slovenia,Koper,education,1,2,3,5,3
+WBP0378,Slovenia,Koper,healthcare,3,4,4,14,5
+WBP0379,Croatia,Rijeka,healthcare,2,4,4,21,4
+WBP0380,Bosnia and Herzegovina,Banja Luka,education,5,1,3,26,2
+WBP0381,Kosovo,Peja,public administration,4,3,4,14,4
+WBP0382,Montenegro,Nikšić,social services,1,3,4,5,4
+WBP0383,Bosnia and Herzegovina,Sarajevo,social services,3,3,4,5,4
+WBP0384,Montenegro,Cetinje,public administration,2,4,2,15,4
+WBP0385,Montenegro,Podgorica,social services,4,2,3,21,4
+WBP0386,Bosnia and Herzegovina,Banja Luka,healthcare,4,3,2,16,3
+WBP0387,Croatia,Split,education,3,3,4,8,5
+WBP0388,Bosnia and Herzegovina,Mostar,social services,4,3,5,10,5
+WBP0389,Kosovo,Pristina,public administration,3,4,3,12,4
+WBP0390,Kosovo,Pristina,healthcare,4,4,5,10,5

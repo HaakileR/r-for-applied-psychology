@@ -1,0 +1,10 @@
+0,1,2
+id,string,Synthetic employee identifier
+country,categorical,Country
+city,categorical,City
+sector,categorical,Public service sector
+workload,ordinal,"Perceived workload, 1-5"
+job_autonomy,ordinal,"Perceived autonomy, 1-5"
+supervisor_support,ordinal,"Supervisor support, 1-5"
+emotional_exhaustion,numeric,"Synthetic emotional exhaustion score, 5-35"
+job_satisfaction,ordinal,"Job satisfaction, 1-5"

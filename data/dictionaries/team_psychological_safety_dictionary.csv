@@ -1,0 +1,9 @@
+0,1,2
+id,string,Synthetic team member identifier
+country,categorical,Country
+city,categorical,City
+team_size,numeric,Team size
+psychological_safety,ordinal,"Psychological safety, 1-5"
+leader_inclusiveness,ordinal,"Leader inclusiveness, 1-5"
+team_learning_behavior,ordinal,"Team learning behavior, 1-5"
+team_performance_rating,ordinal,"Team performance rating, 1-5"

@@ -1,0 +1,12 @@
+0,1,2
+participant_id,string,Synthetic participant identifier
+country,categorical,Balkan country used for teaching examples
+city,categorical,City used for teaching examples
+gender,categorical,Self-reported gender category in synthetic data
+age,numeric,Age in years
+study_year,ordinal,University study year
+sleep_hours,numeric,Average sleep hours per night
+digital_stress,ordinal,"Single-item digital stress indicator, 1-5"
+perceived_stress,numeric,"Synthetic stress scale score, 8-40"
+academic_motivation,numeric,"Synthetic motivation scale score, 8-40"
+wellbeing,numeric,"Synthetic well-being scale score, 8-40"

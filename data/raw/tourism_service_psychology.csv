@@ -1,0 +1,371 @@
+id,country,city,service_quality,language_comfort,perceived_warmth,complaint_intention,visitor_satisfaction
+TOU0001,Slovenia,Maribor,5,3,5,2,5
+TOU0002,North Macedonia,Bitola,4,3,3,2,4
+TOU0003,Serbia,Novi Sad,3,4,4,2,5
+TOU0004,Slovenia,Ljubljana,4,5,4,3,4
+TOU0005,Albania,Durrës,5,2,4,3,5
+TOU0006,Serbia,Novi Sad,5,3,2,2,5
+TOU0007,North Macedonia,Bitola,3,4,3,2,5
+TOU0008,Kosovo,Pristina,5,4,4,3,5
+TOU0009,Slovenia,Ljubljana,2,4,4,2,4
+TOU0010,Serbia,Niš,5,3,4,1,5
+TOU0011,Slovenia,Ljubljana,4,3,2,2,3
+TOU0012,Croatia,Zagreb,3,3,4,2,4
+TOU0013,Kosovo,Pristina,3,2,3,3,4
+TOU0014,Croatia,Rijeka,4,3,4,1,5
+TOU0015,Slovenia,Koper,4,2,4,2,4
+TOU0016,Slovenia,Maribor,3,5,3,3,4
+TOU0017,Albania,Durrës,3,5,4,3,5
+TOU0018,Slovenia,Koper,3,4,5,2,5
+TOU0019,Croatia,Rijeka,4,3,3,1,4
+TOU0020,North Macedonia,Ohrid,4,3,4,3,5
+TOU0021,Albania,Shkodër,2,5,4,4,4
+TOU0022,Montenegro,Cetinje,4,3,5,2,5
+TOU0023,Serbia,Belgrade,4,3,5,2,4
+TOU0024,Croatia,Zagreb,3,2,3,2,4
+TOU0025,Bosnia and Herzegovina,Sarajevo,3,2,3,4,4
+TOU0026,Montenegro,Nikšić,5,4,5,3,5
+TOU0027,Slovenia,Koper,5,2,4,3,5
+TOU0028,Croatia,Zagreb,3,3,4,3,4
+TOU0029,Croatia,Rijeka,4,4,3,4,3
+TOU0030,Slovenia,Ljubljana,5,4,3,2,4
+TOU0031,Albania,Tirana,4,2,3,2,5
+TOU0032,Croatia,Split,3,4,5,2,4
+TOU0033,Bosnia and Herzegovina,Banja Luka,3,3,4,2,3
+TOU0034,Montenegro,Cetinje,3,3,5,2,4
+TOU0035,Serbia,Belgrade,4,4,3,3,5
+TOU0036,Albania,Shkodër,3,4,4,1,3
+TOU0037,Slovenia,Koper,3,4,4,2,5
+TOU0038,Bosnia and Herzegovina,Banja Luka,3,3,4,3,5
+TOU0039,North Macedonia,Ohrid,3,4,2,2,3
+TOU0040,Serbia,Niš,5,4,4,1,5
+TOU0041,Kosovo,Prizren,4,2,4,2,5
+TOU0042,Montenegro,Nikšić,2,4,4,3,5
+TOU0043,Montenegro,Cetinje,3,3,2,3,5
+TOU0044,Bosnia and Herzegovina,Banja Luka,4,1,2,3,4
+TOU0045,Montenegro,Cetinje,2,3,2,3,3
+TOU0046,Croatia,Split,4,1,4,3,3
+TOU0047,Slovenia,Koper,5,3,3,2,5
+TOU0048,North Macedonia,Skopje,3,4,4,3,5
+TOU0049,Kosovo,Prizren,5,2,5,1,5
+TOU0050,Croatia,Zagreb,4,3,3,2,4
+TOU0051,Montenegro,Cetinje,3,4,3,4,5
+TOU0052,North Macedonia,Ohrid,5,4,4,1,5
+TOU0053,Serbia,Niš,4,3,4,2,5
+TOU0054,Montenegro,Cetinje,3,4,4,3,4
+TOU0055,Serbia,Niš,4,4,4,3,5
+TOU0056,North Macedonia,Ohrid,3,3,4,2,4
+TOU0057,Kosovo,Peja,2,3,3,5,4
+TOU0058,Montenegro,Nikšić,2,4,5,2,4
+TOU0059,Montenegro,Podgorica,4,3,4,3,3
+TOU0060,Slovenia,Koper,5,4,4,3,4
+TOU0061,Croatia,Split,5,3,3,3,5
+TOU0062,North Macedonia,Bitola,4,4,3,3,4
+TOU0063,Montenegro,Podgorica,3,3,4,4,4
+TOU0064,Bosnia and Herzegovina,Sarajevo,4,4,4,2,5
+TOU0065,Serbia,Belgrade,4,3,4,3,5
+TOU0066,Serbia,Novi Sad,3,4,3,4,4
+TOU0067,Slovenia,Ljubljana,3,3,4,4,4
+TOU0068,North Macedonia,Ohrid,4,2,4,2,5
+TOU0069,Croatia,Split,3,4,4,3,5
+TOU0070,Serbia,Novi Sad,3,3,4,4,4
+TOU0071,Montenegro,Nikšić,4,4,3,3,3
+TOU0072,Kosovo,Pristina,4,3,4,1,4
+TOU0073,Kosovo,Prizren,5,5,5,1,4
+TOU0074,Bosnia and Herzegovina,Sarajevo,3,3,4,3,4
+TOU0075,Bosnia and Herzegovina,Sarajevo,3,4,5,2,5
+TOU0076,Serbia,Novi Sad,3,2,4,2,5
+TOU0077,Croatia,Split,5,2,3,2,4
+TOU0078,Albania,Tirana,3,4,3,3,4
+TOU0079,Slovenia,Ljubljana,5,4,4,2,5
+TOU0080,Serbia,Belgrade,4,4,4,3,5
+TOU0081,Montenegro,Podgorica,4,5,4,1,5
+TOU0082,Serbia,Belgrade,3,3,3,3,4
+TOU0083,North Macedonia,Bitola,4,2,3,3,4
+TOU0084,Slovenia,Maribor,5,3,2,2,4
+TOU0085,Montenegro,Cetinje,4,3,3,2,5
+TOU0086,Kosovo,Prizren,3,4,4,3,4
+TOU0087,Montenegro,Nikšić,4,3,5,2,5
+TOU0088,Kosovo,Peja,4,3,4,2,5
+TOU0089,Serbia,Belgrade,3,5,4,3,4
+TOU0090,Slovenia,Maribor,4,3,2,2,4
+TOU0091,Bosnia and Herzegovina,Sarajevo,2,4,4,3,4
+TOU0092,North Macedonia,Ohrid,5,4,5,1,5
+TOU0093,Montenegro,Cetinje,5,3,5,1,5
+TOU0094,Bosnia and Herzegovina,Mostar,2,5,4,4,3
+TOU0095,Kosovo,Pristina,5,3,4,1,5
+TOU0096,Slovenia,Ljubljana,4,4,2,3,5
+TOU0097,Montenegro,Nikšić,5,4,4,1,5
+TOU0098,Kosovo,Pristina,5,2,3,4,4
+TOU0099,Montenegro,Podgorica,4,3,4,1,5
+TOU0100,Bosnia and Herzegovina,Mostar,3,3,5,2,4
+TOU0101,Kosovo,Prizren,4,3,2,1,4
+TOU0102,Slovenia,Ljubljana,4,2,3,3,4
+TOU0103,Bosnia and Herzegovina,Mostar,4,3,3,1,4
+TOU0104,Montenegro,Nikšić,4,4,3,2,4
+TOU0105,Croatia,Rijeka,3,4,5,2,5
+TOU0106,Croatia,Rijeka,5,3,5,2,5
+TOU0107,Montenegro,Nikšić,4,2,4,3,5
+TOU0108,Montenegro,Podgorica,3,4,4,2,5
+TOU0109,Croatia,Zagreb,5,3,5,1,5
+TOU0110,Serbia,Novi Sad,4,3,4,3,5
+TOU0111,Croatia,Zagreb,3,4,4,3,4
+TOU0112,Serbia,Niš,3,3,3,4,4
+TOU0113,Montenegro,Podgorica,3,3,5,2,4
+TOU0114,North Macedonia,Bitola,3,3,3,4,4
+TOU0115,Croatia,Zagreb,4,3,3,2,4
+TOU0116,Slovenia,Ljubljana,3,4,3,2,4
+TOU0117,North Macedonia,Bitola,3,1,4,2,3
+TOU0118,Bosnia and Herzegovina,Banja Luka,4,3,3,4,4
+TOU0119,Montenegro,Podgorica,2,3,4,4,4
+TOU0120,Kosovo,Peja,4,5,4,3,5
+TOU0121,North Macedonia,Skopje,2,3,4,4,3
+TOU0122,Slovenia,Koper,4,2,4,1,4
+TOU0123,Bosnia and Herzegovina,Mostar,3,3,4,2,5
+TOU0124,Croatia,Zagreb,2,3,2,2,3
+TOU0125,Albania,Durrës,4,5,4,3,5
+TOU0126,North Macedonia,Bitola,4,2,4,2,4
+TOU0127,Croatia,Split,3,2,4,3,4
+TOU0128,Serbia,Novi Sad,3,5,4,2,5
+TOU0129,Serbia,Niš,3,2,3,3,3
+TOU0130,Albania,Durrës,4,1,1,4,3
+TOU0131,Serbia,Niš,2,3,5,3,3
+TOU0132,Albania,Durrës,4,5,4,3,5
+TOU0133,Albania,Durrës,3,1,3,4,3
+TOU0134,Serbia,Novi Sad,4,1,4,2,4
+TOU0135,Serbia,Novi Sad,4,3,5,1,5
+TOU0136,Bosnia and Herzegovina,Mostar,4,4,5,3,5
+TOU0137,Bosnia and Herzegovina,Banja Luka,4,5,3,3,5
+TOU0138,Croatia,Zagreb,3,3,4,2,4
+TOU0139,Croatia,Zagreb,3,3,4,3,4
+TOU0140,North Macedonia,Ohrid,3,5,3,3,4
+TOU0141,Montenegro,Nikšić,3,3,3,3,4
+TOU0142,Montenegro,Podgorica,5,4,4,1,4
+TOU0143,Serbia,Belgrade,3,5,4,2,5
+TOU0144,Montenegro,Cetinje,5,5,5,1,5
+TOU0145,Montenegro,Podgorica,5,2,5,1,5
+TOU0146,Croatia,Zagreb,3,4,4,3,4
+TOU0147,Croatia,Split,5,3,3,2,4
+TOU0148,Slovenia,Maribor,3,4,5,2,5
+TOU0149,Montenegro,Nikšić,3,3,4,3,5
+TOU0150,Serbia,Novi Sad,5,4,2,1,5
+TOU0151,Slovenia,Maribor,4,3,5,1,4
+TOU0152,Bosnia and Herzegovina,Mostar,3,3,5,2,4
+TOU0153,Serbia,Belgrade,4,4,4,2,5
+TOU0154,Albania,Shkodër,3,4,3,3,4
+TOU0155,Croatia,Zagreb,4,3,3,4,4
+TOU0156,Serbia,Niš,3,2,5,3,4
+TOU0157,Croatia,Zagreb,4,4,3,4,4
+TOU0158,Kosovo,Prizren,5,4,2,3,4
+TOU0159,Serbia,Belgrade,3,3,5,2,4
+TOU0160,Albania,Shkodër,4,4,4,2,4
+TOU0161,Serbia,Belgrade,4,5,4,2,5
+TOU0162,Croatia,Rijeka,4,2,5,3,4
+TOU0163,Serbia,Niš,4,2,4,2,5
+TOU0164,Croatia,Split,4,3,4,3,4
+TOU0165,Slovenia,Ljubljana,2,4,4,4,3
+TOU0166,Montenegro,Cetinje,4,5,5,2,5
+TOU0167,Slovenia,Maribor,3,4,4,3,4
+TOU0168,Serbia,Niš,4,4,4,1,5
+TOU0169,Bosnia and Herzegovina,Mostar,2,2,3,4,4
+TOU0170,Bosnia and Herzegovina,Mostar,3,3,4,3,3
+TOU0171,Albania,Shkodër,4,3,3,2,4
+TOU0172,Kosovo,Prizren,5,2,4,3,4
+TOU0173,Serbia,Belgrade,4,3,4,1,4
+TOU0174,Croatia,Split,3,3,3,3,4
+TOU0175,Slovenia,Koper,3,4,4,3,3
+TOU0176,Slovenia,Koper,3,4,3,3,3
+TOU0177,Bosnia and Herzegovina,Mostar,3,5,5,3,5
+TOU0178,Croatia,Rijeka,5,3,3,3,4
+TOU0179,Croatia,Split,3,5,3,3,5
+TOU0180,Bosnia and Herzegovina,Banja Luka,4,3,3,2,4
+TOU0181,Serbia,Novi Sad,4,3,3,2,4
+TOU0182,North Macedonia,Bitola,4,3,3,3,4
+TOU0183,Bosnia and Herzegovina,Mostar,3,4,5,3,5
+TOU0184,Croatia,Zagreb,4,2,3,2,4
+TOU0185,Serbia,Niš,4,3,5,1,4
+TOU0186,Kosovo,Peja,2,4,4,2,4
+TOU0187,Montenegro,Cetinje,4,4,4,1,4
+TOU0188,Croatia,Zagreb,3,2,4,3,3
+TOU0189,Kosovo,Prizren,3,3,4,2,5
+TOU0190,Slovenia,Koper,5,5,3,2,5
+TOU0191,Kosovo,Peja,4,2,4,1,5
+TOU0192,Albania,Tirana,4,3,3,2,4
+TOU0193,Montenegro,Cetinje,5,3,4,2,5
+TOU0194,Croatia,Split,2,2,3,3,5
+TOU0195,Bosnia and Herzegovina,Mostar,3,4,5,2,5
+TOU0196,Bosnia and Herzegovina,Mostar,4,4,5,3,5
+TOU0197,Croatia,Split,4,3,3,2,5
+TOU0198,North Macedonia,Ohrid,4,4,5,1,5
+TOU0199,Albania,Tirana,5,4,3,1,4
+TOU0200,Slovenia,Maribor,4,3,4,2,4
+TOU0201,Serbia,Novi Sad,4,3,4,2,5
+TOU0202,Bosnia and Herzegovina,Banja Luka,2,4,4,3,4
+TOU0203,Bosnia and Herzegovina,Banja Luka,4,4,3,2,5
+TOU0204,North Macedonia,Skopje,4,3,4,3,4
+TOU0205,Bosnia and Herzegovina,Sarajevo,4,3,5,1,5
+TOU0206,Albania,Durrës,2,4,4,4,4
+TOU0207,Kosovo,Pristina,4,2,2,3,4
+TOU0208,Serbia,Novi Sad,3,3,4,1,3
+TOU0209,North Macedonia,Ohrid,4,4,3,1,5
+TOU0210,Albania,Durrës,4,4,5,2,5
+TOU0211,Montenegro,Cetinje,3,3,2,4,4
+TOU0212,Slovenia,Koper,3,2,3,3,3
+TOU0213,Montenegro,Podgorica,4,3,3,3,5
+TOU0214,Slovenia,Ljubljana,4,3,3,3,5
+TOU0215,Serbia,Novi Sad,5,4,4,2,5
+TOU0216,North Macedonia,Skopje,4,4,5,2,5
+TOU0217,Serbia,Niš,5,3,5,1,5
+TOU0218,Croatia,Zagreb,3,2,4,2,5
+TOU0219,Serbia,Novi Sad,5,2,4,2,5
+TOU0220,Serbia,Belgrade,3,4,4,2,5
+TOU0221,Croatia,Rijeka,4,5,4,2,5
+TOU0222,Serbia,Novi Sad,4,3,3,1,5
+TOU0223,Montenegro,Nikšić,3,4,4,2,5
+TOU0224,Slovenia,Koper,4,3,4,2,5
+TOU0225,Bosnia and Herzegovina,Banja Luka,3,3,4,1,5
+TOU0226,Serbia,Belgrade,4,5,4,2,5
+TOU0227,North Macedonia,Bitola,3,3,2,2,4
+TOU0228,Albania,Tirana,3,4,3,2,5
+TOU0229,Albania,Durrës,4,5,4,1,4
+TOU0230,Kosovo,Pristina,4,4,4,1,5
+TOU0231,Serbia,Niš,3,4,5,2,5
+TOU0232,Slovenia,Ljubljana,4,3,3,1,4
+TOU0233,Bosnia and Herzegovina,Banja Luka,4,3,4,2,4
+TOU0234,Serbia,Belgrade,3,4,4,3,5
+TOU0235,Montenegro,Nikšić,3,4,3,2,4
+TOU0236,Serbia,Belgrade,5,4,4,2,4
+TOU0237,Kosovo,Peja,4,2,4,1,4
+TOU0238,Slovenia,Ljubljana,5,3,4,2,5
+TOU0239,Kosovo,Peja,4,2,4,3,5
+TOU0240,Kosovo,Peja,5,4,3,1,4
+TOU0241,Albania,Durrës,5,4,4,1,5
+TOU0242,Bosnia and Herzegovina,Sarajevo,4,3,4,2,5
+TOU0243,North Macedonia,Ohrid,4,3,5,3,4
+TOU0244,Bosnia and Herzegovina,Sarajevo,2,4,4,2,5
+TOU0245,Serbia,Niš,4,2,4,3,3
+TOU0246,Bosnia and Herzegovina,Banja Luka,3,3,4,2,5
+TOU0247,Kosovo,Pristina,3,4,4,2,5
+TOU0248,Slovenia,Koper,2,2,3,3,3
+TOU0249,Serbia,Belgrade,3,3,4,4,4
+TOU0250,North Macedonia,Ohrid,4,5,3,2,5
+TOU0251,Montenegro,Nikšić,5,2,4,1,5
+TOU0252,Montenegro,Podgorica,3,5,4,1,5
+TOU0253,Croatia,Split,5,4,4,1,5
+TOU0254,North Macedonia,Skopje,4,4,5,2,5
+TOU0255,Montenegro,Podgorica,4,4,5,2,4
+TOU0256,North Macedonia,Bitola,4,3,4,4,4
+TOU0257,Croatia,Zagreb,5,4,3,1,5
+TOU0258,Serbia,Novi Sad,3,4,3,3,5
+TOU0259,Croatia,Split,4,2,3,3,5
+TOU0260,Slovenia,Koper,3,3,4,3,3
+TOU0261,Albania,Shkodër,4,4,5,2,5
+TOU0262,North Macedonia,Bitola,3,2,4,3,5
+TOU0263,Albania,Durrës,3,2,4,2,4
+TOU0264,Serbia,Belgrade,4,4,3,4,4
+TOU0265,Serbia,Belgrade,3,4,4,3,5
+TOU0266,Croatia,Rijeka,3,4,4,3,5
+TOU0267,Montenegro,Cetinje,4,3,4,2,5
+TOU0268,Albania,Shkodër,3,2,3,2,4
+TOU0269,Serbia,Novi Sad,3,3,3,2,3
+TOU0270,Bosnia and Herzegovina,Sarajevo,4,3,4,2,4
+TOU0271,Albania,Shkodër,4,4,5,1,5
+TOU0272,Albania,Shkodër,4,3,2,2,4
+TOU0273,Albania,Tirana,4,3,4,2,4
+TOU0274,Kosovo,Peja,4,3,4,1,5
+TOU0275,Croatia,Rijeka,5,3,5,1,5
+TOU0276,North Macedonia,Ohrid,4,3,3,1,5
+TOU0277,Kosovo,Prizren,4,4,2,4,5
+TOU0278,Albania,Shkodër,3,2,3,4,4
+TOU0279,Kosovo,Prizren,4,4,4,3,5
+TOU0280,North Macedonia,Ohrid,3,4,3,2,4
+TOU0281,Kosovo,Peja,4,3,3,2,4
+TOU0282,Serbia,Belgrade,4,5,4,2,5
+TOU0283,Serbia,Belgrade,4,4,4,3,5
+TOU0284,Bosnia and Herzegovina,Sarajevo,3,5,4,2,5
+TOU0285,Serbia,Belgrade,4,2,4,2,5
+TOU0286,Slovenia,Koper,3,3,3,3,4
+TOU0287,Bosnia and Herzegovina,Mostar,5,3,3,2,4
+TOU0288,Slovenia,Maribor,3,4,4,2,5
+TOU0289,Kosovo,Prizren,3,3,3,2,4
+TOU0290,Bosnia and Herzegovina,Mostar,3,4,3,2,4
+TOU0291,Bosnia and Herzegovina,Mostar,3,4,4,3,4
+TOU0292,Albania,Tirana,4,4,4,2,5
+TOU0293,Kosovo,Pristina,3,3,4,3,4
+TOU0294,Bosnia and Herzegovina,Banja Luka,3,4,4,2,4
+TOU0295,Montenegro,Nikšić,5,4,4,2,5
+TOU0296,Croatia,Split,4,4,4,2,4
+TOU0297,Slovenia,Maribor,4,3,4,3,4
+TOU0298,Croatia,Split,5,3,3,3,4
+TOU0299,Kosovo,Peja,3,2,3,3,2
+TOU0300,North Macedonia,Ohrid,3,3,5,1,4
+TOU0301,Bosnia and Herzegovina,Mostar,3,4,5,2,4
+TOU0302,Croatia,Rijeka,3,2,3,4,4
+TOU0303,Croatia,Split,5,2,2,3,4
+TOU0304,Croatia,Zagreb,3,3,5,1,5
+TOU0305,Croatia,Split,3,2,1,2,3
+TOU0306,Serbia,Belgrade,5,4,3,2,5
+TOU0307,North Macedonia,Skopje,3,2,4,3,5
+TOU0308,Kosovo,Pristina,3,2,4,3,4
+TOU0309,North Macedonia,Ohrid,5,3,4,2,5
+TOU0310,Croatia,Split,3,3,4,1,3
+TOU0311,North Macedonia,Ohrid,5,3,3,2,4
+TOU0312,Bosnia and Herzegovina,Mostar,3,3,3,4,4
+TOU0313,Bosnia and Herzegovina,Mostar,3,2,5,2,5
+TOU0314,Montenegro,Podgorica,2,5,4,2,5
+TOU0315,Montenegro,Podgorica,3,4,3,2,4
+TOU0316,North Macedonia,Skopje,2,4,4,3,4
+TOU0317,Montenegro,Nikšić,3,3,4,2,4
+TOU0318,Croatia,Rijeka,2,3,3,2,2
+TOU0319,Serbia,Niš,4,4,4,2,5
+TOU0320,Slovenia,Ljubljana,4,4,4,1,5
+TOU0321,Croatia,Split,5,1,4,2,4
+TOU0322,Croatia,Rijeka,4,4,4,3,4
+TOU0323,Croatia,Zagreb,3,3,4,2,4
+TOU0324,Croatia,Zagreb,3,2,4,2,4
+TOU0325,North Macedonia,Ohrid,4,3,1,2,3
+TOU0326,Serbia,Novi Sad,3,4,3,3,4
+TOU0327,Serbia,Belgrade,5,3,3,1,5
+TOU0328,Slovenia,Maribor,2,1,4,3,4
+TOU0329,North Macedonia,Ohrid,5,4,4,1,4
+TOU0330,Croatia,Rijeka,3,3,3,3,3
+TOU0331,Serbia,Belgrade,4,5,2,3,3
+TOU0332,Kosovo,Prizren,5,3,4,2,4
+TOU0333,Bosnia and Herzegovina,Mostar,3,2,4,2,3
+TOU0334,Slovenia,Maribor,3,3,3,2,4
+TOU0335,Bosnia and Herzegovina,Mostar,3,3,4,2,5
+TOU0336,Kosovo,Peja,4,4,5,1,5
+TOU0337,Montenegro,Cetinje,3,2,5,3,4
+TOU0338,Slovenia,Maribor,4,2,3,1,4
+TOU0339,Bosnia and Herzegovina,Banja Luka,3,4,4,3,4
+TOU0340,Slovenia,Ljubljana,3,4,3,1,4
+TOU0341,North Macedonia,Skopje,3,3,4,2,4
+TOU0342,Kosovo,Prizren,3,5,4,3,4
+TOU0343,Bosnia and Herzegovina,Mostar,4,5,5,2,5
+TOU0344,Kosovo,Prizren,4,4,4,2,5
+TOU0345,Serbia,Novi Sad,3,3,5,3,4
+TOU0346,Slovenia,Ljubljana,3,3,5,3,5
+TOU0347,Kosovo,Pristina,4,2,3,3,5
+TOU0348,Slovenia,Ljubljana,3,3,4,2,4
+TOU0349,Serbia,Belgrade,3,4,5,3,4
+TOU0350,Serbia,Niš,3,2,3,2,4
+TOU0351,Montenegro,Nikšić,4,2,4,2,3
+TOU0352,North Macedonia,Ohrid,5,3,3,3,4
+TOU0353,Serbia,Niš,3,5,4,3,5
+TOU0354,Montenegro,Nikšić,4,5,4,2,4
+TOU0355,Serbia,Niš,2,4,5,4,4
+TOU0356,North Macedonia,Skopje,5,4,4,1,5
+TOU0357,Slovenia,Ljubljana,4,3,4,2,4
+TOU0358,Kosovo,Peja,4,4,4,2,5
+TOU0359,Slovenia,Koper,5,4,3,3,4
+TOU0360,Albania,Shkodër,3,4,3,1,5
+TOU0361,Bosnia and Herzegovina,Banja Luka,3,3,5,2,5
+TOU0362,Montenegro,Cetinje,4,4,5,1,5
+TOU0363,Albania,Durrës,3,4,4,3,5
+TOU0364,North Macedonia,Ohrid,2,4,5,3,4
+TOU0365,Croatia,Zagreb,3,2,5,3,5
+TOU0366,Albania,Tirana,3,4,5,3,5
+TOU0367,Slovenia,Maribor,4,4,5,1,5
+TOU0368,Albania,Tirana,4,4,5,3,5
+TOU0369,Bosnia and Herzegovina,Banja Luka,3,4,4,2,4
+TOU0370,Slovenia,Koper,3,3,4,2,4

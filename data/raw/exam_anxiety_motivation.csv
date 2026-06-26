@@ -1,0 +1,481 @@
+id,country,city,preparation_hours_week,test_anxiety,academic_self_efficacy,exam_score
+EXA0001,Slovenia,Koper,3.7,18,22,75
+EXA0002,Serbia,Belgrade,6.8,22,29,81
+EXA0003,Serbia,Belgrade,3.1,25,25,55
+EXA0004,Kosovo,Pristina,9.3,19,23,74
+EXA0005,Serbia,Niš,6.4,20,22,69
+EXA0006,Albania,Durrës,9.1,29,25,62
+EXA0007,Slovenia,Koper,3.8,35,18,64
+EXA0008,Croatia,Split,1.8,25,19,67
+EXA0009,Montenegro,Podgorica,3.3,20,26,73
+EXA0010,Bosnia and Herzegovina,Sarajevo,7.9,29,21,57
+EXA0011,Croatia,Split,6.7,17,22,83
+EXA0012,Croatia,Rijeka,4.6,16,25,67
+EXA0013,North Macedonia,Ohrid,1.8,34,18,62
+EXA0014,Albania,Durrës,7.6,22,28,75
+EXA0015,Kosovo,Peja,3.0,19,25,72
+EXA0016,Serbia,Belgrade,10.3,30,26,68
+EXA0017,Slovenia,Ljubljana,8.9,18,34,83
+EXA0018,Croatia,Rijeka,5.7,19,26,62
+EXA0019,North Macedonia,Skopje,1.5,23,29,60
+EXA0020,Croatia,Split,5.6,16,28,76
+EXA0021,Montenegro,Podgorica,4.4,18,27,67
+EXA0022,Croatia,Rijeka,11.3,30,28,70
+EXA0023,Bosnia and Herzegovina,Sarajevo,6.7,28,20,56
+EXA0024,Slovenia,Maribor,13.0,13,31,100
+EXA0025,Croatia,Rijeka,5.8,21,22,59
+EXA0026,Slovenia,Maribor,7.8,26,25,59
+EXA0027,North Macedonia,Bitola,6.4,24,26,73
+EXA0028,Serbia,Belgrade,9.5,23,33,80
+EXA0029,Kosovo,Prizren,2.7,23,30,70
+EXA0030,Montenegro,Podgorica,12.0,24,25,78
+EXA0031,Serbia,Novi Sad,1.4,21,28,75
+EXA0032,Albania,Durrës,10.7,21,35,78
+EXA0033,Serbia,Belgrade,4.5,33,27,62
+EXA0034,Serbia,Novi Sad,10.7,21,22,66
+EXA0035,Croatia,Rijeka,1.5,17,30,68
+EXA0036,Bosnia and Herzegovina,Mostar,10.6,23,33,84
+EXA0037,Bosnia and Herzegovina,Sarajevo,6.9,23,26,63
+EXA0038,Serbia,Niš,5.7,16,29,75
+EXA0039,Kosovo,Pristina,3.5,22,17,64
+EXA0040,Bosnia and Herzegovina,Banja Luka,5.3,33,19,67
+EXA0041,North Macedonia,Ohrid,4.3,14,25,67
+EXA0042,Albania,Shkodër,8.9,19,25,72
+EXA0043,North Macedonia,Skopje,3.8,24,22,69
+EXA0044,Croatia,Rijeka,4.0,21,25,68
+EXA0045,Albania,Shkodër,4.0,23,26,65
+EXA0046,Bosnia and Herzegovina,Sarajevo,7.2,17,23,76
+EXA0047,North Macedonia,Ohrid,5.9,32,27,65
+EXA0048,Slovenia,Koper,1.8,25,22,49
+EXA0049,Montenegro,Podgorica,5.3,29,25,67
+EXA0050,North Macedonia,Skopje,9.7,18,26,69
+EXA0051,Croatia,Zagreb,11.4,22,24,82
+EXA0052,Kosovo,Pristina,5.5,26,29,57
+EXA0053,North Macedonia,Ohrid,2.4,30,21,69
+EXA0054,Croatia,Zagreb,2.9,32,26,60
+EXA0055,Slovenia,Ljubljana,4.0,28,25,64
+EXA0056,Serbia,Belgrade,1.0,31,28,54
+EXA0057,Serbia,Niš,8.1,17,31,80
+EXA0058,Bosnia and Herzegovina,Mostar,10.8,27,24,62
+EXA0059,Serbia,Belgrade,4.9,17,36,78
+EXA0060,Croatia,Rijeka,3.3,18,26,66
+EXA0061,Croatia,Split,8.9,13,36,81
+EXA0062,Bosnia and Herzegovina,Banja Luka,7.9,18,23,80
+EXA0063,Bosnia and Herzegovina,Banja Luka,10.8,25,26,76
+EXA0064,Serbia,Belgrade,6.8,33,31,60
+EXA0065,Croatia,Rijeka,10.2,19,29,81
+EXA0066,Albania,Tirana,2.2,15,30,66
+EXA0067,Kosovo,Pristina,4.6,18,24,64
+EXA0068,Serbia,Niš,9.5,18,29,74
+EXA0069,Slovenia,Maribor,5.9,23,32,68
+EXA0070,Croatia,Rijeka,9.5,32,17,61
+EXA0071,North Macedonia,Ohrid,4.2,22,23,70
+EXA0072,Slovenia,Maribor,4.9,18,30,63
+EXA0073,Bosnia and Herzegovina,Banja Luka,9.3,32,35,81
+EXA0074,Kosovo,Pristina,2.3,30,27,59
+EXA0075,Kosovo,Peja,7.2,23,23,65
+EXA0076,Bosnia and Herzegovina,Mostar,3.7,31,30,64
+EXA0077,Serbia,Novi Sad,7.1,19,22,75
+EXA0078,Slovenia,Ljubljana,5.1,23,26,71
+EXA0079,Bosnia and Herzegovina,Banja Luka,8.1,21,22,62
+EXA0080,Croatia,Zagreb,7.7,26,21,64
+EXA0081,Bosnia and Herzegovina,Banja Luka,2.0,20,26,61
+EXA0082,Serbia,Belgrade,3.1,25,22,57
+EXA0083,Bosnia and Herzegovina,Sarajevo,10.1,30,22,67
+EXA0084,Bosnia and Herzegovina,Mostar,5.6,24,31,68
+EXA0085,Slovenia,Ljubljana,1.5,26,20,58
+EXA0086,North Macedonia,Skopje,9.7,24,37,75
+EXA0087,Montenegro,Podgorica,1.7,33,23,54
+EXA0088,Bosnia and Herzegovina,Sarajevo,5.8,36,22,58
+EXA0089,Croatia,Rijeka,5.5,24,20,58
+EXA0090,Serbia,Niš,0.5,29,25,43
+EXA0091,Bosnia and Herzegovina,Banja Luka,7.2,12,28,80
+EXA0092,Serbia,Belgrade,5.2,29,21,65
+EXA0093,Albania,Shkodër,3.5,23,27,41
+EXA0094,Bosnia and Herzegovina,Banja Luka,3.4,22,25,74
+EXA0095,Slovenia,Ljubljana,8.2,16,26,84
+EXA0096,North Macedonia,Bitola,4.5,24,22,67
+EXA0097,North Macedonia,Skopje,3.6,25,24,64
+EXA0098,Bosnia and Herzegovina,Mostar,10.0,28,30,91
+EXA0099,Serbia,Novi Sad,7.5,11,27,88
+EXA0100,Serbia,Novi Sad,6.5,24,23,62
+EXA0101,Kosovo,Pristina,12.5,20,35,75
+EXA0102,Albania,Tirana,2.9,34,24,68
+EXA0103,Croatia,Split,0.5,29,23,54
+EXA0104,Albania,Tirana,4.5,19,23,74
+EXA0105,North Macedonia,Ohrid,11.1,22,30,76
+EXA0106,Croatia,Rijeka,1.7,23,22,59
+EXA0107,Croatia,Split,11.2,18,31,83
+EXA0108,Montenegro,Nikšić,2.4,27,33,52
+EXA0109,Serbia,Belgrade,3.9,24,26,60
+EXA0110,Serbia,Niš,2.3,22,30,69
+EXA0111,Slovenia,Koper,5.8,27,21,56
+EXA0112,Croatia,Zagreb,6.1,24,13,43
+EXA0113,Serbia,Novi Sad,1.8,28,17,56
+EXA0114,Montenegro,Podgorica,8.1,26,33,79
+EXA0115,Bosnia and Herzegovina,Banja Luka,10.3,24,28,71
+EXA0116,Bosnia and Herzegovina,Sarajevo,5.1,27,27,56
+EXA0117,Kosovo,Prizren,8.0,15,35,73
+EXA0118,Albania,Tirana,7.6,28,30,71
+EXA0119,Bosnia and Herzegovina,Mostar,5.9,16,26,54
+EXA0120,Montenegro,Podgorica,7.9,15,23,64
+EXA0121,Serbia,Belgrade,8.4,25,28,76
+EXA0122,Serbia,Niš,8.3,24,33,75
+EXA0123,Albania,Tirana,6.2,26,28,68
+EXA0124,Slovenia,Koper,4.0,29,18,36
+EXA0125,Bosnia and Herzegovina,Sarajevo,4.0,20,26,67
+EXA0126,Croatia,Split,14.7,27,26,59
+EXA0127,Albania,Durrës,3.5,8,29,64
+EXA0128,Montenegro,Podgorica,8.8,35,32,65
+EXA0129,Serbia,Belgrade,4.1,26,28,73
+EXA0130,North Macedonia,Bitola,3.3,22,20,64
+EXA0131,Albania,Shkodër,5.9,37,20,60
+EXA0132,Kosovo,Prizren,5.2,25,26,82
+EXA0133,North Macedonia,Skopje,3.5,19,29,56
+EXA0134,Montenegro,Podgorica,6.0,27,21,61
+EXA0135,Slovenia,Maribor,2.8,15,21,54
+EXA0136,Slovenia,Maribor,2.9,24,23,77
+EXA0137,Slovenia,Koper,6.5,22,24,68
+EXA0138,North Macedonia,Skopje,5.2,16,29,79
+EXA0139,Bosnia and Herzegovina,Banja Luka,1.7,22,27,72
+EXA0140,Albania,Tirana,4.5,17,23,61
+EXA0141,Serbia,Novi Sad,7.3,26,29,63
+EXA0142,Slovenia,Ljubljana,4.4,21,34,91
+EXA0143,Montenegro,Nikšić,6.6,27,23,71
+EXA0144,Bosnia and Herzegovina,Sarajevo,3.9,28,22,60
+EXA0145,Montenegro,Podgorica,2.0,18,21,60
+EXA0146,Bosnia and Herzegovina,Banja Luka,9.1,19,28,88
+EXA0147,North Macedonia,Ohrid,2.4,21,26,67
+EXA0148,Slovenia,Ljubljana,2.1,11,26,62
+EXA0149,Serbia,Niš,7.6,30,16,64
+EXA0150,Serbia,Niš,10.5,25,25,79
+EXA0151,Serbia,Belgrade,7.2,15,29,77
+EXA0152,Croatia,Rijeka,15.1,23,31,83
+EXA0153,Slovenia,Ljubljana,11.6,29,22,70
+EXA0154,Croatia,Rijeka,1.5,27,25,76
+EXA0155,Serbia,Belgrade,3.5,28,19,60
+EXA0156,Serbia,Niš,11.7,29,27,72
+EXA0157,Croatia,Zagreb,4.5,30,23,58
+EXA0158,Croatia,Rijeka,4.7,24,25,68
+EXA0159,Slovenia,Ljubljana,10.7,20,21,94
+EXA0160,Montenegro,Cetinje,4.5,12,26,80
+EXA0161,Serbia,Niš,6.1,12,29,87
+EXA0162,North Macedonia,Bitola,7.2,28,32,77
+EXA0163,Serbia,Novi Sad,9.1,19,26,77
+EXA0164,Slovenia,Maribor,6.5,25,19,65
+EXA0165,Croatia,Rijeka,1.9,19,28,69
+EXA0166,Serbia,Niš,4.4,16,26,81
+EXA0167,Bosnia and Herzegovina,Sarajevo,4.0,27,26,69
+EXA0168,Croatia,Rijeka,3.9,19,26,75
+EXA0169,Serbia,Niš,8.3,17,32,69
+EXA0170,Kosovo,Pristina,2.4,20,24,61
+EXA0171,Croatia,Rijeka,10.0,20,20,72
+EXA0172,Serbia,Belgrade,8.9,31,18,61
+EXA0173,Serbia,Niš,11.3,26,20,70
+EXA0174,Croatia,Zagreb,6.2,25,26,54
+EXA0175,Kosovo,Peja,2.4,28,24,57
+EXA0176,Serbia,Belgrade,9.7,30,17,61
+EXA0177,Bosnia and Herzegovina,Mostar,4.3,27,23,59
+EXA0178,Montenegro,Nikšić,6.7,19,19,67
+EXA0179,Montenegro,Podgorica,5.5,17,30,72
+EXA0180,Slovenia,Maribor,3.5,21,28,61
+EXA0181,Slovenia,Ljubljana,5.0,14,17,66
+EXA0182,Albania,Tirana,5.4,21,31,72
+EXA0183,Kosovo,Pristina,7.1,17,20,52
+EXA0184,Albania,Tirana,3.3,13,24,71
+EXA0185,Kosovo,Pristina,5.2,25,28,70
+EXA0186,Serbia,Belgrade,1.8,23,25,47
+EXA0187,Albania,Shkodër,4.8,26,26,64
+EXA0188,Albania,Durrës,1.4,22,22,72
+EXA0189,Slovenia,Ljubljana,2.5,27,14,54
+EXA0190,Slovenia,Koper,3.7,16,21,63
+EXA0191,Serbia,Niš,3.0,32,22,69
+EXA0192,Albania,Tirana,4.4,20,24,59
+EXA0193,Serbia,Belgrade,6.7,26,37,57
+EXA0194,Kosovo,Pristina,4.2,26,31,64
+EXA0195,Croatia,Split,4.7,8,24,66
+EXA0196,Bosnia and Herzegovina,Mostar,4.4,21,25,73
+EXA0197,Albania,Durrës,1.7,30,24,49
+EXA0198,Montenegro,Nikšić,3.9,14,36,82
+EXA0199,Croatia,Zagreb,3.8,26,25,51
+EXA0200,Bosnia and Herzegovina,Mostar,10.7,21,32,88
+EXA0201,Bosnia and Herzegovina,Sarajevo,5.9,31,15,44
+EXA0202,Albania,Durrës,3.5,21,20,49
+EXA0203,Bosnia and Herzegovina,Banja Luka,3.8,17,31,92
+EXA0204,Croatia,Split,3.7,15,21,55
+EXA0205,Montenegro,Podgorica,4.1,16,29,82
+EXA0206,Croatia,Zagreb,5.3,16,23,62
+EXA0207,Bosnia and Herzegovina,Sarajevo,5.2,22,16,55
+EXA0208,Montenegro,Podgorica,10.5,21,27,85
+EXA0209,Kosovo,Prizren,10.0,20,35,67
+EXA0210,Serbia,Niš,5.0,12,24,70
+EXA0211,Montenegro,Podgorica,2.0,35,25,61
+EXA0212,Croatia,Zagreb,4.5,24,26,69
+EXA0213,Kosovo,Prizren,12.8,29,19,90
+EXA0214,Kosovo,Pristina,2.2,22,28,57
+EXA0215,Slovenia,Maribor,4.4,21,32,68
+EXA0216,Slovenia,Koper,8.5,18,31,66
+EXA0217,Slovenia,Ljubljana,6.1,13,18,70
+EXA0218,Montenegro,Podgorica,13.4,20,27,74
+EXA0219,Slovenia,Ljubljana,2.5,11,8,45
+EXA0220,Albania,Shkodër,4.1,19,19,67
+EXA0221,Albania,Tirana,10.5,25,26,67
+EXA0222,North Macedonia,Bitola,6.5,22,24,53
+EXA0223,Kosovo,Peja,9.2,23,27,82
+EXA0224,Bosnia and Herzegovina,Banja Luka,4.8,33,30,65
+EXA0225,Serbia,Novi Sad,8.4,30,22,72
+EXA0226,Serbia,Belgrade,5.3,19,23,84
+EXA0227,Serbia,Novi Sad,4.0,21,28,70
+EXA0228,Montenegro,Nikšić,6.0,13,27,77
+EXA0229,Croatia,Split,5.8,10,35,90
+EXA0230,Albania,Tirana,3.4,15,29,78
+EXA0231,Croatia,Zagreb,3.0,15,32,65
+EXA0232,Serbia,Novi Sad,4.4,33,30,66
+EXA0233,Montenegro,Podgorica,8.7,19,27,72
+EXA0234,Kosovo,Prizren,7.2,22,21,60
+EXA0235,North Macedonia,Skopje,8.1,17,32,74
+EXA0236,Croatia,Zagreb,5.2,30,28,62
+EXA0237,Slovenia,Maribor,4.0,10,26,66
+EXA0238,Montenegro,Cetinje,9.6,18,29,82
+EXA0239,Bosnia and Herzegovina,Banja Luka,5.9,20,27,69
+EXA0240,Kosovo,Peja,0.7,20,28,52
+EXA0241,Bosnia and Herzegovina,Banja Luka,9.1,13,24,70
+EXA0242,North Macedonia,Skopje,7.0,22,15,61
+EXA0243,Montenegro,Cetinje,3.3,21,31,76
+EXA0244,Montenegro,Podgorica,12.6,30,22,70
+EXA0245,Bosnia and Herzegovina,Banja Luka,5.5,26,26,84
+EXA0246,Kosovo,Peja,2.8,13,31,68
+EXA0247,Kosovo,Peja,2.7,22,17,60
+EXA0248,Serbia,Niš,8.0,17,32,63
+EXA0249,Montenegro,Nikšić,2.9,31,25,64
+EXA0250,Kosovo,Prizren,6.3,35,20,43
+EXA0251,Kosovo,Peja,5.4,17,21,58
+EXA0252,Croatia,Split,1.9,19,18,70
+EXA0253,Kosovo,Peja,5.5,32,26,43
+EXA0254,Slovenia,Maribor,4.8,10,22,73
+EXA0255,North Macedonia,Skopje,3.4,27,18,63
+EXA0256,North Macedonia,Bitola,6.5,36,23,69
+EXA0257,Slovenia,Koper,4.2,21,30,70
+EXA0258,Bosnia and Herzegovina,Sarajevo,2.1,31,19,46
+EXA0259,Montenegro,Podgorica,3.8,31,28,59
+EXA0260,Montenegro,Cetinje,4.1,24,22,56
+EXA0261,Croatia,Split,6.4,27,22,61
+EXA0262,Croatia,Split,3.1,32,16,43
+EXA0263,Kosovo,Prizren,7.0,16,29,74
+EXA0264,Kosovo,Pristina,7.0,22,23,70
+EXA0265,Serbia,Niš,5.2,18,39,82
+EXA0266,Slovenia,Maribor,5.6,26,36,73
+EXA0267,Serbia,Novi Sad,14.3,20,23,73
+EXA0268,Albania,Durrës,5.2,18,30,82
+EXA0269,Albania,Shkodër,10.3,19,25,74
+EXA0270,Serbia,Novi Sad,6.7,20,30,71
+EXA0271,Serbia,Niš,1.6,18,26,57
+EXA0272,Serbia,Novi Sad,2.9,28,32,69
+EXA0273,Montenegro,Podgorica,2.8,17,30,69
+EXA0274,Montenegro,Cetinje,3.0,33,28,48
+EXA0275,Croatia,Zagreb,15.5,30,27,65
+EXA0276,Croatia,Split,8.3,23,29,73
+EXA0277,Montenegro,Cetinje,2.8,28,27,58
+EXA0278,North Macedonia,Bitola,2.3,19,24,70
+EXA0279,Croatia,Zagreb,6.8,21,31,68
+EXA0280,North Macedonia,Bitola,2.9,21,28,73
+EXA0281,Croatia,Split,6.6,20,26,85
+EXA0282,Croatia,Split,5.0,28,25,67
+EXA0283,Croatia,Split,6.7,24,30,79
+EXA0284,Serbia,Belgrade,6.0,18,30,85
+EXA0285,Montenegro,Podgorica,3.3,19,23,52
+EXA0286,Montenegro,Nikšić,1.4,27,28,52
+EXA0287,Slovenia,Koper,3.4,24,23,66
+EXA0288,Albania,Tirana,3.7,28,29,59
+EXA0289,Serbia,Niš,6.3,15,29,76
+EXA0290,Croatia,Split,3.5,15,21,58
+EXA0291,North Macedonia,Skopje,4.6,18,27,63
+EXA0292,Serbia,Belgrade,5.1,22,10,47
+EXA0293,Montenegro,Nikšić,3.4,26,31,64
+EXA0294,Slovenia,Ljubljana,11.2,20,28,72
+EXA0295,Serbia,Niš,2.5,25,19,50
+EXA0296,Slovenia,Koper,20.3,28,38,96
+EXA0297,Slovenia,Koper,4.9,22,25,57
+EXA0298,Slovenia,Koper,2.3,24,23,75
+EXA0299,Serbia,Niš,10.1,9,31,100
+EXA0300,Serbia,Novi Sad,3.2,27,27,55
+EXA0301,Serbia,Belgrade,4.4,21,28,65
+EXA0302,Montenegro,Cetinje,4.0,24,21,61
+EXA0303,Montenegro,Podgorica,4.8,16,32,76
+EXA0304,Albania,Tirana,6.3,23,25,58
+EXA0305,Bosnia and Herzegovina,Mostar,2.9,32,20,68
+EXA0306,Montenegro,Podgorica,5.7,21,23,67
+EXA0307,Serbia,Belgrade,8.5,17,25,79
+EXA0308,Montenegro,Nikšić,12.7,18,17,75
+EXA0309,North Macedonia,Ohrid,4.0,40,33,68
+EXA0310,Montenegro,Cetinje,7.0,24,25,76
+EXA0311,Croatia,Zagreb,7.9,19,25,59
+EXA0312,Croatia,Rijeka,8.9,21,31,75
+EXA0313,North Macedonia,Bitola,6.0,30,17,50
+EXA0314,North Macedonia,Bitola,3.9,25,22,50
+EXA0315,Montenegro,Cetinje,1.4,12,37,74
+EXA0316,Serbia,Niš,11.2,30,22,74
+EXA0317,Croatia,Zagreb,8.8,24,22,65
+EXA0318,Bosnia and Herzegovina,Sarajevo,8.5,21,25,69
+EXA0319,Kosovo,Prizren,12.0,15,35,86
+EXA0320,Croatia,Split,2.4,20,35,69
+EXA0321,Croatia,Split,4.6,30,31,62
+EXA0322,Slovenia,Koper,1.6,13,33,64
+EXA0323,Serbia,Novi Sad,6.3,26,33,58
+EXA0324,Slovenia,Koper,1.7,25,18,48
+EXA0325,Montenegro,Podgorica,3.5,18,28,56
+EXA0326,Montenegro,Nikšić,3.5,23,28,63
+EXA0327,Montenegro,Cetinje,13.1,21,19,72
+EXA0328,Montenegro,Cetinje,6.8,24,28,64
+EXA0329,Albania,Shkodër,4.8,27,32,50
+EXA0330,Serbia,Niš,10.1,15,36,98
+EXA0331,Serbia,Belgrade,6.8,25,26,56
+EXA0332,Slovenia,Ljubljana,1.8,23,23,63
+EXA0333,North Macedonia,Ohrid,5.6,24,32,69
+EXA0334,Croatia,Split,5.5,23,17,66
+EXA0335,Croatia,Rijeka,8.4,17,27,71
+EXA0336,Albania,Durrës,1.5,18,19,55
+EXA0337,North Macedonia,Bitola,4.2,13,31,77
+EXA0338,Serbia,Belgrade,4.4,17,32,75
+EXA0339,Kosovo,Peja,4.0,19,31,79
+EXA0340,Croatia,Rijeka,6.7,22,23,75
+EXA0341,Montenegro,Podgorica,3.4,19,25,59
+EXA0342,Serbia,Novi Sad,7.3,24,22,63
+EXA0343,Slovenia,Ljubljana,5.5,21,25,79
+EXA0344,Croatia,Split,8.0,25,30,79
+EXA0345,Croatia,Split,4.1,12,26,74
+EXA0346,North Macedonia,Ohrid,9.1,23,20,72
+EXA0347,Bosnia and Herzegovina,Mostar,4.3,22,28,72
+EXA0348,Bosnia and Herzegovina,Sarajevo,5.4,34,21,50
+EXA0349,North Macedonia,Skopje,6.2,23,24,59
+EXA0350,Kosovo,Pristina,12.8,23,16,86
+EXA0351,Albania,Shkodër,15.6,30,28,81
+EXA0352,Bosnia and Herzegovina,Sarajevo,5.1,8,34,70
+EXA0353,Bosnia and Herzegovina,Mostar,5.3,37,25,44
+EXA0354,Serbia,Belgrade,3.3,24,24,65
+EXA0355,Slovenia,Maribor,2.1,23,32,69
+EXA0356,Serbia,Niš,7.6,23,26,67
+EXA0357,Serbia,Novi Sad,1.0,22,21,62
+EXA0358,Bosnia and Herzegovina,Mostar,7.5,27,24,52
+EXA0359,Slovenia,Ljubljana,5.5,21,31,72
+EXA0360,Slovenia,Koper,2.4,27,28,56
+EXA0361,Montenegro,Nikšić,1.9,20,22,57
+EXA0362,Serbia,Niš,2.5,27,22,56
+EXA0363,North Macedonia,Bitola,1.4,22,25,63
+EXA0364,Bosnia and Herzegovina,Banja Luka,1.0,13,29,68
+EXA0365,Slovenia,Koper,6.6,21,31,64
+EXA0366,North Macedonia,Bitola,6.3,20,24,80
+EXA0367,Kosovo,Prizren,5.1,19,30,71
+EXA0368,Serbia,Belgrade,2.1,24,33,61
+EXA0369,Albania,Tirana,12.7,22,28,89
+EXA0370,Albania,Durrës,2.6,24,22,56
+EXA0371,Montenegro,Podgorica,1.1,27,30,61
+EXA0372,Albania,Shkodër,1.7,24,31,60
+EXA0373,North Macedonia,Ohrid,7.0,27,19,72
+EXA0374,North Macedonia,Ohrid,8.1,23,36,85
+EXA0375,Serbia,Niš,4.3,29,30,64
+EXA0376,Slovenia,Maribor,6.5,15,32,82
+EXA0377,Bosnia and Herzegovina,Sarajevo,7.8,16,23,67
+EXA0378,Kosovo,Pristina,5.9,32,29,70
+EXA0379,Slovenia,Maribor,5.8,28,24,55
+EXA0380,Montenegro,Cetinje,4.4,33,23,44
+EXA0381,Slovenia,Koper,4.6,19,24,57
+EXA0382,Serbia,Belgrade,10.3,22,11,66
+EXA0383,Albania,Durrës,9.8,22,23,80
+EXA0384,North Macedonia,Ohrid,1.8,23,31,47
+EXA0385,Serbia,Novi Sad,5.8,23,26,70
+EXA0386,Kosovo,Peja,4.6,24,29,70
+EXA0387,Montenegro,Cetinje,8.4,16,30,75
+EXA0388,Croatia,Zagreb,12.8,16,24,84
+EXA0389,Montenegro,Cetinje,2.8,15,29,60
+EXA0390,Croatia,Split,5.3,28,27,78
+EXA0391,Bosnia and Herzegovina,Sarajevo,4.3,34,20,58
+EXA0392,Montenegro,Nikšić,14.6,20,20,78
+EXA0393,Montenegro,Nikšić,15.1,13,25,82
+EXA0394,Kosovo,Prizren,5.6,21,33,67
+EXA0395,Bosnia and Herzegovina,Sarajevo,9.5,26,27,72
+EXA0396,Montenegro,Podgorica,5.0,15,23,61
+EXA0397,Serbia,Belgrade,13.3,13,22,83
+EXA0398,Serbia,Niš,5.0,17,26,61
+EXA0399,North Macedonia,Ohrid,2.1,21,23,63
+EXA0400,Kosovo,Prizren,4.8,23,23,74
+EXA0401,North Macedonia,Skopje,16.2,28,27,84
+EXA0402,Montenegro,Nikšić,9.4,16,24,84
+EXA0403,Bosnia and Herzegovina,Sarajevo,1.6,19,24,58
+EXA0404,Bosnia and Herzegovina,Mostar,6.0,38,24,72
+EXA0405,North Macedonia,Bitola,9.5,24,23,83
+EXA0406,Croatia,Rijeka,4.2,24,23,52
+EXA0407,Bosnia and Herzegovina,Mostar,6.9,25,25,65
+EXA0408,Serbia,Belgrade,2.2,23,26,69
+EXA0409,Serbia,Belgrade,3.5,34,30,65
+EXA0410,Montenegro,Podgorica,12.4,13,31,93
+EXA0411,Slovenia,Koper,2.1,31,16,72
+EXA0412,Croatia,Zagreb,4.7,16,29,84
+EXA0413,Serbia,Belgrade,4.9,24,31,58
+EXA0414,Croatia,Zagreb,4.2,27,30,78
+EXA0415,Serbia,Niš,8.0,15,27,69
+EXA0416,Slovenia,Koper,7.6,19,28,73
+EXA0417,North Macedonia,Skopje,6.5,18,24,59
+EXA0418,Slovenia,Koper,8.9,21,28,71
+EXA0419,Croatia,Rijeka,16.9,10,24,100
+EXA0420,Albania,Shkodër,4.5,21,28,67
+EXA0421,Kosovo,Peja,13.7,17,25,82
+EXA0422,Slovenia,Maribor,2.4,16,28,60
+EXA0423,Bosnia and Herzegovina,Banja Luka,11.5,19,33,87
+EXA0424,Slovenia,Ljubljana,10.5,20,24,70
+EXA0425,Bosnia and Herzegovina,Banja Luka,3.7,22,25,65
+EXA0426,Croatia,Split,2.1,18,30,80
+EXA0427,Slovenia,Maribor,13.7,19,29,94
+EXA0428,Kosovo,Prizren,3.4,28,18,56
+EXA0429,Kosovo,Prizren,4.5,27,28,70
+EXA0430,Kosovo,Peja,3.0,30,19,55
+EXA0431,North Macedonia,Bitola,5.3,22,20,62
+EXA0432,Croatia,Rijeka,9.0,19,30,76
+EXA0433,Bosnia and Herzegovina,Mostar,10.1,25,31,74
+EXA0434,Bosnia and Herzegovina,Sarajevo,1.3,21,18,45
+EXA0435,Serbia,Novi Sad,5.2,25,17,54
+EXA0436,Slovenia,Maribor,8.3,15,36,73
+EXA0437,Montenegro,Cetinje,3.6,20,34,80
+EXA0438,Albania,Tirana,6.9,18,23,85
+EXA0439,Montenegro,Cetinje,8.1,23,13,48
+EXA0440,Slovenia,Koper,4.5,22,21,82
+EXA0441,Albania,Tirana,3.9,27,18,59
+EXA0442,Serbia,Novi Sad,0.8,29,21,52
+EXA0443,Kosovo,Pristina,4.0,26,23,58
+EXA0444,Slovenia,Koper,6.0,8,21,80
+EXA0445,Serbia,Niš,11.2,34,21,71
+EXA0446,Slovenia,Ljubljana,11.4,14,29,75
+EXA0447,Slovenia,Koper,5.8,13,25,69
+EXA0448,North Macedonia,Skopje,5.9,21,19,72
+EXA0449,Albania,Durrës,9.1,24,24,66
+EXA0450,Serbia,Novi Sad,6.2,23,28,71
+EXA0451,North Macedonia,Ohrid,6.3,25,21,57
+EXA0452,Serbia,Novi Sad,3.2,16,26,80
+EXA0453,Bosnia and Herzegovina,Banja Luka,0.9,24,18,53
+EXA0454,Slovenia,Koper,4.0,21,27,70
+EXA0455,Slovenia,Koper,4.4,23,35,77
+EXA0456,Croatia,Zagreb,3.7,29,28,56
+EXA0457,Albania,Durrës,7.6,11,25,73
+EXA0458,Slovenia,Ljubljana,2.5,29,21,67
+EXA0459,Albania,Tirana,11.3,11,28,93
+EXA0460,Montenegro,Nikšić,7.8,20,30,60
+EXA0461,Kosovo,Pristina,1.6,19,30,82
+EXA0462,Croatia,Rijeka,18.8,17,33,96
+EXA0463,Slovenia,Maribor,15.8,22,26,74
+EXA0464,Albania,Shkodër,8.2,29,24,77
+EXA0465,Croatia,Rijeka,10.5,31,36,82
+EXA0466,Serbia,Niš,8.2,31,24,81
+EXA0467,Bosnia and Herzegovina,Sarajevo,10.8,24,23,76
+EXA0468,Kosovo,Pristina,2.0,32,16,50
+EXA0469,Montenegro,Nikšić,5.9,31,22,73
+EXA0470,Albania,Tirana,6.7,32,20,56
+EXA0471,Slovenia,Koper,7.3,21,34,65
+EXA0472,Albania,Shkodër,7.1,15,26,79
+EXA0473,Montenegro,Cetinje,6.8,17,26,72
+EXA0474,Slovenia,Maribor,4.8,17,33,69
+EXA0475,Serbia,Belgrade,7.9,24,26,75
+EXA0476,Croatia,Split,4.5,35,24,49
+EXA0477,Albania,Tirana,3.2,25,26,61
+EXA0478,Serbia,Belgrade,9.9,33,40,79
+EXA0479,Bosnia and Herzegovina,Banja Luka,6.4,30,21,60
+EXA0480,Bosnia and Herzegovina,Banja Luka,5.6,20,27,72
