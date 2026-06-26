@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use these materials, please cite them using the information below."
-title: "R for Applied Psychology Students: Open Materials for Data Analysis in Psychological Research"
+title: "R for Applied Psychology: Open Educational Resources for Data Analysis and Research"
 type: dataset
 
 authors:
@@ -9,17 +9,17 @@ authors:
 
 year: 2026
 date-released: "2026-06-26"
-version: "1.0.2"
+version: "2.0.1"
 
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.20925887"
+    value: "10.5281/zenodo.20927574"
 
 license: "CC-BY-4.0"
-repository-code: "https://github.com/HaakileR/r-applied-psychology-students"
-url: 
+repository-code: "https://github.com/HaakileR/r-for-applied-psychology"
+url: "https://doi.org/10.5281/zenodo.20927574"
 
-abstract: "Open educational and research training materials for students of applied psychology, focused on data analysis in psychological research using R."
+abstract: "Open educational and research training materials for applied psychology, focused on data analysis, research methodology, and reproducible research using R."
 keywords:
   - R
   - applied psychology
@@ -30,3 +30,4 @@ keywords:
   - statistics
   - social sciences
   - Balkans
+  - Quarto
