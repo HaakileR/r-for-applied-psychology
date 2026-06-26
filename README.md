@@ -2,11 +2,11 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20927574.svg)](https://doi.org/10.5281/zenodo.20927574)
 
-**Author:** Hakile Resulbegoviq
-**Repository:** `r-for-applied-psychology`
-**Current archive DOI:** https://doi.org/10.5281/zenodo.20927574
-**Current version:** 2.0.1
-**License:** CC BY 4.0
+**Author:** Hakile Resulbegoviq  
+**Repository:** `r-for-applied-psychology`  
+**Current archive DOI:** https://doi.org/10.5281/zenodo.20927574  
+**Current version:** 2.0.1  
+**License:** CC BY 4.0  
 **Status:** Open educational resource for applied psychology, data analysis, research methodology, and reproducible research.
 
 ---
