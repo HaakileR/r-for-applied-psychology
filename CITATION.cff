@@ -6,6 +6,7 @@ type: dataset
 authors:
   - family-names: "Resulbegoviq"
     given-names: "Hakile"
+    orcid: "https://orcid.org/TVOJ-ORCID-BROJ"
 
 year: 2026
 date-released: "2026-06-26"
@@ -20,6 +21,7 @@ repository-code: "https://github.com/HaakileR/r-for-applied-psychology"
 url: "https://doi.org/10.5281/zenodo.20927574"
 
 abstract: "Open educational and research training materials for applied psychology, focused on data analysis, research methodology, and reproducible research using R."
+
 keywords:
   - R
   - applied psychology
