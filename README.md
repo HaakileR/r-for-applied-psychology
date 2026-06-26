@@ -3,7 +3,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20925887.svg)](https://doi.org/10.5281/zenodo.20925887)
 
 **Author:** Hakile Resulbegoviq  
-**Repository:** `r-applied-psychology-students`  
+**Repository:** `r-for-applied-psychology`
 **Current archive DOI:** https://doi.org/10.5281/zenodo.20925887  
 **Development version:** 2.0.0-dev  
 **License:** CC BY 4.0  
